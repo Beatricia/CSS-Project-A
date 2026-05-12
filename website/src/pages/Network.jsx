@@ -82,24 +82,6 @@ function Network() {
               className="map-iframe"
             />
           </div>
-
-          <div className="map-legend">
-            <h4>Map Legend</h4>
-            <div className="legend-items">
-              <div className="legend-item">
-                <span className="legend-dot origin"></span>
-                <span>Origin Country</span>
-              </div>
-              <div className="legend-item">
-                <span className="legend-dot destination"></span>
-                <span>Current Residence</span>
-              </div>
-              <div className="legend-item">
-                <span className="legend-line"></span>
-                <span>Migration Path</span>
-              </div>
-            </div>
-          </div>
         </div>
       </section>
 
