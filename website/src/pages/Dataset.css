@@ -130,48 +130,46 @@
   color: #888;
 }
 
-/* Country Breakdown */
-.country-breakdown {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.country-bar {
+/* Country Chips */
+.country-chips {
   display: flex;
-  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
   margin-bottom: 1.5rem;
-  gap: 1rem;
 }
 
-.country-name {
-  width: 100px;
+.country-chip {
+  padding: 0.75rem 1.25rem;
+  border-radius: 50px;
   font-weight: 600;
-  color: #1a1a2e;
-}
-
-.bar-container {
-  flex: 1;
+  color: white;
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 0.5rem;
+  font-size: 1rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
-.bar {
-  height: 30px;
-  border-radius: 4px;
-  min-width: 20px;
-}
-
-.ukraine-bar { background: linear-gradient(90deg, #0057b7, #ffd700); }
-.russia-bar { background: linear-gradient(90deg, #1c3faa, #c4463a); }
-.israel-bar { background: #0038b8; }
-.syria-bar { background: linear-gradient(90deg, #ce1126, #007a3d); }
-.palestine-bar { background: linear-gradient(90deg, #007a3d, #ce1126); }
-
-.bar-value {
+.country-chip span {
+  background: rgba(255, 255, 255, 0.25);
+  padding: 0.2rem 0.6rem;
+  border-radius: 20px;
   font-size: 0.9rem;
+}
+
+.country-chip.ukraine { background: linear-gradient(135deg, #0057b7, #005bbb); }
+.country-chip.russia { background: linear-gradient(135deg, #1c3faa, #c4463a); }
+.country-chip.israel { background: #0038b8; }
+.country-chip.syria { background: linear-gradient(135deg, #ce1126, #007a3d); }
+.country-chip.palestine { background: linear-gradient(135deg, #007a3d, #ce1126); }
+
+.country-note {
+  text-align: center;
   color: #666;
-  white-space: nowrap;
+  font-size: 0.95rem;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 /* Pipeline */

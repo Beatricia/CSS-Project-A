@@ -70,7 +70,7 @@ function Dataset() {
           <h2>Dataset Statistics</h2>
           <div className="stats-grid">
             <div className="stat-card">
-              <span className="stat-number">1,583</span>
+              <span className="stat-number">2,033</span>
               <span className="stat-label">Artists</span>
               <span className="stat-detail">From 5 conflict regions</span>
             </div>
@@ -96,43 +96,17 @@ function Dataset() {
       <section className="section">
         <div className="container">
           <h2>Artists by Country</h2>
-          <div className="country-breakdown">
-            <div className="country-bar">
-              <span className="country-name">Ukraine</span>
-              <div className="bar-container">
-                <div className="bar ukraine-bar" style={{width: '31%'}}></div>
-                <span className="bar-value">494 artists</span>
-              </div>
-            </div>
-            <div className="country-bar">
-              <span className="country-name">Russia</span>
-              <div className="bar-container">
-                <div className="bar russia-bar" style={{width: '31%'}}></div>
-                <span className="bar-value">490 artists</span>
-              </div>
-            </div>
-            <div className="country-bar">
-              <span className="country-name">Israel</span>
-              <div className="bar-container">
-                <div className="bar israel-bar" style={{width: '31%'}}></div>
-                <span className="bar-value">490 artists</span>
-              </div>
-            </div>
-            <div className="country-bar">
-              <span className="country-name">Syria</span>
-              <div className="bar-container">
-                <div className="bar syria-bar" style={{width: '5%'}}></div>
-                <span className="bar-value">86 artists</span>
-              </div>
-            </div>
-            <div className="country-bar">
-              <span className="country-name">Palestine</span>
-              <div className="bar-container">
-                <div className="bar palestine-bar" style={{width: '1.5%'}}></div>
-                <span className="bar-value">23 artists</span>
-              </div>
-            </div>
+          <div className="country-chips">
+            <div className="country-chip ukraine">🇺🇦 Ukraine <span>500</span></div>
+            <div className="country-chip russia">🇷🇺 Russia <span>500</span></div>
+            <div className="country-chip israel">🇮🇱 Israel <span>500</span></div>
+            <div className="country-chip syria">🇸🇾 Syria <span>500</span></div>
+            <div className="country-chip palestine">🇵🇸 Palestine <span>33</span></div>
           </div>
+          <p className="country-note">
+            We collected the <strong>top 500 most notable artists</strong> (by Wikipedia presence) 
+            from each major conflict region. Palestine has fewer due to limited Wikidata coverage.
+          </p>
         </div>
       </section>
 

@@ -170,42 +170,6 @@ function Downloads() {
           </div>
         </div>
       </section>
-
-      <section className="section alt-bg">
-        <div className="container">
-          <h2>Data Usage & Citation</h2>
-          <div className="usage-info">
-            <div className="usage-card">
-              <h3>📝 License</h3>
-              <p>
-                This project and its data are available for academic and research purposes. 
-                Please cite appropriately if you use our data in your work.
-              </p>
-            </div>
-            <div className="usage-card">
-              <h3>📚 Citation</h3>
-              <div className="citation-box">
-                <code>
-                  @misc{'{'}conflict_music_2024,{'\n'}
-                  {'  '}title = {'{'}Conflict & Music Culture Analysis{'}'},\n
-                  {'  '}author = {'{'}Your Name{'}'},\n
-                  {'  '}year = {'{'}2024{'}'},\n
-                  {'  '}url = {'{'}https://github.com/Beatricia/CSS-Project-A{'}'}\n
-                  {'}'}
-                </code>
-              </div>
-            </div>
-            <div className="usage-card">
-              <h3>🔗 Data Sources</h3>
-              <ul>
-                <li><a href="https://www.wikidata.org/" target="_blank" rel="noopener noreferrer">Wikidata</a></li>
-                <li><a href="https://wikimedia.org/api/rest_v1/" target="_blank" rel="noopener noreferrer">Wikipedia Pageviews API</a></li>
-                <li><a href="https://genius.com/developers" target="_blank" rel="noopener noreferrer">Genius API</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </section>
     </div>
   );
 }

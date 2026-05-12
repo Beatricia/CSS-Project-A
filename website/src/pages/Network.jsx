@@ -1,6 +1,30 @@
+import { useState } from 'react';
 import './Network.css';
 
 function Network() {
+  const [selectedCountry, setSelectedCountry] = useState('world');
+  const [mapType, setMapType] = useState('migration');
+
+  const countries = [
+    { id: 'world', name: 'Global View', flag: '🌍' },
+    { id: 'ukraine', name: 'Ukraine', flag: '🇺🇦' },
+    { id: 'russia', name: 'Russia', flag: '🇷🇺' },
+    { id: 'israel', name: 'Israel', flag: '🇮🇱' },
+    { id: 'syria', name: 'Syria', flag: '🇸🇾' },
+    { id: 'palestine', name: 'Palestine', flag: '🇵🇸' },
+  ];
+
+  const getMapSrc = () => {
+    if (selectedCountry === 'world') {
+      if (mapType === 'migration') return 'maps/migration_comparison.html';
+      if (mapType === 'birth') return 'maps/world_map_birth_place.html';
+      return 'maps/world_map_current_residence.html';
+    }
+    if (mapType === 'migration') return `maps/${selectedCountry}_migration.html`;
+    if (mapType === 'birth') return `maps/${selectedCountry}_birth_place.html`;
+    return `maps/${selectedCountry}_current_residence.html`;
+  };
+
   return (
     <div className="network-page">
       <section className="page-header">
@@ -16,16 +40,47 @@ function Network() {
             The connections reveal patterns of cultural exchange and displacement.
           </p>
           
-          <div className="visualization-placeholder">
-            <div className="placeholder-content">
-              <span className="placeholder-icon">🗺️</span>
-              <h3>Interactive World Map</h3>
-              <p>
-                Artist migration visualization will be embedded here.
-                <br />
-                <em>(Replace with your artists_world_map.html or an embedded visualization)</em>
-              </p>
+          <div className="map-controls">
+            <div className="country-selector">
+              {countries.map(country => (
+                <button
+                  key={country.id}
+                  className={`country-btn ${selectedCountry === country.id ? 'active' : ''}`}
+                  onClick={() => setSelectedCountry(country.id)}
+                >
+                  {country.flag} {country.name}
+                </button>
+              ))}
             </div>
+            
+            <div className="map-type-selector">
+              <button 
+                className={`type-btn ${mapType === 'migration' ? 'active' : ''}`}
+                onClick={() => setMapType('migration')}
+              >
+                Migration Flow
+              </button>
+              <button 
+                className={`type-btn ${mapType === 'birth' ? 'active' : ''}`}
+                onClick={() => setMapType('birth')}
+              >
+                Birth Place
+              </button>
+              <button 
+                className={`type-btn ${mapType === 'residence' ? 'active' : ''}`}
+                onClick={() => setMapType('residence')}
+              >
+                Current Residence
+              </button>
+            </div>
+          </div>
+
+          <div className="map-container">
+            <iframe 
+              src={getMapSrc()}
+              title="Artist Migration Map"
+              className="map-iframe"
+            />
           </div>
 
           <div className="map-legend">

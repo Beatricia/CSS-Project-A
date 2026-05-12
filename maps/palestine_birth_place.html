@@ -17,7 +17,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_3909493f9bf2cd76cffc429c41def45f {
+                #map_e29e8567af0ee3b01c417ad19f51aa61 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -53,21 +53,16 @@
 </head>
 <body>
     
+    <div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%); z-index: 1000; background: white; padding: 8px 20px; border: 2px solid #333; border-radius: 5px; font-size: 14px;"><b>Palestine - Birth Place</b> (20 artists)</div>
     
-    <div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%); z-index: 1000;
-                background: white; padding: 8px 20px; border: 2px solid #333; border-radius: 5px; font-size: 14px;">
-        <b>Palestine - BIRTH PLACE</b> (19 artists)
-    </div>
-    
-    
-            <div class="folium-map" id="map_3909493f9bf2cd76cffc429c41def45f" ></div>
+            <div class="folium-map" id="map_e29e8567af0ee3b01c417ad19f51aa61" ></div>
         
 </body>
 <script>
     
     
-            var map_3909493f9bf2cd76cffc429c41def45f = L.map(
-                "map_3909493f9bf2cd76cffc429c41def45f",
+            var map_e29e8567af0ee3b01c417ad19f51aa61 = L.map(
+                "map_e29e8567af0ee3b01c417ad19f51aa61",
                 {
                     center: [31.9, 35.2],
                     crs: L.CRS.EPSG3857,
@@ -84,7 +79,7 @@
 
         
     
-            var tile_layer_29d57521282b9ee4b6a2753077128366 = L.tileLayer(
+            var tile_layer_3e8d223d533ca3ef71067349bcdbf362 = L.tileLayer(
                 "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
                 {
   "minZoom": 0,
@@ -101,33 +96,33 @@
             );
         
     
-            tile_layer_29d57521282b9ee4b6a2753077128366.addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            tile_layer_3e8d223d533ca3ef71067349bcdbf362.addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-            var circle_marker_fe3963a4ba15f2b7b85a943c584bc8c7 = L.circleMarker(
+            var circle_marker_bb3eb5565568243e128ff1da4704df4f = L.circleMarker(
                 [-5.3497093, 71.8606423],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_dd64bcca9ad356b09711da5eb4edee2a = L.popup({
+        var popup_7068ea998b93471cfad8af33be9f7b96 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_3688ef117c17879bc762dac134e844cc = $(`<div id="html_3688ef117c17879bc762dac134e844cc" style="width: 100.0%; height: 100.0%;">         <b>Mahmoud Darwish</b><br>         Origin: Palestine<br>         Birth Place: Al-Birwa<br>         <a href="https://en.wikipedia.org/wiki/Mahmoud_Darwish" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_dd64bcca9ad356b09711da5eb4edee2a.setContent(html_3688ef117c17879bc762dac134e844cc);
+                var html_07d8f130683807778c048922a4250bee = $(`<div id="html_07d8f130683807778c048922a4250bee" style="width: 100.0%; height: 100.0%;"><b>Mahmoud Darwish</b><br>Origin: Palestine<br>Birth Place: Al-Birwa<br><a href="https://en.wikipedia.org/wiki/Mahmoud_Darwish" target="_blank">Wikipedia</a></div>`)[0];
+                popup_7068ea998b93471cfad8af33be9f7b96.setContent(html_07d8f130683807778c048922a4250bee);
             
         
 
-        circle_marker_fe3963a4ba15f2b7b85a943c584bc8c7.bindPopup(popup_dd64bcca9ad356b09711da5eb4edee2a)
+        circle_marker_bb3eb5565568243e128ff1da4704df4f.bindPopup(popup_7068ea998b93471cfad8af33be9f7b96)
         ;
 
         
     
     
-            circle_marker_fe3963a4ba15f2b7b85a943c584bc8c7.bindTooltip(
+            circle_marker_bb3eb5565568243e128ff1da4704df4f.bindTooltip(
                 `<div>
                      Mahmoud Darwish (Al-Birwa)
                  </div>`,
@@ -137,30 +132,30 @@
             );
         
     
-            var circle_marker_5801dadcce8cb0c3ffba647539a99c9d = L.circleMarker(
+            var circle_marker_c8fd3778bc11bed55b03d2f4e6ff9c3c = L.circleMarker(
                 [-34.6095579, -58.3887904],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_b633aed380e880645d7f3fef41f82317 = L.popup({
+        var popup_b0ddf9d5b9c1ea4a65d11dedca9676ea = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_07b67d19f5a46d92880a4275d009b026 = $(`<div id="html_07b67d19f5a46d92880a4275d009b026" style="width: 100.0%; height: 100.0%;">         <b>Daniel Barenboim</b><br>         Origin: Palestine<br>         Birth Place: Buenos Aires<br>         <a href="https://en.wikipedia.org/wiki/Daniel_Barenboim" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_b633aed380e880645d7f3fef41f82317.setContent(html_07b67d19f5a46d92880a4275d009b026);
+                var html_a7af50ca7504829ebb38929c22ebd448 = $(`<div id="html_a7af50ca7504829ebb38929c22ebd448" style="width: 100.0%; height: 100.0%;"><b>Daniel Barenboim</b><br>Origin: Palestine<br>Birth Place: Buenos Aires<br><a href="https://en.wikipedia.org/wiki/Daniel_Barenboim" target="_blank">Wikipedia</a></div>`)[0];
+                popup_b0ddf9d5b9c1ea4a65d11dedca9676ea.setContent(html_a7af50ca7504829ebb38929c22ebd448);
             
         
 
-        circle_marker_5801dadcce8cb0c3ffba647539a99c9d.bindPopup(popup_b633aed380e880645d7f3fef41f82317)
+        circle_marker_c8fd3778bc11bed55b03d2f4e6ff9c3c.bindPopup(popup_b0ddf9d5b9c1ea4a65d11dedca9676ea)
         ;
 
         
     
     
-            circle_marker_5801dadcce8cb0c3ffba647539a99c9d.bindTooltip(
+            circle_marker_c8fd3778bc11bed55b03d2f4e6ff9c3c.bindTooltip(
                 `<div>
                      Daniel Barenboim (Buenos Aires)
                  </div>`,
@@ -170,30 +165,30 @@
             );
         
     
-            var circle_marker_2d5522b3d13933d5c12dac1a4f4dff6b = L.circleMarker(
+            var circle_marker_3dc213f26d861eade3f8264f977ca7c5 = L.circleMarker(
                 [31.8512254, 35.235854],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_19928f38caba3f94afd183a2a548f344 = L.popup({
+        var popup_f7b51a5fd06f13b371dfc5cf985672eb = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_7c6752804639765d132d0d04fb76fcf3 = $(`<div id="html_7c6752804639765d132d0d04fb76fcf3" style="width: 100.0%; height: 100.0%;">         <b>Bashar Murad</b><br>         Origin: Palestine<br>         Birth Place: Al-Ram<br>         <a href="https://en.wikipedia.org/wiki/Bashar_Murad" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_19928f38caba3f94afd183a2a548f344.setContent(html_7c6752804639765d132d0d04fb76fcf3);
+                var html_7a20a70a4dc93c5836a670ad03b8efb9 = $(`<div id="html_7a20a70a4dc93c5836a670ad03b8efb9" style="width: 100.0%; height: 100.0%;"><b>Bashar Murad</b><br>Origin: Palestine<br>Birth Place: Al-Ram<br><a href="https://en.wikipedia.org/wiki/Bashar_Murad" target="_blank">Wikipedia</a></div>`)[0];
+                popup_f7b51a5fd06f13b371dfc5cf985672eb.setContent(html_7a20a70a4dc93c5836a670ad03b8efb9);
             
         
 
-        circle_marker_2d5522b3d13933d5c12dac1a4f4dff6b.bindPopup(popup_19928f38caba3f94afd183a2a548f344)
+        circle_marker_3dc213f26d861eade3f8264f977ca7c5.bindPopup(popup_f7b51a5fd06f13b371dfc5cf985672eb)
         ;
 
         
     
     
-            circle_marker_2d5522b3d13933d5c12dac1a4f4dff6b.bindTooltip(
+            circle_marker_3dc213f26d861eade3f8264f977ca7c5.bindTooltip(
                 `<div>
                      Bashar Murad (Al-Ram)
                  </div>`,
@@ -203,30 +198,30 @@
             );
         
     
-            var circle_marker_a61f4914aba00836e8a81b385146bc2b = L.circleMarker(
+            var circle_marker_ea1f24c2136f225ae6cab715dbde1a0b = L.circleMarker(
                 [32.3745923, 15.0905803],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_71e98f52153db1c16166986f3e7f0cd4 = L.popup({
+        var popup_6fc6046dc2770108ffc9de797cb3c767 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_d10f5e7a7a96aa67f907c010d8cb4bc1 = $(`<div id="html_d10f5e7a7a96aa67f907c010d8cb4bc1" style="width: 100.0%; height: 100.0%;">         <b>Mohammed Assaf</b><br>         Origin: Palestine<br>         Birth Place: Misrata<br>         <a href="https://en.wikipedia.org/wiki/Mohammed_Assaf" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_71e98f52153db1c16166986f3e7f0cd4.setContent(html_d10f5e7a7a96aa67f907c010d8cb4bc1);
+                var html_27c2490b1f7599797b06f781ff6bee54 = $(`<div id="html_27c2490b1f7599797b06f781ff6bee54" style="width: 100.0%; height: 100.0%;"><b>Mohammed Assaf</b><br>Origin: Palestine<br>Birth Place: Misrata<br><a href="https://en.wikipedia.org/wiki/Mohammed_Assaf" target="_blank">Wikipedia</a></div>`)[0];
+                popup_6fc6046dc2770108ffc9de797cb3c767.setContent(html_27c2490b1f7599797b06f781ff6bee54);
             
         
 
-        circle_marker_a61f4914aba00836e8a81b385146bc2b.bindPopup(popup_71e98f52153db1c16166986f3e7f0cd4)
+        circle_marker_ea1f24c2136f225ae6cab715dbde1a0b.bindPopup(popup_6fc6046dc2770108ffc9de797cb3c767)
         ;
 
         
     
     
-            circle_marker_a61f4914aba00836e8a81b385146bc2b.bindTooltip(
+            circle_marker_ea1f24c2136f225ae6cab715dbde1a0b.bindTooltip(
                 `<div>
                      Mohammed Assaf (Misrata)
                  </div>`,
@@ -236,30 +231,30 @@
             );
         
     
-            var circle_marker_194270aae4d1aa387a40fa0964651ab4 = L.circleMarker(
+            var circle_marker_6d3aa06786ca5abf961123843364beee = L.circleMarker(
                 [51.5074456, -0.1277653],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_1b1dd73741bb6c08e4b2d6cc6f8072c9 = L.popup({
+        var popup_14fef65bb0d79c861ce61049e52ba23a = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_a27ee5388537491964818889d1b69e1a = $(`<div id="html_a27ee5388537491964818889d1b69e1a" style="width: 100.0%; height: 100.0%;">         <b>Shadia Mansour</b><br>         Origin: Palestine<br>         Birth Place: London<br>         <a href="https://en.wikipedia.org/wiki/Shadia_Mansour" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_1b1dd73741bb6c08e4b2d6cc6f8072c9.setContent(html_a27ee5388537491964818889d1b69e1a);
+                var html_692f7c7c6fd578d8b8aa5a2d20e9beed = $(`<div id="html_692f7c7c6fd578d8b8aa5a2d20e9beed" style="width: 100.0%; height: 100.0%;"><b>Shadia Mansour</b><br>Origin: Palestine<br>Birth Place: London<br><a href="https://en.wikipedia.org/wiki/Shadia_Mansour" target="_blank">Wikipedia</a></div>`)[0];
+                popup_14fef65bb0d79c861ce61049e52ba23a.setContent(html_692f7c7c6fd578d8b8aa5a2d20e9beed);
             
         
 
-        circle_marker_194270aae4d1aa387a40fa0964651ab4.bindPopup(popup_1b1dd73741bb6c08e4b2d6cc6f8072c9)
+        circle_marker_6d3aa06786ca5abf961123843364beee.bindPopup(popup_14fef65bb0d79c861ce61049e52ba23a)
         ;
 
         
     
     
-            circle_marker_194270aae4d1aa387a40fa0964651ab4.bindTooltip(
+            circle_marker_6d3aa06786ca5abf961123843364beee.bindTooltip(
                 `<div>
                      Shadia Mansour (London)
                  </div>`,
@@ -269,30 +264,30 @@
             );
         
     
-            var circle_marker_d8e58bb9dad8ef9521d631f75fccf311 = L.circleMarker(
+            var circle_marker_cd5b9b2326801a5d16693ae81a132dff = L.circleMarker(
                 [33.8750629, 35.843409],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_23752cc60fb8fe27191d9daa4d68eacf = L.popup({
+        var popup_b753a6b1f199af9817d12571539a438b = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_9f04103a366bcc51d6c2ffa597cc0573 = $(`<div id="html_9f04103a366bcc51d6c2ffa597cc0573" style="width: 100.0%; height: 100.0%;">         <b>Joseph Bishara</b><br>         Origin: Palestine<br>         Birth Place: Lebanon<br>         <a href="https://en.wikipedia.org/wiki/Joseph_Bishara" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_23752cc60fb8fe27191d9daa4d68eacf.setContent(html_9f04103a366bcc51d6c2ffa597cc0573);
+                var html_9cb1ffa6de61f1523eba3b6f0453272c = $(`<div id="html_9cb1ffa6de61f1523eba3b6f0453272c" style="width: 100.0%; height: 100.0%;"><b>Joseph Bishara</b><br>Origin: Palestine<br>Birth Place: Lebanon<br><a href="https://en.wikipedia.org/wiki/Joseph_Bishara" target="_blank">Wikipedia</a></div>`)[0];
+                popup_b753a6b1f199af9817d12571539a438b.setContent(html_9cb1ffa6de61f1523eba3b6f0453272c);
             
         
 
-        circle_marker_d8e58bb9dad8ef9521d631f75fccf311.bindPopup(popup_23752cc60fb8fe27191d9daa4d68eacf)
+        circle_marker_cd5b9b2326801a5d16693ae81a132dff.bindPopup(popup_b753a6b1f199af9817d12571539a438b)
         ;
 
         
     
     
-            circle_marker_d8e58bb9dad8ef9521d631f75fccf311.bindTooltip(
+            circle_marker_cd5b9b2326801a5d16693ae81a132dff.bindTooltip(
                 `<div>
                      Joseph Bishara (Lebanon)
                  </div>`,
@@ -302,30 +297,30 @@
             );
         
     
-            var circle_marker_8e4e2e9e2d8a08782bb129e1a1186e86 = L.circleMarker(
+            var circle_marker_a5bf13d8aa28f6661605e65d4b51c55e = L.circleMarker(
                 [59.3251172, 18.0710935],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_c1826f73195917504103eea0fda8c7a9 = L.popup({
+        var popup_fb8b6902052544decdf0a5c9116b669f = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_e67ac1dd191286bad152076239472951 = $(`<div id="html_e67ac1dd191286bad152076239472951" style="width: 100.0%; height: 100.0%;">         <b>Rami Yacoub</b><br>         Origin: Palestine<br>         Birth Place: Stockholm<br>         <a href="https://en.wikipedia.org/wiki/Rami_Yacoub" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_c1826f73195917504103eea0fda8c7a9.setContent(html_e67ac1dd191286bad152076239472951);
+                var html_fd2a2516fbba7fd8f6a75ef7da1ff3de = $(`<div id="html_fd2a2516fbba7fd8f6a75ef7da1ff3de" style="width: 100.0%; height: 100.0%;"><b>Rami Yacoub</b><br>Origin: Palestine<br>Birth Place: Stockholm<br><a href="https://en.wikipedia.org/wiki/Rami_Yacoub" target="_blank">Wikipedia</a></div>`)[0];
+                popup_fb8b6902052544decdf0a5c9116b669f.setContent(html_fd2a2516fbba7fd8f6a75ef7da1ff3de);
             
         
 
-        circle_marker_8e4e2e9e2d8a08782bb129e1a1186e86.bindPopup(popup_c1826f73195917504103eea0fda8c7a9)
+        circle_marker_a5bf13d8aa28f6661605e65d4b51c55e.bindPopup(popup_fb8b6902052544decdf0a5c9116b669f)
         ;
 
         
     
     
-            circle_marker_8e4e2e9e2d8a08782bb129e1a1186e86.bindTooltip(
+            circle_marker_a5bf13d8aa28f6661605e65d4b51c55e.bindTooltip(
                 `<div>
                      Rami Yacoub (Stockholm)
                  </div>`,
@@ -335,30 +330,30 @@
             );
         
     
-            var circle_marker_0f1d6c99b8752a5bb508e16cb84096c5 = L.circleMarker(
+            var circle_marker_0f5935ac6b25e3ed9b7e673ec8c4a83d = L.circleMarker(
                 [33.4079425, -90.208027],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_bea7a5cd8a4c88083131a4353c29d272 = L.popup({
+        var popup_548a882e80dccd839fec46cf1f58ba3d = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_e8276237cdd3161580fa12fe87b06138 = $(`<div id="html_e8276237cdd3161580fa12fe87b06138" style="width: 100.0%; height: 100.0%;">         <b>Fadel Chaker</b><br>         Origin: Palestine<br>         Birth Place: Sidon<br>         <a href="https://en.wikipedia.org/wiki/Fadel_Chaker" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_bea7a5cd8a4c88083131a4353c29d272.setContent(html_e8276237cdd3161580fa12fe87b06138);
+                var html_95f9dcf7ea9815d69e47159fed25dea3 = $(`<div id="html_95f9dcf7ea9815d69e47159fed25dea3" style="width: 100.0%; height: 100.0%;"><b>Fadel Chaker</b><br>Origin: Palestine<br>Birth Place: Sidon<br><a href="https://en.wikipedia.org/wiki/Fadel_Chaker" target="_blank">Wikipedia</a></div>`)[0];
+                popup_548a882e80dccd839fec46cf1f58ba3d.setContent(html_95f9dcf7ea9815d69e47159fed25dea3);
             
         
 
-        circle_marker_0f1d6c99b8752a5bb508e16cb84096c5.bindPopup(popup_bea7a5cd8a4c88083131a4353c29d272)
+        circle_marker_0f5935ac6b25e3ed9b7e673ec8c4a83d.bindPopup(popup_548a882e80dccd839fec46cf1f58ba3d)
         ;
 
         
     
     
-            circle_marker_0f1d6c99b8752a5bb508e16cb84096c5.bindTooltip(
+            circle_marker_0f5935ac6b25e3ed9b7e673ec8c4a83d.bindTooltip(
                 `<div>
                      Fadel Chaker (Sidon)
                  </div>`,
@@ -368,30 +363,30 @@
             );
         
     
-            var circle_marker_6afb6aa114a0149a832793787a9978ec = L.circleMarker(
+            var circle_marker_cbfefd8f44a870748fb3bb3faa53091d = L.circleMarker(
                 [29.2696663, 91.2419862],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_12b141024b3ae83b568edbdb2b538078 = L.popup({
+        var popup_66f23178245cc7d465b1b27ace9f7fcf = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_997dc938c6cce3e791664b54c4fa4985 = $(`<div id="html_997dc938c6cce3e791664b54c4fa4985" style="width: 100.0%; height: 100.0%;">         <b>MC Abdul</b><br>         Origin: Palestine<br>         Birth Place: Gaza City<br>         <a href="https://en.wikipedia.org/wiki/MC_Abdul" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_12b141024b3ae83b568edbdb2b538078.setContent(html_997dc938c6cce3e791664b54c4fa4985);
+                var html_f0e08b6879b2ddb150712b9043b2354c = $(`<div id="html_f0e08b6879b2ddb150712b9043b2354c" style="width: 100.0%; height: 100.0%;"><b>MC Abdul</b><br>Origin: Palestine<br>Birth Place: Gaza City<br><a href="https://en.wikipedia.org/wiki/MC_Abdul" target="_blank">Wikipedia</a></div>`)[0];
+                popup_66f23178245cc7d465b1b27ace9f7fcf.setContent(html_f0e08b6879b2ddb150712b9043b2354c);
             
         
 
-        circle_marker_6afb6aa114a0149a832793787a9978ec.bindPopup(popup_12b141024b3ae83b568edbdb2b538078)
+        circle_marker_cbfefd8f44a870748fb3bb3faa53091d.bindPopup(popup_66f23178245cc7d465b1b27ace9f7fcf)
         ;
 
         
     
     
-            circle_marker_6afb6aa114a0149a832793787a9978ec.bindTooltip(
+            circle_marker_cbfefd8f44a870748fb3bb3faa53091d.bindTooltip(
                 `<div>
                      MC Abdul (Gaza City)
                  </div>`,
@@ -401,30 +396,30 @@
             );
         
     
-            var circle_marker_af7aab2d7d33121854aa3c6b981b20d8 = L.circleMarker(
+            var circle_marker_caf31b4b22d389ea2182b466de1f40de = L.circleMarker(
                 [39.8558913, -4.024265],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_43ee03b64a82b4c665bc7d414d0d88a9 = L.popup({
+        var popup_344df7af51ee6a8b27225fedb98d40b9 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_73ebf264c5ff57675a14ae6077b67c26 = $(`<div id="html_73ebf264c5ff57675a14ae6077b67c26" style="width: 100.0%; height: 100.0%;">         <b>Lina Makoul</b><br>         Origin: Palestine<br>         Birth Place: Toledo<br>         <a href="https://en.wikipedia.org/wiki/Lina_Makoul" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_43ee03b64a82b4c665bc7d414d0d88a9.setContent(html_73ebf264c5ff57675a14ae6077b67c26);
+                var html_32f6695451eab89661fa3a276407dd0f = $(`<div id="html_32f6695451eab89661fa3a276407dd0f" style="width: 100.0%; height: 100.0%;"><b>Lina Makoul</b><br>Origin: Palestine<br>Birth Place: Toledo<br><a href="https://en.wikipedia.org/wiki/Lina_Makoul" target="_blank">Wikipedia</a></div>`)[0];
+                popup_344df7af51ee6a8b27225fedb98d40b9.setContent(html_32f6695451eab89661fa3a276407dd0f);
             
         
 
-        circle_marker_af7aab2d7d33121854aa3c6b981b20d8.bindPopup(popup_43ee03b64a82b4c665bc7d414d0d88a9)
+        circle_marker_caf31b4b22d389ea2182b466de1f40de.bindPopup(popup_344df7af51ee6a8b27225fedb98d40b9)
         ;
 
         
     
     
-            circle_marker_af7aab2d7d33121854aa3c6b981b20d8.bindTooltip(
+            circle_marker_caf31b4b22d389ea2182b466de1f40de.bindTooltip(
                 `<div>
                      Lina Makoul (Toledo)
                  </div>`,
@@ -434,30 +429,30 @@
             );
         
     
-            var circle_marker_b09048fb82bde42faff47606388244b4 = L.circleMarker(
+            var circle_marker_95e734f4dd1b6c8814dc6a7a157f2110 = L.circleMarker(
                 [32.896672, 13.1777923],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_2120b7afa4e076a4754cef2e8d047c3a = L.popup({
+        var popup_898af391db383d99ffbc8210d794174e = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_70d50b2cd4d139dcfac3b719daa11d24 = $(`<div id="html_70d50b2cd4d139dcfac3b719daa11d24" style="width: 100.0%; height: 100.0%;">         <b>Nabil Salameh</b><br>         Origin: Palestine<br>         Birth Place: Tripoli<br>         <a href="https://en.wikipedia.org/wiki/Nabil_Salameh" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_2120b7afa4e076a4754cef2e8d047c3a.setContent(html_70d50b2cd4d139dcfac3b719daa11d24);
+                var html_49f89c0bb90e3bbf632704997b4f65ea = $(`<div id="html_49f89c0bb90e3bbf632704997b4f65ea" style="width: 100.0%; height: 100.0%;"><b>Nabil Salameh</b><br>Origin: Palestine<br>Birth Place: Tripoli<br><a href="https://en.wikipedia.org/wiki/Nabil_Salameh" target="_blank">Wikipedia</a></div>`)[0];
+                popup_898af391db383d99ffbc8210d794174e.setContent(html_49f89c0bb90e3bbf632704997b4f65ea);
             
         
 
-        circle_marker_b09048fb82bde42faff47606388244b4.bindPopup(popup_2120b7afa4e076a4754cef2e8d047c3a)
+        circle_marker_95e734f4dd1b6c8814dc6a7a157f2110.bindPopup(popup_898af391db383d99ffbc8210d794174e)
         ;
 
         
     
     
-            circle_marker_b09048fb82bde42faff47606388244b4.bindTooltip(
+            circle_marker_95e734f4dd1b6c8814dc6a7a157f2110.bindTooltip(
                 `<div>
                      Nabil Salameh (Tripoli)
                  </div>`,
@@ -467,30 +462,30 @@
             );
         
     
-            var circle_marker_4957bfaa12b157c49ea9625e73654b97 = L.circleMarker(
+            var circle_marker_c8a0d702c4f198da17043dd318346211 = L.circleMarker(
                 [-1.45056, -48.4682453],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_2e4814269371be8a35c2ddd211ce8717 = L.popup({
+        var popup_5e4d4cb26c135523b39aabd3ae17a061 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_a35f1d11d5a2fa209c937ddbd37c7a08 = $(`<div id="html_a35f1d11d5a2fa209c937ddbd37c7a08" style="width: 100.0%; height: 100.0%;">         <b>Ramzi Aburedwan</b><br>         Origin: Palestine<br>         Birth Place: Bethlehem<br>         <a href="https://en.wikipedia.org/wiki/Ramzi_Aburedwan" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_2e4814269371be8a35c2ddd211ce8717.setContent(html_a35f1d11d5a2fa209c937ddbd37c7a08);
+                var html_fba0fdcd67053912566c65fd67c64595 = $(`<div id="html_fba0fdcd67053912566c65fd67c64595" style="width: 100.0%; height: 100.0%;"><b>Ramzi Aburedwan</b><br>Origin: Palestine<br>Birth Place: Bethlehem<br><a href="https://en.wikipedia.org/wiki/Ramzi_Aburedwan" target="_blank">Wikipedia</a></div>`)[0];
+                popup_5e4d4cb26c135523b39aabd3ae17a061.setContent(html_fba0fdcd67053912566c65fd67c64595);
             
         
 
-        circle_marker_4957bfaa12b157c49ea9625e73654b97.bindPopup(popup_2e4814269371be8a35c2ddd211ce8717)
+        circle_marker_c8a0d702c4f198da17043dd318346211.bindPopup(popup_5e4d4cb26c135523b39aabd3ae17a061)
         ;
 
         
     
     
-            circle_marker_4957bfaa12b157c49ea9625e73654b97.bindTooltip(
+            circle_marker_c8a0d702c4f198da17043dd318346211.bindTooltip(
                 `<div>
                      Ramzi Aburedwan (Bethlehem)
                  </div>`,
@@ -500,30 +495,63 @@
             );
         
     
-            var circle_marker_df2a54fa05641058c4ade801a992abde = L.circleMarker(
-                [29.2733964, 47.4979476],
+            var circle_marker_5c5282ec4ab5145c07dbaa54cd0b7835 = L.circleMarker(
+                [45.4220856, -122.4283111],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_be0344f9c5e333e3a96710a3d2c6622e = L.popup({
+        var popup_fd0e5396d0eff2bb4bb267a0d2c495c7 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_7973165005cc84199bbaf2824c8cf64a = $(`<div id="html_7973165005cc84199bbaf2824c8cf64a" style="width: 100.0%; height: 100.0%;">         <b>Ammar Hassan</b><br>         Origin: Palestine<br>         Birth Place: Kuwait<br>         <a href="https://en.wikipedia.org/wiki/Ammar_Hassan" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_be0344f9c5e333e3a96710a3d2c6622e.setContent(html_7973165005cc84199bbaf2824c8cf64a);
+                var html_7c177a241c5e920ab0b0cb08e8df239d = $(`<div id="html_7c177a241c5e920ab0b0cb08e8df239d" style="width: 100.0%; height: 100.0%;"><b>Iyad Rimawi</b><br>Origin: Palestine<br>Birth Place: Damascus<br><a href="https://en.wikipedia.org/wiki/Iyad_Rimawi" target="_blank">Wikipedia</a></div>`)[0];
+                popup_fd0e5396d0eff2bb4bb267a0d2c495c7.setContent(html_7c177a241c5e920ab0b0cb08e8df239d);
             
         
 
-        circle_marker_df2a54fa05641058c4ade801a992abde.bindPopup(popup_be0344f9c5e333e3a96710a3d2c6622e)
+        circle_marker_5c5282ec4ab5145c07dbaa54cd0b7835.bindPopup(popup_fd0e5396d0eff2bb4bb267a0d2c495c7)
         ;
 
         
     
     
-            circle_marker_df2a54fa05641058c4ade801a992abde.bindTooltip(
+            circle_marker_5c5282ec4ab5145c07dbaa54cd0b7835.bindTooltip(
+                `<div>
+                     Iyad Rimawi (Damascus)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e19d1a72a9c07a3cb402545736764bf3 = L.circleMarker(
+                [29.2733964, 47.4979476],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
+        
+    
+        var popup_c0fdef68de952af50821a155354e6dba = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d1106203abbb4e5692e60c401ec5435b = $(`<div id="html_d1106203abbb4e5692e60c401ec5435b" style="width: 100.0%; height: 100.0%;"><b>Ammar Hassan</b><br>Origin: Palestine<br>Birth Place: Kuwait<br><a href="https://en.wikipedia.org/wiki/Ammar_Hassan" target="_blank">Wikipedia</a></div>`)[0];
+                popup_c0fdef68de952af50821a155354e6dba.setContent(html_d1106203abbb4e5692e60c401ec5435b);
+            
+        
+
+        circle_marker_e19d1a72a9c07a3cb402545736764bf3.bindPopup(popup_c0fdef68de952af50821a155354e6dba)
+        ;
+
+        
+    
+    
+            circle_marker_e19d1a72a9c07a3cb402545736764bf3.bindTooltip(
                 `<div>
                      Ammar Hassan (Kuwait)
                  </div>`,
@@ -533,30 +561,30 @@
             );
         
     
-            var circle_marker_6f4cadb3849aa3ad1c13bf105a8aeec5 = L.circleMarker(
+            var circle_marker_1b5a8a7b13141234b1f0c9a757e27007 = L.circleMarker(
                 [31.9515694, 35.9239625],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_07df1995b6e48d5f901c5e2524015626 = L.popup({
+        var popup_c5c5da5d055c2a84abf8c67ae8ee9e99 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_b82da54d0c9db728cdbdb3c412c8af99 = $(`<div id="html_b82da54d0c9db728cdbdb3c412c8af99" style="width: 100.0%; height: 100.0%;">         <b>Iyad Sughayer</b><br>         Origin: Palestine<br>         Birth Place: Amman<br>         <a href="https://en.wikipedia.org/wiki/Iyad_Sughayer" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_07df1995b6e48d5f901c5e2524015626.setContent(html_b82da54d0c9db728cdbdb3c412c8af99);
+                var html_aa6d47054ed35c3072282703f5116631 = $(`<div id="html_aa6d47054ed35c3072282703f5116631" style="width: 100.0%; height: 100.0%;"><b>Iyad Sughayer</b><br>Origin: Palestine<br>Birth Place: Amman<br><a href="https://en.wikipedia.org/wiki/Iyad_Sughayer" target="_blank">Wikipedia</a></div>`)[0];
+                popup_c5c5da5d055c2a84abf8c67ae8ee9e99.setContent(html_aa6d47054ed35c3072282703f5116631);
             
         
 
-        circle_marker_6f4cadb3849aa3ad1c13bf105a8aeec5.bindPopup(popup_07df1995b6e48d5f901c5e2524015626)
+        circle_marker_1b5a8a7b13141234b1f0c9a757e27007.bindPopup(popup_c5c5da5d055c2a84abf8c67ae8ee9e99)
         ;
 
         
     
     
-            circle_marker_6f4cadb3849aa3ad1c13bf105a8aeec5.bindTooltip(
+            circle_marker_1b5a8a7b13141234b1f0c9a757e27007.bindTooltip(
                 `<div>
                      Iyad Sughayer (Amman)
                  </div>`,
@@ -566,30 +594,30 @@
             );
         
     
-            var circle_marker_8fb33d3d04ac38b954cd8f5735611cbe = L.circleMarker(
+            var circle_marker_20f2bc23cf4a9e264a65053b7552e80a = L.circleMarker(
                 [29.2696663, 91.2419862],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_e77bf4bd163c5bc8730d4099f5255266 = L.popup({
+        var popup_f92e974c56373d46e68fe8e33a93c784 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_8fba2da24f3caa5f0ff7913efe414836 = $(`<div id="html_8fba2da24f3caa5f0ff7913efe414836" style="width: 100.0%; height: 100.0%;">         <b>Tuna</b><br>         Origin: Palestine<br>         Birth Place: Gaza City<br>         <a href="https://en.wikipedia.org/wiki/Tuna_(rapper)" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_e77bf4bd163c5bc8730d4099f5255266.setContent(html_8fba2da24f3caa5f0ff7913efe414836);
+                var html_dc10d873cb91a55a30d6dce626bfd490 = $(`<div id="html_dc10d873cb91a55a30d6dce626bfd490" style="width: 100.0%; height: 100.0%;"><b>Tuna</b><br>Origin: Palestine<br>Birth Place: Gaza City<br><a href="https://en.wikipedia.org/wiki/Tuna_(rapper)" target="_blank">Wikipedia</a></div>`)[0];
+                popup_f92e974c56373d46e68fe8e33a93c784.setContent(html_dc10d873cb91a55a30d6dce626bfd490);
             
         
 
-        circle_marker_8fb33d3d04ac38b954cd8f5735611cbe.bindPopup(popup_e77bf4bd163c5bc8730d4099f5255266)
+        circle_marker_20f2bc23cf4a9e264a65053b7552e80a.bindPopup(popup_f92e974c56373d46e68fe8e33a93c784)
         ;
 
         
     
     
-            circle_marker_8fb33d3d04ac38b954cd8f5735611cbe.bindTooltip(
+            circle_marker_20f2bc23cf4a9e264a65053b7552e80a.bindTooltip(
                 `<div>
                      Tuna (Gaza City)
                  </div>`,
@@ -599,30 +627,30 @@
             );
         
     
-            var circle_marker_4e85e3f03942f92ec8e00646cb3f7d8e = L.circleMarker(
+            var circle_marker_3003d4926cbf7d3f1ed0d0436197016c = L.circleMarker(
                 [31.7788472, 35.2257856],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_1e4bf246f8a4be994b78045046c280cf = L.popup({
+        var popup_f9c83ffef0dd2f7172109897d800e5bd = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_ff37d7491da1645a231188d0dd561a41 = $(`<div id="html_ff37d7491da1645a231188d0dd561a41" style="width: 100.0%; height: 100.0%;">         <b>Shabjdeed</b><br>         Origin: Palestine<br>         Birth Place: Jerusalem<br>         <a href="https://en.wikipedia.org/wiki/Shabjdeed" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_1e4bf246f8a4be994b78045046c280cf.setContent(html_ff37d7491da1645a231188d0dd561a41);
+                var html_79cf7a63a260cd4ea3f55f6428712543 = $(`<div id="html_79cf7a63a260cd4ea3f55f6428712543" style="width: 100.0%; height: 100.0%;"><b>Shabjdeed</b><br>Origin: Palestine<br>Birth Place: Jerusalem<br><a href="https://en.wikipedia.org/wiki/Shabjdeed" target="_blank">Wikipedia</a></div>`)[0];
+                popup_f9c83ffef0dd2f7172109897d800e5bd.setContent(html_79cf7a63a260cd4ea3f55f6428712543);
             
         
 
-        circle_marker_4e85e3f03942f92ec8e00646cb3f7d8e.bindPopup(popup_1e4bf246f8a4be994b78045046c280cf)
+        circle_marker_3003d4926cbf7d3f1ed0d0436197016c.bindPopup(popup_f9c83ffef0dd2f7172109897d800e5bd)
         ;
 
         
     
     
-            circle_marker_4e85e3f03942f92ec8e00646cb3f7d8e.bindTooltip(
+            circle_marker_3003d4926cbf7d3f1ed0d0436197016c.bindTooltip(
                 `<div>
                      Shabjdeed (Jerusalem)
                  </div>`,
@@ -632,30 +660,30 @@
             );
         
     
-            var circle_marker_f6213f1d722dc266932e6e6a0096a028 = L.circleMarker(
+            var circle_marker_6cf4d874ed0f60b4f6d287e2e3c159eb = L.circleMarker(
                 [32.2205316, 35.2569374],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_3e0136f4e6cc200c648f66f3317a8c8a = L.popup({
+        var popup_53d17216a1e396dcefa594cca93c9ad6 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_a1f493994c6dfc6761ef8d8da62ab0fc = $(`<div id="html_a1f493994c6dfc6761ef8d8da62ab0fc" style="width: 100.0%; height: 100.0%;">         <b>Rohi Al-Khammash</b><br>         Origin: Palestine<br>         Birth Place: Nablus<br>         <a href="https://en.wikipedia.org/wiki/Rohi_Al-Khammash" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_3e0136f4e6cc200c648f66f3317a8c8a.setContent(html_a1f493994c6dfc6761ef8d8da62ab0fc);
+                var html_375e1f8b708f063c473e7123964c50b8 = $(`<div id="html_375e1f8b708f063c473e7123964c50b8" style="width: 100.0%; height: 100.0%;"><b>Rohi Al-Khammash</b><br>Origin: Palestine<br>Birth Place: Nablus<br><a href="https://en.wikipedia.org/wiki/Rohi_Al-Khammash" target="_blank">Wikipedia</a></div>`)[0];
+                popup_53d17216a1e396dcefa594cca93c9ad6.setContent(html_375e1f8b708f063c473e7123964c50b8);
             
         
 
-        circle_marker_f6213f1d722dc266932e6e6a0096a028.bindPopup(popup_3e0136f4e6cc200c648f66f3317a8c8a)
+        circle_marker_6cf4d874ed0f60b4f6d287e2e3c159eb.bindPopup(popup_53d17216a1e396dcefa594cca93c9ad6)
         ;
 
         
     
     
-            circle_marker_f6213f1d722dc266932e6e6a0096a028.bindTooltip(
+            circle_marker_6cf4d874ed0f60b4f6d287e2e3c159eb.bindTooltip(
                 `<div>
                      Rohi Al-Khammash (Nablus)
                  </div>`,
@@ -665,30 +693,30 @@
             );
         
     
-            var circle_marker_a900f37c58d12182638f06db32b31961 = L.circleMarker(
+            var circle_marker_af4da7dff73236172711a3bb04853dea = L.circleMarker(
                 [31.462421, 34.2627215],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_9283321424f7b485da35e5a5cfb20efe = L.popup({
+        var popup_b0d47c5dcb05d5a63894d938781c7453 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_9adefb2de99ee0144d455f48a744908f = $(`<div id="html_9adefb2de99ee0144d455f48a744908f" style="width: 100.0%; height: 100.0%;">         <b>Nizar Wattad</b><br>         Origin: Palestine<br>         Birth Place: Palestine<br>         <a href="https://en.wikipedia.org/wiki/Nizar_Wattad" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_9283321424f7b485da35e5a5cfb20efe.setContent(html_9adefb2de99ee0144d455f48a744908f);
+                var html_65ad9854c4f6f43a32e449eae5642ab5 = $(`<div id="html_65ad9854c4f6f43a32e449eae5642ab5" style="width: 100.0%; height: 100.0%;"><b>Nizar Wattad</b><br>Origin: Palestine<br>Birth Place: Palestine<br><a href="https://en.wikipedia.org/wiki/Nizar_Wattad" target="_blank">Wikipedia</a></div>`)[0];
+                popup_b0d47c5dcb05d5a63894d938781c7453.setContent(html_65ad9854c4f6f43a32e449eae5642ab5);
             
         
 
-        circle_marker_a900f37c58d12182638f06db32b31961.bindPopup(popup_9283321424f7b485da35e5a5cfb20efe)
+        circle_marker_af4da7dff73236172711a3bb04853dea.bindPopup(popup_b0d47c5dcb05d5a63894d938781c7453)
         ;
 
         
     
     
-            circle_marker_a900f37c58d12182638f06db32b31961.bindTooltip(
+            circle_marker_af4da7dff73236172711a3bb04853dea.bindTooltip(
                 `<div>
                      Nizar Wattad (Palestine)
                  </div>`,
@@ -698,30 +726,30 @@
             );
         
     
-            var circle_marker_1e4615811c8ef04b3bd755fb25b20786 = L.circleMarker(
+            var circle_marker_1b9d8fdc59d40c8017540ae3af17b8f1 = L.circleMarker(
                 [32.0443395, 34.7509908],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_3909493f9bf2cd76cffc429c41def45f);
+            ).addTo(map_e29e8567af0ee3b01c417ad19f51aa61);
         
     
-        var popup_8f481c08a0d555ee4959cd81a5c85764 = L.popup({
+        var popup_18b718b9f57fe19096c840ac6fe36111 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_77e04a4762716fddf4ccaf9de08e1fc7 = $(`<div id="html_77e04a4762716fddf4ccaf9de08e1fc7" style="width: 100.0%; height: 100.0%;">         <b>Lana Lubany</b><br>         Origin: Palestine<br>         Birth Place: Jaffa<br>         <a href="https://en.wikipedia.org/wiki/Lana_Lubany" target="_blank">Wikipedia</a>         </div>`)[0];
-                popup_8f481c08a0d555ee4959cd81a5c85764.setContent(html_77e04a4762716fddf4ccaf9de08e1fc7);
+                var html_ae3e81b6df45e800d49c9c5bf9c6d5fc = $(`<div id="html_ae3e81b6df45e800d49c9c5bf9c6d5fc" style="width: 100.0%; height: 100.0%;"><b>Lana Lubany</b><br>Origin: Palestine<br>Birth Place: Jaffa<br><a href="https://en.wikipedia.org/wiki/Lana_Lubany" target="_blank">Wikipedia</a></div>`)[0];
+                popup_18b718b9f57fe19096c840ac6fe36111.setContent(html_ae3e81b6df45e800d49c9c5bf9c6d5fc);
             
         
 
-        circle_marker_1e4615811c8ef04b3bd755fb25b20786.bindPopup(popup_8f481c08a0d555ee4959cd81a5c85764)
+        circle_marker_1b9d8fdc59d40c8017540ae3af17b8f1.bindPopup(popup_18b718b9f57fe19096c840ac6fe36111)
         ;
 
         
     
     
-            circle_marker_1e4615811c8ef04b3bd755fb25b20786.bindTooltip(
+            circle_marker_1b9d8fdc59d40c8017540ae3af17b8f1.bindTooltip(
                 `<div>
                      Lana Lubany (Jaffa)
                  </div>`,

@@ -130,6 +130,82 @@
   background: linear-gradient(90deg, #e94560, #4CAF50);
 }
 
+/* Map Controls */
+.map-controls {
+  margin-bottom: 1.5rem;
+}
+
+.country-selector {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.country-btn {
+  padding: 0.6rem 1rem;
+  border: 2px solid #e0e0e0;
+  background: white;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+}
+
+.country-btn:hover {
+  border-color: #e94560;
+  background: #fff5f7;
+}
+
+.country-btn.active {
+  background: #e94560;
+  border-color: #e94560;
+  color: white;
+}
+
+.map-type-selector {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.type-btn {
+  padding: 0.5rem 1.25rem;
+  border: none;
+  background: #f0f0f0;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.type-btn:hover {
+  background: #e0e0e0;
+}
+
+.type-btn.active {
+  background: #1a1a2e;
+  color: white;
+}
+
+/* Map Container */
+.map-container {
+  width: 100%;
+  height: 600px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.map-iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
 /* Patterns Grid */
 .patterns-grid {
   display: grid;
