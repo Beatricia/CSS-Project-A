@@ -1,0 +1,252 @@
+.dataset-page {
+  min-height: 100vh;
+}
+
+.page-header {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+
+.page-header h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.page-header p {
+  color: #ccc;
+  font-size: 1.2rem;
+}
+
+.section {
+  padding: 5rem 2rem;
+}
+
+.section.alt-bg {
+  background: #f8f9fa;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section h2 {
+  text-align: center;
+  font-size: 2.2rem;
+  margin-bottom: 3rem;
+  color: #1a1a2e;
+}
+
+/* Sources Grid */
+.sources-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+}
+
+.source-card {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  border-top: 4px solid #e94560;
+}
+
+.source-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.source-card h3 {
+  color: #1a1a2e;
+  margin-bottom: 0.25rem;
+}
+
+.source-type {
+  color: #e94560;
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+.source-card > p {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.data-fields {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.data-fields li {
+  background: #f0f0f0;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+/* Stats Grid */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+}
+
+.stat-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.stat-number {
+  display: block;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #e94560;
+}
+
+.stat-label {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #1a1a2e;
+  margin: 0.5rem 0;
+}
+
+.stat-detail {
+  display: block;
+  font-size: 0.9rem;
+  color: #888;
+}
+
+/* Country Breakdown */
+.country-breakdown {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.country-bar {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  gap: 1rem;
+}
+
+.country-name {
+  width: 100px;
+  font-weight: 600;
+  color: #1a1a2e;
+}
+
+.bar-container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.bar {
+  height: 30px;
+  border-radius: 4px;
+  min-width: 20px;
+}
+
+.ukraine-bar { background: linear-gradient(90deg, #0057b7, #ffd700); }
+.russia-bar { background: linear-gradient(90deg, #1c3faa, #c4463a); }
+.israel-bar { background: #0038b8; }
+.syria-bar { background: linear-gradient(90deg, #ce1126, #007a3d); }
+.palestine-bar { background: linear-gradient(90deg, #007a3d, #ce1126); }
+
+.bar-value {
+  font-size: 0.9rem;
+  color: #666;
+  white-space: nowrap;
+}
+
+/* Pipeline */
+.pipeline {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.pipeline-step {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  flex: 1;
+  min-width: 180px;
+  max-width: 220px;
+}
+
+.step-number {
+  width: 40px;
+  height: 40px;
+  background: #e94560;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  margin: 0 auto 1rem;
+}
+
+.pipeline-step h3 {
+  color: #1a1a2e;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.pipeline-step p {
+  color: #666;
+  font-size: 0.85rem;
+  margin: 0;
+}
+
+.pipeline-arrow {
+  font-size: 2rem;
+  color: #e94560;
+}
+
+@media (max-width: 768px) {
+  .page-header h1 {
+    font-size: 2rem;
+  }
+  
+  .pipeline {
+    flex-direction: column;
+  }
+  
+  .pipeline-arrow {
+    transform: rotate(90deg);
+  }
+  
+  .country-bar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .country-name {
+    width: auto;
+  }
+  
+  .bar-container {
+    width: 100%;
+  }
+}
