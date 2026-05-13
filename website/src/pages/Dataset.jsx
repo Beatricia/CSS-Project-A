@@ -1,4 +1,4 @@
-import './Dataset.css';
+import "./Dataset.css";
 
 function Dataset() {
   return (
@@ -17,8 +17,9 @@ function Dataset() {
               <h3>Wikidata SPARQL API</h3>
               <p className="source-type">Artist Database</p>
               <p>
-                We queried musicians by birth place, citizenship, and ethnicity 
-                to build a comprehensive database of artists from conflict regions.
+                We queried musicians by birth place, citizenship, and ethnicity
+                to build a comprehensive database of artists from conflict
+                regions.
               </p>
               <ul className="data-fields">
                 <li>Name</li>
@@ -35,7 +36,7 @@ function Dataset() {
               <h3>Wikipedia Pageviews API</h3>
               <p className="source-type">Popularity Data</p>
               <p>
-                Monthly pageview counts for each artist's Wikipedia article, 
+                Monthly pageview counts for each artist's Wikipedia article,
                 serving as a proxy for global interest and attention.
               </p>
               <ul className="data-fields">
@@ -51,7 +52,7 @@ function Dataset() {
               <h3>Genius API</h3>
               <p className="source-type">Lyrics & Sentiment</p>
               <p>
-                Song lyrics scraped for top artists, analyzed using VADER 
+                Song lyrics scraped for top artists, analyzed using VADER
                 sentiment analysis to understand emotional content.
               </p>
               <ul className="data-fields">
@@ -59,6 +60,21 @@ function Dataset() {
                 <li>Lyrics</li>
                 <li>Sentiment Scores</li>
                 <li>Release Year</li>
+              </ul>
+            </div>
+
+            <div className="source-card">
+              <div className="source-icon">🎵</div>
+              <h3>Gabriel's API</h3>
+              <p className="source-type">X</p>
+              <p>
+                X
+              </p>
+              <ul className="data-fields">
+                <li>X</li>
+                <li>X</li>
+                <li>X</li>
+                <li>X</li>
               </ul>
             </div>
           </div>
@@ -87,7 +103,9 @@ function Dataset() {
             <div className="stat-card">
               <span className="stat-number">5</span>
               <span className="stat-label">Conflict Regions</span>
-              <span className="stat-detail">Ukraine, Russia, Syria, Israel, Palestine</span>
+              <span className="stat-detail">
+                Ukraine, Russia, Syria, Israel, Palestine
+              </span>
             </div>
           </div>
         </div>
@@ -97,15 +115,26 @@ function Dataset() {
         <div className="container">
           <h2>Artists by Country</h2>
           <div className="country-chips">
-            <div className="country-chip ukraine">🇺🇦 Ukraine <span>500</span></div>
-            <div className="country-chip russia">🇷🇺 Russia <span>500</span></div>
-            <div className="country-chip israel">🇮🇱 Israel <span>500</span></div>
-            <div className="country-chip syria">🇸🇾 Syria <span>500</span></div>
-            <div className="country-chip palestine">🇵🇸 Palestine <span>33</span></div>
+            <div className="country-chip ukraine">
+              🇺🇦 Ukraine <span>500</span>
+            </div>
+            <div className="country-chip russia">
+              🇷🇺 Russia <span>500</span>
+            </div>
+            <div className="country-chip israel">
+              🇮🇱 Israel <span>500</span>
+            </div>
+            <div className="country-chip syria">
+              🇸🇾 Syria <span>500</span>
+            </div>
+            <div className="country-chip palestine">
+              🇵🇸 Palestine <span>33</span>
+            </div>
           </div>
           <p className="country-note">
-            We collected the <strong>top 500 most notable artists</strong> (by Wikipedia presence) 
-            from each major conflict region. Palestine has fewer due to limited Wikidata coverage.
+            We collected the <strong>top 500 most notable artists</strong> (by
+            Wikipedia presence) from each major conflict region. Palestine has
+            fewer due to limited Wikidata coverage.
           </p>
         </div>
       </section>

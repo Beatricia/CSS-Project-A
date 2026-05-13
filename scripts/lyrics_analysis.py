@@ -56,7 +56,7 @@ def scrape_lyrics():
     genius.verbose = False
 
     results = []
-    os.makedirs("lyrics_data", exist_ok=True)
+    os.makedirs("../data/lyrics_data", exist_ok=True)
 
     for country, artists in TOP_ARTISTS.items():
         print(f"\n{'='*40}")
@@ -104,7 +104,7 @@ def scrape_lyrics():
                     print(f"Retry failed: {e2}, skipping...")
                 continue
 
-    with open("lyrics_data/raw_lyrics.json", "w", encoding="utf-8") as f:
+    with open("../data/lyrics_data/raw_lyrics.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
     print(f"\nTotal songs: {len(results)}")
@@ -128,7 +128,7 @@ def analyze_sentiment(results):
             item['period'] = 'unknown'
 
     df = pd.DataFrame(results)
-    df.to_csv("lyrics_data/lyrics_with_sentiment.csv", index=False)
+    df.to_csv("../data/lyrics_data/lyrics_with_sentiment.csv", index=False)
     print("Sentiment analysis done!")
     return df
 
@@ -188,7 +188,7 @@ def visualize(df):
     ax2.spines['left'].set_color('#555')
 
     plt.tight_layout(pad=3)
-    plt.savefig('lyrics_data/sentiment_analysis.png', dpi=150,
+    plt.savefig('../data/lyrics_data/sentiment_analysis.png', dpi=150,
                 bbox_inches='tight', facecolor='#1a1a2e')
     plt.show()
     print("Chart saved!")

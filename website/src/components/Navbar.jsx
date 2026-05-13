@@ -10,7 +10,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-          🎵 Conflict & Music
+          Melodies of Migration
         </Link>
         
         <ul className="nav-menu">
@@ -22,6 +22,11 @@ function Navbar() {
           <li className="nav-item">
             <Link to="/dataset" className={`nav-link ${isActive('/dataset') ? 'active' : ''}`}>
               Dataset
+            </Link>
+          </li>
+          <li className="nav-item">
+            <Link to="/trends" className={`nav-link ${isActive('/trends') ? 'active' : ''}`}>
+              Trends
             </Link>
           </li>
           <li className="nav-item">

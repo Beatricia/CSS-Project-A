@@ -13,7 +13,7 @@ CONFLICT_YEARS = {
     "Israel": 2023,
 }
 
-with open("lyrics_data/raw_lyrics.json", "r", encoding="utf-8") as f:
+with open("../data/lyrics_data/raw_lyrics.json", "r", encoding="utf-8") as f:
     results = json.load(f)
 
 analyzer = SentimentIntensityAnalyzer()
@@ -59,7 +59,7 @@ for idx, country in enumerate(['Ukraine', 'Russia', 'Israel', 'Syria', 'Palestin
     axes[idx].set_title(country, color=country_colors[country], fontsize=12, fontweight='bold')
 
 plt.tight_layout()
-plt.savefig('lyrics_data/wordcloud.png', dpi=150, bbox_inches='tight', facecolor='#1a1a2e')
+plt.savefig('../data/lyrics_data/wordcloud.png', dpi=150, bbox_inches='tight', facecolor='#1a1a2e')
 plt.show()
 print("Word cloud saved!")
 
@@ -93,7 +93,7 @@ ax.spines['bottom'].set_color('#555')
 ax.spines['left'].set_color('#555')
 
 plt.tight_layout()
-plt.savefig('lyrics_data/sentiment_over_time.png', dpi=150, bbox_inches='tight', facecolor='#1a1a2e')
+plt.savefig('../data/lyrics_data/sentiment_over_time.png', dpi=150, bbox_inches='tight', facecolor='#1a1a2e')
 plt.show()
 print("Sentiment over time saved!")
 
@@ -107,6 +107,6 @@ top_negative = df.nsmallest(5, 'compound')[['artist', 'country', 'song_title', '
 print(top_negative.to_string(index=False))
 
 # Save as CSV
-top_positive.to_csv('lyrics_data/top_positive_songs.csv', index=False)
-top_negative.to_csv('lyrics_data/top_negative_songs.csv', index=False)
+top_positive.to_csv('../data/lyrics_data/top_positive_songs.csv', index=False)
+top_negative.to_csv('../data/lyrics_data/top_negative_songs.csv', index=False)
 print("\nSaved to CSV!")

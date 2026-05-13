@@ -12,7 +12,7 @@ CONFLICT_YEARS = {
     "Israel": 2023,
 }
 
-with open("lyrics_data/raw_lyrics.json", "r", encoding="utf-8") as f:
+with open("../data/lyrics_data/raw_lyrics.json", "r", encoding="utf-8") as f:
     results = json.load(f)
 
 analyzer = SentimentIntensityAnalyzer()
@@ -90,7 +90,7 @@ for idx, country in enumerate(countries):
 axes[0].set_ylabel('Sentiment Score', color='white', fontsize=11)
 
 plt.tight_layout()
-plt.savefig('lyrics_data/prepost_conflict.png', dpi=150, 
+plt.savefig('../data/lyrics_data/prepost_conflict.png', dpi=150, 
             bbox_inches='tight', facecolor='#1a1a2e')
 plt.show()
 print("Pre/Post conflict chart saved!")

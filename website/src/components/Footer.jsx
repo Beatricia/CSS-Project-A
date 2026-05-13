@@ -24,19 +24,6 @@ function Footer() {
             </li>
           </ul>
         </div>
-        
-        <div className="footer-section">
-          <h4>Data Sources</h4>
-          <ul>
-            <li>Wikidata SPARQL API</li>
-            <li>Wikipedia Pageviews API</li>
-            <li>Genius Lyrics API</li>
-          </ul>
-        </div>
-      </div>
-      
-      <div className="footer-bottom">
-        <p>© 2024 Computational Social Science - DTU</p>
       </div>
     </footer>
   );

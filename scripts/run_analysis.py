@@ -11,7 +11,7 @@ CONFLICT_YEARS = {
     "Israel": 2023,
 }
 
-with open("lyrics_data/raw_lyrics.json", "r", encoding="utf-8") as f:
+with open("../data/lyrics_data/raw_lyrics.json", "r", encoding="utf-8") as f:
     results = json.load(f)
 
 print(f"Loaded {len(results)} songs")
@@ -33,7 +33,7 @@ for item in results:
         item['period'] = 'unknown'
 
 df = pd.DataFrame(results)
-df.to_csv("lyrics_data/lyrics_with_sentiment.csv", index=False)
+df.to_csv("../data/lyrics_data/lyrics_with_sentiment.csv", index=False)
 print("Sentiment analysis done!")
 print(df.groupby('country')['compound'].agg(['mean', 'count']).round(3))
 print("\n=== PRE vs POST ===")
@@ -84,6 +84,6 @@ ax2.spines['top'].set_visible(False)
 ax2.spines['right'].set_visible(False)
 
 plt.tight_layout(pad=3)
-plt.savefig('lyrics_data/sentiment_analysis.png', dpi=150, bbox_inches='tight', facecolor='#1a1a2e')
+plt.savefig('../data/lyrics_data/sentiment_analysis.png', dpi=150, bbox_inches='tight', facecolor='#1a1a2e')
 plt.show()
 print("Chart saved!")

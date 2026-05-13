@@ -1,9 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+dist/
+.cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project-specific (old scrape files)
 scrape_extra.py
 merge.py
 clean.py
-lyrics_data/extra_lyrics.json
-lyrics_data/ukraine_lyrics.json
-lyrics_data/russia_lyrics.json
-lyrics_data/israel_lyrics.json
-lyrics_data/syria_lyrics.json
-lyrics_data/palestine_lyrics.json
+data/lyrics_data/extra_lyrics.json
+data/lyrics_data/ukraine_lyrics.json
+data/lyrics_data/russia_lyrics.json
+data/lyrics_data/israel_lyrics.json
+data/lyrics_data/syria_lyrics.json
+data/lyrics_data/palestine_lyrics.json
