@@ -17,7 +17,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_fde1550981742dc4a87c1562bc32a690 {
+                #map_ca1e1756a9978b9b52c027dd124ba6db {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -53,16 +53,16 @@
 </head>
 <body>
     
-    <div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%); z-index: 1000; background: white; padding: 8px 20px; border: 2px solid #333; border-radius: 5px; font-size: 14px;"><b>Palestine - Current Residence</b> (26 artists)</div>
+    <div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%); z-index: 1000; background: white; padding: 8px 20px; border: 2px solid #333; border-radius: 5px; font-size: 14px;"><b>Palestine - Current Residence</b> (43 artists)</div>
     
-            <div class="folium-map" id="map_fde1550981742dc4a87c1562bc32a690" ></div>
+            <div class="folium-map" id="map_ca1e1756a9978b9b52c027dd124ba6db" ></div>
         
 </body>
 <script>
     
     
-            var map_fde1550981742dc4a87c1562bc32a690 = L.map(
-                "map_fde1550981742dc4a87c1562bc32a690",
+            var map_ca1e1756a9978b9b52c027dd124ba6db = L.map(
+                "map_ca1e1756a9978b9b52c027dd124ba6db",
                 {
                     center: [31.9, 35.2],
                     crs: L.CRS.EPSG3857,
@@ -79,7 +79,7 @@
 
         
     
-            var tile_layer_41f78722ee0f4d0983f282bbc55fc899 = L.tileLayer(
+            var tile_layer_3c85f9fe5ca5d21e70dfa275835355c7 = L.tileLayer(
                 "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
                 {
   "minZoom": 0,
@@ -96,35 +96,35 @@
             );
         
     
-            tile_layer_41f78722ee0f4d0983f282bbc55fc899.addTo(map_fde1550981742dc4a87c1562bc32a690);
+            tile_layer_3c85f9fe5ca5d21e70dfa275835355c7.addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-            var circle_marker_d16bdd916490d4a9543d8e7464b09a6c = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_71b1beb2923616ba2ffbd2f6ea2603ea = L.circleMarker(
+                [32.0782941, 34.7886936],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_d2bec52a3e1c54ca58661c4b73f9f932 = L.popup({
+        var popup_f1894298f1a7ca049dea20d5c02c8cbb = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_4d90483517d28c63142b5dbf4c78010a = $(`<div id="html_4d90483517d28c63142b5dbf4c78010a" style="width: 100.0%; height: 100.0%;"><b>Mahmoud Darwish</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Mahmoud_Darwish" target="_blank">Wikipedia</a></div>`)[0];
-                popup_d2bec52a3e1c54ca58661c4b73f9f932.setContent(html_4d90483517d28c63142b5dbf4c78010a);
+                var html_df62ea066bd947b97b36be2a8621f839 = $(`<div id="html_df62ea066bd947b97b36be2a8621f839" style="width: 100.0%; height: 100.0%;"><b>David</b><br>Origin: Palestine<br>Current Residence: Kingdom of Israel<br><a href="https://en.wikipedia.org/wiki/David" target="_blank">Wikipedia</a></div>`)[0];
+                popup_f1894298f1a7ca049dea20d5c02c8cbb.setContent(html_df62ea066bd947b97b36be2a8621f839);
             
         
 
-        circle_marker_d16bdd916490d4a9543d8e7464b09a6c.bindPopup(popup_d2bec52a3e1c54ca58661c4b73f9f932)
+        circle_marker_71b1beb2923616ba2ffbd2f6ea2603ea.bindPopup(popup_f1894298f1a7ca049dea20d5c02c8cbb)
         ;
 
         
     
     
-            circle_marker_d16bdd916490d4a9543d8e7464b09a6c.bindTooltip(
+            circle_marker_71b1beb2923616ba2ffbd2f6ea2603ea.bindTooltip(
                 `<div>
-                     Mahmoud Darwish (Palestine)
+                     David (Kingdom of Israel)
                  </div>`,
                 {
   "sticky": true,
@@ -132,63 +132,30 @@
             );
         
     
-            var circle_marker_1367f8b8aa0a85e112c4f5500ddf3835 = L.circleMarker(
-                [-34.9964963, -64.9672817],
-                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
-        
-    
-        var popup_a09834c96c357994f315060854097aae = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_2e048ad8f7d0d2e246da00d0131b43e4 = $(`<div id="html_2e048ad8f7d0d2e246da00d0131b43e4" style="width: 100.0%; height: 100.0%;"><b>Daniel Barenboim</b><br>Origin: Palestine<br>Current Residence: Argentina<br><a href="https://en.wikipedia.org/wiki/Daniel_Barenboim" target="_blank">Wikipedia</a></div>`)[0];
-                popup_a09834c96c357994f315060854097aae.setContent(html_2e048ad8f7d0d2e246da00d0131b43e4);
-            
-        
-
-        circle_marker_1367f8b8aa0a85e112c4f5500ddf3835.bindPopup(popup_a09834c96c357994f315060854097aae)
-        ;
-
-        
-    
-    
-            circle_marker_1367f8b8aa0a85e112c4f5500ddf3835.bindTooltip(
-                `<div>
-                     Daniel Barenboim (Argentina)
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-            var circle_marker_fe963026764a6e05b35be8529dbcab92 = L.circleMarker(
+            var circle_marker_33c21e9fa2d44e6e63890bb5ab55c4c3 = L.circleMarker(
                 [31.462421, 34.2627215],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_6fbdfd7cf961a9ffe4c44ec422995c27 = L.popup({
+        var popup_d55cc14c494ce534ed8b00360ee416b1 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_0eadf97bcfdda5767ffce0345dd0cbf3 = $(`<div id="html_0eadf97bcfdda5767ffce0345dd0cbf3" style="width: 100.0%; height: 100.0%;"><b>Bashar Murad</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Bashar_Murad" target="_blank">Wikipedia</a></div>`)[0];
-                popup_6fbdfd7cf961a9ffe4c44ec422995c27.setContent(html_0eadf97bcfdda5767ffce0345dd0cbf3);
+                var html_2afa82e20062a05bff3d1f420dcecfea = $(`<div id="html_2afa82e20062a05bff3d1f420dcecfea" style="width: 100.0%; height: 100.0%;"><b>Bashar Murad</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Bashar_Murad" target="_blank">Wikipedia</a></div>`)[0];
+                popup_d55cc14c494ce534ed8b00360ee416b1.setContent(html_2afa82e20062a05bff3d1f420dcecfea);
             
         
 
-        circle_marker_fe963026764a6e05b35be8529dbcab92.bindPopup(popup_6fbdfd7cf961a9ffe4c44ec422995c27)
+        circle_marker_33c21e9fa2d44e6e63890bb5ab55c4c3.bindPopup(popup_d55cc14c494ce534ed8b00360ee416b1)
         ;
 
         
     
     
-            circle_marker_fe963026764a6e05b35be8529dbcab92.bindTooltip(
+            circle_marker_33c21e9fa2d44e6e63890bb5ab55c4c3.bindTooltip(
                 `<div>
                      Bashar Murad (Palestine)
                  </div>`,
@@ -198,32 +165,32 @@
             );
         
     
-            var circle_marker_dc37e2a5942634a1ab644417c1ae97dd = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_7769aab47a64a07ce10393f396d83b56 = L.circleMarker(
+                [61.0666922, -107.991707],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_c89206d274d4024242585b27dfd81dc4 = L.popup({
+        var popup_2e6d3ead2cdb413d24f00db65df11ed8 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_bdec4bcd43a7aa2afe6a8a7c66ef003f = $(`<div id="html_bdec4bcd43a7aa2afe6a8a7c66ef003f" style="width: 100.0%; height: 100.0%;"><b>Mohammed Assaf</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Mohammed_Assaf" target="_blank">Wikipedia</a></div>`)[0];
-                popup_c89206d274d4024242585b27dfd81dc4.setContent(html_bdec4bcd43a7aa2afe6a8a7c66ef003f);
+                var html_734fadf61a025a9346f1fcd3e74b8954 = $(`<div id="html_734fadf61a025a9346f1fcd3e74b8954" style="width: 100.0%; height: 100.0%;"><b>Belly</b><br>Origin: Palestine<br>Current Residence: Canada<br><a href="https://en.wikipedia.org/wiki/Belly_(rapper)" target="_blank">Wikipedia</a></div>`)[0];
+                popup_2e6d3ead2cdb413d24f00db65df11ed8.setContent(html_734fadf61a025a9346f1fcd3e74b8954);
             
         
 
-        circle_marker_dc37e2a5942634a1ab644417c1ae97dd.bindPopup(popup_c89206d274d4024242585b27dfd81dc4)
+        circle_marker_7769aab47a64a07ce10393f396d83b56.bindPopup(popup_2e6d3ead2cdb413d24f00db65df11ed8)
         ;
 
         
     
     
-            circle_marker_dc37e2a5942634a1ab644417c1ae97dd.bindTooltip(
+            circle_marker_7769aab47a64a07ce10393f396d83b56.bindTooltip(
                 `<div>
-                     Mohammed Assaf (Palestine)
+                     Belly (Canada)
                  </div>`,
                 {
   "sticky": true,
@@ -231,162 +198,30 @@
             );
         
     
-            var circle_marker_00d550ed58d50edfd9757d2ced7adea5 = L.circleMarker(
-                [31.462421, 34.2627215],
-                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
-        
-    
-        var popup_c8d449347a18cf31a298d3268893e853 = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_bacf2d64eb7410bd0983bee3ae8c1385 = $(`<div id="html_bacf2d64eb7410bd0983bee3ae8c1385" style="width: 100.0%; height: 100.0%;"><b>Shadia Mansour</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Shadia_Mansour" target="_blank">Wikipedia</a></div>`)[0];
-                popup_c8d449347a18cf31a298d3268893e853.setContent(html_bacf2d64eb7410bd0983bee3ae8c1385);
-            
-        
-
-        circle_marker_00d550ed58d50edfd9757d2ced7adea5.bindPopup(popup_c8d449347a18cf31a298d3268893e853)
-        ;
-
-        
-    
-    
-            circle_marker_00d550ed58d50edfd9757d2ced7adea5.bindTooltip(
-                `<div>
-                     Shadia Mansour (Palestine)
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-            var circle_marker_98fd57ac91df5d41ab7ab9dcf50472d6 = L.circleMarker(
-                [33.8750629, 35.843409],
-                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
-        
-    
-        var popup_b74ebedc781d03a6ea54264a7128b72e = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_e580d8a1ef7e54c65617d62fdd74c668 = $(`<div id="html_e580d8a1ef7e54c65617d62fdd74c668" style="width: 100.0%; height: 100.0%;"><b>Joseph Bishara</b><br>Origin: Palestine<br>Current Residence: Lebanon<br><a href="https://en.wikipedia.org/wiki/Joseph_Bishara" target="_blank">Wikipedia</a></div>`)[0];
-                popup_b74ebedc781d03a6ea54264a7128b72e.setContent(html_e580d8a1ef7e54c65617d62fdd74c668);
-            
-        
-
-        circle_marker_98fd57ac91df5d41ab7ab9dcf50472d6.bindPopup(popup_b74ebedc781d03a6ea54264a7128b72e)
-        ;
-
-        
-    
-    
-            circle_marker_98fd57ac91df5d41ab7ab9dcf50472d6.bindTooltip(
-                `<div>
-                     Joseph Bishara (Lebanon)
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-            var circle_marker_220f64dd008f34a742ba11d15f6e66f3 = L.circleMarker(
-                [31.462421, 34.2627215],
-                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
-        
-    
-        var popup_2cc2e4454c6279449098f14f711e1a45 = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_df6c70df084a8749a3dc6a9ad04a49dd = $(`<div id="html_df6c70df084a8749a3dc6a9ad04a49dd" style="width: 100.0%; height: 100.0%;"><b>Rami Yacoub</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Rami_Yacoub" target="_blank">Wikipedia</a></div>`)[0];
-                popup_2cc2e4454c6279449098f14f711e1a45.setContent(html_df6c70df084a8749a3dc6a9ad04a49dd);
-            
-        
-
-        circle_marker_220f64dd008f34a742ba11d15f6e66f3.bindPopup(popup_2cc2e4454c6279449098f14f711e1a45)
-        ;
-
-        
-    
-    
-            circle_marker_220f64dd008f34a742ba11d15f6e66f3.bindTooltip(
-                `<div>
-                     Rami Yacoub (Palestine)
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-            var circle_marker_12551569a0ac63992cfdeb8b4b2f5bec = L.circleMarker(
-                [33.8750629, 35.843409],
-                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
-        
-    
-        var popup_c4e6d1d3ab43a3629a9623cbf56dc3a7 = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_53fe53a6b5f5a5b0b157dbdac8ab4372 = $(`<div id="html_53fe53a6b5f5a5b0b157dbdac8ab4372" style="width: 100.0%; height: 100.0%;"><b>Fadel Chaker</b><br>Origin: Palestine<br>Current Residence: Lebanon<br><a href="https://en.wikipedia.org/wiki/Fadel_Chaker" target="_blank">Wikipedia</a></div>`)[0];
-                popup_c4e6d1d3ab43a3629a9623cbf56dc3a7.setContent(html_53fe53a6b5f5a5b0b157dbdac8ab4372);
-            
-        
-
-        circle_marker_12551569a0ac63992cfdeb8b4b2f5bec.bindPopup(popup_c4e6d1d3ab43a3629a9623cbf56dc3a7)
-        ;
-
-        
-    
-    
-            circle_marker_12551569a0ac63992cfdeb8b4b2f5bec.bindTooltip(
-                `<div>
-                     Fadel Chaker (Lebanon)
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-            var circle_marker_558c6992922a7ee0a4dd4ec7b419b2fb = L.circleMarker(
+            var circle_marker_de8601f65aa6d7a7a978ef1df4bdbf28 = L.circleMarker(
                 [30.8124247, 34.8594762],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_d5e7a78813020f404a056fa43243e3f0 = L.popup({
+        var popup_b205cd97dacfd73a5dd7c3fb1657e1ec = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_870574412f9c2da17fde9ebdaa0b3c20 = $(`<div id="html_870574412f9c2da17fde9ebdaa0b3c20" style="width: 100.0%; height: 100.0%;"><b>MC Abdul</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/MC_Abdul" target="_blank">Wikipedia</a></div>`)[0];
-                popup_d5e7a78813020f404a056fa43243e3f0.setContent(html_870574412f9c2da17fde9ebdaa0b3c20);
+                var html_6dbc8469e4129c33f4fe24abf11b121f = $(`<div id="html_6dbc8469e4129c33f4fe24abf11b121f" style="width: 100.0%; height: 100.0%;"><b>MC Abdul</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/MC_Abdul" target="_blank">Wikipedia</a></div>`)[0];
+                popup_b205cd97dacfd73a5dd7c3fb1657e1ec.setContent(html_6dbc8469e4129c33f4fe24abf11b121f);
             
         
 
-        circle_marker_558c6992922a7ee0a4dd4ec7b419b2fb.bindPopup(popup_d5e7a78813020f404a056fa43243e3f0)
+        circle_marker_de8601f65aa6d7a7a978ef1df4bdbf28.bindPopup(popup_b205cd97dacfd73a5dd7c3fb1657e1ec)
         ;
 
         
     
     
-            circle_marker_558c6992922a7ee0a4dd4ec7b419b2fb.bindTooltip(
+            circle_marker_de8601f65aa6d7a7a978ef1df4bdbf28.bindTooltip(
                 `<div>
                      MC Abdul (Israel)
                  </div>`,
@@ -396,32 +231,98 @@
             );
         
     
-            var circle_marker_7546f10a87ff3732bdb772ba1f9a368f = L.circleMarker(
+            var circle_marker_0d8bacde29e2efca4f61ce5ba430b944 = L.circleMarker(
+                [31.7788472, 35.2257856],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_14eaefc5af27973021f10065f410f17c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1fc85c26fc4ab64fd7634d2701741482 = $(`<div id="html_1fc85c26fc4ab64fd7634d2701741482" style="width: 100.0%; height: 100.0%;"><b>Idan Amedi</b><br>Origin: Palestine<br>Current Residence: Jerusalem<br><a href="https://en.wikipedia.org/wiki/Idan_Amedi" target="_blank">Wikipedia</a></div>`)[0];
+                popup_14eaefc5af27973021f10065f410f17c.setContent(html_1fc85c26fc4ab64fd7634d2701741482);
+            
+        
+
+        circle_marker_0d8bacde29e2efca4f61ce5ba430b944.bindPopup(popup_14eaefc5af27973021f10065f410f17c)
+        ;
+
+        
+    
+    
+            circle_marker_0d8bacde29e2efca4f61ce5ba430b944.bindTooltip(
+                `<div>
+                     Idan Amedi (Jerusalem)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4995e74caddf5385afdc42942c6cfa66 = L.circleMarker(
+                [42.4716853, -88.432318],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_de59781aebca4caac8f694e6ab6d35c3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a77ebbf801226c5b3c9f5f157f3ffd0b = $(`<div id="html_a77ebbf801226c5b3c9f5f157f3ffd0b" style="width: 100.0%; height: 100.0%;"><b>Yacoub Shaheen</b><br>Origin: Palestine<br>Current Residence: Hebron<br><a href="https://en.wikipedia.org/wiki/Yacoub_Shaheen" target="_blank">Wikipedia</a></div>`)[0];
+                popup_de59781aebca4caac8f694e6ab6d35c3.setContent(html_a77ebbf801226c5b3c9f5f157f3ffd0b);
+            
+        
+
+        circle_marker_4995e74caddf5385afdc42942c6cfa66.bindPopup(popup_de59781aebca4caac8f694e6ab6d35c3)
+        ;
+
+        
+    
+    
+            circle_marker_4995e74caddf5385afdc42942c6cfa66.bindTooltip(
+                `<div>
+                     Yacoub Shaheen (Hebron)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1b5e770a089e2ece3c063daf18fdf772 = L.circleMarker(
                 [30.8124247, 34.8594762],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_88068aa826fab5addb5f054084a18598 = L.popup({
+        var popup_850c0e9a3070db9b43cccf12f24a2319 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_c56f041fef94f8cd826f8817e2e4e6ef = $(`<div id="html_c56f041fef94f8cd826f8817e2e4e6ef" style="width: 100.0%; height: 100.0%;"><b>Lina Makoul</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Lina_Makoul" target="_blank">Wikipedia</a></div>`)[0];
-                popup_88068aa826fab5addb5f054084a18598.setContent(html_c56f041fef94f8cd826f8817e2e4e6ef);
+                var html_4208d393d1dafda6e16b3bbfc1de5811 = $(`<div id="html_4208d393d1dafda6e16b3bbfc1de5811" style="width: 100.0%; height: 100.0%;"><b>Harel Moyal</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Harel_Moyal" target="_blank">Wikipedia</a></div>`)[0];
+                popup_850c0e9a3070db9b43cccf12f24a2319.setContent(html_4208d393d1dafda6e16b3bbfc1de5811);
             
         
 
-        circle_marker_7546f10a87ff3732bdb772ba1f9a368f.bindPopup(popup_88068aa826fab5addb5f054084a18598)
+        circle_marker_1b5e770a089e2ece3c063daf18fdf772.bindPopup(popup_850c0e9a3070db9b43cccf12f24a2319)
         ;
 
         
     
     
-            circle_marker_7546f10a87ff3732bdb772ba1f9a368f.bindTooltip(
+            circle_marker_1b5e770a089e2ece3c063daf18fdf772.bindTooltip(
                 `<div>
-                     Lina Makoul (Israel)
+                     Harel Moyal (Israel)
                  </div>`,
                 {
   "sticky": true,
@@ -429,63 +330,30 @@
             );
         
     
-            var circle_marker_2832358e6e144d0969e98d52e05cf00b = L.circleMarker(
-                [31.462421, 34.2627215],
-                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
-        
-    
-        var popup_e9522326c97a64fec532ea6db61431b9 = L.popup({
-  "maxWidth": 300,
-});
-
-        
-            
-                var html_cda8827f5fac5fff62eeec07e279cfa1 = $(`<div id="html_cda8827f5fac5fff62eeec07e279cfa1" style="width: 100.0%; height: 100.0%;"><b>Nabil Salameh</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Nabil_Salameh" target="_blank">Wikipedia</a></div>`)[0];
-                popup_e9522326c97a64fec532ea6db61431b9.setContent(html_cda8827f5fac5fff62eeec07e279cfa1);
-            
-        
-
-        circle_marker_2832358e6e144d0969e98d52e05cf00b.bindPopup(popup_e9522326c97a64fec532ea6db61431b9)
-        ;
-
-        
-    
-    
-            circle_marker_2832358e6e144d0969e98d52e05cf00b.bindTooltip(
-                `<div>
-                     Nabil Salameh (Palestine)
-                 </div>`,
-                {
-  "sticky": true,
-}
-            );
-        
-    
-            var circle_marker_8c1eed0e26f4cc0336f5f7bd675e23ca = L.circleMarker(
+            var circle_marker_fc00012c337307670c63a4f2e831ee1f = L.circleMarker(
                 [46.603354, 1.8883335],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_2afbd727b73cd00ca5e5f03d13b81607 = L.popup({
+        var popup_813df528082aec38b24be94d746da59d = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_37144c9914dd0d5b76897ea445b59097 = $(`<div id="html_37144c9914dd0d5b76897ea445b59097" style="width: 100.0%; height: 100.0%;"><b>Ramzi Aburedwan</b><br>Origin: Palestine<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Ramzi_Aburedwan" target="_blank">Wikipedia</a></div>`)[0];
-                popup_2afbd727b73cd00ca5e5f03d13b81607.setContent(html_37144c9914dd0d5b76897ea445b59097);
+                var html_1052ead79de2eae144c77aed177f6f10 = $(`<div id="html_1052ead79de2eae144c77aed177f6f10" style="width: 100.0%; height: 100.0%;"><b>Ramzi Aburedwan</b><br>Origin: Palestine<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Ramzi_Aburedwan" target="_blank">Wikipedia</a></div>`)[0];
+                popup_813df528082aec38b24be94d746da59d.setContent(html_1052ead79de2eae144c77aed177f6f10);
             
         
 
-        circle_marker_8c1eed0e26f4cc0336f5f7bd675e23ca.bindPopup(popup_2afbd727b73cd00ca5e5f03d13b81607)
+        circle_marker_fc00012c337307670c63a4f2e831ee1f.bindPopup(popup_813df528082aec38b24be94d746da59d)
         ;
 
         
     
     
-            circle_marker_8c1eed0e26f4cc0336f5f7bd675e23ca.bindTooltip(
+            circle_marker_fc00012c337307670c63a4f2e831ee1f.bindTooltip(
                 `<div>
                      Ramzi Aburedwan (France)
                  </div>`,
@@ -495,32 +363,32 @@
             );
         
     
-            var circle_marker_456d66c8d6267c499734bc976f632375 = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_e41b265cba7b7c9985fea9a417677e13 = L.circleMarker(
+                [30.8124247, 34.8594762],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_86cb03565b5cd963c5fdb176edee375a = L.popup({
+        var popup_15024067ec1d1035c5b5678d305c7515 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_463f3252b1e40d119c8dbf121d4a5925 = $(`<div id="html_463f3252b1e40d119c8dbf121d4a5925" style="width: 100.0%; height: 100.0%;"><b>Iyad Rimawi</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Iyad_Rimawi" target="_blank">Wikipedia</a></div>`)[0];
-                popup_86cb03565b5cd963c5fdb176edee375a.setContent(html_463f3252b1e40d119c8dbf121d4a5925);
+                var html_98c2a7128a06c88e0be26a981bd16c7f = $(`<div id="html_98c2a7128a06c88e0be26a981bd16c7f" style="width: 100.0%; height: 100.0%;"><b>Ester Rada</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Ester_Rada" target="_blank">Wikipedia</a></div>`)[0];
+                popup_15024067ec1d1035c5b5678d305c7515.setContent(html_98c2a7128a06c88e0be26a981bd16c7f);
             
         
 
-        circle_marker_456d66c8d6267c499734bc976f632375.bindPopup(popup_86cb03565b5cd963c5fdb176edee375a)
+        circle_marker_e41b265cba7b7c9985fea9a417677e13.bindPopup(popup_15024067ec1d1035c5b5678d305c7515)
         ;
 
         
     
     
-            circle_marker_456d66c8d6267c499734bc976f632375.bindTooltip(
+            circle_marker_e41b265cba7b7c9985fea9a417677e13.bindTooltip(
                 `<div>
-                     Iyad Rimawi (Palestine)
+                     Ester Rada (Israel)
                  </div>`,
                 {
   "sticky": true,
@@ -528,32 +396,32 @@
             );
         
     
-            var circle_marker_9d1c99b0fe310e46a2d72e67ef838aaf = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_b7e6e0aba512ecd977191cc78d329886 = L.circleMarker(
+                [30.8124247, 34.8594762],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_807524708fc82dbc17f196907fa6923b = L.popup({
+        var popup_a6ac21f69d67ef52b3f02a03ae3d6602 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_9a30dd8543decad37fb2e6ba5ddbeb75 = $(`<div id="html_9a30dd8543decad37fb2e6ba5ddbeb75" style="width: 100.0%; height: 100.0%;"><b>Mohsen Subhi</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Mohsen_Subhi" target="_blank">Wikipedia</a></div>`)[0];
-                popup_807524708fc82dbc17f196907fa6923b.setContent(html_9a30dd8543decad37fb2e6ba5ddbeb75);
+                var html_e882cdfe6bdf17a26047c43c58b12c64 = $(`<div id="html_e882cdfe6bdf17a26047c43c58b12c64" style="width: 100.0%; height: 100.0%;"><b>Avigayil Koevary</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Avigail_Kovari" target="_blank">Wikipedia</a></div>`)[0];
+                popup_a6ac21f69d67ef52b3f02a03ae3d6602.setContent(html_e882cdfe6bdf17a26047c43c58b12c64);
             
         
 
-        circle_marker_9d1c99b0fe310e46a2d72e67ef838aaf.bindPopup(popup_807524708fc82dbc17f196907fa6923b)
+        circle_marker_b7e6e0aba512ecd977191cc78d329886.bindPopup(popup_a6ac21f69d67ef52b3f02a03ae3d6602)
         ;
 
         
     
     
-            circle_marker_9d1c99b0fe310e46a2d72e67ef838aaf.bindTooltip(
+            circle_marker_b7e6e0aba512ecd977191cc78d329886.bindTooltip(
                 `<div>
-                     Mohsen Subhi (Palestine)
+                     Avigayil Koevary (Israel)
                  </div>`,
                 {
   "sticky": true,
@@ -561,32 +429,32 @@
             );
         
     
-            var circle_marker_7e953ea5d4d5a489e854004a9eacbd4c = L.circleMarker(
-                [29.2733964, 47.4979476],
+            var circle_marker_b6a5c67c53c696358a570b53d9ad99c3 = L.circleMarker(
+                [30.8124247, 34.8594762],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_34ef51736da86717ad77f5c643c2d5d1 = L.popup({
+        var popup_94d2f85c6ce1cdb5ca643431b8b7629a = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_bf26f5145948ba18478e14f2df298a23 = $(`<div id="html_bf26f5145948ba18478e14f2df298a23" style="width: 100.0%; height: 100.0%;"><b>Ammar Hassan</b><br>Origin: Palestine<br>Current Residence: Kuwait<br><a href="https://en.wikipedia.org/wiki/Ammar_Hassan" target="_blank">Wikipedia</a></div>`)[0];
-                popup_34ef51736da86717ad77f5c643c2d5d1.setContent(html_bf26f5145948ba18478e14f2df298a23);
+                var html_58628e904bdca7c0798530ba42a393b3 = $(`<div id="html_58628e904bdca7c0798530ba42a393b3" style="width: 100.0%; height: 100.0%;"><b>Yehuda Saado</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Yehuda_Saado" target="_blank">Wikipedia</a></div>`)[0];
+                popup_94d2f85c6ce1cdb5ca643431b8b7629a.setContent(html_58628e904bdca7c0798530ba42a393b3);
             
         
 
-        circle_marker_7e953ea5d4d5a489e854004a9eacbd4c.bindPopup(popup_34ef51736da86717ad77f5c643c2d5d1)
+        circle_marker_b6a5c67c53c696358a570b53d9ad99c3.bindPopup(popup_94d2f85c6ce1cdb5ca643431b8b7629a)
         ;
 
         
     
     
-            circle_marker_7e953ea5d4d5a489e854004a9eacbd4c.bindTooltip(
+            circle_marker_b6a5c67c53c696358a570b53d9ad99c3.bindTooltip(
                 `<div>
-                     Ammar Hassan (Kuwait)
+                     Yehuda Saado (Israel)
                  </div>`,
                 {
   "sticky": true,
@@ -594,32 +462,32 @@
             );
         
     
-            var circle_marker_d8eac52ba9365ed96632dc48526c4fc9 = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_4428a8e19079cee7eb576b21827402a6 = L.circleMarker(
+                [31.8978012, 35.1924223],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_6a271fd7bdb4e7c83682ceccb085c82b = L.popup({
+        var popup_7ee67abbd59850649d00f9e0c4af1053 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_dc15bd855a03b26c571a4390ee545be4 = $(`<div id="html_dc15bd855a03b26c571a4390ee545be4" style="width: 100.0%; height: 100.0%;"><b>Sameh Zakout</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Sameh_Zakout" target="_blank">Wikipedia</a></div>`)[0];
-                popup_6a271fd7bdb4e7c83682ceccb085c82b.setContent(html_dc15bd855a03b26c571a4390ee545be4);
+                var html_5256f9d481a697458eac6d1fc02efec0 = $(`<div id="html_5256f9d481a697458eac6d1fc02efec0" style="width: 100.0%; height: 100.0%;"><b>Nai Barghouti</b><br>Origin: Palestine<br>Current Residence: Ramallah<br><a href="https://en.wikipedia.org/wiki/Nai_Barghouti" target="_blank">Wikipedia</a></div>`)[0];
+                popup_7ee67abbd59850649d00f9e0c4af1053.setContent(html_5256f9d481a697458eac6d1fc02efec0);
             
         
 
-        circle_marker_d8eac52ba9365ed96632dc48526c4fc9.bindPopup(popup_6a271fd7bdb4e7c83682ceccb085c82b)
+        circle_marker_4428a8e19079cee7eb576b21827402a6.bindPopup(popup_7ee67abbd59850649d00f9e0c4af1053)
         ;
 
         
     
     
-            circle_marker_d8eac52ba9365ed96632dc48526c4fc9.bindTooltip(
+            circle_marker_4428a8e19079cee7eb576b21827402a6.bindTooltip(
                 `<div>
-                     Sameh Zakout (Palestine)
+                     Nai Barghouti (Ramallah)
                  </div>`,
                 {
   "sticky": true,
@@ -627,32 +495,32 @@
             );
         
     
-            var circle_marker_c28c155a7279989db7deaa6623c3ef1e = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_3c20cfee7855d182c9f61ec37a6df28e = L.circleMarker(
+                [30.8124247, 34.8594762],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_5fb50c42610735cbd96f41aed489b200 = L.popup({
+        var popup_468c87508aaee64cf2d89976fe1aafd7 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_51f884e59aef36588c9546838e5d7019 = $(`<div id="html_51f884e59aef36588c9546838e5d7019" style="width: 100.0%; height: 100.0%;"><b>Faraj Suleiman</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Faraj_Suleiman" target="_blank">Wikipedia</a></div>`)[0];
-                popup_5fb50c42610735cbd96f41aed489b200.setContent(html_51f884e59aef36588c9546838e5d7019);
+                var html_af0828cb623edcf067cd69d362f700b6 = $(`<div id="html_af0828cb623edcf067cd69d362f700b6" style="width: 100.0%; height: 100.0%;"><b>Asher Swissa</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Asher_Swissa" target="_blank">Wikipedia</a></div>`)[0];
+                popup_468c87508aaee64cf2d89976fe1aafd7.setContent(html_af0828cb623edcf067cd69d362f700b6);
             
         
 
-        circle_marker_c28c155a7279989db7deaa6623c3ef1e.bindPopup(popup_5fb50c42610735cbd96f41aed489b200)
+        circle_marker_3c20cfee7855d182c9f61ec37a6df28e.bindPopup(popup_468c87508aaee64cf2d89976fe1aafd7)
         ;
 
         
     
     
-            circle_marker_c28c155a7279989db7deaa6623c3ef1e.bindTooltip(
+            circle_marker_3c20cfee7855d182c9f61ec37a6df28e.bindTooltip(
                 `<div>
-                     Faraj Suleiman (Palestine)
+                     Asher Swissa (Israel)
                  </div>`,
                 {
   "sticky": true,
@@ -660,32 +528,32 @@
             );
         
     
-            var circle_marker_40b902a609bca058f42a969fc7c5d238 = L.circleMarker(
-                [31.1667049, 36.941628],
+            var circle_marker_24df90030a77c845817829711aee0fe8 = L.circleMarker(
+                [30.8124247, 34.8594762],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_5c9471dadd7eb7608eda17bbeda6869c = L.popup({
+        var popup_bb9e6615a9a7f16ea540d42027d82427 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_964c8968e67699b275bcc30d8be188b6 = $(`<div id="html_964c8968e67699b275bcc30d8be188b6" style="width: 100.0%; height: 100.0%;"><b>Iyad Sughayer</b><br>Origin: Palestine<br>Current Residence: Jordan<br><a href="https://en.wikipedia.org/wiki/Iyad_Sughayer" target="_blank">Wikipedia</a></div>`)[0];
-                popup_5c9471dadd7eb7608eda17bbeda6869c.setContent(html_964c8968e67699b275bcc30d8be188b6);
+                var html_9a52063e13221faea7d80c3edaecd163 = $(`<div id="html_9a52063e13221faea7d80c3edaecd163" style="width: 100.0%; height: 100.0%;"><b>Yoad Nevo</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Yoad_Nevo" target="_blank">Wikipedia</a></div>`)[0];
+                popup_bb9e6615a9a7f16ea540d42027d82427.setContent(html_9a52063e13221faea7d80c3edaecd163);
             
         
 
-        circle_marker_40b902a609bca058f42a969fc7c5d238.bindPopup(popup_5c9471dadd7eb7608eda17bbeda6869c)
+        circle_marker_24df90030a77c845817829711aee0fe8.bindPopup(popup_bb9e6615a9a7f16ea540d42027d82427)
         ;
 
         
     
     
-            circle_marker_40b902a609bca058f42a969fc7c5d238.bindTooltip(
+            circle_marker_24df90030a77c845817829711aee0fe8.bindTooltip(
                 `<div>
-                     Iyad Sughayer (Jordan)
+                     Yoad Nevo (Israel)
                  </div>`,
                 {
   "sticky": true,
@@ -693,32 +561,32 @@
             );
         
     
-            var circle_marker_39aa2db002bb43f0077f9e45818b8cdc = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_d670c4c9935c4b4a4cec1e857c856553 = L.circleMarker(
+                [30.6119687, 34.8012169],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_40935eb34d1f0e574898f2fb7e1b9b57 = L.popup({
+        var popup_ad422ad75f3785c2592910e3c517b296 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_ca4a7f3fa3a963d5ff2ec8169ac56795 = $(`<div id="html_ca4a7f3fa3a963d5ff2ec8169ac56795" style="width: 100.0%; height: 100.0%;"><b>Hani Mitwasi</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Hani_Mitwasi" target="_blank">Wikipedia</a></div>`)[0];
-                popup_40935eb34d1f0e574898f2fb7e1b9b57.setContent(html_ca4a7f3fa3a963d5ff2ec8169ac56795);
+                var html_bf587f95ab01180b7b03d11cdff61098 = $(`<div id="html_bf587f95ab01180b7b03d11cdff61098" style="width: 100.0%; height: 100.0%;"><b>Ehud Ettun</b><br>Origin: Palestine<br>Current Residence: Mitzpe Ramon<br><a href="https://en.wikipedia.org/wiki/Ehud_Ettun" target="_blank">Wikipedia</a></div>`)[0];
+                popup_ad422ad75f3785c2592910e3c517b296.setContent(html_bf587f95ab01180b7b03d11cdff61098);
             
         
 
-        circle_marker_39aa2db002bb43f0077f9e45818b8cdc.bindPopup(popup_40935eb34d1f0e574898f2fb7e1b9b57)
+        circle_marker_d670c4c9935c4b4a4cec1e857c856553.bindPopup(popup_ad422ad75f3785c2592910e3c517b296)
         ;
 
         
     
     
-            circle_marker_39aa2db002bb43f0077f9e45818b8cdc.bindTooltip(
+            circle_marker_d670c4c9935c4b4a4cec1e857c856553.bindTooltip(
                 `<div>
-                     Hani Mitwasi (Palestine)
+                     Ehud Ettun (Mitzpe Ramon)
                  </div>`,
                 {
   "sticky": true,
@@ -726,30 +594,228 @@
             );
         
     
-            var circle_marker_69a25f08f61827cb43ac330c483b16a1 = L.circleMarker(
+            var circle_marker_4f96470bc22b55b1ec6bb1cf3a09657b = L.circleMarker(
+                [30.8124247, 34.8594762],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_f7019a245380525f5cb879dde9dd3a73 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3f720675b18e8429b2b8faef5a05c998 = $(`<div id="html_3f720675b18e8429b2b8faef5a05c998" style="width: 100.0%; height: 100.0%;"><b>Talia Amar</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Talia_Amar" target="_blank">Wikipedia</a></div>`)[0];
+                popup_f7019a245380525f5cb879dde9dd3a73.setContent(html_3f720675b18e8429b2b8faef5a05c998);
+            
+        
+
+        circle_marker_4f96470bc22b55b1ec6bb1cf3a09657b.bindPopup(popup_f7019a245380525f5cb879dde9dd3a73)
+        ;
+
+        
+    
+    
+            circle_marker_4f96470bc22b55b1ec6bb1cf3a09657b.bindTooltip(
+                `<div>
+                     Talia Amar (Israel)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5c10262f7db36214193ade38bf4f29f2 = L.circleMarker(
+                [30.8124247, 34.8594762],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_df30a8f4fe137e899c72cc8fef561a1d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_5161e18e45c6a88ca314900e56863762 = $(`<div id="html_5161e18e45c6a88ca314900e56863762" style="width: 100.0%; height: 100.0%;"><b>Yaron Kohlberg</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Yaron_Kohlberg" target="_blank">Wikipedia</a></div>`)[0];
+                popup_df30a8f4fe137e899c72cc8fef561a1d.setContent(html_5161e18e45c6a88ca314900e56863762);
+            
+        
+
+        circle_marker_5c10262f7db36214193ade38bf4f29f2.bindPopup(popup_df30a8f4fe137e899c72cc8fef561a1d)
+        ;
+
+        
+    
+    
+            circle_marker_5c10262f7db36214193ade38bf4f29f2.bindTooltip(
+                `<div>
+                     Yaron Kohlberg (Israel)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3115ede9b2aca50552351c30a27d9056 = L.circleMarker(
+                [30.8124247, 34.8594762],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_2e043045c48036d621c8d63fd8d77dbf = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_222d95f5e88151762382ed9a295c2373 = $(`<div id="html_222d95f5e88151762382ed9a295c2373" style="width: 100.0%; height: 100.0%;"><b>Uri Kabiri</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Uri_Kabiri" target="_blank">Wikipedia</a></div>`)[0];
+                popup_2e043045c48036d621c8d63fd8d77dbf.setContent(html_222d95f5e88151762382ed9a295c2373);
+            
+        
+
+        circle_marker_3115ede9b2aca50552351c30a27d9056.bindPopup(popup_2e043045c48036d621c8d63fd8d77dbf)
+        ;
+
+        
+    
+    
+            circle_marker_3115ede9b2aca50552351c30a27d9056.bindTooltip(
+                `<div>
+                     Uri Kabiri (Israel)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_fafc5b4dda5c5eceffb1409335e5d48f = L.circleMarker(
+                [30.8124247, 34.8594762],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_5dcea149d0b1f8a23da881e8969b7dd6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3f918ecac51df154b06d7b92a68c00b5 = $(`<div id="html_3f918ecac51df154b06d7b92a68c00b5" style="width: 100.0%; height: 100.0%;"><b>Hila Plitmann</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Hila_Plitmann" target="_blank">Wikipedia</a></div>`)[0];
+                popup_5dcea149d0b1f8a23da881e8969b7dd6.setContent(html_3f918ecac51df154b06d7b92a68c00b5);
+            
+        
+
+        circle_marker_fafc5b4dda5c5eceffb1409335e5d48f.bindPopup(popup_5dcea149d0b1f8a23da881e8969b7dd6)
+        ;
+
+        
+    
+    
+            circle_marker_fafc5b4dda5c5eceffb1409335e5d48f.bindTooltip(
+                `<div>
+                     Hila Plitmann (Israel)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_6f71202ecd2e0c5150987fd0193b9ceb = L.circleMarker(
+                [30.8124247, 34.8594762],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_fbcb31aea934791ba168b6ef4c847134 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_12485d0108bdae2a86af4e5b910e6a43 = $(`<div id="html_12485d0108bdae2a86af4e5b910e6a43" style="width: 100.0%; height: 100.0%;"><b>Yaron Gottfried</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Yaron_Gottfried" target="_blank">Wikipedia</a></div>`)[0];
+                popup_fbcb31aea934791ba168b6ef4c847134.setContent(html_12485d0108bdae2a86af4e5b910e6a43);
+            
+        
+
+        circle_marker_6f71202ecd2e0c5150987fd0193b9ceb.bindPopup(popup_fbcb31aea934791ba168b6ef4c847134)
+        ;
+
+        
+    
+    
+            circle_marker_6f71202ecd2e0c5150987fd0193b9ceb.bindTooltip(
+                `<div>
+                     Yaron Gottfried (Israel)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8fb01617b1df4c31c83489c210a4472f = L.circleMarker(
+                [32.4749962, 34.975139],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_f75ed3aeef8f917cb9ac56c86bd609e2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_26e9412192f2631fb07a9827beabc933 = $(`<div id="html_26e9412192f2631fb07a9827beabc933" style="width: 100.0%; height: 100.0%;"><b>Hanan Ben Ari</b><br>Origin: Palestine<br>Current Residence: Pardes Hanna-Karkur<br><a href="https://en.wikipedia.org/wiki/Hanan_Ben_Ari" target="_blank">Wikipedia</a></div>`)[0];
+                popup_f75ed3aeef8f917cb9ac56c86bd609e2.setContent(html_26e9412192f2631fb07a9827beabc933);
+            
+        
+
+        circle_marker_8fb01617b1df4c31c83489c210a4472f.bindPopup(popup_f75ed3aeef8f917cb9ac56c86bd609e2)
+        ;
+
+        
+    
+    
+            circle_marker_8fb01617b1df4c31c83489c210a4472f.bindTooltip(
+                `<div>
+                     Hanan Ben Ari (Pardes Hanna-Karkur)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b711bf7ac2c6bf3c788c924a983a0e10 = L.circleMarker(
                 [29.2696663, 91.2419862],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_939698c968e61579a7acccefafba79e2 = L.popup({
+        var popup_1d871958b4a1c25b134b9ec9f4d9675b = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_ff5a5f72dc4e90c253a24d787b193bfe = $(`<div id="html_ff5a5f72dc4e90c253a24d787b193bfe" style="width: 100.0%; height: 100.0%;"><b>Tuna</b><br>Origin: Palestine<br>Current Residence: Gaza City<br><a href="https://en.wikipedia.org/wiki/Tuna_(rapper)" target="_blank">Wikipedia</a></div>`)[0];
-                popup_939698c968e61579a7acccefafba79e2.setContent(html_ff5a5f72dc4e90c253a24d787b193bfe);
+                var html_5a64b343701b1826e37fde6e40df360e = $(`<div id="html_5a64b343701b1826e37fde6e40df360e" style="width: 100.0%; height: 100.0%;"><b>Tuna</b><br>Origin: Palestine<br>Current Residence: Gaza City<br><a href="https://en.wikipedia.org/wiki/Tuna_(rapper)" target="_blank">Wikipedia</a></div>`)[0];
+                popup_1d871958b4a1c25b134b9ec9f4d9675b.setContent(html_5a64b343701b1826e37fde6e40df360e);
             
         
 
-        circle_marker_69a25f08f61827cb43ac330c483b16a1.bindPopup(popup_939698c968e61579a7acccefafba79e2)
+        circle_marker_b711bf7ac2c6bf3c788c924a983a0e10.bindPopup(popup_1d871958b4a1c25b134b9ec9f4d9675b)
         ;
 
         
     
     
-            circle_marker_69a25f08f61827cb43ac330c483b16a1.bindTooltip(
+            circle_marker_b711bf7ac2c6bf3c788c924a983a0e10.bindTooltip(
                 `<div>
                      Tuna (Gaza City)
                  </div>`,
@@ -759,32 +825,32 @@
             );
         
     
-            var circle_marker_4dde0ba9652285b712e3214f05d274af = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_8ce0463f2beab7a932096ac23dc6188f = L.circleMarker(
+                [30.8124247, 34.8594762],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_42c33b07f9e46a100b8d63f609204d2d = L.popup({
+        var popup_9e9393a96d84d1e0c3a86069c911fe9e = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_e69da21f032649a669b2d8217e732344 = $(`<div id="html_e69da21f032649a669b2d8217e732344" style="width: 100.0%; height: 100.0%;"><b>Shabjdeed</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Shabjdeed" target="_blank">Wikipedia</a></div>`)[0];
-                popup_42c33b07f9e46a100b8d63f609204d2d.setContent(html_e69da21f032649a669b2d8217e732344);
+                var html_d9ba1bf87261655b7051ca0a193db5a5 = $(`<div id="html_d9ba1bf87261655b7051ca0a193db5a5" style="width: 100.0%; height: 100.0%;"><b>Jasmin Moallem</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Jasmin_Moallem" target="_blank">Wikipedia</a></div>`)[0];
+                popup_9e9393a96d84d1e0c3a86069c911fe9e.setContent(html_d9ba1bf87261655b7051ca0a193db5a5);
             
         
 
-        circle_marker_4dde0ba9652285b712e3214f05d274af.bindPopup(popup_42c33b07f9e46a100b8d63f609204d2d)
+        circle_marker_8ce0463f2beab7a932096ac23dc6188f.bindPopup(popup_9e9393a96d84d1e0c3a86069c911fe9e)
         ;
 
         
     
     
-            circle_marker_4dde0ba9652285b712e3214f05d274af.bindTooltip(
+            circle_marker_8ce0463f2beab7a932096ac23dc6188f.bindTooltip(
                 `<div>
-                     Shabjdeed (Palestine)
+                     Jasmin Moallem (Israel)
                  </div>`,
                 {
   "sticky": true,
@@ -792,30 +858,96 @@
             );
         
     
-            var circle_marker_f7eecc41d2dbfde38e3f7def91b3679d = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_77bd6d16858762bfa9a55dd70e4edc24 = L.circleMarker(
+                [39.7837304, -100.445882],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_2a4a61090393c3300f12d97ff022afe5 = L.popup({
+        var popup_7e3f8288cbef531814986afd320a17ba = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_21863d0f203dda6083e22fd66d97cede = $(`<div id="html_21863d0f203dda6083e22fd66d97cede" style="width: 100.0%; height: 100.0%;"><b>Nizar Wattad</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Nizar_Wattad" target="_blank">Wikipedia</a></div>`)[0];
-                popup_2a4a61090393c3300f12d97ff022afe5.setContent(html_21863d0f203dda6083e22fd66d97cede);
+                var html_af051b2a0d4812cc15a04389df6cbb66 = $(`<div id="html_af051b2a0d4812cc15a04389df6cbb66" style="width: 100.0%; height: 100.0%;"><b>Yuval Gabay</b><br>Origin: Palestine<br>Current Residence: United States<br><a href="https://en.wikipedia.org/wiki/Yuval_Gabay" target="_blank">Wikipedia</a></div>`)[0];
+                popup_7e3f8288cbef531814986afd320a17ba.setContent(html_af051b2a0d4812cc15a04389df6cbb66);
             
         
 
-        circle_marker_f7eecc41d2dbfde38e3f7def91b3679d.bindPopup(popup_2a4a61090393c3300f12d97ff022afe5)
+        circle_marker_77bd6d16858762bfa9a55dd70e4edc24.bindPopup(popup_7e3f8288cbef531814986afd320a17ba)
         ;
 
         
     
     
-            circle_marker_f7eecc41d2dbfde38e3f7def91b3679d.bindTooltip(
+            circle_marker_77bd6d16858762bfa9a55dd70e4edc24.bindTooltip(
+                `<div>
+                     Yuval Gabay (United States)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a88c04fa51680282376790018273c2e3 = L.circleMarker(
+                [40.7127281, -74.0060152],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_9c8ea24734ad4b992b1e32f6bfb703e3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_249158b1b188857b3b4301f94288c69a = $(`<div id="html_249158b1b188857b3b4301f94288c69a" style="width: 100.0%; height: 100.0%;"><b>Sivan Magen</b><br>Origin: Palestine<br>Current Residence: New York City<br><a href="https://en.wikipedia.org/wiki/Sivan_Magen" target="_blank">Wikipedia</a></div>`)[0];
+                popup_9c8ea24734ad4b992b1e32f6bfb703e3.setContent(html_249158b1b188857b3b4301f94288c69a);
+            
+        
+
+        circle_marker_a88c04fa51680282376790018273c2e3.bindPopup(popup_9c8ea24734ad4b992b1e32f6bfb703e3)
+        ;
+
+        
+    
+    
+            circle_marker_a88c04fa51680282376790018273c2e3.bindTooltip(
+                `<div>
+                     Sivan Magen (New York City)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1113dd1412560504d35896768372518a = L.circleMarker(
+                [31.462421, 34.2627215],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_6066acda99c3ab9349e9e653b981eb3b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_12d9f5c897dfa1e344204591961e9bfb = $(`<div id="html_12d9f5c897dfa1e344204591961e9bfb" style="width: 100.0%; height: 100.0%;"><b>Nizar Wattad</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Nizar_Wattad" target="_blank">Wikipedia</a></div>`)[0];
+                popup_6066acda99c3ab9349e9e653b981eb3b.setContent(html_12d9f5c897dfa1e344204591961e9bfb);
+            
+        
+
+        circle_marker_1113dd1412560504d35896768372518a.bindPopup(popup_6066acda99c3ab9349e9e653b981eb3b)
+        ;
+
+        
+    
+    
+            circle_marker_1113dd1412560504d35896768372518a.bindTooltip(
                 `<div>
                      Nizar Wattad (Palestine)
                  </div>`,
@@ -825,32 +957,32 @@
             );
         
     
-            var circle_marker_63c806e35afeb14655f6f1a8771bd8d4 = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_668d72d7ba31591a4ef20e30d0917494 = L.circleMarker(
+                [51.1638175, 10.4478313],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_041c65c9a9f79824ef38c971d1701e05 = L.popup({
+        var popup_39c93c8c29bf0600de790ad75640e91a = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_e0e0ab9d4fa46ed42dcaf499dd707da4 = $(`<div id="html_e0e0ab9d4fa46ed42dcaf499dd707da4" style="width: 100.0%; height: 100.0%;"><b>Reem Kelani</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Reem_Kelani" target="_blank">Wikipedia</a></div>`)[0];
-                popup_041c65c9a9f79824ef38c971d1701e05.setContent(html_e0e0ab9d4fa46ed42dcaf499dd707da4);
+                var html_e40cfcd6be5efcbe942b02c93102775f = $(`<div id="html_e40cfcd6be5efcbe942b02c93102775f" style="width: 100.0%; height: 100.0%;"><b>Ran Nir</b><br>Origin: Palestine<br>Current Residence: Germany<br><a href="https://en.wikipedia.org/wiki/Ran_Nir" target="_blank">Wikipedia</a></div>`)[0];
+                popup_39c93c8c29bf0600de790ad75640e91a.setContent(html_e40cfcd6be5efcbe942b02c93102775f);
             
         
 
-        circle_marker_63c806e35afeb14655f6f1a8771bd8d4.bindPopup(popup_041c65c9a9f79824ef38c971d1701e05)
+        circle_marker_668d72d7ba31591a4ef20e30d0917494.bindPopup(popup_39c93c8c29bf0600de790ad75640e91a)
         ;
 
         
     
     
-            circle_marker_63c806e35afeb14655f6f1a8771bd8d4.bindTooltip(
+            circle_marker_668d72d7ba31591a4ef20e30d0917494.bindTooltip(
                 `<div>
-                     Reem Kelani (Palestine)
+                     Ran Nir (Germany)
                  </div>`,
                 {
   "sticky": true,
@@ -858,32 +990,32 @@
             );
         
     
-            var circle_marker_ab17d11a9c107aebe01943afa179cea2 = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_db1212141e8470ef09a6838d5f51f281 = L.circleMarker(
+                [30.8124247, 34.8594762],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_a60ab5d02df589b3a618774a53ecc522 = L.popup({
+        var popup_20eca2f9b41916b7375cad1b56b50d62 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_d0840ea8ebcf230841c81c9746076e34 = $(`<div id="html_d0840ea8ebcf230841c81c9746076e34" style="width: 100.0%; height: 100.0%;"><b>Tareq Abboushi</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Tareq_Abboushi" target="_blank">Wikipedia</a></div>`)[0];
-                popup_a60ab5d02df589b3a618774a53ecc522.setContent(html_d0840ea8ebcf230841c81c9746076e34);
+                var html_1f44f907cac3dd7d2124e3289b9f06c1 = $(`<div id="html_1f44f907cac3dd7d2124e3289b9f06c1" style="width: 100.0%; height: 100.0%;"><b>Zanvil Weinberger</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Zanvil_Weinberger" target="_blank">Wikipedia</a></div>`)[0];
+                popup_20eca2f9b41916b7375cad1b56b50d62.setContent(html_1f44f907cac3dd7d2124e3289b9f06c1);
             
         
 
-        circle_marker_ab17d11a9c107aebe01943afa179cea2.bindPopup(popup_a60ab5d02df589b3a618774a53ecc522)
+        circle_marker_db1212141e8470ef09a6838d5f51f281.bindPopup(popup_20eca2f9b41916b7375cad1b56b50d62)
         ;
 
         
     
     
-            circle_marker_ab17d11a9c107aebe01943afa179cea2.bindTooltip(
+            circle_marker_db1212141e8470ef09a6838d5f51f281.bindTooltip(
                 `<div>
-                     Tareq Abboushi (Palestine)
+                     Zanvil Weinberger (Israel)
                  </div>`,
                 {
   "sticky": true,
@@ -891,32 +1023,32 @@
             );
         
     
-            var circle_marker_25b29b80c8cfc77e243ba59f9972fb05 = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_f52c347affdc7558b07ca8e086d80982 = L.circleMarker(
+                [30.8124247, 34.8594762],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_e100766786fae7ccefcc98a3f1b91b16 = L.popup({
+        var popup_5b808bc000cca5524bbe53005ee37b32 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_61490744a5c5242f595bf04520e47c7d = $(`<div id="html_61490744a5c5242f595bf04520e47c7d" style="width: 100.0%; height: 100.0%;"><b>Lana Lubany</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Lana_Lubany" target="_blank">Wikipedia</a></div>`)[0];
-                popup_e100766786fae7ccefcc98a3f1b91b16.setContent(html_61490744a5c5242f595bf04520e47c7d);
+                var html_e487a54c76cb822c02d16dcb4d39dd95 = $(`<div id="html_e487a54c76cb822c02d16dcb4d39dd95" style="width: 100.0%; height: 100.0%;"><b>Ayelet Rose Gottlieb</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Ayelet_Rose_Gottlieb" target="_blank">Wikipedia</a></div>`)[0];
+                popup_5b808bc000cca5524bbe53005ee37b32.setContent(html_e487a54c76cb822c02d16dcb4d39dd95);
             
         
 
-        circle_marker_25b29b80c8cfc77e243ba59f9972fb05.bindPopup(popup_e100766786fae7ccefcc98a3f1b91b16)
+        circle_marker_f52c347affdc7558b07ca8e086d80982.bindPopup(popup_5b808bc000cca5524bbe53005ee37b32)
         ;
 
         
     
     
-            circle_marker_25b29b80c8cfc77e243ba59f9972fb05.bindTooltip(
+            circle_marker_f52c347affdc7558b07ca8e086d80982.bindTooltip(
                 `<div>
-                     Lana Lubany (Palestine)
+                     Ayelet Rose Gottlieb (Israel)
                  </div>`,
                 {
   "sticky": true,
@@ -924,32 +1056,461 @@
             );
         
     
-            var circle_marker_a6f56979373a1d7e0902fd89be463a4f = L.circleMarker(
-                [31.462421, 34.2627215],
+            var circle_marker_695c0a544b7444b38fad188acb00da68 = L.circleMarker(
+                [30.8124247, 34.8594762],
                 {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
-            ).addTo(map_fde1550981742dc4a87c1562bc32a690);
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
         
     
-        var popup_9cb8e23862fa3a216440fddc3d76b04a = L.popup({
+        var popup_8f610bf22a51be90ac501a0c605017f1 = L.popup({
   "maxWidth": 300,
 });
 
         
             
-                var html_e0642b425f504b58858c5dbc5c85cd6e = $(`<div id="html_e0642b425f504b58858c5dbc5c85cd6e" style="width: 100.0%; height: 100.0%;"><b>John Bisharat</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/John_Bisharat" target="_blank">Wikipedia</a></div>`)[0];
-                popup_9cb8e23862fa3a216440fddc3d76b04a.setContent(html_e0642b425f504b58858c5dbc5c85cd6e);
+                var html_2262d3e47d1153d62bf3dfee14c48f2a = $(`<div id="html_2262d3e47d1153d62bf3dfee14c48f2a" style="width: 100.0%; height: 100.0%;"><b>Issa Boulos</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Issa_Boulos" target="_blank">Wikipedia</a></div>`)[0];
+                popup_8f610bf22a51be90ac501a0c605017f1.setContent(html_2262d3e47d1153d62bf3dfee14c48f2a);
             
         
 
-        circle_marker_a6f56979373a1d7e0902fd89be463a4f.bindPopup(popup_9cb8e23862fa3a216440fddc3d76b04a)
+        circle_marker_695c0a544b7444b38fad188acb00da68.bindPopup(popup_8f610bf22a51be90ac501a0c605017f1)
         ;
 
         
     
     
-            circle_marker_a6f56979373a1d7e0902fd89be463a4f.bindTooltip(
+            circle_marker_695c0a544b7444b38fad188acb00da68.bindTooltip(
                 `<div>
-                     John Bisharat (Palestine)
+                     Issa Boulos (Israel)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_142bb4005b1a8e90310d659b8562e375 = L.circleMarker(
+                [37.7996613, 29.0322234],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_63f244350e100a5d4d65a000d6e9f666 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7c283fd1bb0f5644edb9b2d5fd60771d = $(`<div id="html_7c283fd1bb0f5644edb9b2d5fd60771d" style="width: 100.0%; height: 100.0%;"><b>Moshe Nathanson</b><br>Origin: Palestine<br>Current Residence: Ottoman Empire<br><a href="https://en.wikipedia.org/wiki/Moshe_Nathanson" target="_blank">Wikipedia</a></div>`)[0];
+                popup_63f244350e100a5d4d65a000d6e9f666.setContent(html_7c283fd1bb0f5644edb9b2d5fd60771d);
+            
+        
+
+        circle_marker_142bb4005b1a8e90310d659b8562e375.bindPopup(popup_63f244350e100a5d4d65a000d6e9f666)
+        ;
+
+        
+    
+    
+            circle_marker_142bb4005b1a8e90310d659b8562e375.bindTooltip(
+                `<div>
+                     Moshe Nathanson (Ottoman Empire)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_69fead10329db35c048ce18836d759d3 = L.circleMarker(
+                [30.8124247, 34.8594762],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_695d3b598d2ad20f830ed75350ebddcf = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_aa210605fef447738ed05b944050cd66 = $(`<div id="html_aa210605fef447738ed05b944050cd66" style="width: 100.0%; height: 100.0%;"><b>Bracha Eden</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Bracha_Eden" target="_blank">Wikipedia</a></div>`)[0];
+                popup_695d3b598d2ad20f830ed75350ebddcf.setContent(html_aa210605fef447738ed05b944050cd66);
+            
+        
+
+        circle_marker_69fead10329db35c048ce18836d759d3.bindPopup(popup_695d3b598d2ad20f830ed75350ebddcf)
+        ;
+
+        
+    
+    
+            circle_marker_69fead10329db35c048ce18836d759d3.bindTooltip(
+                `<div>
+                     Bracha Eden (Israel)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7d870fa9dda78398663c487ec97b1443 = L.circleMarker(
+                [61.0666922, -107.991707],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_9683071caf321d3816849c0427f47cb6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_55af37b9ec1d5a60a61e488d0660f29c = $(`<div id="html_55af37b9ec1d5a60a61e488d0660f29c" style="width: 100.0%; height: 100.0%;"><b>Jeannette Zarou</b><br>Origin: Palestine<br>Current Residence: Canada<br><a href="https://en.wikipedia.org/wiki/Jeannette_Zarou" target="_blank">Wikipedia</a></div>`)[0];
+                popup_9683071caf321d3816849c0427f47cb6.setContent(html_55af37b9ec1d5a60a61e488d0660f29c);
+            
+        
+
+        circle_marker_7d870fa9dda78398663c487ec97b1443.bindPopup(popup_9683071caf321d3816849c0427f47cb6)
+        ;
+
+        
+    
+    
+            circle_marker_7d870fa9dda78398663c487ec97b1443.bindTooltip(
+                `<div>
+                     Jeannette Zarou (Canada)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_df74e185ca179003bc7e994c92b20649 = L.circleMarker(
+                [31.462421, 34.2627215],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_ddba18d6bd7434df951af39286ec83a5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a4be5a17c57012829d5ad9fbc1278cfd = $(`<div id="html_a4be5a17c57012829d5ad9fbc1278cfd" style="width: 100.0%; height: 100.0%;"><b>Shabjdeed</b><br>Origin: Palestine<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Shabjdeed" target="_blank">Wikipedia</a></div>`)[0];
+                popup_ddba18d6bd7434df951af39286ec83a5.setContent(html_a4be5a17c57012829d5ad9fbc1278cfd);
+            
+        
+
+        circle_marker_df74e185ca179003bc7e994c92b20649.bindPopup(popup_ddba18d6bd7434df951af39286ec83a5)
+        ;
+
+        
+    
+    
+            circle_marker_df74e185ca179003bc7e994c92b20649.bindTooltip(
+                `<div>
+                     Shabjdeed (Palestine)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b583d2e8768c866ac66d12679881c305 = L.circleMarker(
+                [30.8124247, 34.8594762],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_b9e46d7d438ffeccafbcefb089899b27 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_87763876550fb839f3fe6e6c3c0d952a = $(`<div id="html_87763876550fb839f3fe6e6c3c0d952a" style="width: 100.0%; height: 100.0%;"><b>Amihai Grosz</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Amihai_Grosz" target="_blank">Wikipedia</a></div>`)[0];
+                popup_b9e46d7d438ffeccafbcefb089899b27.setContent(html_87763876550fb839f3fe6e6c3c0d952a);
+            
+        
+
+        circle_marker_b583d2e8768c866ac66d12679881c305.bindPopup(popup_b9e46d7d438ffeccafbcefb089899b27)
+        ;
+
+        
+    
+    
+            circle_marker_b583d2e8768c866ac66d12679881c305.bindTooltip(
+                `<div>
+                     Amihai Grosz (Israel)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_6c78898f749e665333e3b2cd2f6427fa = L.circleMarker(
+                [30.8124247, 34.8594762],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_f3549a5b39099775cd9957aad9847783 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e872b1b8d853f75bf1eb67cd88a8155b = $(`<div id="html_e872b1b8d853f75bf1eb67cd88a8155b" style="width: 100.0%; height: 100.0%;"><b>Lyrik</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Lyrik" target="_blank">Wikipedia</a></div>`)[0];
+                popup_f3549a5b39099775cd9957aad9847783.setContent(html_e872b1b8d853f75bf1eb67cd88a8155b);
+            
+        
+
+        circle_marker_6c78898f749e665333e3b2cd2f6427fa.bindPopup(popup_f3549a5b39099775cd9957aad9847783)
+        ;
+
+        
+    
+    
+            circle_marker_6c78898f749e665333e3b2cd2f6427fa.bindTooltip(
+                `<div>
+                     Lyrik (Israel)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_7c1d0b4d3ad1737be84037708e5092ae = L.circleMarker(
+                [30.8124247, 34.8594762],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_bbdb3da01ff8724019136abc51edf68f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_737d855753d96a9afa195c76a2756c49 = $(`<div id="html_737d855753d96a9afa195c76a2756c49" style="width: 100.0%; height: 100.0%;"><b>Eitan Avitsur</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Eitan_Avitsur" target="_blank">Wikipedia</a></div>`)[0];
+                popup_bbdb3da01ff8724019136abc51edf68f.setContent(html_737d855753d96a9afa195c76a2756c49);
+            
+        
+
+        circle_marker_7c1d0b4d3ad1737be84037708e5092ae.bindPopup(popup_bbdb3da01ff8724019136abc51edf68f)
+        ;
+
+        
+    
+    
+            circle_marker_7c1d0b4d3ad1737be84037708e5092ae.bindTooltip(
+                `<div>
+                     Eitan Avitsur (Israel)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_94e99d71b902d5696c8051584beece3c = L.circleMarker(
+                [31.7788472, 35.2257856],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_42765ced1ebc38b98ea7cc1ca561f0e9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6435086877591c4aa153941c62e6b5a6 = $(`<div id="html_6435086877591c4aa153941c62e6b5a6" style="width: 100.0%; height: 100.0%;"><b>Raz Mesinai</b><br>Origin: Palestine<br>Current Residence: Jerusalem<br><a href="https://en.wikipedia.org/wiki/Raz_Mesinai" target="_blank">Wikipedia</a></div>`)[0];
+                popup_42765ced1ebc38b98ea7cc1ca561f0e9.setContent(html_6435086877591c4aa153941c62e6b5a6);
+            
+        
+
+        circle_marker_94e99d71b902d5696c8051584beece3c.bindPopup(popup_42765ced1ebc38b98ea7cc1ca561f0e9)
+        ;
+
+        
+    
+    
+            circle_marker_94e99d71b902d5696c8051584beece3c.bindTooltip(
+                `<div>
+                     Raz Mesinai (Jerusalem)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f830a2e3de91f12197f689b022dfebe2 = L.circleMarker(
+                [54.7023545, -3.2765753],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_bb2227244b39850b42b1b794bb2b4a22 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0913439920ad877ffa1781ac446d1cc1 = $(`<div id="html_0913439920ad877ffa1781ac446d1cc1" style="width: 100.0%; height: 100.0%;"><b>Henry Hadaway</b><br>Origin: Palestine<br>Current Residence: United Kingdom<br><a href="https://en.wikipedia.org/wiki/Henry_Hadaway" target="_blank">Wikipedia</a></div>`)[0];
+                popup_bb2227244b39850b42b1b794bb2b4a22.setContent(html_0913439920ad877ffa1781ac446d1cc1);
+            
+        
+
+        circle_marker_f830a2e3de91f12197f689b022dfebe2.bindPopup(popup_bb2227244b39850b42b1b794bb2b4a22)
+        ;
+
+        
+    
+    
+            circle_marker_f830a2e3de91f12197f689b022dfebe2.bindTooltip(
+                `<div>
+                     Henry Hadaway (United Kingdom)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b291b981fe1037d296ca07437fc2cccd = L.circleMarker(
+                [31.8978012, 35.1924223],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_083b0ef148e96b47c8db501c3089db70 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d21887a56e733d3ef0c03dc1577068dc = $(`<div id="html_d21887a56e733d3ef0c03dc1577068dc" style="width: 100.0%; height: 100.0%;"><b>Wanees Zarour</b><br>Origin: Palestine<br>Current Residence: Ramallah<br><a href="https://en.wikipedia.org/wiki/Wanees_Zarour" target="_blank">Wikipedia</a></div>`)[0];
+                popup_083b0ef148e96b47c8db501c3089db70.setContent(html_d21887a56e733d3ef0c03dc1577068dc);
+            
+        
+
+        circle_marker_b291b981fe1037d296ca07437fc2cccd.bindPopup(popup_083b0ef148e96b47c8db501c3089db70)
+        ;
+
+        
+    
+    
+            circle_marker_b291b981fe1037d296ca07437fc2cccd.bindTooltip(
+                `<div>
+                     Wanees Zarour (Ramallah)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_680e7f5ebd5c8b69923af4432137e1d1 = L.circleMarker(
+                [39.7837304, -100.445882],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_3dfa87e18b4ef12e2e502338234ac798 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6f8634269d0452bfd36afaa62dd8a701 = $(`<div id="html_6f8634269d0452bfd36afaa62dd8a701" style="width: 100.0%; height: 100.0%;"><b>Tamar Muskal</b><br>Origin: Palestine<br>Current Residence: United States<br><a href="https://en.wikipedia.org/wiki/Tamar_Muskal" target="_blank">Wikipedia</a></div>`)[0];
+                popup_3dfa87e18b4ef12e2e502338234ac798.setContent(html_6f8634269d0452bfd36afaa62dd8a701);
+            
+        
+
+        circle_marker_680e7f5ebd5c8b69923af4432137e1d1.bindPopup(popup_3dfa87e18b4ef12e2e502338234ac798)
+        ;
+
+        
+    
+    
+            circle_marker_680e7f5ebd5c8b69923af4432137e1d1.bindTooltip(
+                `<div>
+                     Tamar Muskal (United States)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_37403ce529bad46528fec99f2c2d1c0f = L.circleMarker(
+                [31.7788472, 35.2257856],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_e59b98d0247d2f261ce3d5b7ed687701 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1b97fa2c4f18edcfe11a9c8c72193510 = $(`<div id="html_1b97fa2c4f18edcfe11a9c8c72193510" style="width: 100.0%; height: 100.0%;"><b>Kohava Levy</b><br>Origin: Palestine<br>Current Residence: Jerusalem<br><a href="https://en.wikipedia.org/wiki/Kohava_Levy" target="_blank">Wikipedia</a></div>`)[0];
+                popup_e59b98d0247d2f261ce3d5b7ed687701.setContent(html_1b97fa2c4f18edcfe11a9c8c72193510);
+            
+        
+
+        circle_marker_37403ce529bad46528fec99f2c2d1c0f.bindPopup(popup_e59b98d0247d2f261ce3d5b7ed687701)
+        ;
+
+        
+    
+    
+            circle_marker_37403ce529bad46528fec99f2c2d1c0f.bindTooltip(
+                `<div>
+                     Kohava Levy (Jerusalem)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_fc9bc9c370eff8098e9e0e4d7d689829 = L.circleMarker(
+                [30.8124247, 34.8594762],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "orange", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_ca1e1756a9978b9b52c027dd124ba6db);
+        
+    
+        var popup_0ddff39c64dcebbade07425d0d8dd72e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_dbf5a23ee7e318fb0529953a75392839 = $(`<div id="html_dbf5a23ee7e318fb0529953a75392839" style="width: 100.0%; height: 100.0%;"><b>Gil Weinberg</b><br>Origin: Palestine<br>Current Residence: Israel<br><a href="https://en.wikipedia.org/wiki/Gil_Weinberg" target="_blank">Wikipedia</a></div>`)[0];
+                popup_0ddff39c64dcebbade07425d0d8dd72e.setContent(html_dbf5a23ee7e318fb0529953a75392839);
+            
+        
+
+        circle_marker_fc9bc9c370eff8098e9e0e4d7d689829.bindPopup(popup_0ddff39c64dcebbade07425d0d8dd72e)
+        ;
+
+        
+    
+    
+            circle_marker_fc9bc9c370eff8098e9e0e4d7d689829.bindTooltip(
+                `<div>
+                     Gil Weinberg (Israel)
                  </div>`,
                 {
   "sticky": true,

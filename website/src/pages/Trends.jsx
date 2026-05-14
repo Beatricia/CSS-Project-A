@@ -145,36 +145,58 @@ function Trends() {
         <div className="container">
           <h2>Pageview Analysis</h2>
           <p className="section-intro">
-            Wikipedia pageviews serve as a proxy for global attention. 
+            Wikipedia pageviews serve as a measure of global attention. 
             We tracked how conflict events affected artist visibility worldwide.
           </p>
 
-          <div className="visualization-placeholder">
-            <div className="placeholder-content">
-              <span className="placeholder-icon">📈</span>
-              <h3>Pre/Post Conflict Comparison</h3>
-              <p>
-                Pageview trends visualization will be embedded here.
-                <br />
-                <em>(Replace with your prepost_conflict chart)</em>
-              </p>
-            </div>
+          <div className="pageview-chart">
+            <img 
+              src={`${import.meta.env.BASE_URL}pageviews_by_conflict.png`}
+              alt="Wikipedia Pageviews by Conflict Region" 
+              className="chart-image"
+            />
           </div>
-
+          
           <div className="insights-boxes">
-            <div className="insight-box">
-              <h4>Key Finding</h4>
+            <div className="insight-box wide">
+              <h4>⚠️ Note on Syria & Palestine</h4>
               <p>
-                Artists from conflict regions often see a spike in global attention 
-                immediately following major conflict events, as international audiences 
-                seek to understand the cultural context.
+                The Wikipedia Pageviews API only provides data from July 2015 onwards. 
+                Since the Syrian Civil War began in March 2011, we cannot capture pre-conflict pageview data for Syrian artists. 
+                The Syria chart shows pageview trends during the ongoing conflict period (2015-2020), but lacks a true 
+                "before vs after" comparison. Similarly, Palestine shows "No data" due to insufficient pageview records 
+                for the limited number of Palestinian artists in our dataset - many Palestinian musicians have minimal or no English Wiki articles.
               </p>
             </div>
             <div className="insight-box">
-              <h4>Sustained Interest</h4>
+              <h4>🇮🇱 Israel: Clearest Pattern</h4>
               <p>
-                Some artists maintain elevated pageviews long after initial spikes, 
-                suggesting lasting cultural impact and continued international interest.
+                Visible spike immediately after Oct 7, 2023 (~65,000 views vs ~10,000 baseline). 
+                Higher interest throughout 2024-2025 suggests global audiences actively 
+                sought cultural context about Israel during the conflict. 
+              </p>
+            </div>
+            <div className="insight-box">
+              <h4>🇷🇺 Russia: Moderate Spike, Then Decline</h4>
+              <p>
+                Peak around ~35,000 views right after Feb 24, 2022, followed by gradual decline 
+                to below pre-conflict levels (~10,000-15,000). May reflect international attention 
+                followed by cultural sanctions reducing visibility.
+              </p>
+            </div>
+            <div className="insight-box">
+              <h4>🇺🇦 Ukraine: High Baseline, No Dramatic Spike</h4>
+              <p>
+                Consistently high pageviews (~250,000-400,000/month) throughout with no sudden surge 
+                after the invasion. Suggests Ukrainian artists were already well-known internationally.
+              </p>
+            </div>
+            <div className="insight-box">
+              <h4>📊 Overall Conclusion</h4>
+              <p>
+                Conflict events can significantly boost global attention to artists from affected regions, 
+                particularly visible in the Israel case. However, the effect varies by country, pre-existing 
+                international recognition, geopolitical context, and media coverage all influence the pattern.
               </p>
             </div>
           </div>

@@ -198,6 +198,37 @@
   font-size: 0.9rem;
 }
 
+/* Pageview Chart */
+.pageview-chart {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.chart-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.chart-note {
+  background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
+  border-left: 4px solid #f39c12;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
+
+.chart-note p {
+  margin: 0;
+  color: #856404;
+  line-height: 1.6;
+}
+
+.chart-note strong {
+  color: #533f03;
+}
+
 /* Insights Boxes */
 .insights-boxes {
   display: grid;
@@ -216,6 +247,10 @@
 .insight-box h4 {
   color: #e94560;
   margin-bottom: 0.75rem;
+}
+
+.insight-box.wide {
+  grid-column: span 2;
 }
 
 .insight-box p {
