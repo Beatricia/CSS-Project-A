@@ -4,9 +4,9 @@ function Downloads() {
   const datasets = [
     {
       name: 'artists_data.csv',
-      description: 'Complete database of 1,583 artists from conflict regions including name, origin, birth place, and current residence.',
+      description: 'Complete database of 1,637 artists from conflict regions including name, origin, birth place, and current residence.',
       size: '148 KB',
-      rows: '1,583',
+      rows: '1,637',
       format: 'CSV'
     },
     {
@@ -106,21 +106,20 @@ function Downloads() {
           <div className="notebook-card">
             <div className="notebook-icon">📓</div>
             <div className="notebook-info">
-              <h3>conflict_music_analysis.ipynb</h3>
+              <h3>explainer_notebook.ipynb</h3>
               <p>
                 This notebook contains the complete analysis pipeline including:
               </p>
               <ul>
-                <li>Data collection from Wikidata, Wikipedia, and Genius APIs</li>
-                <li>Data cleaning and preprocessing</li>
-                <li>VADER sentiment analysis implementation</li>
-                <li>Visualization code for all charts</li>
-                <li>Statistical analysis and findings</li>
+                <li>Motivation: Why we chose this dataset and our research goals</li>
+                <li>Basic Stats: Data cleaning, preprocessing, and dataset statistics</li>
+                <li>Tools & Analysis: Text processing, VADER sentiment, geographic analysis</li>
+                <li>Discussion: What worked well and areas for improvement</li>
               </ul>
             </div>
             <div className="notebook-links">
               <a 
-                href="https://nbviewer.org/github/Beatricia/CSS-Project-A/blob/main/conflict_music_analysis.ipynb"
+                href="https://nbviewer.org/github/Beatricia/CSS-Project-A/blob/main/notebooks/explainer_notebook.ipynb"
                 className="notebook-btn primary"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -128,7 +127,7 @@ function Downloads() {
                 📖 View on nbviewer
               </a>
               <a 
-                href="https://github.com/Beatricia/CSS-Project-A/blob/main/conflict_music_analysis.ipynb"
+                href="https://github.com/Beatricia/CSS-Project-A/blob/main/notebooks/explainer_notebook.ipynb"
                 className="notebook-btn secondary"
                 target="_blank"
                 rel="noopener noreferrer"
