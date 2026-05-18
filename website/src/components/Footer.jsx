@@ -13,7 +13,7 @@ function Footer() {
           <h4>Resources</h4>
           <ul>
             <li>
-              <a href="https://nbviewer.org/" target="_blank" rel="noopener noreferrer">
+              <a href="https://nbviewer.org/github/Beatricia/CSS-Project-A/blob/main/notebooks/explainer_notebook.ipynb" target="_blank" rel="noopener noreferrer">
                 📓 Explainer Notebook
               </a>
             </li>
