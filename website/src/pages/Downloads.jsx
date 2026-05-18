@@ -17,33 +17,33 @@ function Downloads() {
       format: 'CSV'
     },
     {
-      name: 'lyrics_with_sentiment.csv',
-      description: 'Song lyrics with VADER sentiment analysis scores (compound, positive, negative, neutral).',
-      size: '280 KB',
-      rows: '130+',
+      name: 'lyrics_with_sentiment_translated.csv',
+      description: 'Song lyrics with VADER sentiment analysis scores after Google Translate preprocessing. Covers 739 songs across 5 countries (compound, positive, negative, neutral scores).',
+      size: '~350 KB',
+      rows: '739',
       format: 'CSV'
     },
     {
       name: 'raw_lyrics.json',
       description: 'Raw lyrics data in JSON format from the Genius API.',
       size: '292 KB',
-      rows: '-',
+      rows: '739',
       format: 'JSON'
     },
     {
       name: 'top_positive_songs.csv',
-      description: 'Subset of songs with the highest positive sentiment scores.',
-      size: '-',
-      rows: '-',
+      description: 'Top 20 songs with the highest positive sentiment scores after translation.',
+      size: '~5 KB',
+      rows: '20',
       format: 'CSV'
     },
     {
       name: 'top_negative_songs.csv',
-      description: 'Subset of songs with the highest negative sentiment scores.',
-      size: '-',
-      rows: '-',
+      description: 'Top 20 songs with the lowest (most negative) sentiment scores after translation.',
+      size: '~5 KB',
+      rows: '20',
       format: 'CSV'
-    }
+    },
   ];
 
   return (
