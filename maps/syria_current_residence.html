@@ -1,0 +1,3567 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1d37df41fef8b150df228d83e20bbcce {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    <div style="position: fixed; top: 10px; left: 50%; transform: translateX(-50%); z-index: 1000; background: white; padding: 8px 20px; border: 2px solid #333; border-radius: 5px; font-size: 14px;"><b>Syria - Current Residence</b> (105 artists)</div>
+    
+            <div class="folium-map" id="map_1d37df41fef8b150df228d83e20bbcce" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_1d37df41fef8b150df228d83e20bbcce = L.map(
+                "map_1d37df41fef8b150df228d83e20bbcce",
+                {
+                    center: [35.0, 38.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 6,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_d0e7779255ed59468fc8e89a178771d3 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_d0e7779255ed59468fc8e89a178771d3.addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+            var circle_marker_568507d3ba742a214e7ea3857e77616d = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_4763228f8e98c7a6fbe888bcf8a204ec = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2b6752916122e8e6badaea98acdcfbb7 = $(`<div id="html_2b6752916122e8e6badaea98acdcfbb7" style="width: 100.0%; height: 100.0%;"><b>Khaled</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Khaled_(musician)" target="_blank">Wikipedia</a></div>`)[0];
+                popup_4763228f8e98c7a6fbe888bcf8a204ec.setContent(html_2b6752916122e8e6badaea98acdcfbb7);
+            
+        
+
+        circle_marker_568507d3ba742a214e7ea3857e77616d.bindPopup(popup_4763228f8e98c7a6fbe888bcf8a204ec)
+        ;
+
+        
+    
+    
+            circle_marker_568507d3ba742a214e7ea3857e77616d.bindTooltip(
+                `<div>
+                     Khaled (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_ec634369da28bafc823ba85a039d3c4c = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_58627c46c5c11fde4f6c287fbcbddbd9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3e4268b75403b0531b12ef96b2141edf = $(`<div id="html_3e4268b75403b0531b12ef96b2141edf" style="width: 100.0%; height: 100.0%;"><b>Rachid Taha</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Rachid_Taha" target="_blank">Wikipedia</a></div>`)[0];
+                popup_58627c46c5c11fde4f6c287fbcbddbd9.setContent(html_3e4268b75403b0531b12ef96b2141edf);
+            
+        
+
+        circle_marker_ec634369da28bafc823ba85a039d3c4c.bindPopup(popup_58627c46c5c11fde4f6c287fbcbddbd9)
+        ;
+
+        
+    
+    
+            circle_marker_ec634369da28bafc823ba85a039d3c4c.bindTooltip(
+                `<div>
+                     Rachid Taha (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f171d988caf34c992581f4c86afe334d = L.circleMarker(
+                [26.2540493, 29.2675469],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_930304fa99b1e049f2bd1dccc8513938 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ce5b52b2d48a49df4526fe0c0bc74a18 = $(`<div id="html_ce5b52b2d48a49df4526fe0c0bc74a18" style="width: 100.0%; height: 100.0%;"><b>Farid al-Atrash</b><br>Origin: Syria<br>Current Residence: Egypt<br><a href="https://en.wikipedia.org/wiki/Farid_al-Atrash" target="_blank">Wikipedia</a></div>`)[0];
+                popup_930304fa99b1e049f2bd1dccc8513938.setContent(html_ce5b52b2d48a49df4526fe0c0bc74a18);
+            
+        
+
+        circle_marker_f171d988caf34c992581f4c86afe334d.bindPopup(popup_930304fa99b1e049f2bd1dccc8513938)
+        ;
+
+        
+    
+    
+            circle_marker_f171d988caf34c992581f4c86afe334d.bindTooltip(
+                `<div>
+                     Farid al-Atrash (Egypt)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_666b1d51dd2ba04d4030b8a528419fb5 = L.circleMarker(
+                [44.5526314, -71.9970262],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_ee2f1368c82edc2d73261d41a9c72660 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e4be110920ebad242f69c76ef7df606b = $(`<div id="html_e4be110920ebad242f69c76ef7df606b" style="width: 100.0%; height: 100.0%;"><b>Asmahan</b><br>Origin: Syria<br>Current Residence: Kingdom of Egypt<br><a href="https://en.wikipedia.org/wiki/Asmahan" target="_blank">Wikipedia</a></div>`)[0];
+                popup_ee2f1368c82edc2d73261d41a9c72660.setContent(html_e4be110920ebad242f69c76ef7df606b);
+            
+        
+
+        circle_marker_666b1d51dd2ba04d4030b8a528419fb5.bindPopup(popup_ee2f1368c82edc2d73261d41a9c72660)
+        ;
+
+        
+    
+    
+            circle_marker_666b1d51dd2ba04d4030b8a528419fb5.bindTooltip(
+                `<div>
+                     Asmahan (Kingdom of Egypt)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4876c34a1be8f1aa89e3cc162f87f9d1 = L.circleMarker(
+                [24.638916, 46.7160104],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_e96e868aeabfe8c7b1e8213a8a657052 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7608197a04817c5d9824beba622c73f7 = $(`<div id="html_7608197a04817c5d9824beba622c73f7" style="width: 100.0%; height: 100.0%;"><b>Assala</b><br>Origin: Syria<br>Current Residence: Riyadh<br><a href="https://en.wikipedia.org/wiki/Assala" target="_blank">Wikipedia</a></div>`)[0];
+                popup_e96e868aeabfe8c7b1e8213a8a657052.setContent(html_7608197a04817c5d9824beba622c73f7);
+            
+        
+
+        circle_marker_4876c34a1be8f1aa89e3cc162f87f9d1.bindPopup(popup_e96e868aeabfe8c7b1e8213a8a657052)
+        ;
+
+        
+    
+    
+            circle_marker_4876c34a1be8f1aa89e3cc162f87f9d1.bindTooltip(
+                `<div>
+                     Assala (Riyadh)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_837a43c4bd864364cb715e432a03400f = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_5d4e2797c37c11f9129a448fc155582d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ffc98b9f6c7557615a274d7dc84811a9 = $(`<div id="html_ffc98b9f6c7557615a274d7dc84811a9" style="width: 100.0%; height: 100.0%;"><b>George Wassouf</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/George_Wassouf" target="_blank">Wikipedia</a></div>`)[0];
+                popup_5d4e2797c37c11f9129a448fc155582d.setContent(html_ffc98b9f6c7557615a274d7dc84811a9);
+            
+        
+
+        circle_marker_837a43c4bd864364cb715e432a03400f.bindPopup(popup_5d4e2797c37c11f9129a448fc155582d)
+        ;
+
+        
+    
+    
+            circle_marker_837a43c4bd864364cb715e432a03400f.bindTooltip(
+                `<div>
+                     George Wassouf (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a5665c4ce98ecc3e40a59517fef98b56 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_4cd67d616c75f22a23919d4ecab57467 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3bd88529456854ffc20396e6bce09eac = $(`<div id="html_3bd88529456854ffc20396e6bce09eac" style="width: 100.0%; height: 100.0%;"><b>Omar Souleyman</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Omar_Souleyman" target="_blank">Wikipedia</a></div>`)[0];
+                popup_4cd67d616c75f22a23919d4ecab57467.setContent(html_3bd88529456854ffc20396e6bce09eac);
+            
+        
+
+        circle_marker_a5665c4ce98ecc3e40a59517fef98b56.bindPopup(popup_4cd67d616c75f22a23919d4ecab57467)
+        ;
+
+        
+    
+    
+            circle_marker_a5665c4ce98ecc3e40a59517fef98b56.bindTooltip(
+                `<div>
+                     Omar Souleyman (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4271ba15fe0a80c4e6154aa5bc020bc5 = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_1ff4e596e249e91bd3b37c6673b3d54f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a4954d50e556c4fbda69d37b8b12227a = $(`<div id="html_a4954d50e556c4fbda69d37b8b12227a" style="width: 100.0%; height: 100.0%;"><b>Cheba Zahouania</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Cheba_Zahouania" target="_blank">Wikipedia</a></div>`)[0];
+                popup_1ff4e596e249e91bd3b37c6673b3d54f.setContent(html_a4954d50e556c4fbda69d37b8b12227a);
+            
+        
+
+        circle_marker_4271ba15fe0a80c4e6154aa5bc020bc5.bindPopup(popup_1ff4e596e249e91bd3b37c6673b3d54f)
+        ;
+
+        
+    
+    
+            circle_marker_4271ba15fe0a80c4e6154aa5bc020bc5.bindTooltip(
+                `<div>
+                     Cheba Zahouania (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d1762b31927d05449c3239be48518236 = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_699ae7442fc2d12f3a47bcfccc169930 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2c18115511c8c7a8c992dce693d29ecb = $(`<div id="html_2c18115511c8c7a8c992dce693d29ecb" style="width: 100.0%; height: 100.0%;"><b>Cheb Hasni</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Cheb_Hasni" target="_blank">Wikipedia</a></div>`)[0];
+                popup_699ae7442fc2d12f3a47bcfccc169930.setContent(html_2c18115511c8c7a8c992dce693d29ecb);
+            
+        
+
+        circle_marker_d1762b31927d05449c3239be48518236.bindPopup(popup_699ae7442fc2d12f3a47bcfccc169930)
+        ;
+
+        
+    
+    
+            circle_marker_d1762b31927d05449c3239be48518236.bindTooltip(
+                `<div>
+                     Cheb Hasni (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8e683edea742c45cbb3f6333da88cf73 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_e5abb9b0972f942451e83a65614e4ac8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3f0e2cf1bfcc1ea41948bcfd446cb8a2 = $(`<div id="html_3f0e2cf1bfcc1ea41948bcfd446cb8a2" style="width: 100.0%; height: 100.0%;"><b>Aram Tigran</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Aram_Tigran" target="_blank">Wikipedia</a></div>`)[0];
+                popup_e5abb9b0972f942451e83a65614e4ac8.setContent(html_3f0e2cf1bfcc1ea41948bcfd446cb8a2);
+            
+        
+
+        circle_marker_8e683edea742c45cbb3f6333da88cf73.bindPopup(popup_e5abb9b0972f942451e83a65614e4ac8)
+        ;
+
+        
+    
+    
+            circle_marker_8e683edea742c45cbb3f6333da88cf73.bindTooltip(
+                `<div>
+                     Aram Tigran (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_69502852734796802f3d8dcb4dc85cff = L.circleMarker(
+                [33.8750629, 35.843409],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_fe6db569ce540da8390b703889a5e901 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a354aabffdb096fed13d22afeaa1a96f = $(`<div id="html_a354aabffdb096fed13d22afeaa1a96f" style="width: 100.0%; height: 100.0%;"><b>Samira Tawfiq</b><br>Origin: Syria<br>Current Residence: Lebanon<br><a href="https://en.wikipedia.org/wiki/Samira_Tewfik" target="_blank">Wikipedia</a></div>`)[0];
+                popup_fe6db569ce540da8390b703889a5e901.setContent(html_a354aabffdb096fed13d22afeaa1a96f);
+            
+        
+
+        circle_marker_69502852734796802f3d8dcb4dc85cff.bindPopup(popup_fe6db569ce540da8390b703889a5e901)
+        ;
+
+        
+    
+    
+            circle_marker_69502852734796802f3d8dcb4dc85cff.bindTooltip(
+                `<div>
+                     Samira Tawfiq (Lebanon)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_49c70bf0560481bf771121800da6cb8c = L.circleMarker(
+                [59.6749712, 14.5208584],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_0fdea2bc65d11f064d63846fe188b8dc = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7c406d3b654222850aa9470bb225e2b7 = $(`<div id="html_7c406d3b654222850aa9470bb225e2b7" style="width: 100.0%; height: 100.0%;"><b>Faia Younan</b><br>Origin: Syria<br>Current Residence: Sweden<br><a href="https://en.wikipedia.org/wiki/Faia_Younan" target="_blank">Wikipedia</a></div>`)[0];
+                popup_0fdea2bc65d11f064d63846fe188b8dc.setContent(html_7c406d3b654222850aa9470bb225e2b7);
+            
+        
+
+        circle_marker_49c70bf0560481bf771121800da6cb8c.bindPopup(popup_0fdea2bc65d11f064d63846fe188b8dc)
+        ;
+
+        
+    
+    
+            circle_marker_49c70bf0560481bf771121800da6cb8c.bindTooltip(
+                `<div>
+                     Faia Younan (Sweden)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4ba1ece3a08c60b8ee4bd06ac516a084 = L.circleMarker(
+                [48.8588897, 2.320041],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_f7aac6a3a828e704391eb3afd3ac5399 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f8d561b5a0039491396ff079cdd460dc = $(`<div id="html_f8d561b5a0039491396ff079cdd460dc" style="width: 100.0%; height: 100.0%;"><b>Lena Chamamyan</b><br>Origin: Syria<br>Current Residence: Paris<br><a href="https://en.wikipedia.org/wiki/Lena_Chamamyan" target="_blank">Wikipedia</a></div>`)[0];
+                popup_f7aac6a3a828e704391eb3afd3ac5399.setContent(html_f8d561b5a0039491396ff079cdd460dc);
+            
+        
+
+        circle_marker_4ba1ece3a08c60b8ee4bd06ac516a084.bindPopup(popup_f7aac6a3a828e704391eb3afd3ac5399)
+        ;
+
+        
+    
+    
+            circle_marker_4ba1ece3a08c60b8ee4bd06ac516a084.bindTooltip(
+                `<div>
+                     Lena Chamamyan (Paris)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_eaa183cffcc927806eeccbde3af38326 = L.circleMarker(
+                [26.2540493, 29.2675469],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_c2e20d9a1104e91be07e9ce4216b41a3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d637ebf5290d3c8280f8d2f133c0fdbc = $(`<div id="html_d637ebf5290d3c8280f8d2f133c0fdbc" style="width: 100.0%; height: 100.0%;"><b>Ahmed Mekky</b><br>Origin: Syria<br>Current Residence: Egypt<br><a href="https://en.wikipedia.org/wiki/Ahmed_Mekky" target="_blank">Wikipedia</a></div>`)[0];
+                popup_c2e20d9a1104e91be07e9ce4216b41a3.setContent(html_d637ebf5290d3c8280f8d2f133c0fdbc);
+            
+        
+
+        circle_marker_eaa183cffcc927806eeccbde3af38326.bindPopup(popup_c2e20d9a1104e91be07e9ce4216b41a3)
+        ;
+
+        
+    
+    
+            circle_marker_eaa183cffcc927806eeccbde3af38326.bindTooltip(
+                `<div>
+                     Ahmed Mekky (Egypt)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8a3c9c7fe833f2031e682b46eb38e9a9 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_7ec95472459e561621c59ff7af9a7684 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_5d6e5d609cf1c9835dd85d38d8a287f6 = $(`<div id="html_5d6e5d609cf1c9835dd85d38d8a287f6" style="width: 100.0%; height: 100.0%;"><b>Mayada El Hennawy</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Mayada_El_Hennawy" target="_blank">Wikipedia</a></div>`)[0];
+                popup_7ec95472459e561621c59ff7af9a7684.setContent(html_5d6e5d609cf1c9835dd85d38d8a287f6);
+            
+        
+
+        circle_marker_8a3c9c7fe833f2031e682b46eb38e9a9.bindPopup(popup_7ec95472459e561621c59ff7af9a7684)
+        ;
+
+        
+    
+    
+            circle_marker_8a3c9c7fe833f2031e682b46eb38e9a9.bindTooltip(
+                `<div>
+                     Mayada El Hennawy (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_80ee7ace02c260930107d8afe2889fe8 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_8e6cbceafc5d025a10cb1d0dee055b91 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_70263e27f699dfa7d55f78f2e3f61b41 = $(`<div id="html_70263e27f699dfa7d55f78f2e3f61b41" style="width: 100.0%; height: 100.0%;"><b>Berthe Bénichou-Aboulker</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Berthe_B%C3%A9nichou-Aboulker" target="_blank">Wikipedia</a></div>`)[0];
+                popup_8e6cbceafc5d025a10cb1d0dee055b91.setContent(html_70263e27f699dfa7d55f78f2e3f61b41);
+            
+        
+
+        circle_marker_80ee7ace02c260930107d8afe2889fe8.bindPopup(popup_8e6cbceafc5d025a10cb1d0dee055b91)
+        ;
+
+        
+    
+    
+            circle_marker_80ee7ace02c260930107d8afe2889fe8.bindTooltip(
+                `<div>
+                     Berthe Bénichou-Aboulker (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_29a27b12b2c6fea0dee1b0c143176a79 = L.circleMarker(
+                [33.8750629, 35.843409],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_89fb29587a51e04e5fe29cee101c3fb6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1ca964222425f0163cf63859d0029191 = $(`<div id="html_1ca964222425f0163cf63859d0029191" style="width: 100.0%; height: 100.0%;"><b>Badia Masabni</b><br>Origin: Syria<br>Current Residence: Lebanon<br><a href="https://en.wikipedia.org/wiki/Badia_Masabni" target="_blank">Wikipedia</a></div>`)[0];
+                popup_89fb29587a51e04e5fe29cee101c3fb6.setContent(html_1ca964222425f0163cf63859d0029191);
+            
+        
+
+        circle_marker_29a27b12b2c6fea0dee1b0c143176a79.bindPopup(popup_89fb29587a51e04e5fe29cee101c3fb6)
+        ;
+
+        
+    
+    
+            circle_marker_29a27b12b2c6fea0dee1b0c143176a79.bindTooltip(
+                `<div>
+                     Badia Masabni (Lebanon)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_661d36fb05fb56bdd8e01a4eaf7d5542 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_b0640a69170a50497d35dcef9170eeb7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9b508ce81c497c16cb3aad6e153715b5 = $(`<div id="html_9b508ce81c497c16cb3aad6e153715b5" style="width: 100.0%; height: 100.0%;"><b>Ciwan Haco</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Ciwan_Haco" target="_blank">Wikipedia</a></div>`)[0];
+                popup_b0640a69170a50497d35dcef9170eeb7.setContent(html_9b508ce81c497c16cb3aad6e153715b5);
+            
+        
+
+        circle_marker_661d36fb05fb56bdd8e01a4eaf7d5542.bindPopup(popup_b0640a69170a50497d35dcef9170eeb7)
+        ;
+
+        
+    
+    
+            circle_marker_661d36fb05fb56bdd8e01a4eaf7d5542.bindTooltip(
+                `<div>
+                     Ciwan Haco (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_bf316da857fbcca35ce2a4aadcce3734 = L.circleMarker(
+                [64.6863136, 97.7453061],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_8df7b6004b2191b2f9cc03cf7d8e3088 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e2007fb9f7243cba51dc5528df49f903 = $(`<div id="html_e2007fb9f7243cba51dc5528df49f903" style="width: 100.0%; height: 100.0%;"><b>Avraam Russo</b><br>Origin: Syria<br>Current Residence: Russia<br><a href="https://en.wikipedia.org/wiki/Avraam_Russo" target="_blank">Wikipedia</a></div>`)[0];
+                popup_8df7b6004b2191b2f9cc03cf7d8e3088.setContent(html_e2007fb9f7243cba51dc5528df49f903);
+            
+        
+
+        circle_marker_bf316da857fbcca35ce2a4aadcce3734.bindPopup(popup_8df7b6004b2191b2f9cc03cf7d8e3088)
+        ;
+
+        
+    
+    
+            circle_marker_bf316da857fbcca35ce2a4aadcce3734.bindTooltip(
+                `<div>
+                     Avraam Russo (Russia)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_096ded22e42eb19f56ee9337033419b3 = L.circleMarker(
+                [31.7788472, 35.2257856],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_d21eb4e1355762d8e706f240895038c1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0528c43cba39f26a2be021579944088f = $(`<div id="html_0528c43cba39f26a2be021579944088f" style="width: 100.0%; height: 100.0%;"><b>Guy Mardel</b><br>Origin: Syria<br>Current Residence: Jerusalem<br><a href="https://en.wikipedia.org/wiki/Guy_Mardel" target="_blank">Wikipedia</a></div>`)[0];
+                popup_d21eb4e1355762d8e706f240895038c1.setContent(html_0528c43cba39f26a2be021579944088f);
+            
+        
+
+        circle_marker_096ded22e42eb19f56ee9337033419b3.bindPopup(popup_d21eb4e1355762d8e706f240895038c1)
+        ;
+
+        
+    
+    
+            circle_marker_096ded22e42eb19f56ee9337033419b3.bindTooltip(
+                `<div>
+                     Guy Mardel (Jerusalem)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_285f51a55533285b924f4853843a1476 = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_a71a8aa8a65a0be741601420a584bd35 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f39f4668ec41886340fb7cb6167f419b = $(`<div id="html_f39f4668ec41886340fb7cb6167f419b" style="width: 100.0%; height: 100.0%;"><b>Chaba Fadela</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Chaba_Fadela" target="_blank">Wikipedia</a></div>`)[0];
+                popup_a71a8aa8a65a0be741601420a584bd35.setContent(html_f39f4668ec41886340fb7cb6167f419b);
+            
+        
+
+        circle_marker_285f51a55533285b924f4853843a1476.bindPopup(popup_a71a8aa8a65a0be741601420a584bd35)
+        ;
+
+        
+    
+    
+            circle_marker_285f51a55533285b924f4853843a1476.bindTooltip(
+                `<div>
+                     Chaba Fadela (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_62941e215551d08ccfc1655c0a6430bf = L.circleMarker(
+                [34.0536909, -118.242766],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_69df7bd8203d67dca302b351b65b3c44 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_101f1aee8c5e3d2b7f19306ead8233f1 = $(`<div id="html_101f1aee8c5e3d2b7f19306ead8233f1" style="width: 100.0%; height: 100.0%;"><b>Paul Baghdadlian</b><br>Origin: Syria<br>Current Residence: Los Angeles<br><a href="https://en.wikipedia.org/wiki/Paul_Baghdadlian" target="_blank">Wikipedia</a></div>`)[0];
+                popup_69df7bd8203d67dca302b351b65b3c44.setContent(html_101f1aee8c5e3d2b7f19306ead8233f1);
+            
+        
+
+        circle_marker_62941e215551d08ccfc1655c0a6430bf.bindPopup(popup_69df7bd8203d67dca302b351b65b3c44)
+        ;
+
+        
+    
+    
+            circle_marker_62941e215551d08ccfc1655c0a6430bf.bindTooltip(
+                `<div>
+                     Paul Baghdadlian (Los Angeles)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_da42a047f4b2dd6d1dd44076682a4ab8 = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_142d051a40dfbab158f5604344570e81 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d7ae318e3e8567806738ce7ed893c7d6 = $(`<div id="html_d7ae318e3e8567806738ce7ed893c7d6" style="width: 100.0%; height: 100.0%;"><b>Blaoui Houari</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Blaoui_Houari" target="_blank">Wikipedia</a></div>`)[0];
+                popup_142d051a40dfbab158f5604344570e81.setContent(html_d7ae318e3e8567806738ce7ed893c7d6);
+            
+        
+
+        circle_marker_da42a047f4b2dd6d1dd44076682a4ab8.bindPopup(popup_142d051a40dfbab158f5604344570e81)
+        ;
+
+        
+    
+    
+            circle_marker_da42a047f4b2dd6d1dd44076682a4ab8.bindTooltip(
+                `<div>
+                     Blaoui Houari (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1a439f02074a4d43359e88cf8cb53ba0 = L.circleMarker(
+                [30.0443879, 31.2357257],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_ca01b1a929272232ae7233e9df28c6be = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cd970a0bcf0856b1e9150c91a7a98268 = $(`<div id="html_cd970a0bcf0856b1e9150c91a7a98268" style="width: 100.0%; height: 100.0%;"><b>Nesreen Tafesh</b><br>Origin: Syria<br>Current Residence: Cairo<br><a href="https://en.wikipedia.org/wiki/Nesreen_Tafesh" target="_blank">Wikipedia</a></div>`)[0];
+                popup_ca01b1a929272232ae7233e9df28c6be.setContent(html_cd970a0bcf0856b1e9150c91a7a98268);
+            
+        
+
+        circle_marker_1a439f02074a4d43359e88cf8cb53ba0.bindPopup(popup_ca01b1a929272232ae7233e9df28c6be)
+        ;
+
+        
+    
+    
+            circle_marker_1a439f02074a4d43359e88cf8cb53ba0.bindTooltip(
+                `<div>
+                     Nesreen Tafesh (Cairo)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_1d1a7dca0786d32e37637803d1b158be = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_e39a952f7a1d0c58bde689ea23011c43 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_74a0bfc7cba44fefd9364714eddc6fc8 = $(`<div id="html_74a0bfc7cba44fefd9364714eddc6fc8" style="width: 100.0%; height: 100.0%;"><b>Rouwaida Attieh</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Rouwaida_Attieh" target="_blank">Wikipedia</a></div>`)[0];
+                popup_e39a952f7a1d0c58bde689ea23011c43.setContent(html_74a0bfc7cba44fefd9364714eddc6fc8);
+            
+        
+
+        circle_marker_1d1a7dca0786d32e37637803d1b158be.bindPopup(popup_e39a952f7a1d0c58bde689ea23011c43)
+        ;
+
+        
+    
+    
+            circle_marker_1d1a7dca0786d32e37637803d1b158be.bindTooltip(
+                `<div>
+                     Rouwaida Attieh (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3a8c4e59c9ab7657559b096acfaf72fb = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_f22ffa6c66e2aebeb7860fbcaae8b180 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e89951a23cffbe32972976eaea11c047 = $(`<div id="html_e89951a23cffbe32972976eaea11c047" style="width: 100.0%; height: 100.0%;"><b>Amel Bouchoucha</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Amel_Bouchoucha" target="_blank">Wikipedia</a></div>`)[0];
+                popup_f22ffa6c66e2aebeb7860fbcaae8b180.setContent(html_e89951a23cffbe32972976eaea11c047);
+            
+        
+
+        circle_marker_3a8c4e59c9ab7657559b096acfaf72fb.bindPopup(popup_f22ffa6c66e2aebeb7860fbcaae8b180)
+        ;
+
+        
+    
+    
+            circle_marker_3a8c4e59c9ab7657559b096acfaf72fb.bindTooltip(
+                `<div>
+                     Amel Bouchoucha (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_6675d7a29e7049cb904ee4b7f14a8dc7 = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_d8c1f3f3a2482c115a0d8217791c95cd = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_71932c102e21a651ef9fdbc2fe566711 = $(`<div id="html_71932c102e21a651ef9fdbc2fe566711" style="width: 100.0%; height: 100.0%;"><b>Houari Manar</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Houari_Manar" target="_blank">Wikipedia</a></div>`)[0];
+                popup_d8c1f3f3a2482c115a0d8217791c95cd.setContent(html_71932c102e21a651ef9fdbc2fe566711);
+            
+        
+
+        circle_marker_6675d7a29e7049cb904ee4b7f14a8dc7.bindPopup(popup_d8c1f3f3a2482c115a0d8217791c95cd)
+        ;
+
+        
+    
+    
+            circle_marker_6675d7a29e7049cb904ee4b7f14a8dc7.bindTooltip(
+                `<div>
+                     Houari Manar (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e32a919167edff03cc418392e83262b2 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_ad4d4dbf09b9c935ab4d38ffa850296d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bbed086cc412e3278e06addf04c9b71b = $(`<div id="html_bbed086cc412e3278e06addf04c9b71b" style="width: 100.0%; height: 100.0%;"><b>Mohamad Fityan</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Mohamad_Fityan" target="_blank">Wikipedia</a></div>`)[0];
+                popup_ad4d4dbf09b9c935ab4d38ffa850296d.setContent(html_bbed086cc412e3278e06addf04c9b71b);
+            
+        
+
+        circle_marker_e32a919167edff03cc418392e83262b2.bindPopup(popup_ad4d4dbf09b9c935ab4d38ffa850296d)
+        ;
+
+        
+    
+    
+            circle_marker_e32a919167edff03cc418392e83262b2.bindTooltip(
+                `<div>
+                     Mohamad Fityan (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_90b30b9468718e2701739d7187d5d582 = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_13e28948d0c7a98bea68056d000a5fa4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_482795c8e08c3d53d2badae72b6cdd02 = $(`<div id="html_482795c8e08c3d53d2badae72b6cdd02" style="width: 100.0%; height: 100.0%;"><b>Tarek Alarabi Tourgan</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Tarek_Alarabi_Tourgane" target="_blank">Wikipedia</a></div>`)[0];
+                popup_13e28948d0c7a98bea68056d000a5fa4.setContent(html_482795c8e08c3d53d2badae72b6cdd02);
+            
+        
+
+        circle_marker_90b30b9468718e2701739d7187d5d582.bindPopup(popup_13e28948d0c7a98bea68056d000a5fa4)
+        ;
+
+        
+    
+    
+            circle_marker_90b30b9468718e2701739d7187d5d582.bindTooltip(
+                `<div>
+                     Tarek Alarabi Tourgan (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b8d1095f6651abf400b805890b80b5c4 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_de99a4cbe775685332d1b254482674d0 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_490762ae30ef8fdd48a1566714cddcb2 = $(`<div id="html_490762ae30ef8fdd48a1566714cddcb2" style="width: 100.0%; height: 100.0%;"><b>Farrah Yousef</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Farrah_Yousef" target="_blank">Wikipedia</a></div>`)[0];
+                popup_de99a4cbe775685332d1b254482674d0.setContent(html_490762ae30ef8fdd48a1566714cddcb2);
+            
+        
+
+        circle_marker_b8d1095f6651abf400b805890b80b5c4.bindPopup(popup_de99a4cbe775685332d1b254482674d0)
+        ;
+
+        
+    
+    
+            circle_marker_b8d1095f6651abf400b805890b80b5c4.bindTooltip(
+                `<div>
+                     Farrah Yousef (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_056a2b149ab6b45e8df013707e43ad8c = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_8e239764dbbc34f55b60d6d684450732 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_202fc2d54802ef9ee0eb8187b75b3601 = $(`<div id="html_202fc2d54802ef9ee0eb8187b75b3601" style="width: 100.0%; height: 100.0%;"><b>Marcel Pérès</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Marcel_P%C3%A9r%C3%A8s" target="_blank">Wikipedia</a></div>`)[0];
+                popup_8e239764dbbc34f55b60d6d684450732.setContent(html_202fc2d54802ef9ee0eb8187b75b3601);
+            
+        
+
+        circle_marker_056a2b149ab6b45e8df013707e43ad8c.bindPopup(popup_8e239764dbbc34f55b60d6d684450732)
+        ;
+
+        
+    
+    
+            circle_marker_056a2b149ab6b45e8df013707e43ad8c.bindTooltip(
+                `<div>
+                     Marcel Pérès (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_4fdd4c689fd3e2285049134784dfc2ce = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_8ed555229e55517665d6f18fa183932a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f1200dc99ed703eada6e7ccbff00364f = $(`<div id="html_f1200dc99ed703eada6e7ccbff00364f" style="width: 100.0%; height: 100.0%;"><b>Pierre Bensusan</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Pierre_Bensusan" target="_blank">Wikipedia</a></div>`)[0];
+                popup_8ed555229e55517665d6f18fa183932a.setContent(html_f1200dc99ed703eada6e7ccbff00364f);
+            
+        
+
+        circle_marker_4fdd4c689fd3e2285049134784dfc2ce.bindPopup(popup_8ed555229e55517665d6f18fa183932a)
+        ;
+
+        
+    
+    
+            circle_marker_4fdd4c689fd3e2285049134784dfc2ce.bindTooltip(
+                `<div>
+                     Pierre Bensusan (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5eeddf697ccf0d7ebf60a711c59e9c6c = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_2bbe2c446757873915d1ba570dd740fb = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_81a60c0292579b1eac69b57a8d6bb91f = $(`<div id="html_81a60c0292579b1eac69b57a8d6bb91f" style="width: 100.0%; height: 100.0%;"><b>Abed Azrie</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Abed_Azrie" target="_blank">Wikipedia</a></div>`)[0];
+                popup_2bbe2c446757873915d1ba570dd740fb.setContent(html_81a60c0292579b1eac69b57a8d6bb91f);
+            
+        
+
+        circle_marker_5eeddf697ccf0d7ebf60a711c59e9c6c.bindPopup(popup_2bbe2c446757873915d1ba570dd740fb)
+        ;
+
+        
+    
+    
+            circle_marker_5eeddf697ccf0d7ebf60a711c59e9c6c.bindTooltip(
+                `<div>
+                     Abed Azrie (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_21ca75d8666175ccae6de7fe8c11e079 = L.circleMarker(
+                [26.2540493, 29.2675469],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_e0483e8992b053ae84c7a8631e384058 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3124f4e23e64f588517cd542b91e1be9 = $(`<div id="html_3124f4e23e64f588517cd542b91e1be9" style="width: 100.0%; height: 100.0%;"><b>Rasha Rizk</b><br>Origin: Syria<br>Current Residence: Egypt<br><a href="https://en.wikipedia.org/wiki/Rasha_Rizk" target="_blank">Wikipedia</a></div>`)[0];
+                popup_e0483e8992b053ae84c7a8631e384058.setContent(html_3124f4e23e64f588517cd542b91e1be9);
+            
+        
+
+        circle_marker_21ca75d8666175ccae6de7fe8c11e079.bindPopup(popup_e0483e8992b053ae84c7a8631e384058)
+        ;
+
+        
+    
+    
+            circle_marker_21ca75d8666175ccae6de7fe8c11e079.bindTooltip(
+                `<div>
+                     Rasha Rizk (Egypt)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_38334a1cf080771aabdb81bfd92f5385 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_5d5b069632ced9e8f3bae5268b1d603c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c1bb47999ff00319c172bb22a72d5038 = $(`<div id="html_c1bb47999ff00319c172bb22a72d5038" style="width: 100.0%; height: 100.0%;"><b>Juliana Jendo</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Juliana_Jendo" target="_blank">Wikipedia</a></div>`)[0];
+                popup_5d5b069632ced9e8f3bae5268b1d603c.setContent(html_c1bb47999ff00319c172bb22a72d5038);
+            
+        
+
+        circle_marker_38334a1cf080771aabdb81bfd92f5385.bindPopup(popup_5d5b069632ced9e8f3bae5268b1d603c)
+        ;
+
+        
+    
+    
+            circle_marker_38334a1cf080771aabdb81bfd92f5385.bindTooltip(
+                `<div>
+                     Juliana Jendo (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_44827b414e2b5d322211b33c5081504c = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_9749e042c9da4d57a8dd3250ed90f52c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_93012ba0e157c6d9a881980b2333eff6 = $(`<div id="html_93012ba0e157c6d9a881980b2333eff6" style="width: 100.0%; height: 100.0%;"><b>Fahd Ballan</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Fahd_Ballan" target="_blank">Wikipedia</a></div>`)[0];
+                popup_9749e042c9da4d57a8dd3250ed90f52c.setContent(html_93012ba0e157c6d9a881980b2333eff6);
+            
+        
+
+        circle_marker_44827b414e2b5d322211b33c5081504c.bindPopup(popup_9749e042c9da4d57a8dd3250ed90f52c)
+        ;
+
+        
+    
+    
+            circle_marker_44827b414e2b5d322211b33c5081504c.bindTooltip(
+                `<div>
+                     Fahd Ballan (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5b137c6eaf97583a10aed48c7562b2a8 = L.circleMarker(
+                [59.6749712, 14.5208584],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_05bc63db7011229aaffc96d73851e6c7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f18ffca37d5a08cb53eeaaad06404b78 = $(`<div id="html_f18ffca37d5a08cb53eeaaad06404b78" style="width: 100.0%; height: 100.0%;"><b>Bishara Morad</b><br>Origin: Syria<br>Current Residence: Sweden<br><a href="https://en.wikipedia.org/wiki/Bishara_(singer)" target="_blank">Wikipedia</a></div>`)[0];
+                popup_05bc63db7011229aaffc96d73851e6c7.setContent(html_f18ffca37d5a08cb53eeaaad06404b78);
+            
+        
+
+        circle_marker_5b137c6eaf97583a10aed48c7562b2a8.bindPopup(popup_05bc63db7011229aaffc96d73851e6c7)
+        ;
+
+        
+    
+    
+            circle_marker_5b137c6eaf97583a10aed48c7562b2a8.bindTooltip(
+                `<div>
+                     Bishara Morad (Sweden)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_23e9b18233c7aaa2fc75a6562ff47dd5 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_6bf86d3126b2613cb2e533ebef1a8f2f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3d2d438a05495b8e7682dd08d614aa85 = $(`<div id="html_3d2d438a05495b8e7682dd08d614aa85" style="width: 100.0%; height: 100.0%;"><b>Marie France</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Marie_France" target="_blank">Wikipedia</a></div>`)[0];
+                popup_6bf86d3126b2613cb2e533ebef1a8f2f.setContent(html_3d2d438a05495b8e7682dd08d614aa85);
+            
+        
+
+        circle_marker_23e9b18233c7aaa2fc75a6562ff47dd5.bindPopup(popup_6bf86d3126b2613cb2e533ebef1a8f2f)
+        ;
+
+        
+    
+    
+            circle_marker_23e9b18233c7aaa2fc75a6562ff47dd5.bindTooltip(
+                `<div>
+                     Marie France (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_ddaf48340439acf93a8c1c95a5d1227c = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_e6e5c7c1589689a59ac51b43365c9f89 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7c0e79c7c8807a4d3a7f27cd1ce4f5ea = $(`<div id="html_7c0e79c7c8807a4d3a7f27cd1ce4f5ea" style="width: 100.0%; height: 100.0%;"><b>Maurice El Mediouni</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Maurice_El_M%C3%A9diouni" target="_blank">Wikipedia</a></div>`)[0];
+                popup_e6e5c7c1589689a59ac51b43365c9f89.setContent(html_7c0e79c7c8807a4d3a7f27cd1ce4f5ea);
+            
+        
+
+        circle_marker_ddaf48340439acf93a8c1c95a5d1227c.bindPopup(popup_e6e5c7c1589689a59ac51b43365c9f89)
+        ;
+
+        
+    
+    
+            circle_marker_ddaf48340439acf93a8c1c95a5d1227c.bindTooltip(
+                `<div>
+                     Maurice El Mediouni (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b34f22a3eb53755424a38d2c698f741a = L.circleMarker(
+                [31.462421, 34.2627215],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_e72192e5d37f1dccadfa18b0de9055af = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3abb59c5c6c12108154ebc9d66873fc8 = $(`<div id="html_3abb59c5c6c12108154ebc9d66873fc8" style="width: 100.0%; height: 100.0%;"><b>Asma Ghanem</b><br>Origin: Syria<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Asma_Ghanem" target="_blank">Wikipedia</a></div>`)[0];
+                popup_e72192e5d37f1dccadfa18b0de9055af.setContent(html_3abb59c5c6c12108154ebc9d66873fc8);
+            
+        
+
+        circle_marker_b34f22a3eb53755424a38d2c698f741a.bindPopup(popup_e72192e5d37f1dccadfa18b0de9055af)
+        ;
+
+        
+    
+    
+            circle_marker_b34f22a3eb53755424a38d2c698f741a.bindTooltip(
+                `<div>
+                     Asma Ghanem (Palestine)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8f1fec2a2f1d8bffd9e251567738d6e9 = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_5bc037e82f528a36527d82f1ed220bf2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ef6dd82732bdc8c03bc45544de8c28d5 = $(`<div id="html_ef6dd82732bdc8c03bc45544de8c28d5" style="width: 100.0%; height: 100.0%;"><b>Lynda Thalie</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Lynda_Thalie" target="_blank">Wikipedia</a></div>`)[0];
+                popup_5bc037e82f528a36527d82f1ed220bf2.setContent(html_ef6dd82732bdc8c03bc45544de8c28d5);
+            
+        
+
+        circle_marker_8f1fec2a2f1d8bffd9e251567738d6e9.bindPopup(popup_5bc037e82f528a36527d82f1ed220bf2)
+        ;
+
+        
+    
+    
+            circle_marker_8f1fec2a2f1d8bffd9e251567738d6e9.bindTooltip(
+                `<div>
+                     Lynda Thalie (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_992a5c7ce16b2c7fa2b2642958788581 = L.circleMarker(
+                [40.7696272, 44.6736646],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_c85912069b22368a718fcc887e99a8c4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a70efd6d43f70c09217884e9002ad023 = $(`<div id="html_a70efd6d43f70c09217884e9002ad023" style="width: 100.0%; height: 100.0%;"><b>Karnig Sarkissian</b><br>Origin: Syria<br>Current Residence: Armenia<br><a href="https://en.wikipedia.org/wiki/Karnig_Sarkissian" target="_blank">Wikipedia</a></div>`)[0];
+                popup_c85912069b22368a718fcc887e99a8c4.setContent(html_a70efd6d43f70c09217884e9002ad023);
+            
+        
+
+        circle_marker_992a5c7ce16b2c7fa2b2642958788581.bindPopup(popup_c85912069b22368a718fcc887e99a8c4)
+        ;
+
+        
+    
+    
+            circle_marker_992a5c7ce16b2c7fa2b2642958788581.bindTooltip(
+                `<div>
+                     Karnig Sarkissian (Armenia)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2cc174cbdfd7549987730f02ef42aadf = L.circleMarker(
+                [39.7837304, -100.445882],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_fdd7b53456c270a651e0785aac5fd077 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_5e1c5e59ba8852f894e483df6fb2e94e = $(`<div id="html_5e1c5e59ba8852f894e483df6fb2e94e" style="width: 100.0%; height: 100.0%;"><b>Sebu Simonian</b><br>Origin: Syria<br>Current Residence: United States<br><a href="https://en.wikipedia.org/wiki/Sebu_Simonian" target="_blank">Wikipedia</a></div>`)[0];
+                popup_fdd7b53456c270a651e0785aac5fd077.setContent(html_5e1c5e59ba8852f894e483df6fb2e94e);
+            
+        
+
+        circle_marker_2cc174cbdfd7549987730f02ef42aadf.bindPopup(popup_fdd7b53456c270a651e0785aac5fd077)
+        ;
+
+        
+    
+    
+            circle_marker_2cc174cbdfd7549987730f02ef42aadf.bindTooltip(
+                `<div>
+                     Sebu Simonian (United States)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_6723d0579710c9bcdd573320fe41e534 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_d7b7323f1b3eae6588bbe0b62e9620bb = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_fe59ef3652834599d783420880b78cfe = $(`<div id="html_fe59ef3652834599d783420880b78cfe" style="width: 100.0%; height: 100.0%;"><b>Émilie Ambre</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/%C3%89milie_Ambre" target="_blank">Wikipedia</a></div>`)[0];
+                popup_d7b7323f1b3eae6588bbe0b62e9620bb.setContent(html_fe59ef3652834599d783420880b78cfe);
+            
+        
+
+        circle_marker_6723d0579710c9bcdd573320fe41e534.bindPopup(popup_d7b7323f1b3eae6588bbe0b62e9620bb)
+        ;
+
+        
+    
+    
+            circle_marker_6723d0579710c9bcdd573320fe41e534.bindTooltip(
+                `<div>
+                     Émilie Ambre (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_6cdb3f0d4c5516e5c2d0c5440fb8cc7e = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_666a627a982c4dc410ada949428cd30f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_8f6e7701a32220f204094b49dfcb5733 = $(`<div id="html_8f6e7701a32220f204094b49dfcb5733" style="width: 100.0%; height: 100.0%;"><b>Suzanne Joly</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Suzanne_Joly" target="_blank">Wikipedia</a></div>`)[0];
+                popup_666a627a982c4dc410ada949428cd30f.setContent(html_8f6e7701a32220f204094b49dfcb5733);
+            
+        
+
+        circle_marker_6cdb3f0d4c5516e5c2d0c5440fb8cc7e.bindPopup(popup_666a627a982c4dc410ada949428cd30f)
+        ;
+
+        
+    
+    
+            circle_marker_6cdb3f0d4c5516e5c2d0c5440fb8cc7e.bindTooltip(
+                `<div>
+                     Suzanne Joly (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_bff47f6da8ba3f18c9bd044f8c10b88a = L.circleMarker(
+                [22.2792968, 114.1628907],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_44637088dca82c9e2d2a1348ed11e87b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_90c12384527c8bf4df4b2753c130fd74 = $(`<div id="html_90c12384527c8bf4df4b2753c130fd74" style="width: 100.0%; height: 100.0%;"><b>Ceet Fouad</b><br>Origin: Syria<br>Current Residence: Hong Kong<br><a href="https://en.wikipedia.org/wiki/Ceet_Fouad" target="_blank">Wikipedia</a></div>`)[0];
+                popup_44637088dca82c9e2d2a1348ed11e87b.setContent(html_90c12384527c8bf4df4b2753c130fd74);
+            
+        
+
+        circle_marker_bff47f6da8ba3f18c9bd044f8c10b88a.bindPopup(popup_44637088dca82c9e2d2a1348ed11e87b)
+        ;
+
+        
+    
+    
+            circle_marker_bff47f6da8ba3f18c9bd044f8c10b88a.bindTooltip(
+                `<div>
+                     Ceet Fouad (Hong Kong)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_669fba5001dda49052406caa5b1fa93a = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_f4fd64e7b6127b376e737625bdd8fd2f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_693909140b3a13d0326654c331eab85b = $(`<div id="html_693909140b3a13d0326654c331eab85b" style="width: 100.0%; height: 100.0%;"><b>Nassif Zeytoun</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Nassif_Zeytoun" target="_blank">Wikipedia</a></div>`)[0];
+                popup_f4fd64e7b6127b376e737625bdd8fd2f.setContent(html_693909140b3a13d0326654c331eab85b);
+            
+        
+
+        circle_marker_669fba5001dda49052406caa5b1fa93a.bindPopup(popup_f4fd64e7b6127b376e737625bdd8fd2f)
+        ;
+
+        
+    
+    
+            circle_marker_669fba5001dda49052406caa5b1fa93a.bindTooltip(
+                `<div>
+                     Nassif Zeytoun (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_86abbb40145ee5b8f39e7804c4a86017 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_aab86ca304cb1cb5da1b1260e8d514ba = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7c5eab743fd79ce5898ad62c399a4033 = $(`<div id="html_7c5eab743fd79ce5898ad62c399a4033" style="width: 100.0%; height: 100.0%;"><b>Mihemed Şêxo</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Mihemed_%C5%9E%C3%AAxo" target="_blank">Wikipedia</a></div>`)[0];
+                popup_aab86ca304cb1cb5da1b1260e8d514ba.setContent(html_7c5eab743fd79ce5898ad62c399a4033);
+            
+        
+
+        circle_marker_86abbb40145ee5b8f39e7804c4a86017.bindPopup(popup_aab86ca304cb1cb5da1b1260e8d514ba)
+        ;
+
+        
+    
+    
+            circle_marker_86abbb40145ee5b8f39e7804c4a86017.bindTooltip(
+                `<div>
+                     Mihemed Şêxo (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b0ca8c506a0dab3a0840a8d2d039be19 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_ddf5a4059ba8780598d159335ddf8b11 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_694811fb5766527db53466b855592356 = $(`<div id="html_694811fb5766527db53466b855592356" style="width: 100.0%; height: 100.0%;"><b>Ysa Ferrer</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Ysa_Ferrer" target="_blank">Wikipedia</a></div>`)[0];
+                popup_ddf5a4059ba8780598d159335ddf8b11.setContent(html_694811fb5766527db53466b855592356);
+            
+        
+
+        circle_marker_b0ca8c506a0dab3a0840a8d2d039be19.bindPopup(popup_ddf5a4059ba8780598d159335ddf8b11)
+        ;
+
+        
+    
+    
+            circle_marker_b0ca8c506a0dab3a0840a8d2d039be19.bindTooltip(
+                `<div>
+                     Ysa Ferrer (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a3606c4cbbf8c06927192c4eaefd97f5 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_5425e98255134eb030d8c57a04a0f1a1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_de5ac0eee364b41afbc131f83811042d = $(`<div id="html_de5ac0eee364b41afbc131f83811042d" style="width: 100.0%; height: 100.0%;"><b>Kinan Azmeh</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Kinan_Azmeh" target="_blank">Wikipedia</a></div>`)[0];
+                popup_5425e98255134eb030d8c57a04a0f1a1.setContent(html_de5ac0eee364b41afbc131f83811042d);
+            
+        
+
+        circle_marker_a3606c4cbbf8c06927192c4eaefd97f5.bindPopup(popup_5425e98255134eb030d8c57a04a0f1a1)
+        ;
+
+        
+    
+    
+            circle_marker_a3606c4cbbf8c06927192c4eaefd97f5.bindTooltip(
+                `<div>
+                     Kinan Azmeh (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_17462217afa3ff82a2577fa3e5703f23 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_9ae888f4fd1e463cfc5b153a0da2d534 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0b1dadfdf0c306012430466f06852702 = $(`<div id="html_0b1dadfdf0c306012430466f06852702" style="width: 100.0%; height: 100.0%;"><b>François Rabbath</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabbath" target="_blank">Wikipedia</a></div>`)[0];
+                popup_9ae888f4fd1e463cfc5b153a0da2d534.setContent(html_0b1dadfdf0c306012430466f06852702);
+            
+        
+
+        circle_marker_17462217afa3ff82a2577fa3e5703f23.bindPopup(popup_9ae888f4fd1e463cfc5b153a0da2d534)
+        ;
+
+        
+    
+    
+            circle_marker_17462217afa3ff82a2577fa3e5703f23.bindTooltip(
+                `<div>
+                     François Rabbath (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_63ef35a547f1f8661084c6d81ee5da41 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_3d4e84e39de1faf58b8380e2ebd89300 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_95d1bad7b104d4771838e67d41e4f231 = $(`<div id="html_95d1bad7b104d4771838e67d41e4f231" style="width: 100.0%; height: 100.0%;"><b>Elias Karam</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Elias_Karam" target="_blank">Wikipedia</a></div>`)[0];
+                popup_3d4e84e39de1faf58b8380e2ebd89300.setContent(html_95d1bad7b104d4771838e67d41e4f231);
+            
+        
+
+        circle_marker_63ef35a547f1f8661084c6d81ee5da41.bindPopup(popup_3d4e84e39de1faf58b8380e2ebd89300)
+        ;
+
+        
+    
+    
+            circle_marker_63ef35a547f1f8661084c6d81ee5da41.bindTooltip(
+                `<div>
+                     Elias Karam (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_44e940bef6b42f7f8d0d98c62de2b5c2 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_b4afac56c17464d7c53bfb30b46de205 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_09de687aba8d28f8ad523fca52e6bfc8 = $(`<div id="html_09de687aba8d28f8ad523fca52e6bfc8" style="width: 100.0%; height: 100.0%;"><b>Waed Bouhassoun</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Waed_Bouhassoun" target="_blank">Wikipedia</a></div>`)[0];
+                popup_b4afac56c17464d7c53bfb30b46de205.setContent(html_09de687aba8d28f8ad523fca52e6bfc8);
+            
+        
+
+        circle_marker_44e940bef6b42f7f8d0d98c62de2b5c2.bindPopup(popup_b4afac56c17464d7c53bfb30b46de205)
+        ;
+
+        
+    
+    
+            circle_marker_44e940bef6b42f7f8d0d98c62de2b5c2.bindTooltip(
+                `<div>
+                     Waed Bouhassoun (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_793093cc57c678f08f09e244991ac344 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_4f31b8cc7ed07511acef6f2318e22609 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_400f603a2451ede76bc4b25cf0057405 = $(`<div id="html_400f603a2451ede76bc4b25cf0057405" style="width: 100.0%; height: 100.0%;"><b>Amal Arafa</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Amal_Arafa" target="_blank">Wikipedia</a></div>`)[0];
+                popup_4f31b8cc7ed07511acef6f2318e22609.setContent(html_400f603a2451ede76bc4b25cf0057405);
+            
+        
+
+        circle_marker_793093cc57c678f08f09e244991ac344.bindPopup(popup_4f31b8cc7ed07511acef6f2318e22609)
+        ;
+
+        
+    
+    
+            circle_marker_793093cc57c678f08f09e244991ac344.bindTooltip(
+                `<div>
+                     Amal Arafa (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a569a6d5bc4ddce372bd7e7dfdb4b755 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_a8380e6a0a0ca7ca29ae8f6c23cea793 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_09f97a8634db3ea3568deb6d5619be1d = $(`<div id="html_09f97a8634db3ea3568deb6d5619be1d" style="width: 100.0%; height: 100.0%;"><b>Errol Parker</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Errol_Parker" target="_blank">Wikipedia</a></div>`)[0];
+                popup_a8380e6a0a0ca7ca29ae8f6c23cea793.setContent(html_09f97a8634db3ea3568deb6d5619be1d);
+            
+        
+
+        circle_marker_a569a6d5bc4ddce372bd7e7dfdb4b755.bindPopup(popup_a8380e6a0a0ca7ca29ae8f6c23cea793)
+        ;
+
+        
+    
+    
+            circle_marker_a569a6d5bc4ddce372bd7e7dfdb4b755.bindTooltip(
+                `<div>
+                     Errol Parker (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_2aee0d590230e9551d39f8fe015b3e74 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_fc6ad4af924d3781b61f69df84ed45c1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c542656926b766abaa16c987f1359364 = $(`<div id="html_c542656926b766abaa16c987f1359364" style="width: 100.0%; height: 100.0%;"><b>Franck Amsallem</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Franck_Amsallem" target="_blank">Wikipedia</a></div>`)[0];
+                popup_fc6ad4af924d3781b61f69df84ed45c1.setContent(html_c542656926b766abaa16c987f1359364);
+            
+        
+
+        circle_marker_2aee0d590230e9551d39f8fe015b3e74.bindPopup(popup_fc6ad4af924d3781b61f69df84ed45c1)
+        ;
+
+        
+    
+    
+            circle_marker_2aee0d590230e9551d39f8fe015b3e74.bindTooltip(
+                `<div>
+                     Franck Amsallem (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b0ec88fb11f1d642ade8323b3018e6e8 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_d3805deed78de276570a9ada1b1d7a14 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6ae0cddce40a00cb7c4e653199f72e4f = $(`<div id="html_6ae0cddce40a00cb7c4e653199f72e4f" style="width: 100.0%; height: 100.0%;"><b>Daniel Charles</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Daniel_Charles" target="_blank">Wikipedia</a></div>`)[0];
+                popup_d3805deed78de276570a9ada1b1d7a14.setContent(html_6ae0cddce40a00cb7c4e653199f72e4f);
+            
+        
+
+        circle_marker_b0ec88fb11f1d642ade8323b3018e6e8.bindPopup(popup_d3805deed78de276570a9ada1b1d7a14)
+        ;
+
+        
+    
+    
+            circle_marker_b0ec88fb11f1d642ade8323b3018e6e8.bindTooltip(
+                `<div>
+                     Daniel Charles (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c10967a8ea3a7ee6c5b3fc5b73903fa8 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_6f2710d260630f8a747dea527647a23b = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e0451844762be643add22c9c4312021a = $(`<div id="html_e0451844762be643add22c9c4312021a" style="width: 100.0%; height: 100.0%;"><b>Louis Bertignac</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Louis_Bertignac" target="_blank">Wikipedia</a></div>`)[0];
+                popup_6f2710d260630f8a747dea527647a23b.setContent(html_e0451844762be643add22c9c4312021a);
+            
+        
+
+        circle_marker_c10967a8ea3a7ee6c5b3fc5b73903fa8.bindPopup(popup_6f2710d260630f8a747dea527647a23b)
+        ;
+
+        
+    
+    
+            circle_marker_c10967a8ea3a7ee6c5b3fc5b73903fa8.bindTooltip(
+                `<div>
+                     Louis Bertignac (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5aa9fc3bfb84a7983d3ed04a1ac9b3a4 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_d9a15a70272883616f4f96f9a1acd4ed = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_224ad8e669368a3273c8626ced0f1ea4 = $(`<div id="html_224ad8e669368a3273c8626ced0f1ea4" style="width: 100.0%; height: 100.0%;"><b>Francine Faure</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Francine_Faure" target="_blank">Wikipedia</a></div>`)[0];
+                popup_d9a15a70272883616f4f96f9a1acd4ed.setContent(html_224ad8e669368a3273c8626ced0f1ea4);
+            
+        
+
+        circle_marker_5aa9fc3bfb84a7983d3ed04a1ac9b3a4.bindPopup(popup_d9a15a70272883616f4f96f9a1acd4ed)
+        ;
+
+        
+    
+    
+            circle_marker_5aa9fc3bfb84a7983d3ed04a1ac9b3a4.bindTooltip(
+                `<div>
+                     Francine Faure (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_36356c99c4ecc16084f0f58305cd78ff = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_22dce813b4f6a56c009a11332f9a31fa = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d0771e3e7716b9cf059ad833f8ffd578 = $(`<div id="html_d0771e3e7716b9cf059ad833f8ffd578" style="width: 100.0%; height: 100.0%;"><b>Messaoud El Mediouni</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Messaoud_El_Mediouni" target="_blank">Wikipedia</a></div>`)[0];
+                popup_22dce813b4f6a56c009a11332f9a31fa.setContent(html_d0771e3e7716b9cf059ad833f8ffd578);
+            
+        
+
+        circle_marker_36356c99c4ecc16084f0f58305cd78ff.bindPopup(popup_22dce813b4f6a56c009a11332f9a31fa)
+        ;
+
+        
+    
+    
+            circle_marker_36356c99c4ecc16084f0f58305cd78ff.bindTooltip(
+                `<div>
+                     Messaoud El Mediouni (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3278ade5d08d59c86052a2713867d204 = L.circleMarker(
+                [59.6749712, 14.5208584],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_19179f0edc4381a20804e6b84da6fda0 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a112ffcca57f47c55b6d2c1827e7bad9 = $(`<div id="html_a112ffcca57f47c55b6d2c1827e7bad9" style="width: 100.0%; height: 100.0%;"><b>Habib Mousa</b><br>Origin: Syria<br>Current Residence: Sweden<br><a href="https://en.wikipedia.org/wiki/Habib_Mousa" target="_blank">Wikipedia</a></div>`)[0];
+                popup_19179f0edc4381a20804e6b84da6fda0.setContent(html_a112ffcca57f47c55b6d2c1827e7bad9);
+            
+        
+
+        circle_marker_3278ade5d08d59c86052a2713867d204.bindPopup(popup_19179f0edc4381a20804e6b84da6fda0)
+        ;
+
+        
+    
+    
+            circle_marker_3278ade5d08d59c86052a2713867d204.bindTooltip(
+                `<div>
+                     Habib Mousa (Sweden)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e8206f1c552cc0b4878d8545abc65bff = L.circleMarker(
+                [-41.5000831, 172.8344077],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_c9ebbf243d1182f9ae19c0880f686b3e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_074b7ed6d21a9f955bb7eda520027a08 = $(`<div id="html_074b7ed6d21a9f955bb7eda520027a08" style="width: 100.0%; height: 100.0%;"><b>NOURI</b><br>Origin: Syria<br>Current Residence: New Zealand<br><a href="https://en.wikipedia.org/wiki/NOURI_(artist)" target="_blank">Wikipedia</a></div>`)[0];
+                popup_c9ebbf243d1182f9ae19c0880f686b3e.setContent(html_074b7ed6d21a9f955bb7eda520027a08);
+            
+        
+
+        circle_marker_e8206f1c552cc0b4878d8545abc65bff.bindPopup(popup_c9ebbf243d1182f9ae19c0880f686b3e)
+        ;
+
+        
+    
+    
+            circle_marker_e8206f1c552cc0b4878d8545abc65bff.bindTooltip(
+                `<div>
+                     NOURI (New Zealand)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f1e0a8a2f454529a299aa78b1ee29f6e = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_dc530279529decc85e1a7a8a07cf2b7a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7db576081cf374bed805440b93aaddd4 = $(`<div id="html_7db576081cf374bed805440b93aaddd4" style="width: 100.0%; height: 100.0%;"><b>Houari Benchenet</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Houari_Benchenet" target="_blank">Wikipedia</a></div>`)[0];
+                popup_dc530279529decc85e1a7a8a07cf2b7a.setContent(html_7db576081cf374bed805440b93aaddd4);
+            
+        
+
+        circle_marker_f1e0a8a2f454529a299aa78b1ee29f6e.bindPopup(popup_dc530279529decc85e1a7a8a07cf2b7a)
+        ;
+
+        
+    
+    
+            circle_marker_f1e0a8a2f454529a299aa78b1ee29f6e.bindTooltip(
+                `<div>
+                     Houari Benchenet (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f79a40852d38d171cd7b36c867108c64 = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_61ed392928f798148e7982c449ec9f9c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cd3e205dab2575d218e68e8e597f688a = $(`<div id="html_cd3e205dab2575d218e68e8e597f688a" style="width: 100.0%; height: 100.0%;"><b>Bouteldja Belkacem</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Bouteldja_Belkacem" target="_blank">Wikipedia</a></div>`)[0];
+                popup_61ed392928f798148e7982c449ec9f9c.setContent(html_cd3e205dab2575d218e68e8e597f688a);
+            
+        
+
+        circle_marker_f79a40852d38d171cd7b36c867108c64.bindPopup(popup_61ed392928f798148e7982c449ec9f9c)
+        ;
+
+        
+    
+    
+            circle_marker_f79a40852d38d171cd7b36c867108c64.bindTooltip(
+                `<div>
+                     Bouteldja Belkacem (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_e5d2008856227ea05199d167be0a4c95 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_a961f27eaf8fd46537e4f377bdbde402 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_86757bcd32921e0c2e3f752e0801f461 = $(`<div id="html_86757bcd32921e0c2e3f752e0801f461" style="width: 100.0%; height: 100.0%;"><b>Sabri Moudallal</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Sabri_Moudallal" target="_blank">Wikipedia</a></div>`)[0];
+                popup_a961f27eaf8fd46537e4f377bdbde402.setContent(html_86757bcd32921e0c2e3f752e0801f461);
+            
+        
+
+        circle_marker_e5d2008856227ea05199d167be0a4c95.bindPopup(popup_a961f27eaf8fd46537e4f377bdbde402)
+        ;
+
+        
+    
+    
+            circle_marker_e5d2008856227ea05199d167be0a4c95.bindTooltip(
+                `<div>
+                     Sabri Moudallal (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_af6d1fb6f39cbb22d37b4021d1c32b4a = L.circleMarker(
+                [40.7696272, 44.6736646],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_97368ba3bee046467c8c6ed4ff93ae2e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_936cfcfbfac2f18548bcaa33146086c8 = $(`<div id="html_936cfcfbfac2f18548bcaa33146086c8" style="width: 100.0%; height: 100.0%;"><b>George Tutunjian</b><br>Origin: Syria<br>Current Residence: Armenia<br><a href="https://en.wikipedia.org/wiki/George_Tutunjian" target="_blank">Wikipedia</a></div>`)[0];
+                popup_97368ba3bee046467c8c6ed4ff93ae2e.setContent(html_936cfcfbfac2f18548bcaa33146086c8);
+            
+        
+
+        circle_marker_af6d1fb6f39cbb22d37b4021d1c32b4a.bindPopup(popup_97368ba3bee046467c8c6ed4ff93ae2e)
+        ;
+
+        
+    
+    
+            circle_marker_af6d1fb6f39cbb22d37b4021d1c32b4a.bindTooltip(
+                `<div>
+                     George Tutunjian (Armenia)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3769fa21465528c3166b30a7714338e4 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_3f9d6c3a355fd1b97d8e6fbcf1e0856c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_77e2bd9a411188a334a5eb524fcdd5ec = $(`<div id="html_77e2bd9a411188a334a5eb524fcdd5ec" style="width: 100.0%; height: 100.0%;"><b>Antonia Rodríguez Moreno</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Antonia_La_Negra" target="_blank">Wikipedia</a></div>`)[0];
+                popup_3f9d6c3a355fd1b97d8e6fbcf1e0856c.setContent(html_77e2bd9a411188a334a5eb524fcdd5ec);
+            
+        
+
+        circle_marker_3769fa21465528c3166b30a7714338e4.bindPopup(popup_3f9d6c3a355fd1b97d8e6fbcf1e0856c)
+        ;
+
+        
+    
+    
+            circle_marker_3769fa21465528c3166b30a7714338e4.bindTooltip(
+                `<div>
+                     Antonia Rodríguez Moreno (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3d7a0b6dfdf962d52bd3ab711516da84 = L.circleMarker(
+                [31.462421, 34.2627215],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_d7993115c746c1cbd8cac7b6f609b257 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cf2d47a4696885844cb5dde6abb121b1 = $(`<div id="html_cf2d47a4696885844cb5dde6abb121b1" style="width: 100.0%; height: 100.0%;"><b>Iyad Rimawi</b><br>Origin: Syria<br>Current Residence: Palestine<br><a href="https://en.wikipedia.org/wiki/Iyad_Rimawi" target="_blank">Wikipedia</a></div>`)[0];
+                popup_d7993115c746c1cbd8cac7b6f609b257.setContent(html_cf2d47a4696885844cb5dde6abb121b1);
+            
+        
+
+        circle_marker_3d7a0b6dfdf962d52bd3ab711516da84.bindPopup(popup_d7993115c746c1cbd8cac7b6f609b257)
+        ;
+
+        
+    
+    
+            circle_marker_3d7a0b6dfdf962d52bd3ab711516da84.bindTooltip(
+                `<div>
+                     Iyad Rimawi (Palestine)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f82349607a800d51d9d22400eac45aa9 = L.circleMarker(
+                [26.2540493, 29.2675469],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_a5d69ab0d58de023d2d3ee0320e57ace = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_12215ecedd0d6c0e6e4035603ea4b417 = $(`<div id="html_12215ecedd0d6c0e6e4035603ea4b417" style="width: 100.0%; height: 100.0%;"><b>Nourhane</b><br>Origin: Syria<br>Current Residence: Egypt<br><a href="https://en.wikipedia.org/wiki/Nourhane" target="_blank">Wikipedia</a></div>`)[0];
+                popup_a5d69ab0d58de023d2d3ee0320e57ace.setContent(html_12215ecedd0d6c0e6e4035603ea4b417);
+            
+        
+
+        circle_marker_f82349607a800d51d9d22400eac45aa9.bindPopup(popup_a5d69ab0d58de023d2d3ee0320e57ace)
+        ;
+
+        
+    
+    
+            circle_marker_f82349607a800d51d9d22400eac45aa9.bindTooltip(
+                `<div>
+                     Nourhane (Egypt)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_780a1d87eec788e72c4bbf6403496614 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_4a43fcda1b9d7ebd243e5427d2b2b511 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_882c3b84af44c2b836e2d9534078d61f = $(`<div id="html_882c3b84af44c2b836e2d9534078d61f" style="width: 100.0%; height: 100.0%;"><b>Waad Al Bahri</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Waad_Al_Bahri" target="_blank">Wikipedia</a></div>`)[0];
+                popup_4a43fcda1b9d7ebd243e5427d2b2b511.setContent(html_882c3b84af44c2b836e2d9534078d61f);
+            
+        
+
+        circle_marker_780a1d87eec788e72c4bbf6403496614.bindPopup(popup_4a43fcda1b9d7ebd243e5427d2b2b511)
+        ;
+
+        
+    
+    
+            circle_marker_780a1d87eec788e72c4bbf6403496614.bindTooltip(
+                `<div>
+                     Waad Al Bahri (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d3cea78e0ce23ff646e757ee053256e8 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_362bb3132dbd81d986d768e3bb4c461e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_eed3920261e350904a062c0fec201a44 = $(`<div id="html_eed3920261e350904a062c0fec201a44" style="width: 100.0%; height: 100.0%;"><b>François Valéry</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Val%C3%A9ry" target="_blank">Wikipedia</a></div>`)[0];
+                popup_362bb3132dbd81d986d768e3bb4c461e.setContent(html_eed3920261e350904a062c0fec201a44);
+            
+        
+
+        circle_marker_d3cea78e0ce23ff646e757ee053256e8.bindPopup(popup_362bb3132dbd81d986d768e3bb4c461e)
+        ;
+
+        
+    
+    
+            circle_marker_d3cea78e0ce23ff646e757ee053256e8.bindTooltip(
+                `<div>
+                     François Valéry (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_6a0ad3cdeaf93c0cf38dbe60326a427d = L.circleMarker(
+                [33.8750629, 35.843409],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_179e271ec42eee10ca7fcbe9a7382ba9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6cfc80368654d522b9d97baff3a01c3a = $(`<div id="html_6cfc80368654d522b9d97baff3a01c3a" style="width: 100.0%; height: 100.0%;"><b>Noura Rahal</b><br>Origin: Syria<br>Current Residence: Lebanon<br><a href="https://en.wikipedia.org/wiki/Noura_Rahal" target="_blank">Wikipedia</a></div>`)[0];
+                popup_179e271ec42eee10ca7fcbe9a7382ba9.setContent(html_6cfc80368654d522b9d97baff3a01c3a);
+            
+        
+
+        circle_marker_6a0ad3cdeaf93c0cf38dbe60326a427d.bindPopup(popup_179e271ec42eee10ca7fcbe9a7382ba9)
+        ;
+
+        
+    
+    
+            circle_marker_6a0ad3cdeaf93c0cf38dbe60326a427d.bindTooltip(
+                `<div>
+                     Noura Rahal (Lebanon)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_99969ea5bb9f5162c53f2544b7439ad9 = L.circleMarker(
+                [28.3347722, -10.3713379],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_dba9c9ff596fdfc9b222872c6eefe123 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_88910157fa41f377d5042242c6cd669e = $(`<div id="html_88910157fa41f377d5042242c6cd669e" style="width: 100.0%; height: 100.0%;"><b>Cheb Kader</b><br>Origin: Syria<br>Current Residence: Morocco<br><a href="https://en.wikipedia.org/wiki/Cheb_Kader" target="_blank">Wikipedia</a></div>`)[0];
+                popup_dba9c9ff596fdfc9b222872c6eefe123.setContent(html_88910157fa41f377d5042242c6cd669e);
+            
+        
+
+        circle_marker_99969ea5bb9f5162c53f2544b7439ad9.bindPopup(popup_dba9c9ff596fdfc9b222872c6eefe123)
+        ;
+
+        
+    
+    
+            circle_marker_99969ea5bb9f5162c53f2544b7439ad9.bindTooltip(
+                `<div>
+                     Cheb Kader (Morocco)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d7391da625108059e9fd73b8aa3cad67 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_28c2e376b86a66a19f11b49b85a5aed0 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_f5f6401173b7b28afce175e3c2329f09 = $(`<div id="html_f5f6401173b7b28afce175e3c2329f09" style="width: 100.0%; height: 100.0%;"><b>Ibrahim Qashoush</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Ibrahim_Qashoush" target="_blank">Wikipedia</a></div>`)[0];
+                popup_28c2e376b86a66a19f11b49b85a5aed0.setContent(html_f5f6401173b7b28afce175e3c2329f09);
+            
+        
+
+        circle_marker_d7391da625108059e9fd73b8aa3cad67.bindPopup(popup_28c2e376b86a66a19f11b49b85a5aed0)
+        ;
+
+        
+    
+    
+            circle_marker_d7391da625108059e9fd73b8aa3cad67.bindTooltip(
+                `<div>
+                     Ibrahim Qashoush (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_0589e73af7f6fc4c023a8e61308f7c8f = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_cbdb3f5ad6f59fb8ad9ae66952cf7111 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_6f8e8b36911b48d257be712a9b56d3e3 = $(`<div id="html_6f8e8b36911b48d257be712a9b56d3e3" style="width: 100.0%; height: 100.0%;"><b>Thierry Pastor</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Thierry_Pastor" target="_blank">Wikipedia</a></div>`)[0];
+                popup_cbdb3f5ad6f59fb8ad9ae66952cf7111.setContent(html_6f8e8b36911b48d257be712a9b56d3e3);
+            
+        
+
+        circle_marker_0589e73af7f6fc4c023a8e61308f7c8f.bindPopup(popup_cbdb3f5ad6f59fb8ad9ae66952cf7111)
+        ;
+
+        
+    
+    
+            circle_marker_0589e73af7f6fc4c023a8e61308f7c8f.bindTooltip(
+                `<div>
+                     Thierry Pastor (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_345c7a572b1beada7e96b40f57599216 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_ce22f97f21fc17a5893ded45d5871d07 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_181f6aeb03291e243a3928809ec0ccc4 = $(`<div id="html_181f6aeb03291e243a3928809ec0ccc4" style="width: 100.0%; height: 100.0%;"><b>Jean-Paul Sevilla</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Jean-Paul_Sevilla" target="_blank">Wikipedia</a></div>`)[0];
+                popup_ce22f97f21fc17a5893ded45d5871d07.setContent(html_181f6aeb03291e243a3928809ec0ccc4);
+            
+        
+
+        circle_marker_345c7a572b1beada7e96b40f57599216.bindPopup(popup_ce22f97f21fc17a5893ded45d5871d07)
+        ;
+
+        
+    
+    
+            circle_marker_345c7a572b1beada7e96b40f57599216.bindTooltip(
+                `<div>
+                     Jean-Paul Sevilla (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_9be8e5f510f848688baae3e076fbf0c0 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_610f9386b038a64d90e4461af4c021e0 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_5926b95362c489f57334e7ae73605f61 = $(`<div id="html_5926b95362c489f57334e7ae73605f61" style="width: 100.0%; height: 100.0%;"><b>Abu Ratib</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Abu_Ratib" target="_blank">Wikipedia</a></div>`)[0];
+                popup_610f9386b038a64d90e4461af4c021e0.setContent(html_5926b95362c489f57334e7ae73605f61);
+            
+        
+
+        circle_marker_9be8e5f510f848688baae3e076fbf0c0.bindPopup(popup_610f9386b038a64d90e4461af4c021e0)
+        ;
+
+        
+    
+    
+            circle_marker_9be8e5f510f848688baae3e076fbf0c0.bindTooltip(
+                `<div>
+                     Abu Ratib (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3881aaa9600977ac585167f5b0df3bb9 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_0ed86bbbf1f7e581f2d7f13045105ec0 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1afa23f44d1058ec6959d39ca295dc6d = $(`<div id="html_1afa23f44d1058ec6959d39ca295dc6d" style="width: 100.0%; height: 100.0%;"><b>Dima شارون</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Dima_Orsho" target="_blank">Wikipedia</a></div>`)[0];
+                popup_0ed86bbbf1f7e581f2d7f13045105ec0.setContent(html_1afa23f44d1058ec6959d39ca295dc6d);
+            
+        
+
+        circle_marker_3881aaa9600977ac585167f5b0df3bb9.bindPopup(popup_0ed86bbbf1f7e581f2d7f13045105ec0)
+        ;
+
+        
+    
+    
+            circle_marker_3881aaa9600977ac585167f5b0df3bb9.bindTooltip(
+                `<div>
+                     Dima شارون (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_dedfba1c6103e2dbf13a0e1be6bf0d55 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_6cb251d94e18fd64f0a0445db9c0f4c8 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7ca2d7f61086de53670d4e989a6fe4f9 = $(`<div id="html_7ca2d7f61086de53670d4e989a6fe4f9" style="width: 100.0%; height: 100.0%;"><b>Racha Arodaky</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Racha_Arodaky" target="_blank">Wikipedia</a></div>`)[0];
+                popup_6cb251d94e18fd64f0a0445db9c0f4c8.setContent(html_7ca2d7f61086de53670d4e989a6fe4f9);
+            
+        
+
+        circle_marker_dedfba1c6103e2dbf13a0e1be6bf0d55.bindPopup(popup_6cb251d94e18fd64f0a0445db9c0f4c8)
+        ;
+
+        
+    
+    
+            circle_marker_dedfba1c6103e2dbf13a0e1be6bf0d55.bindTooltip(
+                `<div>
+                     Racha Arodaky (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_958d90862e8d137e552365de8aa4f1c5 = L.circleMarker(
+                [39.294076, 35.2316631],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_fceddddaa05956712b5603c2ff5fb2c5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d3d13a0a1f50cf4065a8f082cba9d21d = $(`<div id="html_d3d13a0a1f50cf4065a8f082cba9d21d" style="width: 100.0%; height: 100.0%;"><b>Adil Şan</b><br>Origin: Syria<br>Current Residence: Turkey<br><a href="https://en.wikipedia.org/wiki/Adil_%C5%9Ean" target="_blank">Wikipedia</a></div>`)[0];
+                popup_fceddddaa05956712b5603c2ff5fb2c5.setContent(html_d3d13a0a1f50cf4065a8f082cba9d21d);
+            
+        
+
+        circle_marker_958d90862e8d137e552365de8aa4f1c5.bindPopup(popup_fceddddaa05956712b5603c2ff5fb2c5)
+        ;
+
+        
+    
+    
+            circle_marker_958d90862e8d137e552365de8aa4f1c5.bindTooltip(
+                `<div>
+                     Adil Şan (Turkey)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b4067b6f4757b702b92d701c866132d7 = L.circleMarker(
+                [50.0469432, 19.9971534],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_3a6fee682de1c2d6b8bfa2dfdfb6f903 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_186d964e003c693648b1d362c26ca496 = $(`<div id="html_186d964e003c693648b1d362c26ca496" style="width: 100.0%; height: 100.0%;"><b>Zaid Jabri</b><br>Origin: Syria<br>Current Residence: Kraków<br><a href="https://en.wikipedia.org/wiki/Zaid_Jabri" target="_blank">Wikipedia</a></div>`)[0];
+                popup_3a6fee682de1c2d6b8bfa2dfdfb6f903.setContent(html_186d964e003c693648b1d362c26ca496);
+            
+        
+
+        circle_marker_b4067b6f4757b702b92d701c866132d7.bindPopup(popup_3a6fee682de1c2d6b8bfa2dfdfb6f903)
+        ;
+
+        
+    
+    
+            circle_marker_b4067b6f4757b702b92d701c866132d7.bindTooltip(
+                `<div>
+                     Zaid Jabri (Kraków)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_05527bd229fec4cccad7de65f0eb4296 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_c318629fa7b10e29c3956f32c82757d9 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_56343013b3315122c6288ccecff6f1a0 = $(`<div id="html_56343013b3315122c6288ccecff6f1a0" style="width: 100.0%; height: 100.0%;"><b>Dima Kandalaft</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Dima_Kandalaft" target="_blank">Wikipedia</a></div>`)[0];
+                popup_c318629fa7b10e29c3956f32c82757d9.setContent(html_56343013b3315122c6288ccecff6f1a0);
+            
+        
+
+        circle_marker_05527bd229fec4cccad7de65f0eb4296.bindPopup(popup_c318629fa7b10e29c3956f32c82757d9)
+        ;
+
+        
+    
+    
+            circle_marker_05527bd229fec4cccad7de65f0eb4296.bindTooltip(
+                `<div>
+                     Dima Kandalaft (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_43c5383a45ad6d5f075e605ef64f9d86 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_d4e9047cbe41cf6307f46246d9ef10fc = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cf5bdc72e3d7f416cd4ff03161ae1cef = $(`<div id="html_cf5bdc72e3d7f416cd4ff03161ae1cef" style="width: 100.0%; height: 100.0%;"><b>Adwar Mousa</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Adwar_Mousa" target="_blank">Wikipedia</a></div>`)[0];
+                popup_d4e9047cbe41cf6307f46246d9ef10fc.setContent(html_cf5bdc72e3d7f416cd4ff03161ae1cef);
+            
+        
+
+        circle_marker_43c5383a45ad6d5f075e605ef64f9d86.bindPopup(popup_d4e9047cbe41cf6307f46246d9ef10fc)
+        ;
+
+        
+    
+    
+            circle_marker_43c5383a45ad6d5f075e605ef64f9d86.bindTooltip(
+                `<div>
+                     Adwar Mousa (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_bc3595e8d4afc3c3bb5818f92ed78fb5 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_58a40d5c4bdd954ae9ae533b8c565d73 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c168c62019393b9d4ccec618038afde0 = $(`<div id="html_c168c62019393b9d4ccec618038afde0" style="width: 100.0%; height: 100.0%;"><b>Muhammad El Majzoub</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Muhammad_El_Majzoub" target="_blank">Wikipedia</a></div>`)[0];
+                popup_58a40d5c4bdd954ae9ae533b8c565d73.setContent(html_c168c62019393b9d4ccec618038afde0);
+            
+        
+
+        circle_marker_bc3595e8d4afc3c3bb5818f92ed78fb5.bindPopup(popup_58a40d5c4bdd954ae9ae533b8c565d73)
+        ;
+
+        
+    
+    
+            circle_marker_bc3595e8d4afc3c3bb5818f92ed78fb5.bindTooltip(
+                `<div>
+                     Muhammad El Majzoub (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_8b9ea9b5dc87fde91834ff6bd64143b0 = L.circleMarker(
+                [30.3308401, 71.247499],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_cc6d039226c92244f3442886890458ae = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2ae38520bd43ff02b0314af5ff17556e = $(`<div id="html_2ae38520bd43ff02b0314af5ff17556e" style="width: 100.0%; height: 100.0%;"><b>Bilal Khan</b><br>Origin: Syria<br>Current Residence: Pakistan<br><a href="https://en.wikipedia.org/wiki/Bilal_Khan_(singer)" target="_blank">Wikipedia</a></div>`)[0];
+                popup_cc6d039226c92244f3442886890458ae.setContent(html_2ae38520bd43ff02b0314af5ff17556e);
+            
+        
+
+        circle_marker_8b9ea9b5dc87fde91834ff6bd64143b0.bindPopup(popup_cc6d039226c92244f3442886890458ae)
+        ;
+
+        
+    
+    
+            circle_marker_8b9ea9b5dc87fde91834ff6bd64143b0.bindTooltip(
+                `<div>
+                     Bilal Khan (Pakistan)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_b86e3b472b51fb7ae75b7fa7203c32f5 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_f63815a78ca6083aefd41f6d441584d2 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2205e55b424a94f76774db911ab6fcd8 = $(`<div id="html_2205e55b424a94f76774db911ab6fcd8" style="width: 100.0%; height: 100.0%;"><b>Gaswan Zerikly</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Gaswan_Zerikly" target="_blank">Wikipedia</a></div>`)[0];
+                popup_f63815a78ca6083aefd41f6d441584d2.setContent(html_2205e55b424a94f76774db911ab6fcd8);
+            
+        
+
+        circle_marker_b86e3b472b51fb7ae75b7fa7203c32f5.bindPopup(popup_f63815a78ca6083aefd41f6d441584d2)
+        ;
+
+        
+    
+    
+            circle_marker_b86e3b472b51fb7ae75b7fa7203c32f5.bindTooltip(
+                `<div>
+                     Gaswan Zerikly (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_503dbc267439dbc673ac1f8f84f88411 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_1e7fd044a480cf1bbac13e2557809d81 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c6a7702af7791cb8108b49e57d77c1af = $(`<div id="html_c6a7702af7791cb8108b49e57d77c1af" style="width: 100.0%; height: 100.0%;"><b>Mohamad Bash</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Mohamad_Bash" target="_blank">Wikipedia</a></div>`)[0];
+                popup_1e7fd044a480cf1bbac13e2557809d81.setContent(html_c6a7702af7791cb8108b49e57d77c1af);
+            
+        
+
+        circle_marker_503dbc267439dbc673ac1f8f84f88411.bindPopup(popup_1e7fd044a480cf1bbac13e2557809d81)
+        ;
+
+        
+    
+    
+            circle_marker_503dbc267439dbc673ac1f8f84f88411.bindTooltip(
+                `<div>
+                     Mohamad Bash (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_67fe524b34d05769f9a5301b1ce70e12 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_85020af3f17da6fb1d81e405c2b509b6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_180eb9be7be7fbf649ad7ea60c7ef530 = $(`<div id="html_180eb9be7be7fbf649ad7ea60c7ef530" style="width: 100.0%; height: 100.0%;"><b>Imad Rami</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Imad_Rami" target="_blank">Wikipedia</a></div>`)[0];
+                popup_85020af3f17da6fb1d81e405c2b509b6.setContent(html_180eb9be7be7fbf649ad7ea60c7ef530);
+            
+        
+
+        circle_marker_67fe524b34d05769f9a5301b1ce70e12.bindPopup(popup_85020af3f17da6fb1d81e405c2b509b6)
+        ;
+
+        
+    
+    
+            circle_marker_67fe524b34d05769f9a5301b1ce70e12.bindTooltip(
+                `<div>
+                     Imad Rami (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d8d758be70f263a35f149cee1fcbb766 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_197bf15092f460393681c2b4d8225438 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_b86c4fc5d674dee2720a846bc2896471 = $(`<div id="html_b86c4fc5d674dee2720a846bc2896471" style="width: 100.0%; height: 100.0%;"><b>Yoland Asmar</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Yoland_Asmar" target="_blank">Wikipedia</a></div>`)[0];
+                popup_197bf15092f460393681c2b4d8225438.setContent(html_b86c4fc5d674dee2720a846bc2896471);
+            
+        
+
+        circle_marker_d8d758be70f263a35f149cee1fcbb766.bindPopup(popup_197bf15092f460393681c2b4d8225438)
+        ;
+
+        
+    
+    
+            circle_marker_d8d758be70f263a35f149cee1fcbb766.bindTooltip(
+                `<div>
+                     Yoland Asmar (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f174e68fdd9afcf1ec2f5c81941d0576 = L.circleMarker(
+                [40.7696272, 44.6736646],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_28853933c691f4bf547c80624541f495 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bbea74fcdc6ce34431be96ed4786ee0d = $(`<div id="html_bbea74fcdc6ce34431be96ed4786ee0d" style="width: 100.0%; height: 100.0%;"><b>Arsen Grigoryan (Mro)</b><br>Origin: Syria<br>Current Residence: Armenia<br><a href="https://en.wikipedia.org/wiki/Arsen_Grigoryan_(singer,_born_1968)" target="_blank">Wikipedia</a></div>`)[0];
+                popup_28853933c691f4bf547c80624541f495.setContent(html_bbea74fcdc6ce34431be96ed4786ee0d);
+            
+        
+
+        circle_marker_f174e68fdd9afcf1ec2f5c81941d0576.bindPopup(popup_28853933c691f4bf547c80624541f495)
+        ;
+
+        
+    
+    
+            circle_marker_f174e68fdd9afcf1ec2f5c81941d0576.bindTooltip(
+                `<div>
+                     Arsen Grigoryan (Mro) (Armenia)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5c93538f6cc9f31d14d0628bfbfce138 = L.circleMarker(
+                [45.4220856, -122.4283111],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_ea3ef63b77e6d914da32a16f74cfd6a4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7df255df1c0421fd540762a8e183aab3 = $(`<div id="html_7df255df1c0421fd540762a8e183aab3" style="width: 100.0%; height: 100.0%;"><b>Ghaliaa Chaker</b><br>Origin: Syria<br>Current Residence: Damascus<br><a href="https://en.wikipedia.org/wiki/Ghaliaa_Chaker" target="_blank">Wikipedia</a></div>`)[0];
+                popup_ea3ef63b77e6d914da32a16f74cfd6a4.setContent(html_7df255df1c0421fd540762a8e183aab3);
+            
+        
+
+        circle_marker_5c93538f6cc9f31d14d0628bfbfce138.bindPopup(popup_ea3ef63b77e6d914da32a16f74cfd6a4)
+        ;
+
+        
+    
+    
+            circle_marker_5c93538f6cc9f31d14d0628bfbfce138.bindTooltip(
+                `<div>
+                     Ghaliaa Chaker (Damascus)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_d1d046f287e6cc8714144cd01535f095 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_4fdcf56f6af01efb933b9352c9de572a = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_29fd85cc299bd9de2fc4ea764f28a308 = $(`<div id="html_29fd85cc299bd9de2fc4ea764f28a308" style="width: 100.0%; height: 100.0%;"><b>Frankie Jordan</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Frankie_Jordan" target="_blank">Wikipedia</a></div>`)[0];
+                popup_4fdcf56f6af01efb933b9352c9de572a.setContent(html_29fd85cc299bd9de2fc4ea764f28a308);
+            
+        
+
+        circle_marker_d1d046f287e6cc8714144cd01535f095.bindPopup(popup_4fdcf56f6af01efb933b9352c9de572a)
+        ;
+
+        
+    
+    
+            circle_marker_d1d046f287e6cc8714144cd01535f095.bindTooltip(
+                `<div>
+                     Frankie Jordan (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_96f7a766fd1c2a3799f52b7a18bff4c9 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_83ebcd1c852465d8afeb1351db10eaac = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_14736849681588aa9656566af79cf04e = $(`<div id="html_14736849681588aa9656566af79cf04e" style="width: 100.0%; height: 100.0%;"><b>François Boulanger</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Boulanger" target="_blank">Wikipedia</a></div>`)[0];
+                popup_83ebcd1c852465d8afeb1351db10eaac.setContent(html_14736849681588aa9656566af79cf04e);
+            
+        
+
+        circle_marker_96f7a766fd1c2a3799f52b7a18bff4c9.bindPopup(popup_83ebcd1c852465d8afeb1351db10eaac)
+        ;
+
+        
+    
+    
+            circle_marker_96f7a766fd1c2a3799f52b7a18bff4c9.bindTooltip(
+                `<div>
+                     François Boulanger (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_5699ed3f6aacfb55e8a7be63a58a5dea = L.circleMarker(
+                [36.7729333, 3.0588445],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_1b6148c0676372d61532ab17645623c3 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_bc720d72edcfacd71203131279cd5556 = $(`<div id="html_bc720d72edcfacd71203131279cd5556" style="width: 100.0%; height: 100.0%;"><b>Djaffar Bensetti</b><br>Origin: Syria<br>Current Residence: Algeria<br><a href="https://en.wikipedia.org/wiki/Djaffar_Bensetti" target="_blank">Wikipedia</a></div>`)[0];
+                popup_1b6148c0676372d61532ab17645623c3.setContent(html_bc720d72edcfacd71203131279cd5556);
+            
+        
+
+        circle_marker_5699ed3f6aacfb55e8a7be63a58a5dea.bindPopup(popup_1b6148c0676372d61532ab17645623c3)
+        ;
+
+        
+    
+    
+            circle_marker_5699ed3f6aacfb55e8a7be63a58a5dea.bindTooltip(
+                `<div>
+                     Djaffar Bensetti (Algeria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_3e36caf8b9324e6daef324ad1a2d8a4a = L.circleMarker(
+                [30.0443879, 31.2357257],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_39f07e32bd4a7a072bdfd44eb0ae7062 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3b4a98d56e1a5fb7f832a6c23ffdc4b6 = $(`<div id="html_3b4a98d56e1a5fb7f832a6c23ffdc4b6" style="width: 100.0%; height: 100.0%;"><b>Leila Al Jazairia</b><br>Origin: Syria<br>Current Residence: Cairo<br><a href="https://en.wikipedia.org/wiki/Leila_Al_Jazairia" target="_blank">Wikipedia</a></div>`)[0];
+                popup_39f07e32bd4a7a072bdfd44eb0ae7062.setContent(html_3b4a98d56e1a5fb7f832a6c23ffdc4b6);
+            
+        
+
+        circle_marker_3e36caf8b9324e6daef324ad1a2d8a4a.bindPopup(popup_39f07e32bd4a7a072bdfd44eb0ae7062)
+        ;
+
+        
+    
+    
+            circle_marker_3e36caf8b9324e6daef324ad1a2d8a4a.bindTooltip(
+                `<div>
+                     Leila Al Jazairia (Cairo)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_c72cfe423e305028d1559e96e067f8fb = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_b81b1f77843755a3af8c0b9f9064cfde = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ae3b41470ca2ab79a430118bf252f42d = $(`<div id="html_ae3b41470ca2ab79a430118bf252f42d" style="width: 100.0%; height: 100.0%;"><b>Louis Musy</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Louis_Musy" target="_blank">Wikipedia</a></div>`)[0];
+                popup_b81b1f77843755a3af8c0b9f9064cfde.setContent(html_ae3b41470ca2ab79a430118bf252f42d);
+            
+        
+
+        circle_marker_c72cfe423e305028d1559e96e067f8fb.bindPopup(popup_b81b1f77843755a3af8c0b9f9064cfde)
+        ;
+
+        
+    
+    
+            circle_marker_c72cfe423e305028d1559e96e067f8fb.bindTooltip(
+                `<div>
+                     Louis Musy (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_02de1b8cdeb7ac2aeb8939a17237b383 = L.circleMarker(
+                [35.6727813, 47.0127981],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_06cc49caf58c98a96048eaa58f65c3c1 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_36f8db944833d5f561bca8aa1d6e304d = $(`<div id="html_36f8db944833d5f561bca8aa1d6e304d" style="width: 100.0%; height: 100.0%;"><b>Blend Saleh</b><br>Origin: Syria<br>Current Residence: Kurdistan<br><a href="https://en.wikipedia.org/wiki/Blend_Saleh" target="_blank">Wikipedia</a></div>`)[0];
+                popup_06cc49caf58c98a96048eaa58f65c3c1.setContent(html_36f8db944833d5f561bca8aa1d6e304d);
+            
+        
+
+        circle_marker_02de1b8cdeb7ac2aeb8939a17237b383.bindPopup(popup_06cc49caf58c98a96048eaa58f65c3c1)
+        ;
+
+        
+    
+    
+            circle_marker_02de1b8cdeb7ac2aeb8939a17237b383.bindTooltip(
+                `<div>
+                     Blend Saleh (Kurdistan)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_66fe8804231faaebb878845c849cf769 = L.circleMarker(
+                [46.603354, 1.8883335],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_aad64a09046fe9ea27c10649ff24f0b5 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_e457ba9780dbaf4f18c9323d390e80d3 = $(`<div id="html_e457ba9780dbaf4f18c9323d390e80d3" style="width: 100.0%; height: 100.0%;"><b>André Mallabrera</b><br>Origin: Syria<br>Current Residence: France<br><a href="https://en.wikipedia.org/wiki/Andr%C3%A9_Mallabrera" target="_blank">Wikipedia</a></div>`)[0];
+                popup_aad64a09046fe9ea27c10649ff24f0b5.setContent(html_e457ba9780dbaf4f18c9323d390e80d3);
+            
+        
+
+        circle_marker_66fe8804231faaebb878845c849cf769.bindPopup(popup_aad64a09046fe9ea27c10649ff24f0b5)
+        ;
+
+        
+    
+    
+            circle_marker_66fe8804231faaebb878845c849cf769.bindTooltip(
+                `<div>
+                     André Mallabrera (France)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_dcb0e07c10a62ddcbcd55b5cfc8bee3f = L.circleMarker(
+                [45.4220856, -122.4283111],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_be05cd5fc0b06b95405893072bacfd93 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_09fc6a40eafa7ff159cf3b735543330e = $(`<div id="html_09fc6a40eafa7ff159cf3b735543330e" style="width: 100.0%; height: 100.0%;"><b>Layal Watfeh</b><br>Origin: Syria<br>Current Residence: Damascus<br><a href="https://en.wikipedia.org/wiki/Layal_Watfeh" target="_blank">Wikipedia</a></div>`)[0];
+                popup_be05cd5fc0b06b95405893072bacfd93.setContent(html_09fc6a40eafa7ff159cf3b735543330e);
+            
+        
+
+        circle_marker_dcb0e07c10a62ddcbcd55b5cfc8bee3f.bindPopup(popup_be05cd5fc0b06b95405893072bacfd93)
+        ;
+
+        
+    
+    
+            circle_marker_dcb0e07c10a62ddcbcd55b5cfc8bee3f.bindTooltip(
+                `<div>
+                     Layal Watfeh (Damascus)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_f6c5d84aee23d6e41aaea3f45f0f972d = L.circleMarker(
+                [33.8750629, 35.843409],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_b6d25f52a0b588bbddd947586a74fe91 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c372257254c40d2dd42574a6603d0f96 = $(`<div id="html_c372257254c40d2dd42574a6603d0f96" style="width: 100.0%; height: 100.0%;"><b>Nizār Murūwah</b><br>Origin: Syria<br>Current Residence: Lebanon<br><a href="https://en.wikipedia.org/wiki/Nizar_Mroue" target="_blank">Wikipedia</a></div>`)[0];
+                popup_b6d25f52a0b588bbddd947586a74fe91.setContent(html_c372257254c40d2dd42574a6603d0f96);
+            
+        
+
+        circle_marker_f6c5d84aee23d6e41aaea3f45f0f972d.bindPopup(popup_b6d25f52a0b588bbddd947586a74fe91)
+        ;
+
+        
+    
+    
+            circle_marker_f6c5d84aee23d6e41aaea3f45f0f972d.bindTooltip(
+                `<div>
+                     Nizār Murūwah (Lebanon)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a514a7b12dd4d7407cf1af6f8b100cc9 = L.circleMarker(
+                [36.19924, 37.1637253],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_37f5cff7b521ca5d8f94eb32bcbcf40d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_7a67788acba5baea4aa4c7d0ae24222c = $(`<div id="html_7a67788acba5baea4aa4c7d0ae24222c" style="width: 100.0%; height: 100.0%;"><b>Fayrouz Al Halabiya (Rachel Samocha)</b><br>Origin: Syria<br>Current Residence: Aleppo<br><a href="https://en.wikipedia.org/wiki/Fairuz_al-Halabiya" target="_blank">Wikipedia</a></div>`)[0];
+                popup_37f5cff7b521ca5d8f94eb32bcbcf40d.setContent(html_7a67788acba5baea4aa4c7d0ae24222c);
+            
+        
+
+        circle_marker_a514a7b12dd4d7407cf1af6f8b100cc9.bindPopup(popup_37f5cff7b521ca5d8f94eb32bcbcf40d)
+        ;
+
+        
+    
+    
+            circle_marker_a514a7b12dd4d7407cf1af6f8b100cc9.bindTooltip(
+                `<div>
+                     Fayrouz Al Halabiya (Rachel Samocha) (Aleppo)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_ac12653990a93ebe35a3430792753430 = L.circleMarker(
+                [37.0495912, 41.2306547],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_6bf3da228e42503ff7767b136004f485 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d3351197a8848358b168c7edf3fa400b = $(`<div id="html_d3351197a8848358b168c7edf3fa400b" style="width: 100.0%; height: 100.0%;"><b>Joseph Malke</b><br>Origin: Syria<br>Current Residence: Qamishli<br><a href="https://en.wikipedia.org/wiki/Joseph_Malke" target="_blank">Wikipedia</a></div>`)[0];
+                popup_6bf3da228e42503ff7767b136004f485.setContent(html_d3351197a8848358b168c7edf3fa400b);
+            
+        
+
+        circle_marker_ac12653990a93ebe35a3430792753430.bindPopup(popup_6bf3da228e42503ff7767b136004f485)
+        ;
+
+        
+    
+    
+            circle_marker_ac12653990a93ebe35a3430792753430.bindTooltip(
+                `<div>
+                     Joseph Malke (Qamishli)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_a1ce194ab4a838230f91c5b381bdaf03 = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_02fe3889cb74caca3d9a7857563f8809 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_a32b2950551240f26d12257a94c6b783 = $(`<div id="html_a32b2950551240f26d12257a94c6b783" style="width: 100.0%; height: 100.0%;"><b>Loay Nasr</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Loay_Nasr" target="_blank">Wikipedia</a></div>`)[0];
+                popup_02fe3889cb74caca3d9a7857563f8809.setContent(html_a32b2950551240f26d12257a94c6b783);
+            
+        
+
+        circle_marker_a1ce194ab4a838230f91c5b381bdaf03.bindPopup(popup_02fe3889cb74caca3d9a7857563f8809)
+        ;
+
+        
+    
+    
+            circle_marker_a1ce194ab4a838230f91c5b381bdaf03.bindTooltip(
+                `<div>
+                     Loay Nasr (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_27e183ea011fbb7a5c007575d8a5549d = L.circleMarker(
+                [34.6401861, 39.0494106],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_6d6b2cd31993d0db9c398b60b5e8b055 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_d720fd182d6b425b259171977474887b = $(`<div id="html_d720fd182d6b425b259171977474887b" style="width: 100.0%; height: 100.0%;"><b>Tayssir Akla</b><br>Origin: Syria<br>Current Residence: Syria<br><a href="https://en.wikipedia.org/wiki/Tayssir_Akla" target="_blank">Wikipedia</a></div>`)[0];
+                popup_6d6b2cd31993d0db9c398b60b5e8b055.setContent(html_d720fd182d6b425b259171977474887b);
+            
+        
+
+        circle_marker_27e183ea011fbb7a5c007575d8a5549d.bindPopup(popup_6d6b2cd31993d0db9c398b60b5e8b055)
+        ;
+
+        
+    
+    
+            circle_marker_27e183ea011fbb7a5c007575d8a5549d.bindTooltip(
+                `<div>
+                     Tayssir Akla (Syria)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var circle_marker_20d7b850890ede5e8039318d5cb16129 = L.circleMarker(
+                [45.4220856, -122.4283111],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "purple", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6, "stroke": true, "weight": 3}
+            ).addTo(map_1d37df41fef8b150df228d83e20bbcce);
+        
+    
+        var popup_e68b11c29f8215d1ed32ab18a5d52811 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_129960cc3ec29e6ced39046f450a1ba7 = $(`<div id="html_129960cc3ec29e6ced39046f450a1ba7" style="width: 100.0%; height: 100.0%;"><b>Khyam Allami</b><br>Origin: Syria<br>Current Residence: Damascus<br><a href="https://en.wikipedia.org/wiki/Khyam_Allami" target="_blank">Wikipedia</a></div>`)[0];
+                popup_e68b11c29f8215d1ed32ab18a5d52811.setContent(html_129960cc3ec29e6ced39046f450a1ba7);
+            
+        
+
+        circle_marker_20d7b850890ede5e8039318d5cb16129.bindPopup(popup_e68b11c29f8215d1ed32ab18a5d52811)
+        ;
+
+        
+    
+    
+            circle_marker_20d7b850890ede5e8039318d5cb16129.bindTooltip(
+                `<div>
+                     Khyam Allami (Damascus)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>
