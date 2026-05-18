@@ -96,7 +96,7 @@ function Dataset() {
               <span className="stat-detail">Monthly tracking data</span>
             </div>
             <div className="stat-card">
-              <span className="stat-number">130+</span>
+              <span className="stat-number">739</span>
               <span className="stat-label">Songs Analyzed</span>
               <span className="stat-detail">With sentiment scores</span>
             </div>
