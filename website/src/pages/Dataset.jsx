@@ -65,16 +65,16 @@ function Dataset() {
 
             <div className="source-card">
               <div className="source-icon">🎵</div>
-              <h3>Gabriel's API</h3>
-              <p className="source-type">X</p>
+              <h3>MusicBrainzID</h3>
+              <p className="source-type">Artist Metadata</p>
               <p>
-                X
+                Metadata about artists, including their country, songs, collaborators, and disambiguation information.
               </p>
               <ul className="data-fields">
-                <li>X</li>
-                <li>X</li>
-                <li>X</li>
-                <li>X</li>
+                <li>Country</li>
+                <li>Songs</li>
+                <li>Collaborators</li>
+                <li>Disambiguation</li>
               </ul>
             </div>
           </div>
