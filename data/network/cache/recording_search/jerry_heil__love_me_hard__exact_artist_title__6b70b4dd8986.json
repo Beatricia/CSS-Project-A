@@ -1,0 +1,117 @@
+{
+  "created": "2026-05-22T18:29:25.655Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "dc7423ce-95bc-43a3-bbdf-671fceceff01",
+      "score": 100,
+      "artist-credit-id": "34a8c989-2c57-312f-8113-1a7363e132f3",
+      "title": "LOVE ME HARD",
+      "length": 193500,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Jerry Heil",
+          "artist": {
+            "id": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+            "name": "Jerry Heil",
+            "sort-name": "Heil, Jerry",
+            "disambiguation": "Ukrainian singer, participant of Eurovision 2024 (Ukraine)",
+            "aliases": [
+              {
+                "sort-name": "Shemaieva, Yana",
+                "name": "Яна Шемаєва",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-05-02",
+      "releases": [
+        {
+          "id": "21f5f2ed-ce6d-4b94-b01d-697e4b704e2b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "34a8c989-2c57-312f-8113-1a7363e132f3",
+          "count": 1,
+          "title": "АРХЕТИПИ",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Jerry Heil",
+              "artist": {
+                "id": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+                "name": "Jerry Heil",
+                "sort-name": "Heil, Jerry",
+                "disambiguation": "Ukrainian singer, participant of Eurovision 2024 (Ukraine)"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8586edff-84c3-4f7d-89b5-fbcee87a0c7f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "АРХЕТИПИ",
+            "primary-type": "Album"
+          },
+          "date": "2025-05-02",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2025-05-02",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "de5377bc-089d-4eff-b60a-59fc8fd6d194",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ef6c855f-03b8-4900-91c8-f34648a16e84",
+                  "number": "16",
+                  "title": "LOVE ME HARD",
+                  "length": 193500
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 15
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QM6N22559514"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative r&b"
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Jerry Heil\" AND recording:\"LOVE ME HARD\""
+}

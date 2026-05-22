@@ -1,0 +1,291 @@
+{
+  "created": "2026-05-22T17:27:37.865Z",
+  "count": 28,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7637e03c-3a76-49a7-b412-804c8ca5bd06",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "נחמה הנדל",
+      "sort-name": "Hendel, Nechama",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "ba379e0f-7300-496c-9939-3a452db7e131",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kfar Saba",
+        "sort-name": "Kfar Saba",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00046238386"
+      ],
+      "isnis": [
+        "0000000080048653"
+      ],
+      "life-span": {
+        "begin": "1936-08-22",
+        "end": "1998-09-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Hendel, Helena",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Helena Hendel",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1967",
+          "end-date": null
+        },
+        {
+          "sort-name": "Hendel, Nechama",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nechama Hendel",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "הנדל, נחמה",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "נחמה הנדל",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hendel, Nechama 'Nama'",
+          "name": "Nechama 'Nama' Hendel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "dbb57f8c-d889-4b6c-845c-179b34bb2e76",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nechama Leah",
+      "sort-name": "Nechama Leah",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c03c824e-10df-4a48-95a7-646e5387afc0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nechama Eventsur",
+      "sort-name": "Eventsur, Nechama",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0f9b4ba8-3d31-4f45-ad0b-39af414e090e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nechama Cohen",
+      "sort-name": "Cohen, Nechama",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c6c4bac1-c0fa-48a9-afca-44898ed9a368",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 43,
+      "name": "Feter Hendel",
+      "sort-name": "Feter Hendel",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b4e9352c-8edf-4911-8fa3-e852afa30501",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Melbourne",
+        "sort-name": "Melbourne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "878f9d76-397c-43ab-8a43-dec793ab2e04",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mario Hendel",
+      "sort-name": "Hendel, Mario",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "bassoonist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f6090418-68be-451f-8650-26ab331b804d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Anton Hendel",
+      "sort-name": "Hendel, Anton",
+      "gender": "male",
+      "area": {
+        "id": "4b8c47dd-0fe2-450e-8a21-d4d739ee0e0c",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Baden-Württemberg",
+        "sort-name": "Baden-Württemberg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "64b39c84-a8eb-4be4-ad8d-9e0c63c2aaf2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Karin Hendel",
+      "sort-name": "Hendel, Karin",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "24d96f56-21b0-47fd-b56a-131f225684ac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Matthias Hendel",
+      "sort-name": "Hendel, Matthias",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5238607f-872a-41fe-80ce-04a90932bda5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rico Hendel",
+      "sort-name": "Hendel, Rico",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

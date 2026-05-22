@@ -1,0 +1,698 @@
+{
+  "created": "2026-05-22T17:10:19.945Z",
+  "count": 5022,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "d3353e72-41cf-40df-a61a-ba7982557c2b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Zarah Leander",
+      "sort-name": "Leander, Zarah",
+      "gender": "female",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "53bee476-b339-44ab-b1e0-b20a4c0e46cc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Karlstad",
+        "sort-name": "Karlstad",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stockholm",
+        "sort-name": "Stockholm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055145099"
+      ],
+      "life-span": {
+        "begin": "1907-03-15",
+        "end": "1981-06-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Hedberg, Sara Stina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sara Stina Hedberg",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "soundtrack"
+        }
+      ]
+    },
+    {
+      "id": "d13f0f47-36f9-4661-87fe-2de56f45c649",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 95,
+      "name": "Tegan and Sara",
+      "sort-name": "Tegan and Sara",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f88bfae6-8a35-4bed-bd37-8ea16ba2b9c6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Calgary",
+        "sort-name": "Calgary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian indie rock/pop duo",
+      "isnis": [
+        "0000000106410287"
+      ],
+      "life-span": {
+        "begin": "1998",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tegan & Sara",
+          "name": "Tegan & Sara",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sara and Tegan",
+          "name": "Sara and Tegan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "indie"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "electropop"
+        },
+        {
+          "count": 3,
+          "name": "indie pop"
+        },
+        {
+          "count": 1,
+          "name": "acoustic rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "rock and indie"
+        },
+        {
+          "count": 1,
+          "name": "queer"
+        }
+      ]
+    },
+    {
+      "id": "351d8bdf-33a1-45e2-8c04-c85fad20da55",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 92,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sarah Vaughan",
+      "sort-name": "Vaughan, Sarah",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "85c7cd5f-6fe2-4195-a44d-69fa390bd6ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Newark",
+        "sort-name": "Newark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "cb92d6fe-682f-40f5-a76f-180331d13070",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hidden Hills",
+        "sort-name": "Hidden Hills",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081802574"
+      ],
+      "life-span": {
+        "begin": "1924-03-27",
+        "end": "1990-04-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sarah Vahghan",
+          "name": "Sarah Vahghan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sarah Voughan",
+          "name": "Sarah Voughan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sara Vaughan",
+          "name": "Sara Vaughan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vaughan Sarah",
+          "name": "Vaughan Sarah",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sarah Vaughn",
+          "name": "Sarah Vaughn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 7,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "bossa nova"
+        },
+        {
+          "count": 1,
+          "name": "bebop"
+        },
+        {
+          "count": 5,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 1,
+          "name": "cool jazz"
+        },
+        {
+          "count": 1,
+          "name": "bop"
+        },
+        {
+          "count": 1,
+          "name": "cool"
+        },
+        {
+          "count": 1,
+          "name": "standards"
+        },
+        {
+          "count": 1,
+          "name": "traditional pop"
+        },
+        {
+          "count": -1,
+          "name": "death by lung cancer"
+        },
+        {
+          "count": 1,
+          "name": "vocal music"
+        },
+        {
+          "count": 1,
+          "name": "torch song"
+        },
+        {
+          "count": 0,
+          "name": "aln-sh"
+        }
+      ]
+    },
+    {
+      "id": "e54be6b7-5c26-4b47-bb3f-c137429b9b55",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 92,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sara Bareilles",
+      "sort-name": "Bareilles, Sara",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2e1017b6-7584-4e7a-90ac-63e9d01cc0ad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Eureka",
+        "sort-name": "Eureka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00450696835"
+      ],
+      "isnis": [
+        "0000000078502861"
+      ],
+      "life-span": {
+        "begin": "1979-12-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sarah Bareilles",
+          "name": "Sarah Bareilles",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sara Barielles",
+          "name": "Sara Barielles",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "soft rock"
+        }
+      ]
+    },
+    {
+      "id": "81e6457c-3a3f-45a8-946a-160ebc009023",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 91,
+      "name": "Sara",
+      "sort-name": "Sara",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Finnish alternative metal band",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative metal"
+        },
+        {
+          "count": 1,
+          "name": "synthpop"
+        },
+        {
+          "count": 1,
+          "name": "scandinavian metal"
+        },
+        {
+          "count": 1,
+          "name": "finnish alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "finnish metal"
+        },
+        {
+          "count": 1,
+          "name": "suomi rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 0,
+          "name": "finnish"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "c97a5945-4b21-4fee-be76-9e2544525bcc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sara",
+      "sort-name": "Sara",
+      "gender": "female",
+      "disambiguation": "S3RL vocalist",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Harris, Sara",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sara Harris",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "773af101-792f-48b8-a588-09a07cff5e53",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sara Evans",
+      "sort-name": "Evans, Sara",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "73a83478-45e4-4f40-85bf-974129ff7fbc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boonville",
+        "sort-name": "Boonville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00189231941"
+      ],
+      "isnis": [
+        "0000000120376281"
+      ],
+      "life-span": {
+        "begin": "1971-02-05",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 5,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "modern country"
+        }
+      ]
+    },
+    {
+      "id": "d9e74920-67a0-476b-a64f-9f3340713c87",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sara K.",
+      "sort-name": "Sara K.",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e96f1c0d-721b-470d-a9c4-0aa2d89cf9e7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dallas",
+        "sort-name": "Dallas",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055502586"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sara K",
+          "name": "Sara K",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sarah K.",
+          "name": "Sarah K.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wooldridge, Sara Katherine",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sara Katherine Wooldridge",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        }
+      ]
+    },
+    {
+      "id": "9f5cbcfb-665e-46e6-b8a8-a4f0f0fdaa27",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sara",
+      "sort-name": "Sara",
+      "gender": "female",
+      "disambiguation": "avex Eurobeat artist Sara Righetto",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2f32fd81-76d6-4505-96f4-390f4597010a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sara Groves",
+      "sort-name": "Groves, Sara",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1972-09-10",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "contemporary christian"
+        }
+      ]
+    }
+  ]
+}

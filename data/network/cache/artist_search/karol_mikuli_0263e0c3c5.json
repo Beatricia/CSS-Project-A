@@ -1,0 +1,643 @@
+{
+  "created": "2026-05-22T16:51:13.699Z",
+  "count": 602,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c8c8ab60-4a68-44e7-a203-f86a74f0c2c4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karol Mikuli",
+      "sort-name": "Mikuli, Karol",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6a4bae17-16cc-4bde-ae79-064eddd42d6d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chernivtsi",
+        "sort-name": "Chernivtsi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000115743024"
+      ],
+      "life-span": {
+        "begin": "1819-10-20",
+        "end": "1897-05-21",
+        "ended": true
+      }
+    },
+    {
+      "id": "e04ef24e-b64e-4ca5-a479-b6bc79042ff5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karol Szymanowski",
+      "sort-name": "Szymanowski, Karol",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0877fc7c-eaed-4de5-9a03-0a9f977a4e94",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Cherkas'ka Oblast'",
+        "sort-name": "Cherkas'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "33f49521-f754-43cf-8d7a-d9e336fe56e6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lausanne",
+        "sort-name": "Lausanne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish composer",
+      "isnis": [
+        "0000000114429498"
+      ],
+      "life-span": {
+        "begin": "1882-10-06",
+        "end": "1937-03-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Szymanowski",
+          "name": "Szymanowski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karol Maciej Szymanowski",
+          "name": "Karol Maciej Szymanowski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karol Maciej Korwin-Szymanowski",
+          "name": "Karol Maciej Korwin-Szymanowski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Szymanowsky",
+          "name": "Szymanowsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karol Szymanowsky",
+          "name": "Karol Szymanowsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "polish"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "classic"
+        },
+        {
+          "count": 1,
+          "name": "modern classical"
+        },
+        {
+          "count": 1,
+          "name": "impressionism"
+        },
+        {
+          "count": 1,
+          "name": "polish composer"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "c529407c-3abd-483b-aeed-87f46ca79e0e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mikuli Ferenc",
+      "sort-name": "Mikuli, Ferenc",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00532226093"
+      ],
+      "life-span": {
+        "begin": "1970-11-20",
+        "ended": null
+      }
+    },
+    {
+      "id": "81fdd079-7d05-4ba4-8577-9500df6a8c4c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tina Karol",
+      "sort-name": "Karol, Tina",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ac717c35-5be9-4dec-9f72-c9f6fc98ee24",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Orotukan",
+        "sort-name": "Orotukan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00602301807"
+      ],
+      "isnis": [
+        "0000000406778569"
+      ],
+      "life-span": {
+        "begin": "1985-01-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Karol, Tina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tina Karol",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Либерман, Татьяна Григорьевна",
+          "name": "Татьяна Григорьевна Либерман",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Liberman, Tetiana Hryhorivna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Тетяна Григорівна Ліберман",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1985-01-25",
+          "end-date": "2005"
+        },
+        {
+          "sort-name": "Кароль, Тіна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Тiна Кароль",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "2005",
+          "end-date": null
+        },
+        {
+          "sort-name": "Кароль, Тина",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тина Кароль",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "deep house"
+        },
+        {
+          "count": 3,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "electropop"
+        },
+        {
+          "count": 2,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "neo soul"
+        },
+        {
+          "count": 2,
+          "name": "ukrainian"
+        },
+        {
+          "count": 1,
+          "name": "ukraine"
+        },
+        {
+          "count": 1,
+          "name": "pop soul"
+        },
+        {
+          "count": 2,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian pop"
+        },
+        {
+          "count": 1,
+          "name": "eurovision 2006 artists"
+        }
+      ]
+    },
+    {
+      "id": "de22adae-f8ac-414f-b653-b0162611bd60",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "KAROL G",
+      "sort-name": "KAROL G",
+      "gender": "female",
+      "country": "CO",
+      "area": {
+        "id": "02b60d8d-7164-339d-868d-22d147d9f74a",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Colombia",
+        "sort-name": "Colombia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9d093595-9e75-44f7-8900-3bfaa6da8e3c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Medellín",
+        "sort-name": "Medellín",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Colombian singer",
+      "ipis": [
+        "00807632636"
+      ],
+      "isnis": [
+        "0000000466913996"
+      ],
+      "life-span": {
+        "begin": "1991-02-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Giraldo Navarro, Carolina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Carolina Giraldo Navarro",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "spanish"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 3,
+          "name": "reggaeton"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 2,
+          "name": "latin urban"
+        }
+      ]
+    },
+    {
+      "id": "d8bab62a-09b8-4aa1-b65a-a4877dba6179",
+      "score": 37,
+      "name": "Karol",
+      "sort-name": "Karol",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "84319614-55b6-42a4-b785-73a4d1927617",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karol",
+      "sort-name": "Karol",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1bc8f3ab-f171-4f63-9935-c2c402efef4b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karol Duchoň",
+      "sort-name": "Duchoň, Karol",
+      "gender": "male",
+      "country": "SK",
+      "area": {
+        "id": "eb52ca74-dd11-37a1-a3fa-154430bf2df2",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Slovakia",
+        "sort-name": "Slovakia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc1df620-86ef-466c-8dfb-4c60c4c7989d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Galanta",
+        "sort-name": "Galanta",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "ed091849-62dd-4d10-9d40-50594afb1b15",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bratislava",
+        "sort-name": "Bratislava",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Slovak vocalist",
+      "life-span": {
+        "begin": "1950-04-21",
+        "end": "1985-11-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Karol Duchon",
+          "name": "Karol Duchon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "slovak"
+        }
+      ]
+    },
+    {
+      "id": "b3f4d9ea-8f7d-408c-9c5f-061e7ef9be46",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Karol Conká",
+      "sort-name": "Karol Conká",
+      "gender": "female",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "65b55c0f-a4fb-42e4-9b9d-1a63d6502166",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Curitiba",
+        "sort-name": "Curitiba",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000462828778"
+      ],
+      "life-span": {
+        "begin": "1987-01-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Oliveira, Karoline de Santos",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Karoline de Santos Oliveira",
+          "locale": "pt",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1987-01-01",
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "bbb"
+        }
+      ]
+    },
+    {
+      "id": "37683ec6-cf07-4b6c-b488-408c939acbfa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karol Beffa",
+      "sort-name": "Beffa, Karol",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French composer",
+      "isnis": [
+        "0000000078450125"
+      ],
+      "life-span": {
+        "begin": "1973-10-27",
+        "ended": null
+      }
+    }
+  ]
+}

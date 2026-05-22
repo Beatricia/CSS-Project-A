@@ -1,0 +1,265 @@
+{
+  "created": "2026-05-22T17:04:35.433Z",
+  "count": 10,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "2dedd382-2b14-4b88-a767-dd2220b4b509",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Тимати",
+      "sort-name": "Timati",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian rapper Timati",
+      "isnis": [
+        "000000040770692X"
+      ],
+      "life-span": {
+        "begin": "1983-08-15",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Timati",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Timati",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yunusov, Timur",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Timur Yunusov",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Junusov, Timur Ildarovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Timur Ildarovich Junusov",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Юнусов, Тимур Ильдарович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Тимур Ильдарович Юнусов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тимати",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тимати",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "1e289c26-e20b-47b0-a032-3f3875c9e3fc",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 55,
+      "name": "Ultimatium",
+      "sort-name": "Ultimatium",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2001",
+        "ended": null
+      }
+    },
+    {
+      "id": "cfc8bb48-4a83-4df2-89ef-60d2971b292d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Timatic",
+      "sort-name": "Timatic",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "d253e701-a9d9-41ad-b825-17045ce185be",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "The Act of Estimating as Worthless",
+      "sort-name": "Act of Estimating as Worthless, The",
+      "life-span": {
+        "begin": "2009",
+        "ended": null
+      }
+    },
+    {
+      "id": "1cfdc304-d85a-413b-a6b1-14e3ea916ddd",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "Paul Smith and the Intimations",
+      "sort-name": "Paul Smith and the Intimations",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "with Paul Smith from Maxïmo Park",
+      "life-span": {
+        "begin": "2015",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Paul Smith & The Intimations",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Paul Smith & The Intimations",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "40702856-4b81-4643-bd6f-09d2ef93e909",
+      "score": 52,
+      "name": "Ultimatics",
+      "sort-name": "Ultimatics",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8c1e31a1-b4ed-4b6a-9cdf-d36d2b3ef9db",
+      "score": 52,
+      "name": "The Ultimations",
+      "sort-name": "Ultimations, The",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cdaced51-9f91-4855-9825-c2f76af23cba",
+      "score": 51,
+      "name": "The Ultimatics",
+      "sort-name": "Ultimatics, The",
+      "disambiguation": "1999 - Pittsburgh punk",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d74efb3b-ce9d-47f3-bae2-2a36ae58b083",
+      "score": 51,
+      "name": "Estimation Vide",
+      "sort-name": "Estimation Vide",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "98e38e3e-250b-44b6-826a-f0ad2339bdf5",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 51,
+      "name": "Intimatic Jazz Trio",
+      "sort-name": "Intimatic Jazz Trio",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian group",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

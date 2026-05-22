@@ -1,0 +1,1088 @@
+{
+  "created": "2026-05-22T17:00:33.993Z",
+  "count": 13067,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "e4ac4a37-aae3-418f-a635-09856fe7fd7a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Kopytman",
+      "sort-name": "Kopytman, Mark",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e6d89e03-08e6-43dd-a796-dd3a5aaa1f41",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kamianets-Podilskyi",
+        "sort-name": "Kamianets-Podilskyi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114424718"
+      ],
+      "life-span": {
+        "begin": "1929-12-06",
+        "end": "2011-12-16",
+        "ended": true
+      }
+    },
+    {
+      "id": "e49f69da-17d5-4c5c-bac0-dadcb0e588f5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Knopfler",
+      "sort-name": "Knopfler, Mark",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c279f805-01f8-46f5-99cf-51f165a1adad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Glasgow",
+        "sort-name": "Glasgow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00046804968"
+      ],
+      "isnis": [
+        "0000000120296310"
+      ],
+      "life-span": {
+        "begin": "1949-08-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mark Nofler",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Nofler",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Knopfler, Mark Freuder",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mark Freuder Knopfler",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Knofler",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Knofler",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кнопфлер, Марк",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Марк Кнопфлер",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Knopfler, Mark & His Band",
+          "name": "Mark Knopfler & His Band",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "border reiver"
+        },
+        {
+          "count": 2,
+          "name": "blues rock"
+        },
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "classic rock"
+        },
+        {
+          "count": 3,
+          "name": "soft rock"
+        },
+        {
+          "count": 3,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "guitar"
+        },
+        {
+          "count": 1,
+          "name": "film score"
+        },
+        {
+          "count": 1,
+          "name": "film soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "soundtracks"
+        }
+      ]
+    },
+    {
+      "id": "56d6a50f-4be2-4796-9709-7eb88c45b63b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Isham",
+      "sort-name": "Isham, Mark",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American musician and score composer",
+      "ipis": [
+        "00030305442"
+      ],
+      "isnis": [
+        "0000000117978871"
+      ],
+      "life-span": {
+        "begin": "1951-09-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mark Ishamm",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Ishamm",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Ishan",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Ishan",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Ishem",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Ishem",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Izham",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Izham",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Ischam",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Ischam",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marck Isham",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Marck Isham",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Ware",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Ware",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ware Isham",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ware Isham",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isham",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Isham",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Isam",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Isam",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marc Isham",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Marc Isham",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isham, Mark",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mark Isham",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isham, Mark Ware",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mark Ware Isham",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1951-09-07",
+          "end-date": null
+        },
+        {
+          "sort-name": "Марк Айшем",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Марк Айшем",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": -1,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 1,
+          "name": "contemporary jazz"
+        },
+        {
+          "count": 1,
+          "name": "american composer"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        }
+      ]
+    },
+    {
+      "id": "628abc89-3e26-4e2c-b33f-67544ccbb72c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Mancina",
+      "sort-name": "Mancina, Mark",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dbacf2e3-7e3e-4cee-8804-999b109285fa",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Santa Monica",
+        "sort-name": "Santa Monica",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American score composer",
+      "ipis": [
+        "00208675457"
+      ],
+      "isnis": [
+        "0000000110304321"
+      ],
+      "life-span": {
+        "begin": "1957-03-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mancina, Mark Alan",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mark Alan Mancina",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1957-03-09",
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Mancini",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Mancini",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Mancino",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Mancino",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Macina",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Macina",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marc Mancina",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Marc Mancina",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mancina",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mancina",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alan Mancina",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alan Mancina",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Alan",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Alan",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mancina, Mark",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mark Mancina",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "M. Mancina",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "M. Mancina",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "film composer"
+        },
+        {
+          "count": 1,
+          "name": "cinematic classical"
+        }
+      ]
+    },
+    {
+      "id": "6ff5f720-9fcd-434c-8a62-dc9dd123bde7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Mothersbaugh",
+      "sort-name": "Mothersbaugh, Mark",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e12c1d82-97e2-4ec4-99b7-7ed055720437",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Akron",
+        "sort-name": "Akron",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00044430507"
+      ],
+      "isnis": [
+        "0000000114506617"
+      ],
+      "life-span": {
+        "begin": "1950-05-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mothersbaugh, Mark Allen",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mark Allen Mothersbaugh",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Original Score by Mark Mothersbaugh",
+          "name": "Original Score by Mark Mothersbaugh",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "american composer"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        }
+      ]
+    },
+    {
+      "id": "4d584c99-249e-493f-8c5f-d022bd8de433",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Twain",
+      "sort-name": "Twain, Mark",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "079b04ff-50c6-4c30-a88b-1d3b813182aa",
+        "type": "County",
+        "type-id": "bcecec27-8bdb-3e00-8254-d948dda502fa",
+        "name": "Monroe County",
+        "sort-name": "Monroe County",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "9871b7d6-f165-4e47-986c-bf385413a6bd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Redding",
+        "sort-name": "Redding",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Samuel Clemens; US writer, humorist, entrepreneur, publisher & lecturer",
+      "isnis": [
+        "0000000121324854"
+      ],
+      "life-span": {
+        "begin": "1835-11-30",
+        "end": "1910-04-21",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "author"
+        },
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        },
+        {
+          "count": 1,
+          "name": "audiobook"
+        }
+      ]
+    },
+    {
+      "id": "4cb7f095-eb87-42ad-9213-4b10b279fa06",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Petrie",
+      "sort-name": "Petrie, Mark",
+      "gender": "male",
+      "country": "NZ",
+      "area": {
+        "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "New Zealand",
+        "sort-name": "New Zealand",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b2bc1294-77be-4c7b-af93-9868b83b1f34",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Auckland",
+        "sort-name": "Auckland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "production music",
+      "ipis": [
+        "00405300416"
+      ],
+      "life-span": {
+        "begin": "1979-05-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mark Petrie",
+          "name": "Mark Petrie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrie, Mark John",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mark John Petrie",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a9126556-f555-4920-9617-6e013f8228a7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Lanegan",
+      "sort-name": "Lanegan, Mark",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6742f556-aaf2-4687-8a3c-58ecb0e96b7a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ellensburg",
+        "sort-name": "Ellensburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "6690aefe-ab39-4018-9db1-dd04c5d4c1e7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Killarney",
+        "sort-name": "Killarney",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00236888425"
+      ],
+      "isnis": [
+        "0000000114693600"
+      ],
+      "life-span": {
+        "begin": "1964-11-25",
+        "end": "2022-02-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Lanegan, Mark",
+          "name": "Lanegan Mark",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lanagan, Mark",
+          "name": "Mark Lanagan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lanegan, Mark William",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mark William Lanegan",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lanegan, Mark Band",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mark Lanegan Band",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lenegan, Mark",
+          "name": "Mark Lenegan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": 2,
+          "name": "folk rock"
+        },
+        {
+          "count": 1,
+          "name": "americana"
+        },
+        {
+          "count": 1,
+          "name": "acoustic rock"
+        },
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "rock and indie"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "a57ae220-e088-47d1-83ec-fda2c963d14a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Sandell",
+      "sort-name": "Sandell, Mark",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a1d3685a-c61d-49aa-a294-bcfc25e516b5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Snow",
+      "sort-name": "Snow, Mark",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "88772016-5866-496a-8de7-4340e922d663",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Connecticut",
+        "sort-name": "Connecticut",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American score composer",
+      "ipis": [
+        "00088700357",
+        "00581621255"
+      ],
+      "isnis": [
+        "0000000114703143"
+      ],
+      "life-span": {
+        "begin": "1946-08-26",
+        "end": "2025-07-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mark Swon",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Swon",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Snowy",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Snowy",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Snowe",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Snowe",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marck Snow",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Marck Snow",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marc Snow",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Marc Snow",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Snow, Mark",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mark Snow",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Snow",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Snow",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "M. Snow",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "M. Snow",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "score"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "film composer"
+        },
+        {
+          "count": 1,
+          "name": "television composer"
+        }
+      ]
+    }
+  ]
+}

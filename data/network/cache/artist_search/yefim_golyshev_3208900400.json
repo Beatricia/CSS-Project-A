@@ -1,0 +1,280 @@
+{
+  "created": "2026-05-22T16:57:14.543Z",
+  "count": 12,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "cfed95dc-6432-47f1-8364-586eb49511c1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yefim Bronfman",
+      "sort-name": "Bronfman, Yefim",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f47b98e5-71bc-4ca0-aa4b-f62d37fa96e1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toshkent",
+        "sort-name": "Toshkent",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000063090649"
+      ],
+      "life-span": {
+        "begin": "1958-04-10",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "israeli-american pianist"
+        },
+        {
+          "count": 1,
+          "name": "american pianist"
+        }
+      ]
+    },
+    {
+      "id": "9a4f3a41-ab3b-4851-8440-dd558f5a5916",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nikita Golyshev",
+      "sort-name": "Golyshev, Nikita",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian electronic musician",
+      "life-span": {
+        "begin": "1985",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Голышев, Никита",
+          "name": "Никита Голышев",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3da5423f-4a53-4c14-829c-424f29414076",
+      "score": 91,
+      "name": "Yefim Malko",
+      "sort-name": "Yefim Malko",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d2b16e0d-c8d1-49ae-b08b-c5a0ba99343d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "name": "Alexander Golyshev",
+      "sort-name": "Golyshev, Alexander",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1984-03-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Голышев, Александр",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Александр Голышев",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "4fbc1331-7741-4f3b-b7f2-0d08c8d8a115",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Efim Boico",
+      "sort-name": "Boico, Efim",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Boyko, Yefim",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yefim Boyko",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "5717314f-2c35-43d8-b305-1101c94fb92a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ефим Файфман",
+      "sort-name": "Faifman, Yefim",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9a1332a4-81ba-466a-8bbc-650f2072f19f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Saratov",
+        "sort-name": "Saratov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1974-03-12",
+        "ended": null
+      }
+    },
+    {
+      "id": "febf0e9a-fb69-4c47-8811-ef812e79132b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יפים אייזנשטדט",
+      "sort-name": "Eisenstadt, Yefim",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "cellist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "62590f8f-8e07-4e02-8a05-70ba54cf1f3d",
+      "score": 56,
+      "name": "Dmitri Yefimov",
+      "sort-name": "Dmitri Yefimov",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3f873583-bb1a-4231-8c9e-296d60eb4e80",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "name": "Aimoon",
+      "sort-name": "Aimoon",
+      "disambiguation": "trance, alias of Александр Голышев (Alexander Golyshev)",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bee2cb8f-f28d-4ff2-ae5f-4bea3ce17aba",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Максим Ефимов",
+      "sort-name": "Yefimov, Maksim",
+      "gender": "male",
+      "life-span": {
+        "begin": "1983-09-12",
+        "ended": null
+      }
+    }
+  ]
+}

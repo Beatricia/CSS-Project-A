@@ -1,0 +1,160 @@
+{
+  "created": "2026-05-22T17:19:31.797Z",
+  "count": 4,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7cd7c71d-8890-40d3-a5d1-c0282180389c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "אילנית",
+      "sort-name": "Ilanit",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00120406335"
+      ],
+      "isnis": [
+        "0000000078401104"
+      ],
+      "life-span": {
+        "begin": "1947-09-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ilanit",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ilanit",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "דרזנר-צח, חנה",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "חנה דרזנר-צח",
+          "locale": "he_IL",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dresner-Tzakh, Hanna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hanna Dresner-Tzakh",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "d6555a3d-84b0-477d-aca6-b0a049b9dfca",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 75,
+      "name": "אילן ואילנית",
+      "sort-name": "Ilan & Ilanit",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121521962"
+      ],
+      "life-span": {
+        "begin": "1966",
+        "end": "1973",
+        "ended": true
+      }
+    },
+    {
+      "id": "57feaf82-d75f-4635-a4ec-da0b5798a587",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "אילנית בן־צדק",
+      "sort-name": "Ben‐Tzedek, Ilanit",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d617cd31-e8c2-434f-a3fb-4c276b829357",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "name": "Hans Huber",
+      "sort-name": "Huber, Hans",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "produced Ey Sham by Ilanit",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

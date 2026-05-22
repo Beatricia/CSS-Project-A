@@ -1,0 +1,332 @@
+{
+  "created": "2026-05-22T17:04:08.955Z",
+  "count": 37,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "cfb3d32e-d095-4d63-946d-9daf06932180",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Егор Летов",
+      "sort-name": "Letov, Egor",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "071830ed-b7ba-4c03-a805-c2d97dce6603",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Omsk",
+        "sort-name": "Omsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "071830ed-b7ba-4c03-a805-c2d97dce6603",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Omsk",
+        "sort-name": "Omsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114397131"
+      ],
+      "life-span": {
+        "begin": "1964-09-10",
+        "end": "2008-02-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Egor Letov",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Egor Letov",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Letov, Yegor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yegor Letov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Летов, Егор",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Егор Летов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Летов, Игорь Фёдорович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Игорь Фёдорович Летов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian rock"
+        },
+        {
+          "count": 0,
+          "name": "siberyan punck"
+        },
+        {
+          "count": 0,
+          "name": "post punck"
+        },
+        {
+          "count": 0,
+          "name": "russian punck"
+        },
+        {
+          "count": 1,
+          "name": "omsk"
+        },
+        {
+          "count": 1,
+          "name": "siberian punk"
+        },
+        {
+          "count": 2,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        },
+        {
+          "count": 1,
+          "name": "post-punk"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "eef19b62-7082-4aa9-b955-172740e9a018",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Terror Letov",
+      "sort-name": "Terror Letov",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7f61c17e-0f13-45ca-a166-c0dcf20d85bf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Сергей Летов",
+      "sort-name": "Letov, Sergei",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00224483087"
+      ],
+      "life-span": {
+        "begin": "1956-09-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sergei Letov",
+          "name": "Sergei Letov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergey Letov",
+          "name": "Sergey Letov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "728d744a-2e2d-4390-87f9-acf28b453fb9",
+      "score": 44,
+      "name": "Yegor Cergei",
+      "sort-name": "Cergei, Yegor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "270606a3-d0d7-4b57-996a-a8d637c71549",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yegor Dyachkov",
+      "sort-name": "Dyachkov, Yegor",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "cellist",
+      "life-span": {
+        "begin": "1974",
+        "ended": null
+      }
+    },
+    {
+      "id": "72d98658-d499-4138-a7da-928d0acafd45",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yegor Syutkin",
+      "sort-name": "Syutkin, Yegor",
+      "gender": "male",
+      "disambiguation": "engineer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5ac1ce0b-350d-44df-9a14-9e59ae4f3a5f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yegor Murayenko",
+      "sort-name": "Murayenko, Yegor",
+      "gender": "male",
+      "disambiguation": "photographer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f2a72470-60f5-4484-ac4e-9d02f7f1f591",
+      "score": 43,
+      "name": "Yegor Bochkareov",
+      "sort-name": "Bochkareov, Yegor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "43df25ee-8842-4536-aee0-649ee1045c64",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yegor Borisenko",
+      "sort-name": "Borisenko, Yegor",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e7e00462-e138-429f-91a8-a59934bdf20a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yegor Zakharov",
+      "sort-name": "Zakharov, Yegor",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian guitarist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

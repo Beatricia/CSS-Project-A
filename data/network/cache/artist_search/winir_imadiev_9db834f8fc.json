@@ -1,0 +1,46 @@
+{
+  "created": "2026-05-22T17:16:12.606Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "93ea03a0-6388-4a7a-948d-82b5d2dfc544",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Venera Gimadieva",
+      "sort-name": "Gimadieva, Venera",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "05cd175a-0e3a-4bd6-a27e-86fad1a654f4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kazan",
+        "sort-name": "Kazan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian soprano",
+      "isnis": [
+        "0000000456035835"
+      ],
+      "life-span": {
+        "begin": "1984-05-28",
+        "ended": null
+      }
+    }
+  ]
+}

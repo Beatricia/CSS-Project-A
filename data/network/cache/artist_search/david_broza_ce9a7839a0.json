@@ -1,0 +1,651 @@
+{
+  "created": "2026-05-22T17:22:35.830Z",
+  "count": 17988,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "2077bf4d-9bf2-43ac-8c9d-d3eec73e3b30",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "דויד ברוזה",
+      "sort-name": "Broza, David",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4da37f20-218d-4406-8d29-7d30a32978bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Haifa",
+        "sort-name": "Haifa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00242268578"
+      ],
+      "isnis": [
+        "0000000117725735"
+      ],
+      "life-span": {
+        "begin": "1955-09-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "דייויד ברוזה",
+          "name": "דייויד ברוזה",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Broza, David",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "David Broza",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berwick Broza, David Simon",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "David Simon Berwick Broza",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "דיויד ברוזה",
+          "name": "דיויד ברוזה",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "9671e6e0-865d-4b86-a97f-1d62e648bd3c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arthur Broza",
+      "sort-name": "Broza, Arthur",
+      "gender": "male",
+      "begin-area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "David Broza's dad",
+      "life-span": {
+        "begin": "1924-06-19",
+        "end": "2003-05",
+        "ended": true
+      }
+    },
+    {
+      "id": "3b6f176a-5542-4219-8bd1-edc69dc49a15",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "name": "אליין רושה",
+      "sort-name": "Roche, Elaine",
+      "disambiguation": "David Broza photography",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Bowie",
+      "sort-name": "Bowie, David",
+      "gender": "male",
+      "area": {
+        "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "England",
+        "sort-name": "England",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "61941444-5a83-43e2-ba48-4db7438e0f26",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brixton",
+        "sort-name": "Brixton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English singer‐songwriter",
+      "ipis": [
+        "00003960406",
+        "00015471209"
+      ],
+      "isnis": [
+        "0000000114448576",
+        "0000000458257298"
+      ],
+      "life-span": {
+        "begin": "1947-01-08",
+        "end": "2016-01-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Jones, Davy",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Davy Jones",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": "1965"
+        },
+        {
+          "sort-name": "데이비드 보위",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "데이비드 보위",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ziggy Stardust",
+          "name": "Ziggy Stardust",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Jones",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "David Jones",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jones, David Robert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "David Robert Jones",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дэвид Боуи",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Дэвид Боуи",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Thin White Duke",
+          "name": "The Thin White Duke",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "デビッド・ボウイ",
+          "name": "デビッド・ボウイ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Davis Bowie",
+          "name": "Davis Bowie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bowie",
+          "name": "Bowie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Davie Bowie",
+          "name": "Davie Bowie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Harry the Butcher",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Harry the Butcher",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1970-02-23",
+          "end-date": "1970-02-24"
+        },
+        {
+          "sort-name": "デヴィッド・ボウイ",
+          "name": "デヴィッド・ボウイ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 7,
+          "name": "rock"
+        },
+        {
+          "count": -1,
+          "name": "electronic"
+        },
+        {
+          "count": 10,
+          "name": "pop"
+        },
+        {
+          "count": 12,
+          "name": "alternative rock"
+        },
+        {
+          "count": -1,
+          "name": "80s"
+        },
+        {
+          "count": -1,
+          "name": "experimental"
+        },
+        {
+          "count": 6,
+          "name": "british"
+        },
+        {
+          "count": -1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 5,
+          "name": "new wave"
+        },
+        {
+          "count": 6,
+          "name": "uk"
+        },
+        {
+          "count": -3,
+          "name": "britannique"
+        },
+        {
+          "count": -1,
+          "name": "funk"
+        },
+        {
+          "count": -1,
+          "name": "alternative"
+        },
+        {
+          "count": -1,
+          "name": "soul"
+        },
+        {
+          "count": 22,
+          "name": "glam rock"
+        },
+        {
+          "count": 22,
+          "name": "art rock"
+        },
+        {
+          "count": 3,
+          "name": "classic rock"
+        },
+        {
+          "count": -1,
+          "name": "psychedelic pop"
+        },
+        {
+          "count": -1,
+          "name": "experimental rock"
+        },
+        {
+          "count": 5,
+          "name": "pop rock"
+        },
+        {
+          "count": -1,
+          "name": "blue-eyed soul"
+        },
+        {
+          "count": -3,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "rock music"
+        },
+        {
+          "count": 1,
+          "name": "composers"
+        },
+        {
+          "count": -3,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 3,
+          "name": "actors"
+        },
+        {
+          "count": -1,
+          "name": "post-disco"
+        },
+        {
+          "count": -4,
+          "name": "death by liver cancer"
+        },
+        {
+          "count": -3,
+          "name": "pop/rock"
+        },
+        {
+          "count": 7,
+          "name": "art pop"
+        },
+        {
+          "count": -1,
+          "name": "avant-garde pop"
+        },
+        {
+          "count": -3,
+          "name": "server name"
+        },
+        {
+          "count": -5,
+          "name": "killed by 2016!"
+        },
+        {
+          "count": 0,
+          "name": "permanent wave"
+        },
+        {
+          "count": -2,
+          "name": "aln-sh"
+        },
+        {
+          "count": 1,
+          "name": "rock musicians"
+        },
+        {
+          "count": 1,
+          "name": "arrangers"
+        },
+        {
+          "count": 1,
+          "name": "sound recording executives and producers"
+        },
+        {
+          "count": 1,
+          "name": "glam rock music"
+        },
+        {
+          "count": 1,
+          "name": "glam rock musicians"
+        }
+      ]
+    },
+    {
+      "id": "6c959a76-808e-4a5c-b479-e076ff0d7ae7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Nathan",
+      "sort-name": "Nathan, David",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German voice actor and reciter",
+      "isnis": [
+        "0000000017122603"
+      ],
+      "life-span": {
+        "begin": "1971-03-16",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "5e414876-798b-4590-84f6-906bbcb93900",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Seth Anagnostis",
+      "sort-name": "Anagnostis, Seth",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "choir vocals for David Broza",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "941cadf0-bacd-4b4d-9086-836f7d0703f6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Wendy Williams",
+      "sort-name": "Williams, Wendy",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "choir vocals for David Broza",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e5c06ecc-34a7-407a-8af1-01f849a8661c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sylvia Anserian",
+      "sort-name": "Anserian, Sylvia",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "choir vocals for David Broza",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f428f5ce-e8cf-4648-a1aa-a90268141808",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Guy Oliveri",
+      "sort-name": "Oliveri, Guy",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "choir vocals for David Broza",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "92aa3fc9-cc92-4552-bd73-e2cfdb614031",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Melissa Conley",
+      "sort-name": "Conley, Melissa",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "choir vocals for David Broza",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

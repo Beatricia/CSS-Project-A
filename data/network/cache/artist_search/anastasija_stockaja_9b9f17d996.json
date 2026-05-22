@@ -1,0 +1,303 @@
+{
+  "created": "2026-05-22T16:56:55.072Z",
+  "count": 13,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "58b51c96-92c6-40a1-9719-848bd067307f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Анастасия Стоцкая",
+      "sort-name": "Stockaja, Anastasija",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1982-10-07",
+        "ended": null
+      }
+    },
+    {
+      "id": "6d65cd05-c3ab-4aa3-9226-73ac2dbf6acd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anastasija",
+      "sort-name": "Anastasija",
+      "gender": "female",
+      "area": {
+        "id": "0e4c5a2b-b595-494d-8c3e-2968d18b6e1f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beograd",
+        "sort-name": "Beograd",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0e4c5a2b-b595-494d-8c3e-2968d18b6e1f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beograd",
+        "sort-name": "Beograd",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Anastasija Ražnatović, Serbian pop singer",
+      "life-span": {
+        "begin": "1998-05-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ražnatović, Anastasija",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Anastasija Ražnatović",
+          "locale": "sr_Latn",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": "1998-05-25",
+          "end-date": null
+        },
+        {
+          "sort-name": "Ражнатовић, Анастасија",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Анастасија Ражнатовић",
+          "locale": "sr_Cyrl",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": "1998-05-25",
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "d4824688-6e66-4bdb-badc-22988532f26e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anastasija Baranova",
+      "sort-name": "Baranova, Anastasija",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0277699b-8fb5-4501-8731-973785846d8a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anastasija Bykova",
+      "sort-name": "Bykova, Anastasija",
+      "gender": "female",
+      "country": "LT",
+      "area": {
+        "id": "0785dc14-96af-3dc4-bde4-dcdfc2e2d0d6",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Lithuania",
+        "sort-name": "Lithuania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Anastasie Bykova",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Anastasie Bykova",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Anastassia Bykova",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Anastassia Bykova",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Anastasia Bykova",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Anastasia Bykova",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Anastasija Bykova",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anastasija Bykova",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "34d91a3b-7e47-44be-a47c-dd27d72d30d0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anastasija Zvirbule",
+      "sort-name": "Zvirbule, Anastasija",
+      "gender": "female",
+      "country": "LV",
+      "area": {
+        "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Latvia",
+        "sort-name": "Latvia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b92946d8-7192-4968-b911-d7960143652f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Настя Карасева",
+      "sort-name": "Karaseva, Nastya",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Karasjova, Anastasija",
+          "name": "Anastasija Karasjova",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "825a9a94-0e6b-4236-8ce6-fb4be4f21e7c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "name": "Anastasija Vasilevna Gitorovka",
+      "sort-name": "Gitorovka, Anastasija Vasilevna",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fc04f70e-9b05-43ad-906b-0058b8f9a93e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "name": "Zvezdana (Anastasija) Ostojić",
+      "sort-name": "Ostojić, Zvezdana (Anastasija)",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "61341872-b82c-4dfd-98ab-a99ff08dffbb",
+      "score": 61,
+      "name": "Anastasija Romanovna Nikitina",
+      "sort-name": "Nikitina, Anastasija Romanovna",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7386a86b-3720-4851-9ed0-2a20d37e37f4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Анастасия Осипова",
+      "sort-name": "Osipowa, Anastasija",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "67b568c9-3c6f-4b21-9cb0-e0bdb7aa6e64",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Karaganda",
+        "sort-name": "Karaganda",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1985-01-05",
+        "ended": null
+      }
+    }
+  ]
+}

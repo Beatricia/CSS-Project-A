@@ -1,0 +1,459 @@
+{
+  "created": "2026-05-22T17:12:09.308Z",
+  "count": 121,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "95309762-51f2-4e36-9c49-2709e7cf250e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Armas Järnefelt",
+      "sort-name": "Järnefelt, Armas",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d8573f7a-4ee4-4a98-ba74-f639d0a9d7b1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vyborg",
+        "sort-name": "Vyborg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stockholm",
+        "sort-name": "Stockholm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081209973"
+      ],
+      "life-span": {
+        "begin": "1869-08-14",
+        "end": "1958-06-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Jarnefelt, Edvard",
+          "name": "Edvard Jarnefelt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Järnefelt, Edvard Armas",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edvard Armas Järnefelt",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "10ed8dcb-4cc8-45b1-b2ac-e9f5d5c5d16e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Armas",
+      "sort-name": "Armas",
+      "gender": "male",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "1111",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a2e992d6-fda3-461b-8ddc-4ac81f487c73",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Armas",
+      "sort-name": "Armas",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9e533ac4-1527-4389-9000-a894719f85a0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "Armas",
+      "sort-name": "Armas",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish MC",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6b67a6ba-ca9a-41bc-ae3e-af08cc717cbc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Reynaldo Armas",
+      "sort-name": "Armas, Reynaldo",
+      "gender": "male",
+      "country": "VE",
+      "area": {
+        "id": "2ac90d6b-04fa-3006-8a91-89da01032365",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Venezuela",
+        "sort-name": "Venezuela",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2ac90d6b-04fa-3006-8a91-89da01032365",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Venezuela",
+        "sort-name": "Venezuela",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Venezuelan llanero singer and composer",
+      "life-span": {
+        "begin": "1953-08-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Armas, Reinaldo",
+          "name": "Reinaldo Armas",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armas Enguaima, Reinaldo",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Reinaldo Armas Enguaima",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "latin"
+        },
+        {
+          "count": 1,
+          "name": "joropo"
+        },
+        {
+          "count": 1,
+          "name": "música llanera"
+        }
+      ]
+    },
+    {
+      "id": "dca328cb-8331-4390-b419-f32fcb193698",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "name": "Jonna Järnefelt",
+      "sort-name": "Järnefelt, Jonna",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "638a021d-f628-4266-8a91-7956f91f1e08",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Espoo",
+        "sort-name": "Espoo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Finnish actress / singer",
+      "isnis": [
+        "0000000407574277"
+      ],
+      "life-span": {
+        "begin": "1964-10-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Järnefelt, Johanna",
+          "name": "Johanna Järnefelt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Järnefelt, Irja Johanna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Irja Johanna Järnefelt",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "79a6298c-2d86-4669-a0f3-25eed5b81672",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Maikki Järnefelt",
+      "sort-name": "Järnefelt, Maikki",
+      "gender": "female",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "ad48b592-adeb-4823-af7a-6648404d7382",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Turku",
+        "sort-name": "Turku",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "soprano",
+      "life-span": {
+        "begin": "1871-08-26",
+        "end": "1929-07-04",
+        "ended": true
+      }
+    },
+    {
+      "id": "237bc37f-43e6-4e39-a459-c13cc2589f13",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Liva Järnefelt",
+      "sort-name": "Järnefelt, Liva",
+      "gender": "female",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "39326a05-872e-4a13-8dd5-0f32fe5b3b96",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vänersborg",
+        "sort-name": "Vänersborg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stockholm",
+        "sort-name": "Stockholm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1876-03-18",
+        "end": "1971-06-24",
+        "ended": true
+      }
+    },
+    {
+      "id": "b82c302f-c960-4b6f-afdf-bf91f32613e3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eero Järnefelt",
+      "sort-name": "Järnefelt, Eero",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d8573f7a-4ee4-4a98-ba74-f639d0a9d7b1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vyborg",
+        "sort-name": "Vyborg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "39d62198-1e76-4de4-b079-e86e3a393bbc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Helsinki",
+        "sort-name": "Helsinki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1863-03-08",
+        "end": "1937-03-15",
+        "ended": true
+      }
+    },
+    {
+      "id": "bd6c9619-68c3-4229-8e3d-e7ea14b0a33f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arvid Järnefelt",
+      "sort-name": "Järnefelt, Arvid",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "39d62198-1e76-4de4-b079-e86e3a393bbc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Helsinki",
+        "sort-name": "Helsinki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000107807497"
+      ],
+      "life-span": {
+        "begin": "1861-11-16",
+        "end": "1932-12-27",
+        "ended": true
+      }
+    }
+  ]
+}

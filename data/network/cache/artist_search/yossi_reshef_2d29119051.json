@@ -1,0 +1,509 @@
+{
+  "created": "2026-05-22T17:33:43.584Z",
+  "count": 159,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "247c0c70-3cb1-46c5-afab-eb2da4516034",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "name": "Netaly Reshef",
+      "sort-name": "Reshef, Netaly",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b330d7da-8d78-4d5f-b4e9-ff0302a8a8a4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Reshef Harari",
+      "sort-name": "Harari, Reshef",
+      "gender": "male",
+      "ipis": [
+        "00602422301"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "331edda3-a98d-422e-9b44-9a9484b8a479",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 98,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יוסי בנאי",
+      "sort-name": "Banai, Yossi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00064925656"
+      ],
+      "isnis": [
+        "0000000066585620"
+      ],
+      "life-span": {
+        "begin": "1932-04-13",
+        "end": "2006-05-11",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Banai, Yossi",
+          "name": "Yossi Banai",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Banai, Yosi",
+          "name": "Yosi Banai",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a0f92dd5-4f43-40ac-aaf9-d4821892d13d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 98,
+      "name": "Yossi",
+      "sort-name": "Yossi",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "2000s Dutch house DJ/producer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0ebeec28-c9f1-4602-9595-74b4c9ef6376",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Country Yossi",
+      "sort-name": "Country Yossi",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000040296302X"
+      ],
+      "life-span": {
+        "begin": "1949-01-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Country Yossi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Country Yossi",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Toiv, Yossi",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yossi Toiv",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Toiv, Yossi (Joseph)",
+          "name": "Yossi (Joseph) Toiv",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "parody"
+        },
+        {
+          "count": 1,
+          "name": "parody music"
+        },
+        {
+          "count": 1,
+          "name": "orthodox jewish"
+        }
+      ]
+    },
+    {
+      "id": "212fa907-2e60-444e-a09e-64ea86af5f13",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yossi Green",
+      "sort-name": "Green, Yossi",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "54725299-e093-4515-9acd-30c63d336a11",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bnei Brak",
+        "sort-name": "Bnei Brak",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00125011532"
+      ],
+      "isnis": [
+        "0000000070090532"
+      ],
+      "life-span": {
+        "begin": "1955-05-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Grun, Joseph",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Joseph Grun",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "גרין, יוסי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "יוסי גרין",
+          "locale": "he_IL",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "orthodox pop"
+        }
+      ]
+    },
+    {
+      "id": "bc42cfc1-776b-447b-8156-060da9df712f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yossi Sassi",
+      "sort-name": "Sassi, Yossi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9c9a6426-3cb1-4811-87d1-effd38e43d78",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Petah Tikva",
+        "sort-name": "Petah Tikva",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli rock/metal guitarist and producer; ex‐member of Orphaned Land",
+      "ipis": [
+        "00499449189"
+      ],
+      "isnis": [
+        "0000000381628635"
+      ],
+      "life-span": {
+        "begin": "1975-02-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sassi, Yossi & the Oriental Rock Orchestra",
+          "name": "Yossi Sassi & the Oriental Rock Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "יוסי סאסי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "יוסי סאסי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yossi Saharon",
+          "name": "Yossi Saharon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yossi Sassi Sa'aron",
+          "name": "Yossi Sassi Sa'aron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yossi Sa'aron",
+          "name": "Yossi Sa'aron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "mizrahi music"
+        },
+        {
+          "count": 2,
+          "name": "instrumental"
+        },
+        {
+          "count": 0,
+          "name": "israel"
+        },
+        {
+          "count": 0,
+          "name": "israeli"
+        },
+        {
+          "count": 0,
+          "name": "eclectic"
+        },
+        {
+          "count": 2,
+          "name": "muzika mizrahit"
+        },
+        {
+          "count": 0,
+          "name": "mizrahit"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": -1,
+          "name": "oriental"
+        },
+        {
+          "count": 0,
+          "name": "music"
+        },
+        {
+          "count": 2,
+          "name": "oriental rock"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 0,
+          "name": "upbeat"
+        },
+        {
+          "count": 0,
+          "name": "playful"
+        },
+        {
+          "count": 2,
+          "name": "progressive rock"
+        },
+        {
+          "count": 2,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 2,
+          "name": "progressive folk"
+        },
+        {
+          "count": 0,
+          "name": "oriental metal"
+        },
+        {
+          "count": 1,
+          "name": "progressive metal"
+        },
+        {
+          "count": 2,
+          "name": "folk rock"
+        }
+      ]
+    },
+    {
+      "id": "041e1a11-4c07-4ee7-bddd-faeb5e7a48e5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yossi Goldstein",
+      "sort-name": "Goldstein, Yossi",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "158a986e-f39a-468b-9cf8-effe7533755d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yossi Shtendig",
+      "sort-name": "Shtendig, Yossi",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "orthodox pop"
+        }
+      ]
+    },
+    {
+      "id": "494357c6-c49a-40c1-b5a2-50f49b9e5274",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yossi Glick",
+      "sort-name": "Glick, Yossi",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

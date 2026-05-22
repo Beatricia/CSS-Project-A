@@ -1,0 +1,556 @@
+{
+  "created": "2026-05-22T17:33:25.415Z",
+  "count": 7588,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a48b2234-1032-4281-9854-53b0ef4a6b97",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "רועי זוארץ",
+      "sort-name": "Zu-Arets, Roy",
+      "gender": "male",
+      "area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00584481125"
+      ],
+      "life-span": {
+        "begin": "1969-01-22",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Zu-Arets, Roy",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Roy Zu-Arets",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0bbbc496-c7b5-4b3f-bb6d-bd312827d6e5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roy Orbison",
+      "sort-name": "Orbison, Roy",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3c478511-9548-43c7-ad7a-79e1ac01d4c2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vernon",
+        "sort-name": "Vernon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "bcb35f1d-6a1f-4383-a384-b196b95e2339",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hendersonville",
+        "sort-name": "Hendersonville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00022974973",
+        "00130059417",
+        "00130158611"
+      ],
+      "isnis": [
+        "000000007358057X"
+      ],
+      "life-span": {
+        "begin": "1936-04-23",
+        "end": "1988-12-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Orbison",
+          "name": "Orbison",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Big O, The",
+          "name": "The Big O",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orbison, Roy Kelton",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Roy Kelton Orbison",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ray Orbison",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ray Orbison",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roy Orbisson",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Roy Orbisson",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roy Orbsion",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Roy Orbsion",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roy Orbinson",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Roy Orbinson",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wilbury, Lefty",
+          "name": "Lefty Wilbury",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": "1988",
+          "end-date": "1988"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 4,
+          "name": "pop"
+        },
+        {
+          "count": -1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 6,
+          "name": "rockabilly"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 0,
+          "name": "baroque pop"
+        },
+        {
+          "count": 1,
+          "name": "classic rock"
+        },
+        {
+          "count": 4,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "blue-eyed soul"
+        },
+        {
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "count": 3,
+          "name": "rock and roll"
+        },
+        {
+          "count": -1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "traditional pop"
+        },
+        {
+          "count": -2,
+          "name": "death by heart attack"
+        },
+        {
+          "count": 3,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "the best of"
+        },
+        {
+          "count": 1,
+          "name": "rock-and-roll"
+        },
+        {
+          "count": 1,
+          "name": "greyhound"
+        },
+        {
+          "count": 1,
+          "name": "adult standards"
+        },
+        {
+          "count": 1,
+          "name": "mellow gold"
+        }
+      ]
+    },
+    {
+      "id": "46541c29-e1d4-4015-91e8-6ca7b5e6fb9b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 40,
+      "name": "Zu",
+      "sort-name": "Zu",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dccd77b2-bd3d-49eb-a98f-fd58e87f481e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Roma",
+        "sort-name": "Roma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian hardcore/free jazz band",
+      "isnis": [
+        "0000000471305100"
+      ],
+      "life-span": {
+        "begin": "1997",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "italian"
+        },
+        {
+          "count": 1,
+          "name": "experimental rock"
+        },
+        {
+          "count": 1,
+          "name": "avant-garde"
+        },
+        {
+          "count": 1,
+          "name": "free jazz"
+        },
+        {
+          "count": 1,
+          "name": "free improvisation"
+        }
+      ]
+    },
+    {
+      "id": "5896f9ee-e62d-4eb6-86eb-12721f8c6c75",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pascal Arets",
+      "sort-name": "Arets, Pascal",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c8ff4ebc-0fe5-4d32-aabd-0b501e5952bd",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Kerkrade",
+        "sort-name": "Kerkrade",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1972",
+        "ended": null
+      }
+    },
+    {
+      "id": "408d1e25-3f73-4356-ae00-d0a888545f96",
+      "score": 37,
+      "name": "Zu Zu",
+      "sort-name": "Zu Zu",
+      "disambiguation": "featured on “Decadent Butterfly” by Babies From Gong",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "33dc246a-7150-4bc4-89d6-09c4e8b4a0e8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roy Dotrice",
+      "sort-name": "Dotrice, Roy",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6a89d88d-cd53-3d32-b41e-f6c7ab14649b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Guernsey",
+        "sort-name": "Guernsey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000005922216X"
+      ],
+      "life-span": {
+        "begin": "1923-05-26",
+        "end": "2017-10-16",
+        "ended": true
+      }
+    },
+    {
+      "id": "cec72d43-ac22-4be1-945f-74f039b7413f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roy Black",
+      "sort-name": "Black, Roy",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "00f0f660-19b0-460a-aaa9-c319af667707",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bobingen",
+        "sort-name": "Bobingen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "7834f0f1-38d2-4678-8e7e-97084a6d607c",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Heldenstein",
+        "sort-name": "Heldenstein",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German Schlager singer and actor",
+      "isnis": [
+        "0000000055353496"
+      ],
+      "life-span": {
+        "begin": "1943-01-25",
+        "end": "1991-10-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Höllerich, Gerhard",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gerhard Höllerich",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "schlager"
+        }
+      ]
+    },
+    {
+      "id": "7dcfba94-157a-4e66-b310-7b47c45780a0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "name": "Zu-Zu",
+      "sort-name": "Zu-Zu",
+      "country": "JM",
+      "area": {
+        "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Jamaica",
+        "sort-name": "Jamaica",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Jamaican",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "308cdab2-da26-46bd-9cc5-7a17b21550d0",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 36,
+      "name": "Metro Zu",
+      "sort-name": "Metro Zu",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5225796a-9c6b-49b3-a880-aaa8495c8996",
+      "score": 36,
+      "name": "ZU",
+      "sort-name": "ZU",
+      "disambiguation": "Hardcore and noise musician from Diamond Tracks",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

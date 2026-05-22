@@ -1,0 +1,497 @@
+{
+  "created": "2026-05-22T17:21:43.952Z",
+  "count": 7378,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "52034fde-b89c-44e1-ba68-d93df3a56aac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Abi Ofarim",
+      "sort-name": "Ofarim, Abi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "53319d8e-41c9-4182-86f1-e94e51eb16a4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Safed",
+        "sort-name": "Safed",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00022768387"
+      ],
+      "isnis": [
+        "0000000120215808"
+      ],
+      "life-span": {
+        "begin": "1937-10-05",
+        "end": "2018-05-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Reichstadt, Avraham",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Avraham Reichstadt",
+          "locale": "en_IL",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Reichstadt, Abraham",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Abraham Reichstadt",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "7252a389-6feb-4616-9052-11cf47d3daaf",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 85,
+      "name": "Esther & Abi Ofarim",
+      "sort-name": "Esther & Abi Ofarim",
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1959",
+        "end": "1970",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ester & Abi Ofarim",
+          "name": "Ester & Abi Ofarim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "העופרים",
+          "name": "העופרים",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "צמד העופרים",
+          "name": "צמד העופרים",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        }
+      ]
+    },
+    {
+      "id": "8408d6b8-f124-46f4-9cb5-c37e03a6e08a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "אסתר עופרים",
+      "sort-name": "Ofarim, Esther",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0f01a27e-09f9-46f6-a987-030cf5c565e0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nazareth",
+        "sort-name": "Nazareth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00022768485"
+      ],
+      "isnis": [
+        "0000000118725657"
+      ],
+      "life-span": {
+        "begin": "1941-06-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Esther Ofarims",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Esther Ofarims",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ofarim, Esther",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Esther Ofarim",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": "1961",
+          "end-date": null
+        },
+        {
+          "sort-name": "עופרים, אסתר",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "אסתר עופרים",
+          "locale": "he_IL",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Reichstat, Esther",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Esther Reichstat",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1961",
+          "end-date": "1970"
+        },
+        {
+          "sort-name": "Zaied, Esther",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Esther Zaied",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1941",
+          "end-date": "1961"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "folk pop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "b1ede617-c571-4c90-8a64-85a92ab1c472",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gil Ofarim",
+      "sort-name": "Ofarim, Gil",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000120214856"
+      ],
+      "life-span": {
+        "begin": "1982-08-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gil",
+          "name": "Gil",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gil Doron Reichstadt Ofarim",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gil Doron Reichstadt Ofarim",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "4df1b939-0e2d-48f2-bf94-d2de072b92b7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Abi",
+      "sort-name": "Abi",
+      "gender": "male",
+      "disambiguation": "1990s house/R&B producer & singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "41cd19bc-18fd-4a2f-bf35-34cbd55de16b",
+      "score": 39,
+      "name": "The Ofarim",
+      "sort-name": "The Ofarim",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fa4a843a-aaea-4cca-97e3-c94e86dbba30",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tal Ofarim",
+      "sort-name": "Ofarim, Tal",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a340dfa2-3e6c-42da-b0d1-7beeedf231b6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "name": "Abi",
+      "sort-name": "Abi",
+      "disambiguation": "vocalist Abi Paige",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5b82f0ae-e01a-4e7b-b2f0-ee0c4da1a85c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "ABI",
+      "sort-name": "ABI",
+      "area": {
+        "id": "6658f787-692d-417f-852c-dcca728d5849",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Edinburgh",
+        "sort-name": "Edinburgh",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "musician and producer based in Edinburgh, Scotland; experimental electronic",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "All Buttons In",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "All Buttons In",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "AllButtonsIn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "AllButtonsIn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ΛＢＩ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "ΛＢＩ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "idm"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "experimental electronic"
+        },
+        {
+          "count": 1,
+          "name": "glitch"
+        }
+      ]
+    },
+    {
+      "id": "9887ea65-3b43-4766-b2c5-61bf4569bb43",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Abi",
+      "sort-name": "Abi",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "București",
+        "sort-name": "București",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Abi Talent",
+      "life-span": {
+        "begin": "2000-11-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Talent, Abi",
+          "name": "Abi Talent",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

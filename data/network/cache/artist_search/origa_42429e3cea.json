@@ -1,0 +1,493 @@
+{
+  "created": "2026-05-22T17:11:12.828Z",
+  "count": 98,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b5536488-a4da-4e87-9779-d5351c00729d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ORIGA",
+      "sort-name": "ORIGA",
+      "gender": "female",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "75becf6e-dd15-466a-a9f9-b1f169506175",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Kochenyovsky District",
+        "sort-name": "Kochenyovsky District",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8dc97297-ac95-4d33-82bc-e07fab26fb5f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Tokyo",
+        "sort-name": "Tokyo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian singer active in Japan",
+      "ipis": [
+        "00171549169"
+      ],
+      "isnis": [
+        "0000000372809055"
+      ],
+      "life-span": {
+        "begin": "1970-10-12",
+        "end": "2015-01-17",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Яковлева, Ольга",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ольга Яковлева",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Olga Yakovleva",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Olga Yakovleva",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヤコブレヴァ オリガ",
+          "name": "ヤコブレヴァ オリガ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yakovleva, Olga Vitalevna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Olga Vitalevna Yakovleva",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Яковлева, Ольга Витальевна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ольга Витальевна Яковлева",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Origa",
+          "name": "Origa",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "오리가",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "오리가",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "おりが",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "おりが",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "オリガ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ORIGA",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Орига",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Орига",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Origa",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ORIGA",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "anime"
+        },
+        {
+          "count": 1,
+          "name": "n"
+        },
+        {
+          "count": 1,
+          "name": "n2"
+        }
+      ]
+    },
+    {
+      "id": "cd0b38b9-5995-4445-858a-e1c0416a703b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "name": "Origami Girl",
+      "sort-name": "Origami Girl",
+      "area": {
+        "id": "8dc97297-ac95-4d33-82bc-e07fab26fb5f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Tokyo",
+        "sort-name": "Tokyo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "vaporwave artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "11609437-133f-4840-a32a-2119ac185215",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yaporigami",
+      "sort-name": "Yaporigami",
+      "gender": "male",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000466174484"
+      ],
+      "life-span": {
+        "begin": "1984",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "likedis auto"
+        }
+      ]
+    },
+    {
+      "id": "efb2b5ce-8a50-4857-826d-c25d7e8941ba",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 50,
+      "name": "Origami Angel",
+      "sort-name": "Origami Angel",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "af59135f-38b5-4ea4-b4e2-dd28c5f0bad7",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Washington, D.C.",
+        "sort-name": "Washington, D.C.",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2016",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 4,
+          "name": "emo"
+        },
+        {
+          "count": 3,
+          "name": "easycore"
+        }
+      ]
+    },
+    {
+      "id": "622ef2ce-20d9-4e42-b0b3-7382f3dfced9",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 49,
+      "name": "Psyche Origami",
+      "sort-name": "Psyche Origami",
+      "area": {
+        "id": "26e0e534-19ea-4645-bfb3-1aa4e83a4046",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Atlanta",
+        "sort-name": "Atlanta",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "38b15089-2d12-4872-ad5a-08c80652fe23",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "name": "Origamibiro",
+      "sort-name": "Origamibiro",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Penfold Plum",
+          "name": "Penfold Plum",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Thomas William Hill",
+          "name": "Thomas William Hill",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wauvenfold",
+          "name": "Wauvenfold",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e3504149-1627-4079-bca7-a79ef71a7cbe",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 47,
+      "name": "Origami Horses",
+      "sort-name": "Origami Horses",
+      "area": {
+        "id": "36ed2e86-4e30-49eb-8acb-96004ef98fa3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Canterbury",
+        "sort-name": "Canterbury",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2012",
+        "end": "2017-12",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "altrock"
+        },
+        {
+          "count": 1,
+          "name": "lofi"
+        },
+        {
+          "count": 1,
+          "name": "noise"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 1,
+          "name": "post-punk"
+        }
+      ]
+    },
+    {
+      "id": "872b1c7a-471a-4ae6-983f-0f32bc6c0200",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 47,
+      "name": "Origami",
+      "sort-name": "Origami",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Australian early 2000s group",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "237ad53c-65de-46e4-8f9b-f6d21d9ad5d6",
+      "score": 47,
+      "name": "Origami Galaktika",
+      "sort-name": "Origami Galaktika",
+      "life-span": {
+        "begin": "1996",
+        "ended": null
+      }
+    },
+    {
+      "id": "9bdab87c-d53f-4622-adef-245f4e65fe81",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 47,
+      "name": "Оригами",
+      "sort-name": "Origami",
+      "area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Alternative rock band from St.Petersburg, Russia",
+      "life-span": {
+        "begin": "2001",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 0,
+          "name": "metalcore"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 0,
+          "name": "post-hardcore"
+        },
+        {
+          "count": 1,
+          "name": "alternative hardcore"
+        },
+        {
+          "count": 0,
+          "name": "emocore"
+        }
+      ]
+    }
+  ]
+}

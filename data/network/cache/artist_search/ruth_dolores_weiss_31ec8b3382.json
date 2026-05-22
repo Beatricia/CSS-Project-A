@@ -1,0 +1,572 @@
+{
+  "created": "2026-05-22T17:27:20.814Z",
+  "count": 2826,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "944d8608-2e1e-4e3c-8974-ec2cd35bb839",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "רות דולורס וייס",
+      "sort-name": "Weiss, Ruth Dolores",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "339ed589-3664-4741-99ab-b4d479b0a2b9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ashkelon",
+        "sort-name": "Ashkelon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00475355139"
+      ],
+      "isnis": [
+        "0000000407351399"
+      ],
+      "life-span": {
+        "begin": "1978-02-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Weiss, Ruth Dolores",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ruth Dolores Weiss",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "רות דולורס וייס",
+          "name": "רות דולורס וייס",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ruth Dolores Waiss",
+          "name": "Ruth Dolores Waiss",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8600a38e-f776-4543-9071-dfe5db653afe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sylvius Leopold Weiss",
+      "sort-name": "Weiss, Sylvius Leopold",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1fab22f6-d375-4a88-b675-a7ab822b119b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Grodków",
+        "sort-name": "Grodków",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "624f2956-bfdb-43a9-8924-9aadb812ee04",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dresden",
+        "sort-name": "Dresden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00032677384"
+      ],
+      "isnis": [
+        "0000000108823544"
+      ],
+      "life-span": {
+        "begin": "1687-10-12",
+        "end": "1750-10-16",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Weiß, Sylvius Leopold",
+          "name": "Sylvius Leopold Weiß",
+          "locale": "de",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weiss",
+          "name": "Weiss",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weiss, Silvius Leopold",
+          "name": "Silvius Leopold Weiss",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weiss, Sylvius Leopold",
+          "name": "Weiss, Sylvius Leopold",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weiss, S. L.",
+          "name": "Weiss, S. L.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "948137e5-783e-4386-bd7c-a56c2666d1e2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ruth Brown",
+      "sort-name": "Brown, Ruth",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a79f5154-31b7-4070-82e4-657ed0695c52",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Portsmouth",
+        "sort-name": "Portsmouth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3762526b-3ccd-410f-a5a8-bd58986a56b1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Henderson",
+        "sort-name": "Henderson",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000080083782"
+      ],
+      "life-span": {
+        "begin": "1928-01-30",
+        "end": "2006-11-17",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Brown, Ruth",
+          "name": "Brown, Ruth",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weston, Ruth Alston",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ruth Alston Weston",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "vocal jazz"
+        },
+        {
+          "count": -1,
+          "name": "death by stroke"
+        },
+        {
+          "count": -1,
+          "name": "death by heart attack"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 1,
+          "name": "jump-blues"
+        }
+      ]
+    },
+    {
+      "id": "f84c1aed-4670-4cc2-a516-65c1ecd070f9",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 36,
+      "name": "Dolores",
+      "sort-name": "Dolores",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "188ae04a-63e2-423a-bc3d-f725f1214a69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Madison",
+        "sort-name": "Madison",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Madison, Wisconsin based indie rock band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d5d791a8-6f35-45c8-b8b7-aa49f6361870",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Weiss",
+      "sort-name": "Weiss",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK house producer & DJ",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Dinsdale, Richard",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Richard Dinsdale",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0d8a466d-320e-4a43-9504-9fc65579b9d9",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 35,
+      "name": "Dolores",
+      "sort-name": "Dolores",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish jazz fusion band from the '70s",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1eb81458-10d5-4083-8722-0a26d57adaf9",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 35,
+      "name": "Ruth Ruth",
+      "sort-name": "Ruth Ruth",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000106749678"
+      ],
+      "life-span": {
+        "begin": "1993",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": 2,
+          "name": "grunge"
+        },
+        {
+          "count": 2,
+          "name": "power pop"
+        },
+        {
+          "count": 2,
+          "name": "post-grunge"
+        },
+        {
+          "count": 2,
+          "name": "pop punk"
+        }
+      ]
+    },
+    {
+      "id": "32aba4b0-fc15-4002-8493-a6830d55b44c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 35,
+      "name": "Dolores",
+      "sort-name": "Dolores",
+      "area": {
+        "id": "f95f42b0-59a6-410d-a08e-3db77f4aea8a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San Jose",
+        "sort-name": "San Jose",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hardcore from San Jose",
+      "life-span": {
+        "begin": "2020",
+        "ended": null
+      }
+    },
+    {
+      "id": "ab05807f-c127-4cb5-9f72-72ec47096632",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dolores Keane",
+      "sort-name": "Keane, Dolores",
+      "gender": "female",
+      "country": "IE",
+      "area": {
+        "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ireland",
+        "sort-name": "Ireland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3fca5006-e6c6-4935-b1f5-baa80df5a95c",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "County Galway",
+        "sort-name": "County Galway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3fca5006-e6c6-4935-b1f5-baa80df5a95c",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "County Galway",
+        "sort-name": "County Galway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00046931764",
+        "00160562783"
+      ],
+      "isnis": [
+        "0000000055155836"
+      ],
+      "life-span": {
+        "begin": "1953-09-26",
+        "end": "2026-03-16",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Delores Keane",
+          "name": "Delores Keane",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "folk"
+        },
+        {
+          "count": 2,
+          "name": "celtic"
+        },
+        {
+          "count": 2,
+          "name": "irish folk"
+        }
+      ]
+    },
+    {
+      "id": "53423b07-ebb7-4f1b-a11c-e9a3952fa2c2",
+      "score": 34,
+      "name": "Dolores",
+      "sort-name": "Dolores",
+      "disambiguation": "Jamendo artist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

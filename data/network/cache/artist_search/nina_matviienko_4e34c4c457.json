@@ -1,0 +1,782 @@
+{
+  "created": "2026-05-22T16:48:11.231Z",
+  "count": 1612,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "d9252e25-1705-4b4f-aee7-f5a548542b16",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ніна Матвієнко",
+      "sort-name": "Matviienko, Nina",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "716ce7fe-313c-485e-a219-4e87287612c6",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Zhytomyrs'ka Oblast'",
+        "sort-name": "Zhytomyrs'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian singer",
+      "isnis": [
+        "000000011490210X"
+      ],
+      "life-span": {
+        "begin": "1947-10-10",
+        "end": "2023-10-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Matvienko, Nina",
+          "name": "Nina Matvienko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Матвієнко, Ніна Митрофанівна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ніна Митрофанівна Матвієнко",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Матвиенко, Нина",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Нина Матвиенко",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "2944824d-4c26-476f-a981-be849081942f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina Simone",
+      "sort-name": "Simone, Nina",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "62fe017e-4a74-498e-8cd5-747e241b7eea",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tryon",
+        "sort-name": "Tryon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8e546d41-feb5-41c5-b4cc-7a11573be598",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Carry-le-Rouet",
+        "sort-name": "Carry-le-Rouet",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00028790853"
+      ],
+      "isnis": [
+        "0000000081232970"
+      ],
+      "life-span": {
+        "begin": "1933-02-21",
+        "end": "2003-04-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Simone, Nina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nina Simone",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Simone, Nina & Her Orchestra",
+          "name": "Nina Simone & Her Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nina Simons",
+          "name": "Nina Simons",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Simone",
+          "name": "Simone",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Waymon, Eunice Kathleen",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Eunice Kathleen Waymon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ニーナ・シモン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ニーナ・シモン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 10,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 3,
+          "name": "blues"
+        },
+        {
+          "count": 9,
+          "name": "soul"
+        },
+        {
+          "count": 0,
+          "name": "rnb"
+        },
+        {
+          "count": 0,
+          "name": "gospel"
+        },
+        {
+          "count": 3,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 0,
+          "name": "piano blues"
+        },
+        {
+          "count": 2,
+          "name": "soul jazz"
+        },
+        {
+          "count": 1,
+          "name": "composers"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "pop soul"
+        },
+        {
+          "count": 0,
+          "name": "standards"
+        },
+        {
+          "count": -1,
+          "name": "death by breast cancer"
+        },
+        {
+          "count": 3,
+          "name": "r&b"
+        },
+        {
+          "count": 0,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 1,
+          "name": "popular music"
+        },
+        {
+          "count": 1,
+          "name": "civil rights"
+        },
+        {
+          "count": 1,
+          "name": "pianists"
+        },
+        {
+          "count": 1,
+          "name": "african american singers"
+        },
+        {
+          "count": 1,
+          "name": "african american women civil rights workers"
+        }
+      ]
+    },
+    {
+      "id": "2f3749f6-0bce-40ab-b6fd-120bb6e9d8cf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Danylo Matviienko",
+      "sort-name": "Matviienko, Danylo",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3cc9dfbe-e4b6-4e49-8bbc-3cb16932086a",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Avtonomna Respublika Krym",
+        "sort-name": "Avtonomna Respublika Krym",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "baritone",
+      "life-span": {
+        "begin": "1990",
+        "ended": null
+      }
+    },
+    {
+      "id": "5cad7195-3879-4ddd-b52b-c126d4593f1c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 80,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina Petri",
+      "sort-name": "Petri, Nina",
+      "gender": "female",
+      "area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German actress and reader",
+      "isnis": [
+        "0000000374391895"
+      ],
+      "life-span": {
+        "begin": "1963-07-16",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "e4d32f51-bc57-42a4-8165-b80f7a86496d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 80,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina Hagen",
+      "sort-name": "Hagen, Nina",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00087287629",
+        "00087287825",
+        "00482486914"
+      ],
+      "isnis": [
+        "0000000081610951"
+      ],
+      "life-span": {
+        "begin": "1955-03-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Nina Hagen Band",
+          "name": "Nina Hagen Band",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hagen, Catharina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Catharina Hagen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "comedy rock"
+        },
+        {
+          "count": 3,
+          "name": "post-punk"
+        },
+        {
+          "count": 3,
+          "name": "punk rock"
+        },
+        {
+          "count": 2,
+          "name": "new wave"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "punk"
+        },
+        {
+          "count": 0,
+          "name": "germany"
+        },
+        {
+          "count": 4,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "rock music"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 1,
+          "name": "rock musicians"
+        },
+        {
+          "count": 1,
+          "name": "singing"
+        },
+        {
+          "count": 1,
+          "name": "popular music"
+        },
+        {
+          "count": 1,
+          "name": "ndw"
+        },
+        {
+          "count": 3,
+          "name": "neue deutsche welle"
+        },
+        {
+          "count": 0,
+          "name": "actor"
+        },
+        {
+          "count": 0,
+          "name": "ddr"
+        },
+        {
+          "count": 0,
+          "name": "german-lyrics"
+        }
+      ]
+    },
+    {
+      "id": "06efc032-646d-4192-b537-11cb24f921fc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina",
+      "sort-name": "Nina",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "synthwave artist Nina Boldt",
+      "ipis": [
+        "00655176528"
+      ],
+      "isnis": [
+        "0000000465323759"
+      ],
+      "life-span": {
+        "begin": "1983-09-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Boldt, Nina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nina Boldt",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 0,
+          "name": "synthpop"
+        },
+        {
+          "count": 2,
+          "name": "synth-pop"
+        },
+        {
+          "count": 0,
+          "name": "retro"
+        },
+        {
+          "count": 0,
+          "name": "80's"
+        },
+        {
+          "count": 5,
+          "name": "synthwave"
+        },
+        {
+          "count": 3,
+          "name": "retrowave"
+        },
+        {
+          "count": 1,
+          "name": "popwave"
+        }
+      ]
+    },
+    {
+      "id": "3459126a-12cc-43c4-83c6-c4a11551a119",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina",
+      "sort-name": "Nina",
+      "gender": "female",
+      "country": "PH",
+      "area": {
+        "id": "786532a5-2e36-315a-bdf2-221dc1b64b72",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Philippines",
+        "sort-name": "Philippines",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3263f206-a31c-42e2-be63-db8499347ecc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Pasay",
+        "sort-name": "Pasay",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Filipino soul siren Nina Girado",
+      "life-span": {
+        "begin": "1980-11-01",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "opm"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "p-pop"
+        }
+      ]
+    },
+    {
+      "id": "1216dfd8-36fd-4eae-8d98-06940f174984",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina Kunzendorf",
+      "sort-name": "Kunzendorf, Nina",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b07271ff-75a4-4dbd-96ee-6386cf3c5fab",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mannheim",
+        "sort-name": "Mannheim",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1971-11-10",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "3dbb62df-14cc-4011-807f-e2322e1b3867",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Тоня Матвієнко",
+      "sort-name": "Matviienko, Tonya",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1981-04-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Matvienko, Tonya",
+          "name": "Tonya Matvienko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Матвієнко Антоніна Петрівна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Матвієнко Антоніна Петрівна",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Тоня Матвієнко",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тоня Матвієнко",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "ukraine"
+        }
+      ]
+    },
+    {
+      "id": "e90d72be-4457-4f03-a9db-41e33f5432c9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina West",
+      "sort-name": "West, Nina",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German actress",
+      "life-span": {
+        "begin": "1972",
+        "ended": null
+      }
+    }
+  ]
+}

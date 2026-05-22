@@ -1,0 +1,780 @@
+{
+  "created": "2026-05-22T17:09:16.520Z",
+  "count": 1610,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5dd3cf5b-474d-465a-a539-456d7e125ebc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina Kraviz",
+      "sort-name": "Kraviz, Nina",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "aa7e0699-d3fd-44a1-9e54-8088abfd5ed1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Irkutsk",
+        "sort-name": "Irkutsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian DJ",
+      "ipis": [
+        "00623083865"
+      ],
+      "isnis": [
+        "0000000449018332"
+      ],
+      "life-span": {
+        "begin": "1989-09-15",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Кравиц, Нина",
+          "name": "Нина Кравиц",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kraviz, Nina",
+          "name": "Nina Kraviz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kravets, Nina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nina Kravets",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "9157e88e-4387-4bfe-bdcf-f85b87258e3d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina Chliyants",
+      "sort-name": "Chliyants, Nina",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "aa7e0699-d3fd-44a1-9e54-8088abfd5ed1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Irkutsk",
+        "sort-name": "Irkutsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00725144461"
+      ],
+      "life-span": {
+        "begin": "1989-09-15",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kraviz, Nina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nina Kraviz",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chliyants, Nina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nina Chliyants",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кравиц, Нина",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Нина Кравиц",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chliyants, Nina Valerievna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nina Valerievna Chliyants",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "2944824d-4c26-476f-a981-be849081942f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina Simone",
+      "sort-name": "Simone, Nina",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "62fe017e-4a74-498e-8cd5-747e241b7eea",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tryon",
+        "sort-name": "Tryon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8e546d41-feb5-41c5-b4cc-7a11573be598",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Carry-le-Rouet",
+        "sort-name": "Carry-le-Rouet",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00028790853"
+      ],
+      "isnis": [
+        "0000000081232970"
+      ],
+      "life-span": {
+        "begin": "1933-02-21",
+        "end": "2003-04-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Simone, Nina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nina Simone",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Simone, Nina & Her Orchestra",
+          "name": "Nina Simone & Her Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nina Simons",
+          "name": "Nina Simons",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Simone",
+          "name": "Simone",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Waymon, Eunice Kathleen",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Eunice Kathleen Waymon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ニーナ・シモン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ニーナ・シモン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 10,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 3,
+          "name": "blues"
+        },
+        {
+          "count": 9,
+          "name": "soul"
+        },
+        {
+          "count": 0,
+          "name": "rnb"
+        },
+        {
+          "count": 0,
+          "name": "gospel"
+        },
+        {
+          "count": 3,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 0,
+          "name": "piano blues"
+        },
+        {
+          "count": 2,
+          "name": "soul jazz"
+        },
+        {
+          "count": 1,
+          "name": "composers"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "pop soul"
+        },
+        {
+          "count": 0,
+          "name": "standards"
+        },
+        {
+          "count": -1,
+          "name": "death by breast cancer"
+        },
+        {
+          "count": 3,
+          "name": "r&b"
+        },
+        {
+          "count": 0,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 1,
+          "name": "popular music"
+        },
+        {
+          "count": 1,
+          "name": "civil rights"
+        },
+        {
+          "count": 1,
+          "name": "pianists"
+        },
+        {
+          "count": 1,
+          "name": "african american singers"
+        },
+        {
+          "count": 1,
+          "name": "african american women civil rights workers"
+        }
+      ]
+    },
+    {
+      "id": "5cad7195-3879-4ddd-b52b-c126d4593f1c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina Petri",
+      "sort-name": "Petri, Nina",
+      "gender": "female",
+      "area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German actress and reader",
+      "isnis": [
+        "0000000374391895"
+      ],
+      "life-span": {
+        "begin": "1963-07-16",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "e4d32f51-bc57-42a4-8165-b80f7a86496d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina Hagen",
+      "sort-name": "Hagen, Nina",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00087287629",
+        "00087287825",
+        "00482486914"
+      ],
+      "isnis": [
+        "0000000081610951"
+      ],
+      "life-span": {
+        "begin": "1955-03-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Nina Hagen Band",
+          "name": "Nina Hagen Band",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hagen, Catharina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Catharina Hagen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "comedy rock"
+        },
+        {
+          "count": 3,
+          "name": "post-punk"
+        },
+        {
+          "count": 3,
+          "name": "punk rock"
+        },
+        {
+          "count": 2,
+          "name": "new wave"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "punk"
+        },
+        {
+          "count": 0,
+          "name": "germany"
+        },
+        {
+          "count": 4,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "rock music"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 1,
+          "name": "rock musicians"
+        },
+        {
+          "count": 1,
+          "name": "singing"
+        },
+        {
+          "count": 1,
+          "name": "popular music"
+        },
+        {
+          "count": 1,
+          "name": "ndw"
+        },
+        {
+          "count": 3,
+          "name": "neue deutsche welle"
+        },
+        {
+          "count": 0,
+          "name": "actor"
+        },
+        {
+          "count": 0,
+          "name": "ddr"
+        },
+        {
+          "count": 0,
+          "name": "german-lyrics"
+        }
+      ]
+    },
+    {
+      "id": "06efc032-646d-4192-b537-11cb24f921fc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina",
+      "sort-name": "Nina",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "synthwave artist Nina Boldt",
+      "ipis": [
+        "00655176528"
+      ],
+      "isnis": [
+        "0000000465323759"
+      ],
+      "life-span": {
+        "begin": "1983-09-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Boldt, Nina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nina Boldt",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 0,
+          "name": "synthpop"
+        },
+        {
+          "count": 2,
+          "name": "synth-pop"
+        },
+        {
+          "count": 0,
+          "name": "retro"
+        },
+        {
+          "count": 0,
+          "name": "80's"
+        },
+        {
+          "count": 5,
+          "name": "synthwave"
+        },
+        {
+          "count": 3,
+          "name": "retrowave"
+        },
+        {
+          "count": 1,
+          "name": "popwave"
+        }
+      ]
+    },
+    {
+      "id": "3459126a-12cc-43c4-83c6-c4a11551a119",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina",
+      "sort-name": "Nina",
+      "gender": "female",
+      "country": "PH",
+      "area": {
+        "id": "786532a5-2e36-315a-bdf2-221dc1b64b72",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Philippines",
+        "sort-name": "Philippines",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3263f206-a31c-42e2-be63-db8499347ecc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Pasay",
+        "sort-name": "Pasay",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Filipino soul siren Nina Girado",
+      "life-span": {
+        "begin": "1980-11-01",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "opm"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "p-pop"
+        }
+      ]
+    },
+    {
+      "id": "1216dfd8-36fd-4eae-8d98-06940f174984",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina Kunzendorf",
+      "sort-name": "Kunzendorf, Nina",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b07271ff-75a4-4dbd-96ee-6386cf3c5fab",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mannheim",
+        "sort-name": "Mannheim",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1971-11-10",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "e90d72be-4457-4f03-a9db-41e33f5432c9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina West",
+      "sort-name": "West, Nina",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German actress",
+      "life-span": {
+        "begin": "1972",
+        "ended": null
+      }
+    },
+    {
+      "id": "75ccecb6-9d86-4398-abac-e1372378fe16",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina",
+      "sort-name": "Nina",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Nina Gerhard",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

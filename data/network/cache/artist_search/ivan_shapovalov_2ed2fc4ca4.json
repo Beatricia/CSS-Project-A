@@ -1,0 +1,585 @@
+{
+  "created": "2026-05-22T17:12:05.896Z",
+  "count": 3713,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "08a8503f-e0ec-4442-ac5c-3a1f4dbf5cc6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Иван Шаповалов",
+      "sort-name": "Shapovalov, Ivan",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6bf68e88-0082-44ee-9ba2-ed249725a0e8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kotovo",
+        "sort-name": "Kotovo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00436648337"
+      ],
+      "life-span": {
+        "begin": "1966-05-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Shapovalov, Ivan",
+          "name": "Ivan Shapovalov",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шаповалов, Иван Николаевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Иван Николаевич Шаповалов",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shapovalov, Ivan Nikolayevich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ivan Nikolayevich Shapovalov",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian"
+        }
+      ]
+    },
+    {
+      "id": "b61b75c8-70a0-4aa7-9ac3-5a115e387bd6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "nATo",
+      "sort-name": "nATo",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "76c77b6c-f1e1-4a58-8fe1-01a7efadd1f7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tbilisi",
+        "sort-name": "Tbilisi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "project by Ivan Shapovalov",
+      "life-span": {
+        "begin": "1979",
+        "ended": null
+      }
+    },
+    {
+      "id": "43148a81-1281-4a06-aae4-bd8a5faed77d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Viktor Shapovalov",
+      "sort-name": "Shapovalov, Viktor",
+      "gender": "male",
+      "disambiguation": "bass singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "39ba57d1-f241-41b1-891c-bba90c3c7791",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Denis Shapovalov",
+      "sort-name": "Shapovalov, Denis",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "70c5e9c2-a2d9-4493-af39-78fa5046b708",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chaykovsky",
+        "sort-name": "Chaykovsky",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "cellist/conductor/composer",
+      "isnis": [
+        "0000000402164914"
+      ],
+      "life-span": {
+        "begin": "1974-12-11",
+        "ended": null
+      }
+    },
+    {
+      "id": "6640d654-4b8f-48ed-883c-e064a0a48861",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ivan Graziani",
+      "sort-name": "Graziani, Ivan",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3f9075cc-8324-4ee5-aedf-8d65db6e07a0",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Teramo",
+        "sort-name": "Teramo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00064149382"
+      ],
+      "isnis": [
+        "0000000366004429"
+      ],
+      "life-span": {
+        "begin": "1945-10-06",
+        "end": "1997-01-01",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "2f31098d-1258-4f8f-af5f-95815b02f2d2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ivan Lins",
+      "sort-name": "Lins, Ivan",
+      "gender": "male",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rio de Janeiro",
+        "sort-name": "Rio de Janeiro",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00067483253",
+        "00067483351",
+        "00085713852"
+      ],
+      "isnis": [
+        "0000000108048322"
+      ],
+      "life-span": {
+        "begin": "1945-06-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lins",
+          "name": "Lins",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evan Lins",
+          "name": "Evan Lins",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lins, Ivan Guimarães",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ivan Guimarães Lins",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "mpb"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 0,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "8237b887-317b-4aca-8318-edb698d01ff2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ivan Rebroff",
+      "sort-name": "Rebroff, Ivan",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "16560d3e-358b-4869-8a6d-727db2ee7b69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Frankfurt am Main",
+        "sort-name": "Frankfurt am Main",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000115718232"
+      ],
+      "life-span": {
+        "begin": "1931-07-31",
+        "end": "2008-02-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ребров, Иван",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иван Ребров",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rebroff, Ivan",
+          "name": "Rebroff, Ivan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rippert, Hans Rolf",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hans Rolf Rippert",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "d5f02641-01a5-4e24-bf81-d8b2d4145cfa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Shapov",
+      "sort-name": "Shapov",
+      "gender": "male",
+      "area": {
+        "id": "a5a09d38-eca0-466e-950b-c3730414d8bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Smolensk",
+        "sort-name": "Smolensk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "A. Shapovalov",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "A. Shapovalov",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шаповалов, Александр",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Александр Шаповалов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shapovalov, Alexander",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alexander Shapovalov",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "2cabb4a0-7587-49f5-afce-75602d5db294",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Ivan Anthony Bertolla",
+      "sort-name": "Bertolla, Ivan Anthony",
+      "ipis": [
+        "00494070839"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bertolla Ivan",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Bertolla Ivan",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivan Bertolla",
+          "name": "Ivan Bertolla",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "epic music"
+        }
+      ]
+    },
+    {
+      "id": "8db89d52-afb2-41c2-8c4a-7f6d4e2451c5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Iván",
+      "sort-name": "Iván",
+      "gender": "male",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9ddf829c-48ee-4457-a80d-f7370f24f2ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Madrid",
+        "sort-name": "Madrid",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "80s Spanish italo-disco artist",
+      "life-span": {
+        "begin": "1962-07-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ivan",
+          "name": "Ivan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vaquero, Juan Carlos Ramos",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Juan Carlos Ramos Vaquero",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "italo-disco"
+        },
+        {
+          "count": 1,
+          "name": "euro-disco"
+        },
+        {
+          "count": 1,
+          "name": "electronic-pop"
+        },
+        {
+          "count": 1,
+          "name": "italo"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "created": "2026-05-22T16:51:32.766Z",
+  "count": 2,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "eddb2d38-e153-486f-a713-93a3928130af",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alex Yarmak",
+      "sort-name": "Yarmak, Alex",
+      "gender": "male",
+      "area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Yarmak, Oleksandr",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Oleksandr Yarmak",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ярмак, Олександр",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Олександр Ярмак",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1221c0d6-6d3d-4987-a3a0-2818a47b8ec3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ЯрмаК",
+      "sort-name": "YarmaK",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "783981f6-86e6-437e-849a-b95bb9039336",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Kyïvs'ka Oblast'",
+        "sort-name": "Kyïvs'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1991-10-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "YARMAK",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "YARMAK",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yarmak, Olexandr Valentynovych",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Олександр Валентинович Ярмак",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yarmak, Alexandr Valentinovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Александр Валентинович Ярмак",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

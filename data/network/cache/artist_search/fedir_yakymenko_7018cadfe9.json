@@ -1,0 +1,195 @@
+{
+  "created": "2026-05-22T17:01:49.132Z",
+  "count": 6,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "da253d9b-4487-4bd7-94a2-6a063ee35952",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fedir Tkachov",
+      "sort-name": "Tkachov, Fedir",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "006c8486-5b8d-446c-b0bc-8d1dfbcf4789",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Viktor Yakymenko",
+      "sort-name": "Yakymenko, Viktor",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Victor Yakimenko",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Victor Yakimenko",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "cbedf5db-0342-45b2-8bc7-c00155b648f5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Федір Ходаков",
+      "sort-name": "Khodakov, Fedir",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Khodakov, Fedir",
+          "name": "Fedir Khodakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "46b9e269-a3cd-4b80-87e9-835ae7c3c3cb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ryuu竜",
+      "sort-name": "ryuu",
+      "gender": "male",
+      "disambiguation": "lo‐fi beatmaker",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Victor Yakimenko",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Victor Yakimenko",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yakymenko, Viktor",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Viktor Yakymenko",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi"
+        },
+        {
+          "count": 1,
+          "name": "boom bap"
+        },
+        {
+          "count": 1,
+          "name": "chillwave"
+        },
+        {
+          "count": 1,
+          "name": "instrumental hip hop"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi hip hop"
+        }
+      ]
+    },
+    {
+      "id": "260a6e3d-8b4e-4419-9bcb-ad5da691ffe0",
+      "score": 77,
+      "name": "Marta Lay",
+      "sort-name": "Lay, Marta",
+      "life-span": {
+        "begin": "1985-10-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Якименко, Марта",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Марта Якименко",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yakymenko, Marta",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Marta Yakymenko",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "50fde941-3cbc-49a4-ba15-8d864417d2a3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Brian Fedirko",
+      "sort-name": "Fedirko, Brian",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

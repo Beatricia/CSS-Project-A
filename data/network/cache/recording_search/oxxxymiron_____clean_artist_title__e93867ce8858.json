@@ -1,0 +1,126 @@
+{
+  "created": "2026-05-22T18:12:27.888Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "026b2b2b-c74f-474c-a437-653c632400ff",
+      "score": 100,
+      "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+      "title": "До зимы",
+      "length": 149000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Oxxxymiron",
+          "artist": {
+            "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+            "name": "Oxxxymiron",
+            "sort-name": "Oxxxymiron",
+            "disambiguation": "Russian rapper",
+            "aliases": [
+              {
+                "sort-name": "Оксимирон",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Оксимирон",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Фёдоров, Мирон Янович",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Мирон Янович Фёдоров",
+                "locale": "ru",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Окси",
+                "name": "Окси",
+                "locale": "ru",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2013-10-18",
+      "releases": [
+        {
+          "id": "384479e3-bf88-40c8-acc6-466140600908",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+          "count": 1,
+          "title": "miXXXtape II. Долгий путь домой",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Oxxxymiron",
+              "artist": {
+                "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+                "name": "Oxxxymiron",
+                "sort-name": "Oxxxymiron",
+                "disambiguation": "Russian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b6f4c580-aa3c-4e20-80cf-94d8f7b74c65",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "miXXXtape II. Долгий путь домой",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2013-10-18",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2013-10-18",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "bb0becd5-b1d8-3f7b-a93f-7242f29edba6",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "8008a2b7-b2e9-4c5c-aa0a-c8c8641b793e",
+                  "number": "14",
+                  "title": "До зимы",
+                  "length": 149000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Oxxxymiron\" AND recording:\"До зимы\""
+}

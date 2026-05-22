@@ -1,0 +1,908 @@
+{
+  "created": "2026-05-22T17:37:15.844Z",
+  "count": 5575,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a754d07c-c297-4f5a-98df-4d0e908549f6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Messaoud",
+      "sort-name": "Messaoud",
+      "gender": "male",
+      "disambiguation": "french hip/hop MC & songwriter",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b12518c6-2e0b-4c86-b90a-8ee1c2beb7fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Saoud l'Oranais",
+      "sort-name": "l'Oranais, Saoud",
+      "gender": "male",
+      "country": "DZ",
+      "area": {
+        "id": "28242750-534a-326b-8ed6-1b03dfb88cd0",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Algeria",
+        "sort-name": "Algeria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "792b1496-3f80-4ad0-92c2-2c2154a9b642",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oran",
+        "sort-name": "Oran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3f2dbc87-a4c1-4fe7-b99c-1a13cac94a28",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sobibór",
+        "sort-name": "Sobibór",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Messaoud El Medioni",
+      "life-span": {
+        "begin": "1886-11-25",
+        "end": "1943-03-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "El Médioni, Messaoud",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Messaoud El Médioni",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1f788b40-3a32-4e07-a420-8508a8f5fb47",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bellemou Messaoud",
+      "sort-name": "Messaoud, Bellemou",
+      "gender": "male",
+      "country": "DZ",
+      "area": {
+        "id": "28242750-534a-326b-8ed6-1b03dfb88cd0",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Algeria",
+        "sort-name": "Algeria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000073272585"
+      ],
+      "life-span": {
+        "begin": "1946",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bellemou",
+          "name": "Bellemou",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bellemou Messaouid",
+          "name": "Bellemou Messaouid",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bellamou Messaoud",
+          "name": "Bellamou Messaoud",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "arabic"
+        }
+      ]
+    },
+    {
+      "id": "7d05286b-511d-4348-9c91-ac435431a922",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Messaoud Habib",
+      "sort-name": "Habib, Messaoud",
+      "gender": "male",
+      "country": "DZ",
+      "area": {
+        "id": "28242750-534a-326b-8ed6-1b03dfb88cd0",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Algeria",
+        "sort-name": "Algeria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2c7d1a89-039f-499f-b354-ebe94512f8af",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 74,
+      "name": "El Tri",
+      "sort-name": "Tri, El",
+      "country": "MX",
+      "area": {
+        "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Mexico",
+        "sort-name": "Mexico",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3c810219-baf2-4fff-b98c-46b425eea1f5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ciudad de México",
+        "sort-name": "Ciudad de México",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1984",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        }
+      ]
+    },
+    {
+      "id": "8d463dee-ffae-4028-a3af-ec8ccb595906",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bill Nelson",
+      "sort-name": "Nelson, Bill",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "34750908-b632-4cc2-964f-d630971e5b0e",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Wakefield",
+        "sort-name": "Wakefield",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English experimental musician",
+      "ipis": [
+        "00087639525",
+        "00088774415"
+      ],
+      "isnis": [
+        "0000000055434667"
+      ],
+      "life-span": {
+        "begin": "1948-12-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cabasa El Dubova",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Cabasa El Dubova",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bill Nelson's Red Noise",
+          "name": "Bill Nelson's Red Noise",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "synthpop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 2,
+          "name": "new wave"
+        },
+        {
+          "count": 2,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "experimental rock"
+        },
+        {
+          "count": 1,
+          "name": "new romantic"
+        },
+        {
+          "count": 1,
+          "name": "synth pop"
+        },
+        {
+          "count": 1,
+          "name": "minimal synth"
+        },
+        {
+          "count": 2,
+          "name": "art pop"
+        }
+      ]
+    },
+    {
+      "id": "96a5d7f3-1fca-47f7-81a3-a3b430d302a2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Maurice El Médioni",
+      "sort-name": "El Médioni, Maurice",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d9b8719f-d0d2-4e61-bfb1-e3660ad11af9",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Oran",
+        "sort-name": "Oran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00020326046",
+        "00067530473"
+      ],
+      "isnis": [
+        "0000000044741311"
+      ],
+      "life-span": {
+        "begin": "1928-10-18",
+        "end": "2024-03-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "אל מדיוני, מוריס",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "מוריס אל מדיוני",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maurice El Médioni et son PianOriental",
+          "name": "Maurice El Médioni et son PianOriental",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "مــوريــس الــمــديــونــي",
+          "name": "مــوريــس الــمــديــونــي",
+          "locale": "ar",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maurice El Medioni",
+          "name": "Maurice El Medioni",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maurice El Mediouni",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Maurice El Mediouni",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "موريس المديوني",
+          "name": "موريس المديوني",
+          "locale": "ar",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "arabic"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "raï"
+        },
+        {
+          "count": 1,
+          "name": "andalusian classical"
+        }
+      ]
+    },
+    {
+      "id": "d9241f5b-721a-4e08-a25a-acd83ed878cc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "El‐P",
+      "sort-name": "El‐P",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US hip hop artist/producer Jaime Meline",
+      "isnis": [
+        "0000000043814523"
+      ],
+      "life-span": {
+        "begin": "1975-03-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Meline, Jaime Stuart",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jaime Stuart Meline",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "El-Producto",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "El-Producto",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lyrical Punisher, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Lyrical Punisher",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Producto Mart",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Producto Mart",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jimmies",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jimmies",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Infesticon #.01",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Infesticon #.01",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "EL-P",
+          "name": "EL-P",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip-hop"
+        },
+        {
+          "count": 3,
+          "name": "hip hop"
+        },
+        {
+          "count": 0,
+          "name": "hiphop"
+        },
+        {
+          "count": 1,
+          "name": "producer"
+        },
+        {
+          "count": 1,
+          "name": "rapper"
+        },
+        {
+          "count": 0,
+          "name": "us"
+        },
+        {
+          "count": 0,
+          "name": "jazz and blues"
+        },
+        {
+          "count": 1,
+          "name": "alternative hip hop"
+        },
+        {
+          "count": 1,
+          "name": "experimental hip hop"
+        },
+        {
+          "count": 1,
+          "name": "underground hip hop"
+        },
+        {
+          "count": 1,
+          "name": "abstract hip hop"
+        },
+        {
+          "count": 1,
+          "name": "boom bap"
+        },
+        {
+          "count": 1,
+          "name": "industrial hip hop"
+        },
+        {
+          "count": 1,
+          "name": "east coast hip hop"
+        }
+      ]
+    },
+    {
+      "id": "68eabc1f-f304-46cb-8015-6f9cb7af33c6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "El DeBarge",
+      "sort-name": "DeBarge, El",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Detroit",
+        "sort-name": "Detroit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00049893329",
+        "00429250170"
+      ],
+      "isnis": [
+        "0000000059350903"
+      ],
+      "life-span": {
+        "begin": "1961-06-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "E. DeBarge",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "E. DeBarge",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eldra P De Barge",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Eldra P De Barge",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eldra De Barge",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Eldra De Barge",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eldra DeBarge",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Eldra DeBarge",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eldra P DeBarge",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Eldra P DeBarge",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "El DeBarge",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "El DeBarge",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "DeBarge, Eldra Patrick",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Eldra Patrick DeBarge",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "gospel"
+        },
+        {
+          "count": 2,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "3b829056-d975-4ae7-be3c-20661ce980e8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vicente Fernández",
+      "sort-name": "Fernández, Vicente",
+      "gender": "male",
+      "country": "MX",
+      "area": {
+        "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Mexico",
+        "sort-name": "Mexico",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "78e83393-dc28-445a-a7b1-007d51f3c362",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Guadalajara",
+        "sort-name": "Guadalajara",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "78e83393-dc28-445a-a7b1-007d51f3c362",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Guadalajara",
+        "sort-name": "Guadalajara",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Mexican singer",
+      "ipis": [
+        "00088271449"
+      ],
+      "isnis": [
+        "0000000081346476"
+      ],
+      "life-span": {
+        "begin": "1940-02-17",
+        "end": "2021-12-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Fernández Gómez, Vicente",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Vicente Fernández Gómez",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vicente Fernandez",
+          "name": "Vicente Fernandez",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vincente Fernandez",
+          "name": "Vincente Fernandez",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vicente Fernandez Gomez",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Vicente Fernandez Gomez",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vicente \"Chente\" Fernández Gómez",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Vicente \"Chente\" Fernández Gómez",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vicente \"Chente\" Fernandez Gomez",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Vicente \"Chente\" Fernandez Gomez",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "El Rey de la Música Ranchera",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "El Rey de la Música Ranchera",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vicente El Rey de la Música Ranchera Fernández",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Vicente El Rey de la Música Ranchera Fernández",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "latin"
+        },
+        {
+          "count": 0,
+          "name": "national folk"
+        },
+        {
+          "count": 2,
+          "name": "ranchera"
+        }
+      ]
+    }
+  ]
+}

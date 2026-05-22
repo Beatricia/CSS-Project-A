@@ -1,0 +1,578 @@
+{
+  "created": "2026-05-22T16:50:58.196Z",
+  "count": 146,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "aecfecbb-840e-45ce-8d6c-3a234505c5ac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stanisław Skrowaczewski",
+      "sort-name": "Skrowaczewski, Stanisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d9d17b36-c5f6-4f8a-ac6d-30ba2fdc30b0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "St. Louis Park",
+        "sort-name": "St. Louis Park",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000080869961"
+      ],
+      "life-span": {
+        "begin": "1923-10-03",
+        "end": "2017-02-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Skowaczewski, Stanislaw",
+          "name": "Stanislaw Skowaczewski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "polish conductor"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "7302fd79-fb9a-452e-b404-220fa94e6196",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stanisław Lem",
+      "sort-name": "Lem, Stanisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1921-09-12",
+        "end": "2006-03-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Stanislaw Lem",
+          "name": "Stanislaw Lem",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        },
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        },
+        {
+          "count": 1,
+          "name": "audiobook"
+        },
+        {
+          "count": 1,
+          "name": "audio drama"
+        }
+      ]
+    },
+    {
+      "id": "6b202720-260c-4a1b-a19f-f3e4ba3da91d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stanisław Soyka",
+      "sort-name": "Soyka, Stanisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "90e0e745-8dc9-4ef1-8b72-2bae8ffc3996",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Żory",
+        "sort-name": "Żory",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2b9e1f62-17d6-4805-a769-f667169bd628",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sopot",
+        "sort-name": "Sopot",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00135620791"
+      ],
+      "isnis": [
+        "0000000061514399",
+        "0000000114629385"
+      ],
+      "life-span": {
+        "begin": "1959-04-26",
+        "end": "2025-08-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sojka, Stanisław Joachim",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Stanisław Joachim Sojka",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stanislaw Soyka",
+          "name": "Stanislaw Soyka",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Soyka",
+          "name": "Soyka",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stanisław Soyka",
+          "name": "Stanisław Soyka",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stanislaw Sojka",
+          "name": "Stanislaw Sojka",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 1,
+          "name": "jazz pop"
+        }
+      ]
+    },
+    {
+      "id": "ab6d3162-ef92-48b8-8440-1fedfd6cd323",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stanisław Moniuszko",
+      "sort-name": "Moniuszko, Stanisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2032a2d1-81bc-4b4b-99f3-d898d28beb87",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Minskaya voblasts'",
+        "sort-name": "Minskaya voblasts'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish composer",
+      "ipis": [
+        "00021224443"
+      ],
+      "isnis": [
+        "0000000110684926"
+      ],
+      "life-span": {
+        "begin": "1819-05-05",
+        "end": "1872-06-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Stanislaw Moniuszko",
+          "name": "Stanislaw Moniuszko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "polish"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "2fc54e56-386e-468b-bc43-0e039bcc7d85",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Станислав Горковенко",
+      "sort-name": "Gorkovenko, Stanislav",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "aa1bf92c-0274-4a39-91d4-a450f2f5a54a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bakı",
+        "sort-name": "Bakı",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055162585"
+      ],
+      "life-span": {
+        "begin": "1938-01-30",
+        "end": "2018-11-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Stanislaw Gorkowenko",
+          "name": "Stanislaw Gorkowenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "108f0e82-ca19-493f-bc98-d9eb3ee14b05",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stanisław Wenglorz",
+      "sort-name": "Wenglorz, Stanisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4fe0391b-0fb6-48e5-ad57-d2740333bcc3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stanisław Fijałkowski",
+      "sort-name": "Fijałkowski, Stanisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1928-10-21",
+        "end": "2012-03-14",
+        "ended": true
+      }
+    },
+    {
+      "id": "bd5754bf-bbff-47d7-9743-4afc633e601c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stanisław Grzesiuk",
+      "sort-name": "Grzesiuk, Stanisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5189e378-49f7-4766-b5a5-627d79f16bec",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Lubelskie",
+        "sort-name": "Lubelskie",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000118213766"
+      ],
+      "life-span": {
+        "begin": "1918-05-06",
+        "end": "1963-01-21",
+        "ended": true
+      }
+    },
+    {
+      "id": "82b3e286-267e-49a3-921a-569136052613",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stanisław Staszewski",
+      "sort-name": "Staszewski, Stanisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00052035027"
+      ],
+      "life-span": {
+        "begin": "1925-12-18",
+        "end": "1973-01-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Staszek Staszewski",
+          "name": "Staszek Staszewski",
+          "locale": "pl",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fcf10896-eed6-4d81-8ff7-d577284a8fe2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stanislaw Zagorski",
+      "sort-name": "Zagorski, Stanislaw",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "graphic design",
+      "life-span": {
+        "begin": "1933",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Stanisław Zagórski",
+          "name": "Stanisław Zagórski",
+          "locale": "pl",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

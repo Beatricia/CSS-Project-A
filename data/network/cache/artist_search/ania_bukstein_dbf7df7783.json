@@ -1,0 +1,403 @@
+{
+  "created": "2026-05-22T17:14:22.122Z",
+  "count": 2500,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a55cc7c7-8107-4d72-91ce-cfeeb6ee640f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "אניה בוקשטיין",
+      "sort-name": "Bukstein, Ania",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00679165794"
+      ],
+      "isnis": [
+        "0000000403355595"
+      ],
+      "life-span": {
+        "begin": "1982-06-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bukshteyn, Anya",
+          "name": "Аня Букштейн",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "a6fdeddb-af27-409d-87f3-b216dfd575d9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 82,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ania Dąbrowska",
+      "sort-name": "Dąbrowska, Ania",
+      "gender": "female",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a5aed6e5-d69b-480b-bdd2-0c9dd9d8a525",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chełm",
+        "sort-name": "Chełm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish singer",
+      "ipis": [
+        "00479566000"
+      ],
+      "isnis": [
+        "0000000130637887",
+        "000000044458516X"
+      ],
+      "life-span": {
+        "begin": "1981-01-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ania",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ania",
+          "locale": "pl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ania Dąbrowska",
+          "name": "Ania Dąbrowska",
+          "locale": "pl",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dąbrowska, Anna Monika",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Anna Monika Dąbrowska",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3677d9d7-f3c5-436c-b7ed-7053d621126d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "name": "Andy Bukstein",
+      "sort-name": "Bukstein, Andy",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f48adba0-109a-4c0a-b4ef-18cf39c71e49",
+      "score": 74,
+      "name": "Ania",
+      "sort-name": "Ania",
+      "disambiguation": "pop rock",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2fefbf14-4cb3-4740-aac4-c8b8541649da",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ania",
+      "sort-name": "Ania",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US hip-hop",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "166f66af-16c0-4874-bfee-e435d42e3d4f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ania",
+      "sort-name": "Ania",
+      "gender": "female",
+      "begin-area": {
+        "id": "86fbdd3c-aaac-4aed-916a-b361f7e1a8de",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Napoli",
+        "sort-name": "Napoli",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian singer Ania Cecilia",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "24c986fe-b637-4fdc-b450-2462c66bd9a7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ania",
+      "sort-name": "Ania",
+      "gender": "female",
+      "disambiguation": "polka artist Ania Piwowarczyk",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Piwowarczyk, Ania",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ania Piwowarczyk",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8420609a-8692-409c-a49a-5661ad68ea9e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ANIA",
+      "sort-name": "ANIA",
+      "gender": "female",
+      "country": "PE",
+      "area": {
+        "id": "719f6082-95c7-3dd5-9503-e143010a6cc1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Peru",
+        "sort-name": "Peru",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "719f6082-95c7-3dd5-9503-e143010a6cc1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Peru",
+        "sort-name": "Peru",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Peruvian singer",
+      "life-span": {
+        "begin": "1994-11-21",
+        "ended": null
+      }
+    },
+    {
+      "id": "5ffe7875-614f-4823-879b-1fd66574a36d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 72,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anita Ward",
+      "sort-name": "Ward, Anita",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Memphis",
+        "sort-name": "Memphis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055184901"
+      ],
+      "life-span": {
+        "begin": "1956-12-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ward, Ania",
+          "name": "Ania Ward",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bell, Anita",
+          "name": "Anita Bell",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "disco"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        }
+      ]
+    },
+    {
+      "id": "0ed28222-ee89-4c03-8638-e360e2bbf4ce",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ania Dorfmann",
+      "sort-name": "Dorfmann, Ania",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000081138263"
+      ],
+      "life-span": {
+        "begin": "1899-07-09",
+        "end": "1984-04-21",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "american pianist"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,981 @@
+{
+  "created": "2026-05-22T17:25:21.544Z",
+  "count": 32678,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8e17baf9-3e39-42d4-8956-f350e014d114",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dan Ettinger",
+      "sort-name": "Ettinger, Dan",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "84f1f1ad-c6cf-4125-b882-083a1f5dd959",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Holon",
+        "sort-name": "Holon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli conductor",
+      "isnis": [
+        "0000000081374936"
+      ],
+      "life-span": {
+        "begin": "1971-06-10",
+        "ended": null
+      }
+    },
+    {
+      "id": "634650ff-6a05-450f-8e44-8669b648bff8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dan Brown",
+      "sort-name": "Brown, Dan",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "99f0937c-69b7-455c-9b13-fe708da6943e",
+        "type": "County",
+        "type-id": "bcecec27-8bdb-3e00-8254-d948dda502fa",
+        "name": "Rockingham County",
+        "sort-name": "Rockingham County",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US novelist",
+      "isnis": [
+        "0000000109297080"
+      ],
+      "life-span": {
+        "begin": "1964-06-22",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "audiobook"
+        },
+        {
+          "count": 1,
+          "name": "author"
+        },
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "e01c3376-15fa-40d7-b747-5f219bdefdd7",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Steely Dan",
+      "sort-name": "Steely Dan",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0481ddd1-26f6-4ede-a73a-45af181137dc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Annandale-on-Hudson",
+        "sort-name": "Annandale-on-Hudson",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "group founded by Walter Becker and Donald Fagen",
+      "isnis": [
+        "0000000123483250"
+      ],
+      "life-span": {
+        "begin": "1972",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "jazz"
+        },
+        {
+          "count": 5,
+          "name": "jazz rock"
+        },
+        {
+          "count": 3,
+          "name": "soft rock"
+        },
+        {
+          "count": 4,
+          "name": "pop rock"
+        },
+        {
+          "count": 3,
+          "name": "jazz-rock"
+        },
+        {
+          "count": 2,
+          "name": "jazz pop"
+        },
+        {
+          "count": -1,
+          "name": "film soundtrack"
+        },
+        {
+          "count": -2,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 2,
+          "name": "sophisti-pop"
+        },
+        {
+          "count": -2,
+          "name": "pop/rock"
+        },
+        {
+          "count": 5,
+          "name": "yacht rock"
+        },
+        {
+          "count": -1,
+          "name": "2008 universal fire victim"
+        },
+        {
+          "count": 2,
+          "name": "sophisticated rock"
+        }
+      ]
+    },
+    {
+      "id": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ennio Morricone",
+      "sort-name": "Morricone, Ennio",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dccd77b2-bd3d-49eb-a98f-fd58e87f481e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Roma",
+        "sort-name": "Roma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dccd77b2-bd3d-49eb-a98f-fd58e87f481e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Roma",
+        "sort-name": "Roma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian classical and score composer",
+      "ipis": [
+        "00021552128"
+      ],
+      "isnis": [
+        "0000000121225602",
+        "0000000368638409",
+        "0000000368638417"
+      ],
+      "life-span": {
+        "begin": "1928-11-10",
+        "end": "2020-07-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Maricone, Ennio",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ennio Maricone",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ennio Morrican",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ennio Morrican",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "エンニオ・モリコーネ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "エンニオ・モリコーネ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Savio, Dan",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dan Savio",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nichols, Leo",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leo Nichols",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Morricone, Ennio",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ennio Morricone",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1928-11-10",
+          "end-date": null
+        },
+        {
+          "sort-name": "Dansavio",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dansavio",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maestro Ennio Morricone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Maestro Ennio Morricone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leo Nicols",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leo Nicols",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ennio Marricone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ennio Marricone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leo Nicholls",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leo Nicholls",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ennio Morricono",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ennio Morricono",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dan Savvio",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dan Savvio",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Enio Morricone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Enio Morricone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leon Nichols",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leon Nichols",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leo Nichol",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leo Nichol",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dann Savio",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dann Savio",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dan Sawio",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dan Sawio",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dan Savvo",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dan Savvo",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leo Nickols",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leo Nickols",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leo Nicchols",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leo Nicchols",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Enno Morricone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Enno Morricone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "E. Moriccone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "E. Moriccone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ennio Moricone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ennio Moricone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ennio Mozzicone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ennio Mozzicone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dan Saivo",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dan Saivo",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dan Savo",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dan Savo",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Den Savio",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Den Savio",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Don Savio",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Don Savio",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ennio Marcone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ennio Marcone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ennio Morricone Orchestra",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ennio Morricone Orchestra",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Morricone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Morricone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Enrico Morricone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Enrico Morricone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ennio Morriconne",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ennio Morriconne",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "E.Morricone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "E.Morricone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ernio Morricone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ernio Morricone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Enio Moricone",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Enio Moricone",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 5,
+          "name": "soundtrack"
+        },
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": -1,
+          "name": "orchestral"
+        },
+        {
+          "count": 2,
+          "name": "italian"
+        },
+        {
+          "count": 0,
+          "name": "soundtrack composer"
+        },
+        {
+          "count": -1,
+          "name": "score"
+        },
+        {
+          "count": 3,
+          "name": "composer"
+        },
+        {
+          "count": -2,
+          "name": "lounge"
+        },
+        {
+          "count": 1,
+          "name": "avant-garde"
+        },
+        {
+          "count": 3,
+          "name": "film score"
+        },
+        {
+          "count": 0,
+          "name": "european"
+        },
+        {
+          "count": 3,
+          "name": "film soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "easy listening soundtracks and musicals"
+        },
+        {
+          "count": 0,
+          "name": "film composer"
+        },
+        {
+          "count": 0,
+          "name": "soundtracks"
+        },
+        {
+          "count": 6,
+          "name": "modern classical"
+        },
+        {
+          "count": -2,
+          "name": "library music"
+        },
+        {
+          "count": 3,
+          "name": "spaghetti western"
+        },
+        {
+          "count": -2,
+          "name": "gui la testa"
+        },
+        {
+          "count": 3,
+          "name": "television music"
+        },
+        {
+          "count": 0,
+          "name": "television composer"
+        },
+        {
+          "count": 1,
+          "name": "orchestral soundtrack"
+        },
+        {
+          "count": 2,
+          "name": "cinematic classical"
+        },
+        {
+          "count": -1,
+          "name": "the scarlet and the black"
+        },
+        {
+          "count": -1,
+          "name": "72 meters"
+        },
+        {
+          "count": 1,
+          "name": "italian soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "2008 universal fire victim"
+        },
+        {
+          "count": 1,
+          "name": "absolute music"
+        },
+        {
+          "count": 1,
+          "name": "classic soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "vintage italian soundtrack"
+        }
+      ]
+    },
+    {
+      "id": "a7e5a23d-1b56-4d67-a26f-16b45ceec53d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dylan Ettinger",
+      "sort-name": "Ettinger, Dylan",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b2dd7fb8-f9d9-4687-a89f-51796d709ee4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "John Ettinger",
+      "sort-name": "Ettinger, John",
+      "gender": "male",
+      "area": {
+        "id": "ae0110b6-13d4-4998-9116-5b926287aa23",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "California",
+        "sort-name": "California",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Detroit",
+        "sort-name": "Detroit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8b91414e-6f3f-416e-8f2b-138c74b92635",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dan Gibson",
+      "sort-name": "Gibson, Dan",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c3cc624e-b963-49cf-ad0b-e318cb341963",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Montréal",
+        "sort-name": "Montréal",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Solitudes",
+      "isnis": [
+        "000000007363876X"
+      ],
+      "life-span": {
+        "begin": "1922-01-19",
+        "end": "2006-03-18",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Dan Gibson's Solitudes",
+          "name": "Dan Gibson's Solitudes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Solitudes",
+          "name": "Solitudes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dan Gibson Solitudes",
+          "name": "Dan Gibson Solitudes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gibson Dan",
+          "name": "Gibson Dan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gibson Dan Solitudes",
+          "name": "Gibson Dan Solitudes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "new age"
+        }
+      ]
+    },
+    {
+      "id": "b0f27c7b-ab72-45a6-bb63-805717c2024d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jérôme Ettinger",
+      "sort-name": "Ettinger, Jérôme",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French singer and arghul player, member of Egyptian Project",
+      "ipis": [
+        "00483057839"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "24038f9b-f8ed-4d81-be4f-35a898be88e6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Ettinger",
+      "sort-name": "Ettinger, Mark",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "22ea793f-26f0-4c2d-b49d-99f402b8db8e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "name": "Joseph Ettinger",
+      "sort-name": "Ettinger, Joseph",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

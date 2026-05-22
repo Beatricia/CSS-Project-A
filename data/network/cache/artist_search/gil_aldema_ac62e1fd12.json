@@ -1,0 +1,639 @@
+{
+  "created": "2026-05-22T17:27:39.250Z",
+  "count": 6400,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "bd7fc995-3049-41fa-8ada-457c80cd0bab",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "גיל אלדמע",
+      "sort-name": "Aldema, Gil",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "23a5d590-f8ca-4e1e-b6e2-41242ffa6c14",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Tel-Aviv",
+        "sort-name": "Tel-Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "7d3738ed-0681-4d36-87c4-d03192d54928",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ramat Gan",
+        "sort-name": "Ramat Gan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00000358434"
+      ],
+      "isnis": [
+        "0000000071492154"
+      ],
+      "life-span": {
+        "begin": "1928-09-17",
+        "end": "2014-09-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Gil Adema",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Gil Adema",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "אלדמע, גיל",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "גיל אלדמע",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aldema, Gil",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Gil Aldema",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "cf6b70f6-2616-481c-912c-0263cabfc974",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gilberto Gil",
+      "sort-name": "Gil, Gilberto",
+      "gender": "male",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ded88b07-192f-4265-95a6-5085ee12f4ca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salvador",
+        "sort-name": "Salvador",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00231985851"
+      ],
+      "isnis": [
+        "0000000121028473"
+      ],
+      "life-span": {
+        "begin": "1942-06-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gilberto Passos Gil Moreira",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gilberto Passos Gil Moreira",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[Gilberto Gil]",
+          "name": "[Gilberto Gil]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 4,
+          "name": "mpb"
+        },
+        {
+          "count": 2,
+          "name": "bossa nova"
+        },
+        {
+          "count": 1,
+          "name": "brasil"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "tropicália"
+        },
+        {
+          "count": 1,
+          "name": "brasileiro"
+        },
+        {
+          "count": 1,
+          "name": "politician"
+        }
+      ]
+    },
+    {
+      "id": "83b1d510-c4ae-485b-91bf-c69b63044dd6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gil Evans",
+      "sort-name": "Evans, Gil",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "18267499-0eaa-44fb-9e06-94bd35edf10e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cuernavaca",
+        "sort-name": "Cuernavaca",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian‐American jazz pianist and composer",
+      "ipis": [
+        "00009590479"
+      ],
+      "isnis": [
+        "0000000110371460",
+        "0000000368575102"
+      ],
+      "life-span": {
+        "begin": "1912-05-13",
+        "end": "1988-03-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "ギル・エバンス",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ギル・エバンス",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evanss, G.",
+          "name": "G. Evanss",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 1,
+          "name": "cool jazz"
+        },
+        {
+          "count": 1,
+          "name": "avant-garde jazz"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "b5b89643-c488-4f39-a302-25cab31084a5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gil Scott‐Heron",
+      "sort-name": "Scott‐Heron, Gil",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00059615358",
+        "00647258030"
+      ],
+      "isnis": [
+        "0000000120176415"
+      ],
+      "life-span": {
+        "begin": "1949-04-01",
+        "end": "2011-05-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "ギル・スコット＝ヘロン",
+          "name": "ギル・スコット＝ヘロン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gil Scott",
+          "name": "Gil Scott",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gil Scott Heron",
+          "name": "Gil Scott Heron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gil Dcott-Heron",
+          "name": "Gil Dcott-Heron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scott-Heron, Gil",
+          "name": "Scott-Heron, Gil",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gill Scott Heron",
+          "name": "Gill Scott Heron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gil Scot-Heron",
+          "name": "Gil Scot-Heron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scott-Heron, Gilbert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gilbert Scott-Heron",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 5,
+          "name": "jazz-funk"
+        },
+        {
+          "count": 2,
+          "name": "soul jazz"
+        },
+        {
+          "count": 2,
+          "name": "soul"
+        },
+        {
+          "count": 0,
+          "name": "uk bass"
+        },
+        {
+          "count": 2,
+          "name": "spoken word"
+        },
+        {
+          "count": 2,
+          "name": "funk"
+        },
+        {
+          "count": 4,
+          "name": "jazz poetry"
+        }
+      ]
+    },
+    {
+      "id": "6cde5a82-1473-41df-bee5-27e80e223420",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gil Mellé",
+      "sort-name": "Mellé, Gil",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "88458f70-6ca9-4a4a-ad8e-e8053e18b981",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jersey City",
+        "sort-name": "Jersey City",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000059395167"
+      ],
+      "life-span": {
+        "begin": "1931-12-31",
+        "end": "2004-10-28",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "84f77112-495f-4943-b864-b6976539f151",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gil",
+      "sort-name": "Gil",
+      "gender": "male",
+      "area": {
+        "id": "8dc97297-ac95-4d33-82bc-e07fab26fb5f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Tokyo",
+        "sort-name": "Tokyo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Japanese Track maker",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ギル",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ギル",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "makina"
+        }
+      ]
+    },
+    {
+      "id": "17373198-fcf4-41c1-83ee-5d0190365fb2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "מריאל אלדמע",
+      "sort-name": "Aldema, Mariel",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "01036734469"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e407e7f8-223a-461c-867d-170841c7d72d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ירון אלדמע",
+      "sort-name": "Aldema, Yaron",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1971",
+        "ended": null
+      }
+    },
+    {
+      "id": "5db274ba-10e1-4e8c-8771-d7aa5dd3c112",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "name": "GIL",
+      "sort-name": "GIL",
+      "area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Gil Schneider",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4b49ca89-4889-4ba1-b850-64d7b423b9ba",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "name": "Gil",
+      "sort-name": "Gil",
+      "disambiguation": "real name: Gilbert van Haasen",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

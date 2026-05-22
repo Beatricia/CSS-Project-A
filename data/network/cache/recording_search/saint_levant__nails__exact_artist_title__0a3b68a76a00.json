@@ -1,0 +1,101 @@
+{
+  "created": "2026-05-22T18:31:23.901Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "7a203b29-a8b2-47b8-a011-30e9e578f2da",
+      "score": 100,
+      "artist-credit-id": "edd9273e-01c6-44f8-b50b-6910dc03a663",
+      "title": "Nails",
+      "length": 175375,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Saint Levant",
+          "artist": {
+            "id": "015c8b7d-015b-4603-9792-18bb440178ac",
+            "name": "Saint Levant",
+            "sort-name": "Saint Levant",
+            "disambiguation": "Palestinian/French/Algerian/Serbian musician",
+            "aliases": [
+              {
+                "sort-name": "Abdelhamid, Marwan",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Marwan Abdelhamid",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2023-05-25",
+      "releases": [
+        {
+          "id": "be59ade7-50b5-4b9f-9f2c-3c2082961d5b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "edd9273e-01c6-44f8-b50b-6910dc03a663",
+          "count": 1,
+          "title": "Nails",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Saint Levant",
+              "artist": {
+                "id": "015c8b7d-015b-4603-9792-18bb440178ac",
+                "name": "Saint Levant",
+                "sort-name": "Saint Levant",
+                "disambiguation": "Palestinian/French/Algerian/Serbian musician"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2cfaeb6d-0c6d-433f-a7f1-d339c1d6131c",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Nails",
+            "primary-type": "Single"
+          },
+          "date": "2023-05-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2023-05-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "e13894d1-a9b0-385b-9d1f-67261cfbd3f3",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a754fada-9138-42a2-bb20-1439f7c4ee55",
+                  "number": "1",
+                  "title": "Nails",
+                  "length": 175375
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Saint Levant\" AND recording:\"Nails\""
+}

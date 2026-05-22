@@ -1,0 +1,148 @@
+{
+  "created": "2026-05-22T17:36:56.357Z",
+  "count": 5,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "05b17ff9-e440-437f-ad59-2e25cc2d3e68",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Waed Bouhassoun",
+      "sort-name": "Bouhassoun, Waed",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "18086faa-7f75-3ca3-a5bb-a77a83d4b200",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Syria",
+        "sort-name": "Syria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000359030215"
+      ],
+      "life-span": {
+        "begin": "1979",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "وعد بوحسون",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "وعد بوحسون",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "4eb3dae0-0c92-4ce8-badc-595f87d81239",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 21,
+      "name": "Hwæder",
+      "sort-name": "Hwæder",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "12c3b82e-fcab-4219-9bd5-792089d8280e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Barcelona",
+        "sort-name": "Barcelona",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "black metal"
+        }
+      ]
+    },
+    {
+      "id": "c25b0053-05e6-499b-9f16-b50f7b46a8bc",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 21,
+      "name": "Diswaed",
+      "sort-name": "Diswaed",
+      "area": {
+        "id": "a6a041ae-04ff-4fac-9aed-18e63be5dd10",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Moray",
+        "sort-name": "Moray",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a6a041ae-04ff-4fac-9aed-18e63be5dd10",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Moray",
+        "sort-name": "Moray",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Group from Scotland",
+      "life-span": {
+        "begin": "2016-08",
+        "ended": null
+      }
+    },
+    {
+      "id": "afeb3f89-978d-48af-948e-d22b5886851f",
+      "score": 20,
+      "name": "Wæde Wätts",
+      "sort-name": "Wätts, Wæde",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1ee73184-a258-4d3f-9a7f-2d8756b94779",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 20,
+      "name": "James D. Waedekin",
+      "sort-name": "Waedekin, James D.",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

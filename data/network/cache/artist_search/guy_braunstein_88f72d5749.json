@@ -1,0 +1,639 @@
+{
+  "created": "2026-05-22T17:27:10.766Z",
+  "count": 3181,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5d0ba841-6f1e-4b45-aeee-2e0a684b71b1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "גיא בראונשטיין",
+      "sort-name": "Braunstein, Guy",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "isnis": [
+        "0000000084036369"
+      ],
+      "life-span": {
+        "begin": "1971",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Braunstein, Guy",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Guy Braunstein",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b57db116-5947-462e-aa7b-3dd1ecb5be45",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Necro",
+      "sort-name": "Necro",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US rapper/producer",
+      "ipis": [
+        "00251811588"
+      ],
+      "isnis": [
+        "000000005759164X"
+      ],
+      "life-span": {
+        "begin": "1976-06-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Braunstein, Ron",
+          "name": "Ron Braunstein",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Braunstein, Ron Raphael",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ron Raphael Braunstein",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "hip hop"
+        },
+        {
+          "count": 4,
+          "name": "horrorcore"
+        },
+        {
+          "count": 1,
+          "name": "underground hip hop"
+        },
+        {
+          "count": 1,
+          "name": "boom bap"
+        },
+        {
+          "count": 1,
+          "name": "east coast hip hop"
+        },
+        {
+          "count": 1,
+          "name": "hardcore hip hop"
+        },
+        {
+          "count": 1,
+          "name": "pornocore"
+        }
+      ]
+    },
+    {
+      "id": "4336a134-d091-4e54-9967-c7c433db6d4e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Buddy Guy",
+      "sort-name": "Guy, Buddy",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1295a68-ba5b-4591-afce-1e9ab1eb48ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lettsworth",
+        "sort-name": "Lettsworth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00048667149"
+      ],
+      "isnis": [
+        "0000000058475034",
+        "0000000114435740",
+        "0000000368586872"
+      ],
+      "life-span": {
+        "begin": "1936-07-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Guy, George",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "George Guy",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Guy, B.",
+          "name": "B. Guy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 7,
+          "name": "blues"
+        },
+        {
+          "count": 3,
+          "name": "blues rock"
+        },
+        {
+          "count": 6,
+          "name": "chicago blues"
+        },
+        {
+          "count": 7,
+          "name": "electric blues"
+        },
+        {
+          "count": 1,
+          "name": "harmonica blues"
+        },
+        {
+          "count": 0,
+          "name": "hill country blues"
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "4dbf5678-7a31-406a-abbe-232f8ac2cd63",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bryan Adams",
+      "sort-name": "Adams, Bryan",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "856cef35-bde5-403d-88ed-ef179c158d5f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kingston",
+        "sort-name": "Kingston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian singer/songwriter",
+      "ipis": [
+        "00129941748"
+      ],
+      "isnis": [
+        "0000000122824965"
+      ],
+      "life-span": {
+        "begin": "1959-11-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Adams, Bryan Guy",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Bryan Guy Adams",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brian Adams",
+          "name": "Brian Adams",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Adams, Brian Guy",
+          "name": "Brian Guy Adams",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ブライアン・アダムス",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ブライアン・アダムス",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ādamss, B.",
+          "name": "B.Ādamss",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "british"
+        },
+        {
+          "count": 4,
+          "name": "canadian"
+        },
+        {
+          "count": 0,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "new wave"
+        },
+        {
+          "count": 2,
+          "name": "hard rock"
+        },
+        {
+          "count": 2,
+          "name": "power pop"
+        },
+        {
+          "count": 1,
+          "name": "classic rock"
+        },
+        {
+          "count": 6,
+          "name": "soft rock"
+        },
+        {
+          "count": 0,
+          "name": "acoustic rock"
+        },
+        {
+          "count": 0,
+          "name": "adult contemporary"
+        },
+        {
+          "count": 3,
+          "name": "pop rock"
+        },
+        {
+          "count": 0,
+          "name": "arena rock"
+        },
+        {
+          "count": 0,
+          "name": "album oriented rock"
+        },
+        {
+          "count": 1,
+          "name": "heartland rock"
+        },
+        {
+          "count": 2,
+          "name": "aor"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 2,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "dabc1ac9-e67e-43ed-bd75-5768b451e8aa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Meilech Braunstein",
+      "sort-name": "Braunstein, Meilech",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "מיילעך ברוינשטיין",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "מיילעך ברוינשטיין",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0a27cae4-8978-4efb-8f05-bfdbae69e544",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Guy Béart",
+      "sort-name": "Béart, Guy",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fda26597-dd64-4f6e-9334-fcfea414f48a",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Al Qāhirah",
+        "sort-name": "Al Qāhirah",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8f534ce0-e502-4a66-bb72-2464b4c201e4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Garches",
+        "sort-name": "Garches",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00061397768"
+      ],
+      "isnis": [
+        "0000000109218549"
+      ],
+      "life-span": {
+        "begin": "1930-07-16",
+        "end": "2015-09-16",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 2,
+          "name": "chanson française"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "french singer"
+        }
+      ]
+    },
+    {
+      "id": "fa209319-6d7b-4a20-b445-62186ec41e0d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 41,
+      "name": "Guy",
+      "sort-name": "Guy",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7e037c94-d999-4611-a8fd-56e8770f2e3c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Harlem",
+        "sort-name": "Harlem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US hip hop/r&b/soul/new jack swing group",
+      "life-span": {
+        "begin": "1987",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 2,
+          "name": "swing"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        },
+        {
+          "count": 1,
+          "name": "rnb"
+        },
+        {
+          "count": 4,
+          "name": "new jack swing"
+        }
+      ]
+    },
+    {
+      "id": "99027377-ea10-44f5-bede-dcfb9a57cbc2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Philip Braunstein",
+      "sort-name": "Braunstein, Philip",
+      "gender": "male",
+      "disambiguation": "Philip Kunde Braunstein",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b8360517-7f8e-45a2-b738-82e77f0fe7bd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mark Braunstein",
+      "sort-name": "Braunstein, Mark",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "51011faa-acbd-4ccd-baba-e2774eb6cfd3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alan Braunstein",
+      "sort-name": "Braunstein, Alan",
+      "gender": "male",
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1947-04-30",
+        "ended": null
+      }
+    }
+  ]
+}

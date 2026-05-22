@@ -1,0 +1,190 @@
+{
+  "created": "2026-05-22T18:14:35.280Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "db3707d3-05c1-4e47-8703-22fd231b65be",
+      "score": 100,
+      "artist-credit-id": "64ca9ab9-44cf-4285-9758-cd2caff2fa85",
+      "title": "Stone",
+      "length": 205180,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Bashar Murad",
+          "artist": {
+            "id": "5a289a16-e872-4058-ba3d-4e108e46ff5c",
+            "name": "Bashar Murad",
+            "sort-name": "Murad, Bashar",
+            "aliases": [
+              {
+                "sort-name": "Murad, Bashar",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "بشار مراد",
+                "locale": "ar",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Sabreen",
+          "artist": {
+            "id": "bdadce04-f83c-4b53-8179-9b0d2a3f33f7",
+            "name": "Sabreen",
+            "sort-name": "Sabreen",
+            "aliases": [
+              {
+                "sort-name": "صابرين",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "صابرين",
+                "locale": "ar",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2024-05-10",
+      "releases": [
+        {
+          "id": "4ab68d6a-d923-4f71-9683-5b6a88ea64d8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "64ca9ab9-44cf-4285-9758-cd2caff2fa85",
+          "count": 1,
+          "title": "Stone",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "joinphrase": " & ",
+              "name": "Bashar Murad",
+              "artist": {
+                "id": "5a289a16-e872-4058-ba3d-4e108e46ff5c",
+                "name": "Bashar Murad",
+                "sort-name": "Murad, Bashar"
+              }
+            },
+            {
+              "name": "Sabreen",
+              "artist": {
+                "id": "bdadce04-f83c-4b53-8179-9b0d2a3f33f7",
+                "name": "Sabreen",
+                "sort-name": "Sabreen"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a9041a29-8112-4a90-873f-75e9dbb491c9",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Stone",
+            "primary-type": "Single"
+          },
+          "date": "2024-05-10",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2024-05-10",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "b710f484-2961-31cf-a316-297bc08510e9",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "18d8576a-e020-4054-a403-7d9f06d8cda2",
+                  "number": "1",
+                  "title": "Stone",
+                  "length": 205180
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "653dc14d-d5f2-4cbc-b413-0765d4867499",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "275ee2ef-0f06-4cc0-bac9-206bc59f72cd",
+          "count": 1,
+          "title": "ITSAHELL!",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Bashar Murad",
+              "artist": {
+                "id": "5a289a16-e872-4058-ba3d-4e108e46ff5c",
+                "name": "Bashar Murad",
+                "sort-name": "Murad, Bashar"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "2b87596f-d1cf-4a97-b020-3ab0cddf7db9",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "ITSAHELL!",
+            "primary-type": "Single"
+          },
+          "date": "2024-06-28",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2024-06-28",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 3,
+          "media": [
+            {
+              "id": "54207d3c-da3c-3f46-a01a-d7e10d35ad47",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "aba86232-69f7-4e58-8c59-e33bef321f39",
+                  "number": "2",
+                  "title": "Stone",
+                  "length": 205180
+                }
+              ],
+              "track-count": 3,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "ISV442454401"
+      ]
+    }
+  ],
+  "query": "artist:\"Bashar Murad\" AND recording:\"Stone\""
+}

@@ -1,0 +1,88 @@
+{
+  "created": "2026-05-22T17:29:29.644Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c048e1a7-df89-4494-b9cf-3ae01fa1fd33",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ammiel Bushakevitz",
+      "sort-name": "Bushakevitz, Ammiel",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "life-span": {
+        "begin": "1986-04-09",
+        "ended": null
+      }
+    },
+    {
+      "id": "0ad6038c-cadb-454b-8162-756dd84f0e38",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Avigail Bushakevitz",
+      "sort-name": "Bushakevitz, Avigail",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f2462ccc-2315-401b-a683-f7b282082fbe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 22,
+      "name": "Sammielz",
+      "sort-name": "Sammielz",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

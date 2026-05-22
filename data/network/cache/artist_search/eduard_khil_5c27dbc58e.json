@@ -1,0 +1,600 @@
+{
+  "created": "2026-05-22T17:03:39.646Z",
+  "count": 1286,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "aece1e8c-dde9-4e19-a4b5-bebfee72a81d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Эдуард Хиль",
+      "sort-name": "Hil', Eduard",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "a5a09d38-eca0-466e-950b-c3730414d8bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Smolensk",
+        "sort-name": "Smolensk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000036047944"
+      ],
+      "life-span": {
+        "begin": "1934-09-04",
+        "end": "2012-06-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Eduard Khil",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Eduard Khil",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Хиль, Эдуард",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Эдуард Хиль",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Хиль, Эдуард Анатольевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Эдуард Анатольевич Хиль",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "death by stroke"
+        }
+      ]
+    },
+    {
+      "id": "f8b10ca7-5d99-4614-882b-08edff0adb1b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Khil Datta",
+      "sort-name": "Khil Datta",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0d512eb7-93b7-4cda-8e97-dcd9a80ebfad",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Эдуард Артемьев",
+      "sort-name": "Artem'ev, Eduard",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "22c10271-daf7-4cb3-8056-5c6bc2786fd2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Novosibirsk",
+        "sort-name": "Novosibirsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00241201038",
+        "00241201136"
+      ],
+      "isnis": [
+        "0000000108587510"
+      ],
+      "life-span": {
+        "begin": "1937-11-30",
+        "end": "2022-12-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Artemiev, Edouard",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Edouard Artemiev",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artemjew, Eduard",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Eduard Artemjew",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artemyev, Eduard",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Eduard Artemyev",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Артемьев, Эдуард Николаевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Эдуард Николаевич Артемьев",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Артемьев, Эдуард",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Эдуард Артемьев",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Edward Artemiev",
+          "name": "Edward Artemiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eduard Artemiev",
+          "name": "Eduard Artemiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Edward Nicolay Artemyev",
+          "name": "Edward Nicolay Artemyev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eduard Artem'ev",
+          "name": "Eduard Artem'ev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "electroacoustic"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        }
+      ]
+    },
+    {
+      "id": "5a1e07db-4bbd-48b2-9638-31f4d3c9fd53",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Дмитрий Хиль",
+      "sort-name": "Khil, Dmitry",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1963",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Хиль, Дмитрий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Дмитрий Хиль",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Хиль, Дмитрий Эдуардович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Дмитрий Эдуардович Хиль",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "791729c4-5d18-4861-9218-b65e21a2f539",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "EDUARD",
+      "sort-name": "EDUARD",
+      "gender": "male",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "46daf055-87a7-4702-99a0-741eb203ead7",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Shkodër",
+        "sort-name": "Shkodër",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1998-06-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mullisi, Eduard",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Eduard Mullisi",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "98418f04-60e5-412a-92e4-56283e19c8e2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eduard",
+      "sort-name": "Eduard",
+      "gender": "male",
+      "disambiguation": "feat. artist appearing with Bombjack",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d9eab674-7a46-45b0-9133-024828bfe844",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eduard Tubin",
+      "sort-name": "Tubin, Eduard",
+      "gender": "male",
+      "country": "EE",
+      "area": {
+        "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Estonia",
+        "sort-name": "Estonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stockholm",
+        "sort-name": "Stockholm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Estonian composer",
+      "ipis": [
+        "00031148911"
+      ],
+      "isnis": [
+        "0000000083562092"
+      ],
+      "life-span": {
+        "begin": "1905-06-18",
+        "end": "1982-11-17",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "estonian composer"
+        },
+        {
+          "count": -1,
+          "name": "cleaned up"
+        }
+      ]
+    },
+    {
+      "id": "52773cf5-e25d-4865-841d-b8878c01c1fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eduard Strauss",
+      "sort-name": "Strauss, Eduard",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f9e58a6f-35a2-4cd9-b917-8d574232ab00",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Leopoldstadt",
+        "sort-name": "Leopoldstadt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "19th century composer",
+      "isnis": [
+        "0000000120279406"
+      ],
+      "life-span": {
+        "begin": "1835-03-15",
+        "end": "1916-12-28",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "austrian"
+        },
+        {
+          "count": 1,
+          "name": "austrian composer"
+        }
+      ]
+    },
+    {
+      "id": "8508c147-5a8a-4eb1-8a9f-7572ce798804",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Eduard Parma, Jr.",
+      "sort-name": "Parma, Eduard, Jr.",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Parma Eduard",
+          "name": "Parma Eduard",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eduard Parma",
+          "name": "Eduard Parma",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0a7e2312-5240-436f-b792-d3c07e8e3a95",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eduard Melkus",
+      "sort-name": "Melkus, Eduard",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "39021730-71d0-4d35-b42f-659925411b52",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Baden bei Wien",
+        "sort-name": "Baden bei Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "isnis": [
+        "0000000084043761"
+      ],
+      "life-span": {
+        "begin": "1928-09-01",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "violinist"
+        }
+      ]
+    }
+  ]
+}

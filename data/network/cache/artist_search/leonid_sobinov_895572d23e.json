@@ -1,0 +1,579 @@
+{
+  "created": "2026-05-22T17:10:21.437Z",
+  "count": 282,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "58504099-de90-4496-b476-9d0044147ae8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Леонид Собинов",
+      "sort-name": "Sobinov, Leonid",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "opera singer, tenor",
+      "life-span": {
+        "begin": "1872-06-07",
+        "end": "1934-10-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Собинов, Леонид Витальевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Леонид Витальевич Собинов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Собинов, Леонид",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Леонид Собинов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sobinov, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Sobinov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "tenor"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        }
+      ]
+    },
+    {
+      "id": "6f741741-1aad-4045-89c7-2073b199e8e6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grigoriy Sobinov",
+      "sort-name": "Sobinov, Grigoriy",
+      "gender": "male",
+      "area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "74432beb-36f7-4b33-bb24-329c309c6ef2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonid",
+      "sort-name": "Leonid",
+      "gender": "male",
+      "disambiguation": "Paul Smith",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Smith, Paul",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Paul Smith",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "af45d552-00b1-49c5-a8b1-53af177fd173",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "name": "Leonid",
+      "sort-name": "Leonid",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Richard Leonhard?",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "90ea34d4-84b7-45a1-90fb-5c007d8521e1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Леонид Агутин",
+      "sort-name": "Agutin, Leonid",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00224468276"
+      ],
+      "isnis": [
+        "0000000114412493"
+      ],
+      "life-span": {
+        "begin": "1968-07-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Agoutine, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agoutine",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "fi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "es",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "it",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "et",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agoetin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agoetin",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "sq",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ankoútin, Leonínt",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Λεονίντ Αγκούτιν",
+          "locale": "el",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid Nikolayevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Леонид Николаевич Агутин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        }
+      ]
+    },
+    {
+      "id": "dcfb10c1-025f-44ef-96e7-136567905b5f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 47,
+      "name": "Léonid",
+      "sort-name": "Léonid",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French duo",
+      "life-span": {
+        "begin": "2013",
+        "ended": null
+      }
+    },
+    {
+      "id": "51d523e4-8ea5-4d78-aa64-b99d4cc0a780",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonid Rudenko",
+      "sort-name": "Rudenko, Leonid",
+      "gender": "male",
+      "area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rudenko, Leonid",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Леонид Руденко",
+          "locale": "ru_RU",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rudenko",
+          "name": "Rudenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "55158771-61fd-45a8-b75e-12f2b5d69d2f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonid Soybelman",
+      "sort-name": "Soybelman, Leonid",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "82fc96f7-22d8-4f39-9288-cf30e1f70c63",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Bălţi",
+        "sort-name": "Bălţi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00236054195"
+      ],
+      "isnis": [
+        "0000000057818728",
+        "0000000118167018"
+      ],
+      "life-span": {
+        "begin": "1966-07-20",
+        "ended": null
+      }
+    },
+    {
+      "id": "8b16c145-8e80-4945-a493-cb30f05bc815",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonid Hambro",
+      "sort-name": "Hambro, Leonid",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000109289101"
+      ],
+      "life-span": {
+        "begin": "1920-06-26",
+        "end": "2006-10-23",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "21c098f2-a8e4-41bb-8860-b1c1d59ee3ea",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Леонид Фёдоров",
+      "sort-name": "Fedorov, Leonid",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000048352030"
+      ],
+      "life-span": {
+        "begin": "1963-01-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Leonid Fedorow",
+          "name": "Leonid Fedorow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fyodorov, Leonid",
+          "name": "Leonid Fyodorov",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Фёдоров, Леонид",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Леонид Фёдоров",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Фёдоров, Леонид Валентинович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Леонид Валентинович Фёдоров",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "л федоров"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    }
+  ]
+}

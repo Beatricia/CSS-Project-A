@@ -1,0 +1,1458 @@
+{
+  "created": "2026-05-22T16:47:28.834Z",
+  "count": 5187,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "28442ebf-7450-4eb1-96a9-ab771bc9cd80",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Иосиф Кобзон",
+      "sort-name": "Kobzon, Iosif",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "7cc35a3b-b533-4788-9006-e971d123c704",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chasiv Yar",
+        "sort-name": "Chasiv Yar",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078382329"
+      ],
+      "life-span": {
+        "begin": "1937-09-11",
+        "end": "2018-08-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Կոբզոն, Իոսիֆ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Իոսիֆ Կոբզոն",
+          "locale": "hy",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "კობზონი, იოსებ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "იოსებ კობზონი",
+          "locale": "ka",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кобзон, Йосип",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Йосип Кобзон",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кобзон, Йосип Давидович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Йосип Давидович Кобзон",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кабзон, Іосіф",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Іосіф Кабзон",
+          "locale": "be",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кабзон, Ёсіф",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ёсіф Кабзон",
+          "locale": "be",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кабзон, Іосіф Давыдавіч",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Іосіф Давыдавіч Кабзон",
+          "locale": "be",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobzon, Josif Dawidowicz",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Josif Dawidowicz Kobzon",
+          "locale": "pl",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobzon, Yossif",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yossif Kobzon",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobson, Iossif",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Iossif Kobson",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobson, Iossif Dawydowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Iossif Dawydowitsch Kobson",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Κομπζόν, Ιωσήφ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ιωσήφ Κομπζόν",
+          "locale": "el",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobzon, Joseph",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Joseph Kobzon",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobzon, Iosif",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Iosif Kobzon",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кобзон, И.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "И. Кобзон",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кобзон, Иосиф",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иосиф Кобзон",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кобзон, Иосиф Давыдович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Иосиф Давыдович Кобзон",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "estrada"
+        }
+      ]
+    },
+    {
+      "id": "c130b0fb-5dce-449d-9f40-1437f889f7fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joseph Haydn",
+      "sort-name": "Haydn, Joseph",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cca887f7-eb85-4bf4-9e7d-8faea705082c",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Rohrau",
+        "sort-name": "Rohrau",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00451594840"
+      ],
+      "isnis": [
+        "0000000121441049"
+      ],
+      "life-span": {
+        "begin": "1732-03-31",
+        "end": "1809-05-31",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Йозеф Гайдн",
+          "name": "Йозеф Гайдн",
+          "locale": "ru",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Haydn (Attributed to Leopold Hoffman)",
+          "name": "Joseph Haydn (Attributed to Leopold Hoffman)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Haydon",
+          "name": "Joseph Haydon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ハイドン",
+          "name": "ハイドン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, F. J.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "F. J. Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Josef",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Franz Josef Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Hayden",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph Hayden",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J. Haydn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J. Haydn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haynd",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Haynd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Franz Haydn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Franz Haydn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Josepf",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Franz Josepf Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, F J",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Haydn, F J",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Hadyn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph Hadyn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Joseph (1732-1809 )",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Haydn, Franz Joseph (1732-1809 )",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn Franz-Joseph",
+          "name": "Franz-Joseph Haydn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "フランツ・ヨーゼフ・ハイドン",
+          "name": "フランツ・ヨーゼフ・ハイドン",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Joseph",
+          "name": "Haydn, Joseph",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hayd",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hayd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Franz Joseph Haydn",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "하이든",
+          "name": "하이든",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 9,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 5,
+          "name": "austrian"
+        },
+        {
+          "count": 5,
+          "name": "composer"
+        },
+        {
+          "count": 3,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "classical music"
+        },
+        {
+          "count": 2,
+          "name": "symphony"
+        },
+        {
+          "count": -1,
+          "name": "grieg"
+        },
+        {
+          "count": 1,
+          "name": "mass"
+        },
+        {
+          "count": 1,
+          "name": "concerto"
+        },
+        {
+          "count": 4,
+          "name": "classical period"
+        },
+        {
+          "count": 0,
+          "name": "sonata"
+        },
+        {
+          "count": 2,
+          "name": "schöpfung"
+        },
+        {
+          "count": 1,
+          "name": "austrian composer"
+        },
+        {
+          "count": -2,
+          "name": "bernstein"
+        },
+        {
+          "count": 2,
+          "name": "150 cd"
+        },
+        {
+          "count": 0,
+          "name": "haydn: seven last words"
+        }
+      ]
+    },
+    {
+      "id": "70248960-cb53-4ea4-943a-edb18f7d336f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bruce Springsteen",
+      "sort-name": "Springsteen, Bruce",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bb0af2e9-6ae0-4c4f-b729-c8d6444d6380",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Long Branch",
+        "sort-name": "Long Branch",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00076333277"
+      ],
+      "isnis": [
+        "0000000121418834"
+      ],
+      "life-span": {
+        "begin": "1949-09-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ブルース・スプリングスティーン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ブルース・スプリングスティーン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Boss, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Boss",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Springsteen, Bruce",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bruce Springsteen",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bruce Springteen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Bruce Springteen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Springsteen, Bruce Frederick Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Bruce Frederick Joseph Springsteen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1949-09-23",
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 17,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "folk"
+        },
+        {
+          "count": 0,
+          "name": "cotm"
+        },
+        {
+          "count": 3,
+          "name": "american"
+        },
+        {
+          "count": 6,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 2,
+          "name": "usa"
+        },
+        {
+          "count": 0,
+          "name": "folk rock"
+        },
+        {
+          "count": 7,
+          "name": "americana"
+        },
+        {
+          "count": 0,
+          "name": "américain"
+        },
+        {
+          "count": 0,
+          "name": "classic rock"
+        },
+        {
+          "count": 0,
+          "name": "soft rock"
+        },
+        {
+          "count": 3,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 2,
+          "name": "rock and roll"
+        },
+        {
+          "count": 12,
+          "name": "heartland rock"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 2,
+          "name": "aor"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 0,
+          "name": "alternative folk"
+        },
+        {
+          "count": 1,
+          "name": "grammy winner"
+        },
+        {
+          "count": 1,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        },
+        {
+          "count": 0,
+          "name": "englisch"
+        },
+        {
+          "count": 1,
+          "name": "swinger-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "messiah of rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "big music"
+        },
+        {
+          "count": 1,
+          "name": "estados unidos"
+        },
+        {
+          "count": 1,
+          "name": "vyrzukhisuc-artiest"
+        }
+      ]
+    },
+    {
+      "id": "69264dbd-1096-4a58-82c9-668e2f33a4d5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 63,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joseph Campbell",
+      "sort-name": "Campbell, Joseph",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "88ef07c5-a926-4ea6-a601-8e224a6763c0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "White Plains",
+        "sort-name": "White Plains",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "a1411661-be21-4290-8dc1-50f3d8e3ea67",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Honolulu",
+        "sort-name": "Honolulu",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American mythologist",
+      "isnis": [
+        "0000000080884272"
+      ],
+      "life-span": {
+        "begin": "1904-03-26",
+        "end": "1987-10-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Campbell, Joe",
+          "name": "Joe Campbell",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Campbell, Joseph John",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Joseph John Campbell",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "mythologist"
+        },
+        {
+          "count": 1,
+          "name": "professor"
+        },
+        {
+          "count": 1,
+          "name": "myth"
+        }
+      ]
+    },
+    {
+      "id": "bec3a2ee-ec38-4e5f-9139-01442e3ac21c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joseph Saba",
+      "sort-name": "Saba, Joseph",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7a8da20d-4d2e-4882-b020-37d61761c2e5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wilkes-Barre",
+        "sort-name": "Wilkes-Barre",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "production music composer",
+      "isnis": [
+        "0000000078541086"
+      ],
+      "life-span": {
+        "begin": "1971-01-18",
+        "ended": null
+      }
+    },
+    {
+      "id": "79eaa8f6-b9eb-4316-8c44-250de2c0a5ac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joseph LoDuca",
+      "sort-name": "LoDuca, Joseph",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Detroit",
+        "sort-name": "Detroit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American score composer",
+      "ipis": [
+        "00121123835"
+      ],
+      "isnis": [
+        "0000000108802452"
+      ],
+      "life-span": {
+        "begin": "1958",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Joseph DoLuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph DoLuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph DeLuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph DeLuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joe LoDuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joe LoDuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "LoDuca, Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Joseph LoDuca",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1958",
+          "end-date": null
+        },
+        {
+          "sort-name": "LoDuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "LoDuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jose LoDuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jose LoDuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Lo Duca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph Lo Duca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Josef LoDuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Josef LoDuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph LoDucca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph LoDucca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "cinematic classical"
+        }
+      ]
+    },
+    {
+      "id": "70dbaf82-6cad-47b8-ae79-b36ef83d5ee3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joseph Trapanese",
+      "sort-name": "Trapanese, Joseph",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6849ab55-97d9-4a77-8d55-e64a89549dbb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Perth Amboy",
+        "sort-name": "Perth Amboy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00348220868"
+      ],
+      "isnis": [
+        "0000000432888083"
+      ],
+      "life-span": {
+        "begin": "1984-08-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Trapanese, Joseph Gaetano",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Joseph Gaetano Trapanese",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "soundtrack"
+        },
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "score"
+        },
+        {
+          "count": 1,
+          "name": "film score"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        },
+        {
+          "count": 1,
+          "name": "chiptune"
+        },
+        {
+          "count": 1,
+          "name": "film music"
+        },
+        {
+          "count": 1,
+          "name": "original score"
+        },
+        {
+          "count": 1,
+          "name": "_edit"
+        }
+      ]
+    },
+    {
+      "id": "0cb0a945-4053-436c-a22c-fbe5ea8899d4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joseph Bishara",
+      "sort-name": "Bishara, Joseph",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2391076e-8849-437c-b5cf-0b9c9c79b2c1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New Brunswick",
+        "sort-name": "New Brunswick",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American actor and score composer",
+      "ipis": [
+        "00336376648"
+      ],
+      "isnis": [
+        "0000000001000361"
+      ],
+      "life-span": {
+        "begin": "1970-07-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kebbe, Joseph Bishara",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Joseph Bishara Kebbe",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1970-07-26",
+          "end-date": null
+        },
+        {
+          "sort-name": "Bishara",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Bishara",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Bisahra",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph Bisahra",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Bihsara",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph Bihsara",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Josef Bishara",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Josef Bishara",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Josep Bishara",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Josep Bishara",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Rishara",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph Rishara",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joe Bisara",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joe Bisara",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joe Bishara",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joe Bishara",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "score"
+        },
+        {
+          "count": 1,
+          "name": "horror"
+        },
+        {
+          "count": 0,
+          "name": "terror"
+        }
+      ]
+    },
+    {
+      "id": "cbac7649-eeb5-4c1c-ae1d-8637bde04572",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Martyn Joseph",
+      "sort-name": "Joseph, Martyn",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3fe4f965-ff9e-49de-8597-b966d10464ca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Penarth",
+        "sort-name": "Penarth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00122090423"
+      ],
+      "isnis": [
+        "0000000055544057",
+        "0000000130254085"
+      ],
+      "life-span": {
+        "begin": "1960-07-15",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Joseph, Martyn Denton",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Martyn Denton Joseph",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        }
+      ]
+    },
+    {
+      "id": "8c332797-2784-45a7-9b5c-3b86f07a03de",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Afroman",
+      "sort-name": "Afroman",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American rapper, singer and songwriter",
+      "life-span": {
+        "begin": "1974-07-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Foreman, Joseph Edgar",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Joseph Edgar Foreman",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Foreman, Joseph",
+          "name": "Joseph Foreman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Afro Man",
+          "name": "Afro Man",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Afro-man",
+          "name": "Afro-man",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 0,
+          "name": "hip hop rnb and dance hall"
+        },
+        {
+          "count": 1,
+          "name": "alternative hip hop"
+        },
+        {
+          "count": 1,
+          "name": "west coast hip hop"
+        },
+        {
+          "count": 1,
+          "name": "comedy rap"
+        }
+      ]
+    }
+  ]
+}

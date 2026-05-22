@@ -1,0 +1,746 @@
+{
+  "created": "2026-05-22T17:02:03.782Z",
+  "count": 2740,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a18c050d-b706-441f-924c-ef0ce253b588",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Charlie Spivak",
+      "sort-name": "Spivak, Charlie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1bc1aeec-9eab-4517-aa23-1f59248590c1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Greenville",
+        "sort-name": "Greenville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000021025910"
+      ],
+      "life-span": {
+        "begin": "1905-02-17",
+        "end": "1982-03-01",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "e286cad0-68f6-4268-adea-a17f8601bd3d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 72,
+      "name": "Charlie Spivak and His Orchestra",
+      "sort-name": "Spivak, Charlie and His Orchestra",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "d3109bfe-bd58-4904-947a-ee28a2690e67",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Spivak",
+      "sort-name": "Spivak",
+      "gender": "female",
+      "area": {
+        "id": "b216cffd-75db-4dd6-b11a-8f58fded09e3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nicosia",
+        "sort-name": "Nicosia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Cypriot synthesist and songwriter Maria Spivak",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Spivak, Maria",
+          "name": "Maria Spivak",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "ethereal wave"
+        },
+        {
+          "count": 1,
+          "name": "minimal wave"
+        },
+        {
+          "count": 1,
+          "name": "ambient pop"
+        },
+        {
+          "count": 1,
+          "name": "art pop"
+        },
+        {
+          "count": 1,
+          "name": "bedroom pop"
+        }
+      ]
+    },
+    {
+      "id": "c7356af9-9ea6-4a78-a55b-c73775716312",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Charlie Parker",
+      "sort-name": "Parker, Charlie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c1fc21db-40e9-47f5-af93-f3ebe6581113",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kansas City",
+        "sort-name": "Kansas City",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "aka “Bird”, jazz alto saxophonist",
+      "ipis": [
+        "00023505323",
+        "00039934450"
+      ],
+      "isnis": [
+        "0000000120955806",
+        "0000000368633974"
+      ],
+      "life-span": {
+        "begin": "1920-08-29",
+        "end": "1955-03-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bird And Chet",
+          "name": "Bird And Chet",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charlie Parker with Strings",
+          "name": "Charlie Parker with Strings",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parker, Charles Christopher, Jr.",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Charles Christopher Parker, Jr",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parker, Charlie \"Chan\"",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Charlie \"Chan\" Parker",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charlie Parker and Strings",
+          "name": "Charlie Parker and Strings",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charley Parker",
+          "name": "Charley Parker",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charlier Parker with Strings",
+          "name": "Charlier Parker with Strings",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charles Parker",
+          "name": "Charles Parker",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charlie Parker Jam Session",
+          "name": "Charlie Parker Jam Session",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chan, Charlie",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Charlie Chan",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parker, C.",
+          "name": "C. Parker",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bird",
+          "name": "Bird",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 7,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "saxophone"
+        },
+        {
+          "count": 3,
+          "name": "bebop"
+        },
+        {
+          "count": 1,
+          "name": "cool jazz"
+        },
+        {
+          "count": -1,
+          "name": "death by cirrhosis"
+        },
+        {
+          "count": -1,
+          "name": "death by pneumonia"
+        },
+        {
+          "count": -1,
+          "name": "death by bleeding ulcer"
+        }
+      ]
+    },
+    {
+      "id": "9fb7fe77-4e8b-4cbd-ba8f-84bcd80a24bc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Charlie Rich",
+      "sort-name": "Rich, Charlie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "690f22ca-bd68-4f0f-90eb-c3366d81af48",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Colt",
+        "sort-name": "Colt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "204aa394-a39a-4afb-9eb2-e0eea7cd57c8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hammond",
+        "sort-name": "Hammond",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US country singer",
+      "ipis": [
+        "00025948563"
+      ],
+      "isnis": [
+        "0000000071394642"
+      ],
+      "life-span": {
+        "begin": "1932-12-14",
+        "end": "1995-07-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Rich, Charles",
+          "name": "Charles Rich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rich, Charley",
+          "name": "Charley Rich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sheridan, Bobby",
+          "name": "Bobby Sheridan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": "1960-12",
+          "end-date": "1960-12"
+        },
+        {
+          "sort-name": "Rich, Charles Allan",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Charles Allan Rich",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 2,
+          "name": "traditional country"
+        },
+        {
+          "count": 2,
+          "name": "rockabilly"
+        }
+      ]
+    },
+    {
+      "id": "9d99c378-247c-47a3-94ea-753efa330023",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Charlie Byrd",
+      "sort-name": "Byrd, Charlie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "92aac1d8-b77f-420a-b527-c119a1d4de89",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Suffolk",
+        "sort-name": "Suffolk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "a27ad636-0a28-43ee-a9fd-4dc4ec1c23e5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Annapolis",
+        "sort-name": "Annapolis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081655359"
+      ],
+      "life-span": {
+        "begin": "1925-09-16",
+        "end": "1999-12-02",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 3,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "brazilian"
+        },
+        {
+          "count": 2,
+          "name": "bossa nova"
+        },
+        {
+          "count": 1,
+          "name": "swing"
+        },
+        {
+          "count": 1,
+          "name": "bebop"
+        },
+        {
+          "count": 2,
+          "name": "latin jazz"
+        },
+        {
+          "count": 1,
+          "name": "brazilian jazz"
+        },
+        {
+          "count": -1,
+          "name": "death by lung cancer"
+        },
+        {
+          "count": 1,
+          "name": "samba-jazz"
+        }
+      ]
+    },
+    {
+      "id": "1f0cdc02-c8d5-4228-8227-37ec0c289b48",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Charlie Haden",
+      "sort-name": "Haden, Charlie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b76a8be5-cccc-4cbd-b7e1-2a94c1196320",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Shenandoah",
+        "sort-name": "Shenandoah",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American jazz bassist",
+      "ipis": [
+        "00061392097",
+        "00061392195"
+      ],
+      "isnis": [
+        "0000000083624572"
+      ],
+      "life-span": {
+        "begin": "1937-08-06",
+        "end": "2014-07-11",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "チャーリー・ヘイデン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "チャーリー・ヘイデン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haden, Charles Edward",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Charles Edward Haden",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 5,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "post-bop"
+        },
+        {
+          "count": 1,
+          "name": "hard bop"
+        },
+        {
+          "count": 1,
+          "name": "jazz and blues"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "a8d6239e-9a2b-4d8d-b913-85323fceb96b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Charlie McAlister",
+      "sort-name": "McAlister, Charlie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "aec173a2-0f12-489e-812b-7d2c252e4b62",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "South Carolina",
+        "sort-name": "South Carolina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "aec173a2-0f12-489e-812b-7d2c252e4b62",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "South Carolina",
+        "sort-name": "South Carolina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1969-03-04",
+        "end": "2018-02-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "C. McAlister",
+          "name": "C. McAlister",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "526557fb-deff-44bf-858f-a32f5626a520",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Josh Spivak",
+      "sort-name": "Spivak, Josh",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "94a40f25-8a84-4b53-ab82-d4320d78c8c9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Raúl Spivak",
+      "sort-name": "Spivak, Raúl",
+      "gender": "male",
+      "country": "AR",
+      "area": {
+        "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Argentina",
+        "sort-name": "Argentina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Argentine classical pianist",
+      "life-span": {
+        "ended": true
+      }
+    }
+  ]
+}

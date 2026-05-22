@@ -1,0 +1,638 @@
+{
+  "created": "2026-05-22T17:27:18.063Z",
+  "count": 697,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "58138f9d-f735-4661-9f10-a9a42bd0ea1e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Betty Olivero",
+      "sort-name": "Olivero, Betty",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1954-05-16",
+        "ended": null
+      }
+    },
+    {
+      "id": "62c31c9d-d2d9-4b2a-9549-4be129e9559a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Pauline Oliveros",
+      "sort-name": "Oliveros, Pauline",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Houston",
+        "sort-name": "Houston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "97729a25-fc89-47fa-8fcb-a16be34d6898",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kingston",
+        "sort-name": "Kingston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American composer and improviser",
+      "ipis": [
+        "00077425754"
+      ],
+      "isnis": [
+        "0000000081717855"
+      ],
+      "life-span": {
+        "begin": "1932-05-30",
+        "end": "2016-11-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Pauline Olivero",
+          "name": "Pauline Olivero",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "beab6f53-4534-49d9-87a2-d01c0211b366",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Betty Everett",
+      "sort-name": "Everett, Betty",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "91813bc2-b25c-4e77-a474-a3f3f2187291",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Greenwood",
+        "sort-name": "Greenwood",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8b660eb6-2ec9-4452-8d74-26d86cd7c512",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "South Beloit",
+        "sort-name": "South Beloit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US 1950–80s soul singer & pianist",
+      "ipis": [
+        "00062750485"
+      ],
+      "isnis": [
+        "000000005514976X"
+      ],
+      "life-span": {
+        "begin": "1939-11-23",
+        "end": "2001-08-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Betty Everette",
+          "name": "Betty Everette",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Betty Everitt",
+          "name": "Betty Everitt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "b3eb9512-3a89-459d-beb5-c4925a0325cf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Magda Olivero",
+      "sort-name": "Olivero, Magda",
+      "gender": "female",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b8c3c149-4041-46a5-999c-d5a634f1c112",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Saluzzo",
+        "sort-name": "Saluzzo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Milano",
+        "sort-name": "Milano",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "soprano",
+      "isnis": [
+        "0000000354427686"
+      ],
+      "life-span": {
+        "begin": "1910-03-25",
+        "end": "2014-09-08",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "soprano"
+        },
+        {
+          "count": 1,
+          "name": "italian soprano"
+        }
+      ]
+    },
+    {
+      "id": "ce407e9f-de68-4c8e-b966-43a1b3356191",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Betty Carter",
+      "sort-name": "Carter, Betty",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "32c5b871-cc3b-4641-914b-798dcfa6bc3d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Flint",
+        "sort-name": "Flint",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000011560223X"
+      ],
+      "life-span": {
+        "begin": "1929-05-16",
+        "end": "1998-09-26",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "post-bop"
+        },
+        {
+          "count": 1,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 1,
+          "name": "hard bop"
+        },
+        {
+          "count": 1,
+          "name": "bebop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "a185a781-4d1f-4152-8da0-824791236596",
+      "score": 42,
+      "name": "Olivero Beats",
+      "sort-name": "Olivero Beats",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "eed5f159-4858-4464-93c3-fc2da3796446",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Betty Wright",
+      "sort-name": "Wright, Betty",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4a9aeb42-3763-4234-8fb8-1167ac1dfdfe",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Miami",
+        "sort-name": "Miami",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "4a9aeb42-3763-4234-8fb8-1167ac1dfdfe",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Miami",
+        "sort-name": "Miami",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American soul and R&B singer",
+      "ipis": [
+        "00051226612"
+      ],
+      "isnis": [
+        "0000000055163318"
+      ],
+      "life-span": {
+        "begin": "1953-12-21",
+        "end": "2020-05-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Norris, Bessie Regina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Bessie Regina Norris",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wright, Bety",
+          "name": "Bety Wright",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Betty Bright",
+          "name": "Betty Bright",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bettye Wright",
+          "name": "Bettye Wright",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "BETTY WRIGHT",
+          "name": "BETTY WRIGHT",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wright, B.J.",
+          "name": "B.J. Wright",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "background vocalist"
+        },
+        {
+          "count": 2,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "disco"
+        },
+        {
+          "count": 1,
+          "name": "gospel"
+        },
+        {
+          "count": 1,
+          "name": "rhythm and blues"
+        }
+      ]
+    },
+    {
+      "id": "af558762-abed-4f46-8324-34fc51f57b2b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Bettye LaVette",
+      "sort-name": "LaVette, Bettye",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1a534484-1d80-4113-8cab-117f2db100a0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Muskegon",
+        "sort-name": "Muskegon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078396800"
+      ],
+      "life-span": {
+        "begin": "1946-01-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Betty Lavette",
+          "name": "Betty Lavette",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lavett, Betty",
+          "name": "Betty Lavett",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Betty LaVette",
+          "name": "Betty LaVette",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bettye LeVette",
+          "name": "Bettye LeVette",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "funk"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "count": 2,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "americana"
+        },
+        {
+          "count": 1,
+          "name": "gospel"
+        },
+        {
+          "count": 1,
+          "name": "soul and reggae"
+        },
+        {
+          "count": 1,
+          "name": "funk soul"
+        },
+        {
+          "count": 2,
+          "name": "r&b"
+        }
+      ]
+    },
+    {
+      "id": "d1598edd-2f9f-40db-a584-0a15d863f692",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Edgar Olivero",
+      "sort-name": "Olivero, Edgar",
+      "gender": "male",
+      "country": "CU",
+      "area": {
+        "id": "b06c4e86-97f7-3419-84a9-a23c60ea0b22",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Cuba",
+        "sort-name": "Cuba",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Cuban composer and arranger",
+      "life-span": {
+        "begin": "1985",
+        "ended": null
+      }
+    },
+    {
+      "id": "69e1fb94-3209-4eb7-a2f6-208605fa5210",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marco Olivero",
+      "sort-name": "Olivero, Marco",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "percussionist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

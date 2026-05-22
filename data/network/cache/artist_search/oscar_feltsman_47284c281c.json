@@ -1,0 +1,864 @@
+{
+  "created": "2026-05-22T16:55:24.220Z",
+  "count": 1544,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "4d6291a8-fd81-48e3-a1b9-3fecf7d00451",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Оскар Фельцман",
+      "sort-name": "Feltzman, Oskar",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000080904966"
+      ],
+      "life-span": {
+        "begin": "1921-02-18",
+        "end": "2013-02-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Фельцман, Оскар Борисович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Оскар Борисович Фельцман",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Фельцман, Оскар",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Оскар Фельцман",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Фельцман, О.",
+          "name": "О. Фельцман",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "オスカー・フェルツマン",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "オスカー・フェルツマン",
+          "locale": "ja",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Feltsman, Oscar",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Oscar Feltsman",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "ed801bdd-f057-41c0-94fb-76cb5676cd59",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 64,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oscar Peterson",
+      "sort-name": "Peterson, Oscar",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c3cc624e-b963-49cf-ad0b-e318cb341963",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Montréal",
+        "sort-name": "Montréal",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2747553f-b44d-44c4-a7c3-b67412b6f10b",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Ontario",
+        "sort-name": "Ontario",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian jazz pianist and composer",
+      "ipis": [
+        "00024118716",
+        "00066680356"
+      ],
+      "isnis": [
+        "0000000115805141"
+      ],
+      "life-span": {
+        "begin": "1925-08-15",
+        "end": "2007-12-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Oscar Petersen",
+          "name": "Oscar Petersen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petterson, Oscar",
+          "name": "Oscar Petterson",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Peterson, Oscar Emmanuel",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Oscar Emmanuel Peterson",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 9,
+          "name": "jazz"
+        },
+        {
+          "count": 3,
+          "name": "canadian"
+        },
+        {
+          "count": 1,
+          "name": "hard bop"
+        },
+        {
+          "count": 2,
+          "name": "bebop"
+        },
+        {
+          "count": 1,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 2,
+          "name": "cool jazz"
+        },
+        {
+          "count": 4,
+          "name": "piano jazz"
+        },
+        {
+          "count": 2,
+          "name": "standards"
+        },
+        {
+          "count": -1,
+          "name": "death by kidney failure"
+        }
+      ]
+    },
+    {
+      "id": "0f04948f-006c-45af-9111-da91686610da",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Владимир Фельцман",
+      "sort-name": "Feltsman, Vladimir",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian American classical pianist",
+      "isnis": [
+        "0000000079808862"
+      ],
+      "life-span": {
+        "begin": "1952-01-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Фельцман, Владимир Оскарович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Владимир Оскарович Фельцман",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Фельцман, Владимир",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Владимир Фельцман",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Feltsman, Vladimir",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vladimir Feltsman",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        }
+      ]
+    },
+    {
+      "id": "b4a4ce33-3de7-4971-b768-c560aabd1b16",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Óscar Chávez",
+      "sort-name": "Chávez, Óscar",
+      "gender": "male",
+      "country": "MX",
+      "area": {
+        "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Mexico",
+        "sort-name": "Mexico",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3c810219-baf2-4fff-b98c-46b425eea1f5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ciudad de México",
+        "sort-name": "Ciudad de México",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3c810219-baf2-4fff-b98c-46b425eea1f5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ciudad de México",
+        "sort-name": "Ciudad de México",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Mexican folk and trova singer-songwriter",
+      "ipis": [
+        "00005977862"
+      ],
+      "isnis": [
+        "0000000028809902",
+        "0000000462656689"
+      ],
+      "life-span": {
+        "begin": "1935-03-20",
+        "end": "2020-04-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Oscar Chávez",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Oscar Chávez",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Oscar Chavez",
+          "name": "Oscar Chavez",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "songwriter"
+        },
+        {
+          "count": 1,
+          "name": "singer"
+        },
+        {
+          "count": 1,
+          "name": "folklore"
+        },
+        {
+          "count": 1,
+          "name": "méxico"
+        },
+        {
+          "count": 1,
+          "name": "trova"
+        },
+        {
+          "count": 1,
+          "name": "protesta"
+        },
+        {
+          "count": 3,
+          "name": "death by covid-19"
+        },
+        {
+          "count": 1,
+          "name": "mexican singer"
+        },
+        {
+          "count": 1,
+          "name": "mexican songwriter"
+        }
+      ]
+    },
+    {
+      "id": "b083ec9b-27e0-4fda-801d-cb40861a0578",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 57,
+      "name": "The Oscar Peterson Trio",
+      "sort-name": "Peterson, Oscar, Trio, The",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1946",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Oscar Petersen Trio",
+          "name": "Oscar Petersen Trio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Oscar Peterson Trio",
+          "name": "Oscar Peterson Trio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "a383f062-e527-4a57-98b0-9205b2f8f171",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oscar Hammerstein II",
+      "sort-name": "Hammerstein, Oscar, II",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3c9c0781-4365-41d0-a3e9-847e2020a699",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Doylestown",
+        "sort-name": "Doylestown",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "of Rodgers & Hammerstein",
+      "ipis": [
+        "00013308919"
+      ],
+      "isnis": [
+        "0000000117358007"
+      ],
+      "life-span": {
+        "begin": "1895-07-12",
+        "end": "1960-08-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "II, Oscar Greeley Clendenning Hammerstein",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Oscar Greeley Clendenning Hammerstein II",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hammerstein",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hammerstein",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Хамерстайн, О.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "О. Хамерстайн",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "death by stomach cancer"
+        },
+        {
+          "count": 1,
+          "name": "broadway"
+        },
+        {
+          "count": 1,
+          "name": "musical"
+        }
+      ]
+    },
+    {
+      "id": "b6059fbd-b176-4585-bb58-ea2f34269500",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oscar D’León",
+      "sort-name": "D’León, Oscar",
+      "gender": "male",
+      "country": "VE",
+      "area": {
+        "id": "2ac90d6b-04fa-3006-8a91-89da01032365",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Venezuela",
+        "sort-name": "Venezuela",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "58ab1035-dbbb-4e58-87f7-210cd0351664",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Caracas",
+        "sort-name": "Caracas",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000005948758X"
+      ],
+      "life-span": {
+        "begin": "1943-07-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "D'León, Oscar, y Sus Amigos",
+          "name": "Oscar D'León y Sus Amigos",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Oscar De Leon",
+          "name": "Oscar De Leon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Oscar De León",
+          "name": "Oscar De León",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Oscar D' Leon",
+          "name": "Oscar D' Leon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "oscar d'leon",
+          "name": "oscar d'leon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "León Somoza, Oscar Emilio",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Oscar Emilio León Somoza",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "salsa"
+        },
+        {
+          "count": 2,
+          "name": "latin"
+        },
+        {
+          "count": 1,
+          "name": "bolero"
+        },
+        {
+          "count": 0,
+          "name": "madre"
+        }
+      ]
+    },
+    {
+      "id": "c7418473-b85b-42a9-9512-1cddfb6eb3d8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oscar Brand",
+      "sort-name": "Brand, Oscar",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "35307acf-aba0-4ca7-9df6-b9398d873a8f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Winnipeg",
+        "sort-name": "Winnipeg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "a77c8aec-4085-4af5-8582-372052573815",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Great Neck",
+        "sort-name": "Great Neck",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00004046925"
+      ],
+      "isnis": [
+        "0000000083781252"
+      ],
+      "life-span": {
+        "begin": "1920-02-07",
+        "end": "2016-09-30",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "ca8acd72-3ea4-4b15-baf0-49bf9ab60d53",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oscar Wilde",
+      "sort-name": "Wilde, Oscar",
+      "gender": "male",
+      "country": "IE",
+      "area": {
+        "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ireland",
+        "sort-name": "Ireland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "462e7952-4fa9-43cd-bc24-2c5c9cd5dd47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dublin",
+        "sort-name": "Dublin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121272652"
+      ],
+      "life-span": {
+        "begin": "1854-10-16",
+        "end": "1900-11-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Oscar Wilde",
+          "name": "O. Wilde",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "5891c405-ba96-4ad9-9c57-d906a76bb137",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oscar",
+      "sort-name": "Oscar",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "București",
+        "sort-name": "București",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "romanian rapper",
+      "life-span": {
+        "begin": "2002-08-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Căpraru, Ștefan",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ștefan Căpraru",
+          "locale": "ro",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

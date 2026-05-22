@@ -1,0 +1,328 @@
+{
+  "created": "2026-05-22T16:52:58.783Z",
+  "count": 6,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "304ea972-0600-43b4-9d91-50377a574c10",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Bohdana Frolyak",
+      "sort-name": "Frolyak, Bohdana",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian composer",
+      "isnis": [
+        "0000000109703966"
+      ],
+      "life-span": {
+        "begin": "1968-05-05",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "3e98a12f-3019-434b-883a-98d4c97510c8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Bohdana Pivnenko",
+      "sort-name": "Pivnenko, Bohdana",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fc617bbb-6cae-4e33-ae25-bf5a6cb7d7d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kharkiv",
+        "sort-name": "Kharkiv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1977-01-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Pivnenko, Bogdana",
+          "name": "Bogdana Pivnenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6331409c-7165-475c-baef-a4b398d2f8ae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "name": "Bohdana Horecká",
+      "sort-name": "Horecká, Bohdana",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4cfa3ebc-eb6c-4647-bd02-d1475e6de877",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 31,
+      "name": "Slovenský komorný orchester Bohdana Warchala",
+      "sort-name": "Slovenský komorný orchester Bohdana Warchala",
+      "country": "SK",
+      "area": {
+        "id": "eb52ca74-dd11-37a1-a3fa-154430bf2df2",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Slovakia",
+        "sort-name": "Slovakia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ed091849-62dd-4d10-9d40-50594afb1b15",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bratislava",
+        "sort-name": "Bratislava",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121510673"
+      ],
+      "life-span": {
+        "begin": "1960",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Slowakisches Kammerorchester",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Slowakisches Kammerorchester",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Slovak Philharmonia Chamber Orchestra",
+          "name": "Slovak Philharmonia Chamber Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Slowakische Kammerphilharmonie",
+          "name": "Slowakische Kammerphilharmonie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Slovenský komorný orchester",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Slovenský komorný orchester",
+          "locale": "sk",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Slovenský komorný orchester Bohdana Warchala",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Slovenský komorný orchester Bohdana Warchala",
+          "locale": "sk",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Slowakisches Kammerorchester Bohdan Warchal",
+          "name": "Slowakisches Kammerorchester Bohdan Warchal",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Slovak Chamber Orchestra",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Slovak Chamber Orchestra",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "70c0fd41-2d33-4a28-9cf1-c7dce36c3785",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 27,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "JF Voice",
+      "sort-name": "JF Voice",
+      "gender": "male",
+      "disambiguation": "Russian songs based on games",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "jfvoice",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "jfvoice",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "jf_voice",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "jf_voice",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "frolyak",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "frolyak",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "JustFrolik",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "JustFrolik",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "covers"
+        },
+        {
+          "count": 1,
+          "name": "songs based on games"
+        },
+        {
+          "count": 1,
+          "name": "russian covers"
+        }
+      ]
+    },
+    {
+      "id": "801c6009-bb85-442f-a134-27cb8c014776",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 21,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "A11UREA",
+      "sort-name": "Cheong-Dovbyshuk, Hierobohdana Mykolayivna",
+      "gender": "female",
+      "country": "SG",
+      "area": {
+        "id": "aa344640-fd57-3960-afb4-84d0d3b69d3d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Singapore",
+        "sort-name": "Singapore",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2005-12-02",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "neofolk"
+        },
+        {
+          "count": 1,
+          "name": "industrial folk"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian folk music"
+        },
+        {
+          "count": 1,
+          "name": "dikir barat"
+        }
+      ]
+    }
+  ]
+}

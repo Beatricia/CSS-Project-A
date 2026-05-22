@@ -1,0 +1,386 @@
+{
+  "created": "2026-05-22T17:33:37.958Z",
+  "count": 7720,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c36266aa-7a11-4938-9617-0e98cab58539",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "אודי דוידי",
+      "sort-name": "Davidi, Udi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00475275920"
+      ],
+      "isnis": [
+        "0000000403145619"
+      ],
+      "life-span": {
+        "begin": "1975-04-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "דוידי, אודי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "אודי דוידי",
+          "locale": "he_IL",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e198b77f-0415-4aa2-80af-6782f88a889f",
+      "score": 87,
+      "name": "DAvIDI",
+      "sort-name": "DAvIDI",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bc6deff0-e5cc-4271-b2ab-dc20e46b11e5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Uri Davidi",
+      "sort-name": "Davidi, Uri",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "אורי דוידי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "אורי דוידי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "98eb9059-0f5c-42a6-890c-6c9b5cb6087c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 78,
+      "name": "U.D.I.",
+      "sort-name": "U.D.I.",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "83f22bb6-4631-443c-bace-9fae8540362a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San Francisco",
+        "sort-name": "San Francisco",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "San Francisco hip-hop duo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d2128426-de39-45e1-8139-2f224e7a9f0b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "אודי הרפז",
+      "sort-name": "Harpaz, Udi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "production music",
+      "ipis": [
+        "00125709774"
+      ],
+      "life-span": {
+        "begin": "1952-03-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Harpaz, Udi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Udi Harpaz",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Harpaz, Ehud",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ehud Harpaz",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e7fe6caa-55a6-4c4d-8b28-340924b7c5c2",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 75,
+      "name": "U.D.I.",
+      "sort-name": "U.D.I.",
+      "country": "NO",
+      "area": {
+        "id": "6743d351-6f37-3049-9724-5041161fff4d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Norway",
+        "sort-name": "Norway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Norwegian band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "dc540b66-c158-4349-9a80-ebdf73a64c7d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Udi Levy",
+      "sort-name": "Levy, Udi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "61ecc879-8153-44f6-9065-f8245952686e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Udi Glaser",
+      "sort-name": "Glaser, Udi",
+      "gender": "male",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00702406292"
+      ],
+      "life-span": {
+        "begin": "1978-10-02",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classic rock"
+        },
+        {
+          "count": 1,
+          "name": "electronic rock"
+        },
+        {
+          "count": 1,
+          "name": "experimental rock"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "dream pop"
+        },
+        {
+          "count": 1,
+          "name": "shoegaze"
+        },
+        {
+          "count": 1,
+          "name": "melodic rock"
+        },
+        {
+          "count": 1,
+          "name": "post-rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "mainstream rock"
+        },
+        {
+          "count": 1,
+          "name": "guitar"
+        },
+        {
+          "count": 1,
+          "name": "guitar music"
+        },
+        {
+          "count": 1,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "instrumental rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "indie"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "indie pop"
+        }
+      ]
+    },
+    {
+      "id": "bd4c7b80-e9c9-4109-adff-a06f5a62b745",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Udi Shlomo",
+      "sort-name": "Shlomo, Udi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Jazz drummer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ca16d499-56d6-4e6e-b290-aa7a57b4c167",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "name": "Udi Kagan",
+      "sort-name": "Kagan, Udi",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "created": "2026-05-22T17:08:15.619Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "225712aa-699f-4e77-8547-93dfcdfa5666",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Zivert",
+      "sort-name": "Zivert",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1990-11-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Zivert, Juli",
+          "name": "Юлия Зиверт",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "960bc794-4685-4647-a7ec-e013caa466a6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mārtiņš Zīverts",
+      "sort-name": "Zīverts, Mārtiņš",
+      "gender": "male",
+      "country": "LV",
+      "area": {
+        "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Latvia",
+        "sort-name": "Latvia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Playwright",
+      "life-span": {
+        "begin": "1903-01-05",
+        "end": "1990-10-04",
+        "ended": true
+      }
+    },
+    {
+      "id": "6c96ecf4-7195-4d64-b6c5-a117f9a23a96",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andris Zīverts",
+      "sort-name": "Zīverts, Andris",
+      "gender": "male",
+      "country": "LV",
+      "area": {
+        "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Latvia",
+        "sort-name": "Latvia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "latvian"
+        }
+      ]
+    }
+  ]
+}

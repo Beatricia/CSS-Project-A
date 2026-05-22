@@ -1,0 +1,789 @@
+{
+  "created": "2026-05-22T17:24:45.357Z",
+  "count": 3603,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "bbfaca97-20a3-4465-ae48-353fc371aa7e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tim Dulaine",
+      "sort-name": "Dulaine, Tim",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8ff58fe3-f8b2-4737-b13c-ea5babcf2444",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Baytown",
+        "sort-name": "Baytown",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1950-01-12",
+        "ended": null
+      }
+    },
+    {
+      "id": "3bce590b-479f-42ca-b9e0-82883e0db9a2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pierre Boulez",
+      "sort-name": "Boulez, Pierre",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2a6e1df3-6e8e-41c9-8f78-c85d6b71c0d6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Montbrison",
+        "sort-name": "Montbrison",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d43989dc-c7b1-457c-bf33-c91c7cf20c74",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Baden-Baden",
+        "sort-name": "Baden-Baden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer and conductor",
+      "ipis": [
+        "00003877291"
+      ],
+      "isnis": [
+        "0000000121468794"
+      ],
+      "life-span": {
+        "begin": "1925-03-26",
+        "end": "2016-01-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Boulez, Pierre",
+          "name": "Boulez, Pierre",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Boulez",
+          "name": "Boulez",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 3,
+          "name": "conductor"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 1,
+          "name": "grammy winner"
+        },
+        {
+          "count": 0,
+          "name": "alban berg"
+        },
+        {
+          "count": 0,
+          "name": "boulez pierre messiaen olivier"
+        },
+        {
+          "count": 1,
+          "name": "french composer"
+        },
+        {
+          "count": 2,
+          "name": "french conductor"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        },
+        {
+          "count": 1,
+          "name": "mahler"
+        }
+      ]
+    },
+    {
+      "id": "da447efe-b2d7-4c62-8743-1d969a108200",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pierre Perret",
+      "sort-name": "Perret, Pierre",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6ab96ff4-ff39-4f4b-85a5-bb29473efcdb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Castelsarrasin",
+        "sort-name": "Castelsarrasin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "auteur-compositeur-interprète",
+      "ipis": [
+        "00024027622"
+      ],
+      "isnis": [
+        "0000000121367301"
+      ],
+      "life-span": {
+        "begin": "1934-07-09",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "chanson française"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 1,
+          "name": "rhythm and blues"
+        },
+        {
+          "count": 1,
+          "name": "french singer"
+        }
+      ]
+    },
+    {
+      "id": "24e0aaa1-7961-4ab8-865e-e736226e41c9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pierre Henry",
+      "sort-name": "Henry, Pierre",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French musique concrète composer",
+      "ipis": [
+        "00013866487",
+        "00013866585"
+      ],
+      "isnis": [
+        "0000000122840965"
+      ],
+      "life-span": {
+        "begin": "1927-12-09",
+        "end": "2017-07-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Henry, Pierre Georges Albert François",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Pierre Georges Albert François Henry",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry",
+          "name": "Henry",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry, Pierre",
+          "name": "Henry, Pierre",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pierre Henri",
+          "name": "Pierre Henri",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "electroacoustic"
+        },
+        {
+          "count": 2,
+          "name": "avant-garde"
+        },
+        {
+          "count": 2,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 3,
+          "name": "musique concrète"
+        },
+        {
+          "count": 1,
+          "name": "experimental electronic"
+        },
+        {
+          "count": 1,
+          "name": "bookmark"
+        }
+      ]
+    },
+    {
+      "id": "4fbdb6fa-4131-40c4-9321-ee3e73e87ad3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pierre Huguet",
+      "sort-name": "Huguet, Pierre",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000050192515"
+      ],
+      "life-span": {
+        "begin": "1950",
+        "ended": null
+      }
+    },
+    {
+      "id": "2b5d72ca-6b59-439f-a752-418f106f337e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pierre Bachelet",
+      "sort-name": "Bachelet, Pierre",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e7b9eb69-fb3a-4d7d-85b5-444bb5ae0d71",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Suresnes",
+        "sort-name": "Suresnes",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French singer‐songwriter and score composer",
+      "ipis": [
+        "00070405605"
+      ],
+      "isnis": [
+        "0000000114511440"
+      ],
+      "life-span": {
+        "begin": "1944-05-25",
+        "end": "2005-02-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "André Bachelet",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "André Bachelet",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pierre André",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Pierre André",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bachelet, Pierre André",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Pierre André Bachelet",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1944-05-25",
+          "end-date": null
+        },
+        {
+          "sort-name": "Pierre Bachellet",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Pierre Bachellet",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pierre Bacheleth",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Pierre Bacheleth",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pierre Bachelett",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Pierre Bachelett",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pier Bachelet",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Pier Bachelet",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Piere Bachelet",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Piere Bachelet",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bachelet, Pierre",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Pierre Bachelet",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bachelet",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Bachelet",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        }
+      ]
+    },
+    {
+      "id": "5ec1c9dd-96e8-4049-98d9-4613a7e1b91e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pierre Langer",
+      "sort-name": "Langer, Pierre",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2d60f848-38f8-4d8a-a976-8629145695f8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Frankfurt (Oder)",
+        "sort-name": "Frankfurt (Oder)",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00469753010"
+      ],
+      "isnis": [
+        "0000000002202328"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Langer, Pierre Gerwig",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Pierre Gerwig Langer",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Langer Pierre",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Langer Pierre",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Langer, Pierre",
+          "name": "Pierre Langer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "vgm"
+        },
+        {
+          "count": 1,
+          "name": "video game music"
+        }
+      ]
+    },
+    {
+      "id": "6472a54b-1d76-4743-ac43-92f15e4b9694",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pierre Palengat",
+      "sort-name": "Palengat, Pierre",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000000277326"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c127ffa7-8ffc-4424-990c-9af7c00a61ab",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pierre Pinto",
+      "sort-name": "Pinto, Pierre",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cc48f77c-32c5-46e1-9f35-119d61671e1b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 82,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pierre Schaeffer",
+      "sort-name": "Schaeffer, Pierre",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2b7c4074-dded-4703-a7de-e1d045c34b5c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nancy",
+        "sort-name": "Nancy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "37bc32de-19c2-474b-86ed-c73919891f06",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Aix-en-Provence",
+        "sort-name": "Aix-en-Provence",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French musique concrète composer",
+      "isnis": [
+        "0000000120968738"
+      ],
+      "life-span": {
+        "begin": "1910-08-14",
+        "end": "1995-08-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Shaeffer, Pierre",
+          "name": "Pierre Shaeffer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "avant-garde"
+        },
+        {
+          "count": 1,
+          "name": "experimental electronic"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "electroacoustic"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "tape music"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 3,
+          "name": "musique concrète"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        }
+      ]
+    }
+  ]
+}

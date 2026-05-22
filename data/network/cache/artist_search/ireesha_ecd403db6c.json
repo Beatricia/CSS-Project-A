@@ -1,0 +1,78 @@
+{
+  "created": "2026-05-22T17:01:07.321Z",
+  "count": 2,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "3f4dce07-7b87-437e-ab72-50e35d48cb48",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ireesha",
+      "sort-name": "Ireesha",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "73aad2e3-6117-44ae-a77c-e7e8c011f05e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sireesha Bhagavatula",
+      "sort-name": "Bhagavatula, Sireesha",
+      "gender": "female",
+      "country": "IN",
+      "area": {
+        "id": "d31a9a15-537f-3669-ad53-25753ddd2772",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "India",
+        "sort-name": "India",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "87e57205-0790-47c0-90ad-63a6888c99d9",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Andhra Pradesh",
+        "sort-name": "Andhra Pradesh",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Indian singer",
+      "life-span": {
+        "begin": "1996-09-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sireesha",
+          "name": "Sireesha",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

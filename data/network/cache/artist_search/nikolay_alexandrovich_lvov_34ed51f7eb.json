@@ -1,0 +1,326 @@
+{
+  "created": "2026-05-22T17:09:54.494Z",
+  "count": 349,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "3daf8b72-fe61-479c-9703-71907e102bfc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gred Lvov",
+      "sort-name": "Lvov, Gred",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lvov, Mykyta",
+          "name": "Mykyta Lvov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "300ca637-82a6-481e-87f9-55120d62ddb4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Boris Lvov",
+      "sort-name": "Lvov, Boris",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian pianist",
+      "life-span": {
+        "end": "2003",
+        "ended": true
+      }
+    },
+    {
+      "id": "890f58cf-2dc2-4841-bdc2-41ce0a68ac49",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pesach Lvov",
+      "sort-name": "Lvov, Pesach",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1880",
+        "end": "1913",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Львов, Песах Рувимович",
+          "name": "Песах Рувимович Львов",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "baf3238d-a689-4cc6-acd9-cadae91de9b7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ilya Lvov",
+      "sort-name": "Lvov, Ilya",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ea921089-2ddd-461b-a50a-992759c93fbb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "name": "Arkady Lvov",
+      "sort-name": "Lvov, Arkady",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "41d4e72f-8554-4c72-96ec-aa396f83c629",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Misha Alexandrovich",
+      "sort-name": "Alexandrovich, Misha",
+      "gender": "male",
+      "country": "LV",
+      "area": {
+        "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Latvia",
+        "sort-name": "Latvia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Latvia",
+        "sort-name": "Latvia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000006687369X"
+      ],
+      "life-span": {
+        "begin": "1914-07-23",
+        "end": "2002-07-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mikhail Davidovich Alexandrovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mikhail Davidovich Alexandrovich",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "34e569f7-e5b7-4c93-8c0d-c4d614d7b981",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 98,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sergei Alexandrovich",
+      "sort-name": "Alexandrovich, Sergei",
+      "gender": "male",
+      "disambiguation": "Violin player",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0a0affb8-ebb9-47e2-b475-d076c45f82ea",
+      "score": 97,
+      "name": "Ivan Alexandrovich",
+      "sort-name": "Ivan Alexandrovich",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e59267e8-56fc-4c45-86c1-76ab023996df",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Николай Соколов",
+      "sort-name": "Sokolov, Nikolay",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer, Nikolay Alexandrovich Sokolov",
+      "isnis": [
+        "0000000083999868"
+      ],
+      "life-span": {
+        "begin": "1859-03-26",
+        "end": "1922-03-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sokolov, Nikolay Alexandrovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nikolay Alexandrovich Sokolov",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sokolov, Nikolay",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolay Sokolov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Соколов, Николай Александрович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Николай Александрович Соколов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Соколов, Николай",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Николай Соколов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "247fe60c-93d9-4d87-b95a-f27db9babda4",
+      "score": 91,
+      "name": "DJ Львов",
+      "sort-name": "Львов, DJ",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lvov, DJ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "DJ Lvov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "created": "2026-05-22T17:08:28.190Z",
+  "count": 784,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7cc89d05-3db5-4d08-bea0-9c328aa56c39",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arthur Rubinstein",
+      "sort-name": "Rubinstein, Arthur",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "71ce186a-285d-4c01-b863-6e46bf10e249",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Łódź",
+        "sort-name": "Łódź",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "28d44913-d1b1-4cc8-8c51-bf80a2a210cf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Genève",
+        "sort-name": "Genève",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000120285187"
+      ],
+      "life-span": {
+        "begin": "1887-01-28",
+        "end": "1982-12-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Artur Rubinstein",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Artur Rubinstein",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arthur Rubenstein",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Arthur Rubenstein",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arthur Rubinsteing",
+          "name": "Arthur Rubinsteing",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artur Rubenstein",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Artur Rubenstein",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 4,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 2,
+          "name": "performer"
+        },
+        {
+          "count": 0,
+          "name": "chopin"
+        },
+        {
+          "count": 1,
+          "name": "american pianist"
+        }
+      ]
+    },
+    {
+      "id": "3b3d28fa-caaf-46ed-a545-29558adf25ec",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Artur Schnabel",
+      "sort-name": "Schnabel, Artur",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4cb1a82f-0a36-4fae-a391-4beda251573d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bielsko-Biała",
+        "sort-name": "Bielsko-Biała",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "796fd82b-30f6-4568-822a-d002e1316354",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Schwyz",
+        "sort-name": "Schwyz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian classical pianist and teacher",
+      "isnis": [
+        "0000000108719843"
+      ],
+      "life-span": {
+        "begin": "1882-04-17",
+        "end": "1951-08-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Arthur Schnabel",
+          "name": "Arthur Schnabel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 2,
+          "name": "austrian pianist"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "25b7d756-d9b2-4534-b130-bca3e95cf719",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heavenchord",
+      "sort-name": "Heavenchord",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "dub techno producer Artur Galstyan",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Galstyan, Artur",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Artur Galstyan",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "dub techno"
+        }
+      ]
+    },
+    {
+      "id": "84cbc4cd-03bc-4a9b-8c5f-6c6d32c390e1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Artur Pizarro",
+      "sort-name": "Pizarro, Artur",
+      "gender": "male",
+      "country": "PT",
+      "area": {
+        "id": "781b0c54-3d54-362d-a941-8a617def4992",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Portugal",
+        "sort-name": "Portugal",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9aee8c1a-c7d5-4713-af71-c022bccf50b4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lisboa",
+        "sort-name": "Lisboa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000083735854"
+      ],
+      "life-span": {
+        "begin": "1968",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "portuguese pianist"
+        }
+      ]
+    },
+    {
+      "id": "81648b95-1f9e-4c71-9338-bbc38219d82e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "name": "Artur",
+      "sort-name": "Artur",
+      "disambiguation": "trance, alias of Arthur Isxaqov",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d8d40c56-a9e6-4cca-9157-565a7f8a9093",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 93,
+      "name": "Artur",
+      "sort-name": "Artur",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "hungarian alt. rock band",
+      "life-span": {
+        "begin": "2012-06-01",
+        "ended": null
+      }
+    },
+    {
+      "id": "09cdd8ff-8a28-43e1-9514-c733c756d926",
+      "score": 92,
+      "name": "Artur",
+      "sort-name": "Artur",
+      "disambiguation": "Russian rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e7e976f6-2d6f-4956-a173-b508b031d853",
+      "score": 92,
+      "name": "Artur",
+      "sort-name": "Artur",
+      "disambiguation": "Time After Time",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "008a9fe9-4595-4474-b24a-d8ec7877274e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 92,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Денис Смольянинов",
+      "sort-name": "Smol'yaninov, Denis",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c81ee820-2b76-4933-b561-254b85da7086",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 92,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Алексей Смольянинов",
+      "sort-name": "Smolyaninov, Aleksey",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

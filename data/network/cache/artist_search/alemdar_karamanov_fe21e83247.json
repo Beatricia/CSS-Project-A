@@ -1,0 +1,162 @@
+{
+  "created": "2026-05-22T16:57:35.372Z",
+  "count": 5,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "29b60c06-8dd6-40c8-b720-268b05de3ada",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Алемдар Сабітович Караманов",
+      "sort-name": "Karamanov, Alemdar",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f001130-c539-43d4-bd37-2800d4407dec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Simferopol",
+        "sort-name": "Simferopol",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f001130-c539-43d4-bd37-2800d4407dec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Simferopol",
+        "sort-name": "Simferopol",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Turkish-Ukrainian composer",
+      "isnis": [
+        "0000000082586412"
+      ],
+      "life-span": {
+        "begin": "1934-09-10",
+        "end": "2007-05-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Karamanov, Alemdar",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alemdar Karamanov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Караманов, Алемдар",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Алемдар Караманов",
+          "locale": "ru_RU",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "84fc42a9-de8f-46b3-8919-cae59b9ff032",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alemdar",
+      "sort-name": "Alemdar",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Türkiye",
+        "sort-name": "Türkiye",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Türkiye",
+        "sort-name": "Türkiye",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Sanatçı",
+      "life-span": {
+        "begin": "2000-01-01",
+        "ended": null
+      }
+    },
+    {
+      "id": "b3434258-2bc7-40bf-8d36-30ed04898e4c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "name": "Sezer Alemdar",
+      "sort-name": "Alemdar, Sezer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6273d59a-6385-4624-bac5-5cb61244aac8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 25,
+      "name": "Alexandrina Karamanova",
+      "sort-name": "Karamanova, Alexandrina",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a93dd0a2-774d-4fd5-aaea-2e71f833b972",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 25,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michél Karamanovic",
+      "sort-name": "Karamanovic, Michél",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "musician from Bodensee region",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

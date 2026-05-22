@@ -1,0 +1,583 @@
+{
+  "created": "2026-05-22T17:08:08.667Z",
+  "count": 462,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f16b4bfe-be6d-4f9e-a89b-4e7e97aaf2c6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Андрей Эшпай",
+      "sort-name": "Eshpai, Andrei",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "63bb25c8-dfe6-4b56-82d6-06670c87aca5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kozmodemyansk",
+        "sort-name": "Kozmodemyansk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist/composer",
+      "isnis": [
+        "0000000123198038"
+      ],
+      "life-span": {
+        "begin": "1925-05-15",
+        "end": "2015-11-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Эшпай, Андрей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Андрей Эшпай",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Эшпай, Андрей Яковлевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Андрей Яковлевич Эшпай",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrei Ešpai",
+          "name": "Andrei Ešpai",
+          "locale": "et",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrei Eshpai",
+          "name": "Andrei Eshpai",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrei Eshpay",
+          "name": "Andrei Eshpay",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrey Eshpai",
+          "name": "Andrey Eshpai",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrey Eshpay",
+          "name": "Andrey Eshpay",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "465f0e18-123b-4706-9614-70f0cbd41064",
+      "score": 63,
+      "name": "A. Eshpai",
+      "sort-name": "A. Eshpai",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "05fa420b-f38d-4815-964c-7705de847098",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andrei",
+      "sort-name": "Andrei",
+      "gender": "male",
+      "area": {
+        "id": "8f76fcaf-6403-48f1-a706-c11f4428d208",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ry",
+        "sort-name": "Ry",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Thomas Andreix, alias Andrei",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6124619e-2f6c-471c-87e7-f0d246d790e5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andrei",
+      "sort-name": "Andrei",
+      "gender": "male",
+      "begin-area": {
+        "id": "967abc0e-f680-3cde-95d0-0b79b977d410",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ecuador",
+        "sort-name": "Ecuador",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Christian Singer",
+      "life-span": {
+        "begin": "1987-07-27",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "trap cristiano"
+        },
+        {
+          "count": 1,
+          "name": "musica cristiana"
+        },
+        {
+          "count": 1,
+          "name": "reggaeton cristiano"
+        },
+        {
+          "count": 1,
+          "name": "dembow cristiano"
+        },
+        {
+          "count": 1,
+          "name": "rap cristiano"
+        }
+      ]
+    },
+    {
+      "id": "e7ce56c2-a454-4529-93cd-b61db9203c3c",
+      "score": 56,
+      "name": "andrei",
+      "sort-name": "andrei",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d5671015-fe07-4d98-8bc2-8e9644ca3930",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andrei Krylov",
+      "sort-name": "Krylov, Andrei",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian/Canadian guitarist",
+      "life-span": {
+        "begin": "1959-03-03",
+        "ended": null
+      }
+    },
+    {
+      "id": "2619c907-4ae9-4c98-b464-31d7cb71f54f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Андрей Макаревич",
+      "sort-name": "Makarevich, Andrei",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000122133304"
+      ],
+      "life-span": {
+        "begin": "1953-12-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Makarevitch, Andreï Vadimovitch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Andreï Vadimovitch Makarevitch",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Makarevitch, Andreï",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Andreï Makarevitch",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Макаревіч, Андрэй",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Андрэй Макаревіч",
+          "locale": "be",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Макаревич, А.",
+          "name": "А. Макаревич",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Макаревич, Андрей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Андрей Макаревич",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Макаревич, Андрей Вадимович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Андрей Вадимович Макаревич",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Андрей Макаревич & Квартал",
+          "name": "Андрей Макаревич & Квартал",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrei Makarevich",
+          "name": "Andrei Makarevich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Makarevich Andrej",
+          "name": "Makarevich Andrej",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Makarevich, Andrey Vadimovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Andrey Vadimovich Makarevich",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Makarevich, Andrey",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Andrey Makarevich",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        }
+      ]
+    },
+    {
+      "id": "dd018fec-1db5-46f1-bb80-4500c98969c5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andrei Korobeinikov",
+      "sort-name": "Korobeinikov, Andrei",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000078488414"
+      ],
+      "life-span": {
+        "begin": "1986-07-10",
+        "ended": null
+      }
+    },
+    {
+      "id": "e1a51f9c-9eba-46d9-a029-a08c7f6ccfbf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andrei Codrescu",
+      "sort-name": "Codrescu, Andrei",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6624e455-c745-4ca8-bebb-146cdfe89359",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Андрей Гаврилов",
+      "sort-name": "Gavrilov, Andrei",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000110062481"
+      ],
+      "life-span": {
+        "begin": "1955-09-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gawrilow, Andrei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Andrei Gawrilow",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gawrilow, Andrei Wladimirowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Andrei Wladimirowitsch Gawrilow",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Гаврилов, Андрей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Андрей Гаврилов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Гаврилов, Андрей Владимирович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Андрей Владимирович Гаврилов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gawrilow, Andreij",
+          "name": "Andreij Gawrilow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gavrilov, Andrei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Andrei Gavrilov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gavrilov, Andrei Vladimirovich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Andrei Vladimirovich Gavrilov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        }
+      ]
+    }
+  ]
+}

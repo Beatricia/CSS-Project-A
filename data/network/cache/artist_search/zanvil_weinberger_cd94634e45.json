@@ -1,0 +1,343 @@
+{
+  "created": "2026-05-22T17:40:51.882Z",
+  "count": 33,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c79c86a3-7191-41cb-801b-ce705c13727b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zanvil Weinberger",
+      "sort-name": "Weinberger, Zanvil",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "402c46d5-e884-46e1-928c-a47c215f6b01",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Yerushalayim",
+        "sort-name": "Yerushalayim",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1995",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Weinberger, Zanvil",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Zanvil Weinberger",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weingertner, Zanvil",
+          "name": "Zanvil Weingertner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "וויינבערגער, זאנוויל",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "זאנוויל וויינבערגער",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ויינברגר, זאנוויל",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "זאנוויל ויינברגר",
+          "locale": "he_IL",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "887e4929-71a2-4f47-8e25-a1b7e10dad0b",
+      "score": 37,
+      "name": "Weinberger",
+      "sort-name": "Weinberger",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1baf138c-e312-4dc1-b155-ffb8a2ca5038",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jaromír Weinberger",
+      "sort-name": "Weinberger, Jaromír",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "6170a824-ce9d-48d7-b28f-9e493e220436",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "St. Petersburg",
+        "sort-name": "St. Petersburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000080999256"
+      ],
+      "life-span": {
+        "begin": "1896-01-08",
+        "end": "1967-08-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Weinberger",
+          "name": "Weinberger",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "7e26bf27-1a85-4570-8fb0-ab101310bc14",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gerhard Weinberger",
+      "sort-name": "Weinberger, Gerhard",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6ef3f88f-80ae-43e1-a05a-bd8ee5f8976d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Pfaffenhofen an der Ilm",
+        "sort-name": "Pfaffenhofen an der Ilm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German organist and conductor",
+      "isnis": [
+        "0000000116006130"
+      ],
+      "life-span": {
+        "begin": "1948-07-31",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "organist"
+        }
+      ]
+    },
+    {
+      "id": "065c9478-c8c3-4d00-828c-02847e3bb149",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "name": "A.G. Weinberger",
+      "sort-name": "Weinberger, A.G.",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a94a9aa1-68a4-40a0-bdb8-ba6f60228fb9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dave Weinberger",
+      "sort-name": "Weinberger, Dave",
+      "gender": "male",
+      "life-span": {
+        "begin": "1950",
+        "ended": null
+      }
+    },
+    {
+      "id": "dba2396d-2e35-4af4-8548-40931752a989",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hershy Weinberger",
+      "sort-name": "Weinberger, Hershy",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "הרשי וינברגר",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "הרשי וינברגר",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "הערשי וויינבערגער",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "הערשי וויינבערגער",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "5c418d47-5fa4-4d84-b5f0-a78576f66755",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Johanna Weinberger",
+      "sort-name": "Weinberger, Johanna",
+      "gender": "female",
+      "area": {
+        "id": "2a9d8641-612f-46d8-8883-5b7a20e147c9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Freising",
+        "sort-name": "Freising",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6b545bbf-a6cd-443b-92d5-ecb1cd7e1704",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Elga Weinberger",
+      "sort-name": "Weinberger, Elga",
+      "gender": "female",
+      "area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1948-10-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "b3826510-a1c9-4378-b836-f6ca7dda3256",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yonasan Weinberger",
+      "sort-name": "Weinberger, Yonasan",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

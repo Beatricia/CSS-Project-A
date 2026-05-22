@@ -1,0 +1,2131 @@
+{
+  "created": "2026-05-22T17:07:30.470Z",
+  "count": 827,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "183c8ffa-8f77-44c9-929f-818f26ab4953",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Сергей Шнуров",
+      "sort-name": "Shnurov, Sergei",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000406845725"
+      ],
+      "life-span": {
+        "begin": "1973-04-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Schnurow, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Schnurow",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schnurow, Sergei Wladimirowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sergei Wladimirowitsch Schnurow",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shnurov, Sergey",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergey Shnurov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergej Shnurov",
+          "name": "Sergej Shnurov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergej Shnurow",
+          "name": "Sergej Shnurow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шнур",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Шнур",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шнуров, Сергей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Сергей Шнуров",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шнуров, Сергей Владимирович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Сергей Владимирович Шнуров",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Shnurov",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sergei Shnurov",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "44b16e44-da77-4580-b851-0d765904573e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Сергей Васильевич Рахманинов",
+      "sort-name": "Rachmaninoff, Sergei Vasilievich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "961495d4-0a6d-4f9a-ab9e-f0d87d7b8d4a",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Novgorodskaya oblast'",
+        "sort-name": "Novgorodskaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "73d8cbdd-3149-4cb6-a36d-1ef2036a8b88",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beverly Hills",
+        "sort-name": "Beverly Hills",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00025196099"
+      ],
+      "isnis": [
+        "0000000121354017"
+      ],
+      "life-span": {
+        "begin": "1873-04-01",
+        "end": "1943-03-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Rachmaninoff, Serge",
+          "name": "Rachmaninoff, Serge",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Siergiej Rachmaninow",
+          "name": "Siergiej Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Racmaninov",
+          "name": "Racmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff, S.",
+          "name": "S. Rachmaninoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergej Rachmaninoff",
+          "name": "Sergej Rachmaninoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rakhmaninov, Sergey",
+          "name": "Rakhmaninov, Sergey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergueï",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergueï Rachmaninov",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Vasilievich Rachmaninov",
+          "name": "Sergei Vasilievich Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Serge",
+          "name": "Serge Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergey (1873–1943)",
+          "name": "Rachmaninov, Sergey (1873–1943)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergey",
+          "name": "Rachmaninov, Sergey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergey Rachmaninov",
+          "name": "Sergey Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninow, Sergei Wassiljewitsch",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Wassiljewitsch Rachmaninow",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff",
+          "name": "Rachmaninoff",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergio Rachmaninoff",
+          "name": "Sergio Rachmaninoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Rachmaniov",
+          "name": "Sergei Rachmaniov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff, Sergej",
+          "name": "Rachmaninoff, Sergej",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rahmaninov, Sergej Vasil'evič",
+          "name": "Sergej Vasil'evič Rahmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergeri Rachmaninoff",
+          "name": "Sergeri Rachmaninoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Rachmaninow",
+          "name": "Sergei Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rakhmaninov",
+          "name": "Rakhmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Rachmaninov",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergey Rakhmaninov",
+          "name": "Sergey Rakhmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rakhmaninov, Sergey Vasil’yevich",
+          "name": "Sergey Vasil’yevich Rakhmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, S.",
+          "name": "S. Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Rachmaninov",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergey Vasilyevich",
+          "name": "Sergey Vasilyevich Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergej Rachmaninov",
+          "name": "Sergej Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergey Rachmarinov",
+          "name": "Sergey Rachmarinov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serge Rachmaninow",
+          "name": "Serge Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff, Sergei Vasilievich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Vasilievich Rachmaninoff",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergiusz Rachmaninow",
+          "name": "Sergiusz Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergej Rachmaninow",
+          "name": "Sergej Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergei (1873–1943)",
+          "name": "Rachmaninov, Sergei (1873–1943)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "라흐마니노프",
+          "name": "라흐마니노프",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergei",
+          "name": "Rachmaninov, Sergei",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rhachmaninov",
+          "name": "Rhachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рахманинов, Сергей Васильевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Сергей Васильевич Рахманинов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergei (1873–1943)",
+          "name": "Sergei Rachmaninov (1873–1943)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergej Vasiljevitj",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergej Vasiljevitj Rachmaninov",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rahmaninov, Sergei Vasiljevitš",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Vasiljevitš Rahmaninov",
+          "locale": "fi",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergej",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergej Rachmaninov",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninow",
+          "name": "Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergej",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergej Rachmaninov",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninow, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Rachmaninow",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff",
+          "name": "Sergei Vasilyevich Rachmaninoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergueï Rachmaninov",
+          "name": "Sergueï Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff, Serge",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Serge Rachmaninoff",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rahmaninov, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Rahmaninov",
+          "locale": "fi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rahmaninov, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Rahmaninov",
+          "locale": "et",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Rachmaninoff",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рахманинов, Сергей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Сергей Рахманинов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "セルゲイ・ラフマニノフ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "セルゲイ・ラフマニノフ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 10,
+          "name": "classical"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "orchestral"
+        },
+        {
+          "count": 6,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 3,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 6,
+          "name": "pianist"
+        },
+        {
+          "count": 6,
+          "name": "composer"
+        },
+        {
+          "count": 4,
+          "name": "romantic"
+        },
+        {
+          "count": 2,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "symphony"
+        },
+        {
+          "count": 1,
+          "name": "concerto"
+        },
+        {
+          "count": 4,
+          "name": "romanticism"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 4,
+          "name": "romantic classical"
+        },
+        {
+          "count": 1,
+          "name": "symphonic poem"
+        },
+        {
+          "count": 0,
+          "name": "choral symphony"
+        }
+      ]
+    },
+    {
+      "id": "0e43fe9d-c472-4b62-be9e-55f971a023e1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Сергей Сергеевич Прокофьев",
+      "sort-name": "Prokofiev, Sergei Sergeyevich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ddac529d-ab44-4963-a04d-55c6edaf90ff",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sontsivka",
+        "sort-name": "Sontsivka",
+        "life-span": {
+          "begin": "2016-05-19",
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "isnis": [
+        "0000000121389711"
+      ],
+      "life-span": {
+        "begin": "1891-04-27",
+        "end": "1953-03-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sergej Prokofiev",
+          "name": "Sergej Prokofiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Прокофьев|Prokofiev",
+          "name": "Прокофьев|Prokofiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergej Prokofjew",
+          "name": "Sergej Prokofjew",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofieff",
+          "name": "Prokofieff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofiev, Sergei",
+          "name": "Prokofiev, Sergei",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serge Prokofjev",
+          "name": "Serge Prokofjev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "S. Prokofiev",
+          "name": "S. Prokofiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Прокофьев, Сергей Сергеевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Сергей Сергеевич Прокофьев",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokefiev",
+          "name": "Prokefiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Prokoviev",
+          "name": "Sergei Prokoviev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serge Prokofieff",
+          "name": "Serge Prokofieff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofiev",
+          "name": "Prokofiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergey Prokofiev",
+          "name": "Sergey Prokofiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofief",
+          "name": "Prokofief",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Prokofjef",
+          "name": "Sergei Prokofjef",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Prokofieff",
+          "name": "Sergei Prokofieff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "プロコフィエフ",
+          "name": "プロコフィエフ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergej Sergeevič Prokof'ev",
+          "name": "Sergej Sergeevič Prokof'ev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofjev, Sergej Sergejevitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sergej Sergejevitj Prokofjev",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Prokofief",
+          "name": "Sergei Prokofief",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergey Sergeyevich Prokofiev",
+          "name": "Sergey Sergeyevich Prokofiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergej Prokofjev",
+          "name": "Sergej Prokofjev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergi Prokofiev",
+          "name": "Sergi Prokofiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofiev, Sergej",
+          "name": "Prokofiev, Sergej",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Prokofiev",
+          "name": "Sergei Prokofiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokovieff",
+          "name": "Prokovieff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serge Prokofjew",
+          "name": "Serge Prokofjew",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serghei Prokofiev",
+          "name": "Serghei Prokofiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serge Prokofiev",
+          "name": "Serge Prokofiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofjev, Sergej",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergej Prokofjev",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Прокофьев, Сергей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Сергей Прокофьев",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofieff, Sergej",
+          "name": "Sergej Prokofieff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofiev, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Prokofiev",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofjev, Sergej",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergej Prokofjev",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofjev, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Prokofjev",
+          "locale": "et",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofjew, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Prokofjew",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofiev, Sergueï",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergueï Prokofiev",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prokofjevs, S.",
+          "name": "S. Prokofjevs",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "soundtrack"
+        },
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 3,
+          "name": "russian"
+        },
+        {
+          "count": 5,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "ukranian"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "film"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian"
+        },
+        {
+          "count": 0,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "20th century"
+        },
+        {
+          "count": 1,
+          "name": "symphony"
+        },
+        {
+          "count": 3,
+          "name": "modern classical"
+        },
+        {
+          "count": 2,
+          "name": "neoclassicism"
+        },
+        {
+          "count": 0,
+          "name": "concerto"
+        },
+        {
+          "count": 0,
+          "name": "ballet"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        }
+      ]
+    },
+    {
+      "id": "51b126bd-ed75-425b-89ea-748821c90cd0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "name": "Sergey",
+      "sort-name": "Sergey",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fd4160ca-4c95-48a0-9d4a-40555576a315",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sergey Eybog",
+      "sort-name": "Eybog, Sergey",
+      "gender": "male",
+      "area": {
+        "id": "b64ada09-41aa-4b45-8d53-07c3dc47e6f1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Leningradskaya oblast'",
+        "sort-name": "Leningradskaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7e788ef6-4945-4b40-b6f7-312028980d66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ust-Ilimsk",
+        "sort-name": "Ust-Ilimsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1981-02-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Vibe/CRC",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vibe/CRC",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Silent Owl",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Silent Owl",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "39b781f8-01d8-4780-b380-5f4bfde4ecc3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sergey",
+      "sort-name": "Sergey",
+      "gender": "male",
+      "disambiguation": "Drummer from Pinkshinyultrablast",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9160f46c-4deb-45f2-946e-25c38d82f493",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sergey Rybytskyy",
+      "sort-name": "Rybytskyy, Sergiy",
+      "gender": "male",
+      "area": {
+        "id": "1b1a6c07-d9bd-47d8-b1ee-772f53ec6e79",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Western Australia",
+        "sort-name": "Western Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00689665272"
+      ],
+      "isnis": [
+        "000000050427468X"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "sad"
+        },
+        {
+          "count": 1,
+          "name": "sincere"
+        },
+        {
+          "count": 1,
+          "name": "driving"
+        },
+        {
+          "count": 1,
+          "name": "forceful"
+        },
+        {
+          "count": 1,
+          "name": "groovy"
+        },
+        {
+          "count": 1,
+          "name": "calm"
+        },
+        {
+          "count": 1,
+          "name": "positive"
+        },
+        {
+          "count": 1,
+          "name": "questioning"
+        },
+        {
+          "count": 1,
+          "name": "romantic"
+        },
+        {
+          "count": 1,
+          "name": "orchestral"
+        },
+        {
+          "count": 1,
+          "name": "contemplative"
+        },
+        {
+          "count": 1,
+          "name": "friendly"
+        },
+        {
+          "count": 1,
+          "name": "dreamy"
+        },
+        {
+          "count": 1,
+          "name": "emotional"
+        },
+        {
+          "count": 1,
+          "name": "heartfelt"
+        },
+        {
+          "count": 1,
+          "name": "mellow"
+        },
+        {
+          "count": 1,
+          "name": "unpredictable"
+        },
+        {
+          "count": 1,
+          "name": "hopeful"
+        },
+        {
+          "count": 1,
+          "name": "melancholic"
+        },
+        {
+          "count": 1,
+          "name": "atmospheric"
+        },
+        {
+          "count": 1,
+          "name": "hard"
+        },
+        {
+          "count": 1,
+          "name": "epic"
+        },
+        {
+          "count": 1,
+          "name": "grief"
+        },
+        {
+          "count": 1,
+          "name": "mysterious"
+        },
+        {
+          "count": 1,
+          "name": "haunting"
+        },
+        {
+          "count": 1,
+          "name": "laid-back"
+        },
+        {
+          "count": 1,
+          "name": "light"
+        },
+        {
+          "count": 1,
+          "name": "melodic"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "musical"
+        },
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "music for tv"
+        },
+        {
+          "count": 1,
+          "name": "originalsoundtrack"
+        },
+        {
+          "count": 1,
+          "name": "musicfortv"
+        },
+        {
+          "count": 1,
+          "name": "media composer"
+        },
+        {
+          "count": 1,
+          "name": "tvmusic"
+        },
+        {
+          "count": 1,
+          "name": "moviemusic"
+        },
+        {
+          "count": 1,
+          "name": "creater"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        },
+        {
+          "count": 1,
+          "name": "library music"
+        },
+        {
+          "count": 1,
+          "name": "exclusive music"
+        },
+        {
+          "count": 1,
+          "name": "exclusive tracks"
+        },
+        {
+          "count": 1,
+          "name": "music within"
+        },
+        {
+          "count": 1,
+          "name": "exclusive track"
+        },
+        {
+          "count": 1,
+          "name": "epic music"
+        },
+        {
+          "count": 1,
+          "name": "trailer music"
+        },
+        {
+          "count": 1,
+          "name": "audio production"
+        },
+        {
+          "count": 1,
+          "name": "new music"
+        },
+        {
+          "count": 1,
+          "name": "epic music world"
+        },
+        {
+          "count": 1,
+          "name": "experimental music"
+        },
+        {
+          "count": 1,
+          "name": "avantgarde music"
+        },
+        {
+          "count": 1,
+          "name": "nice music"
+        },
+        {
+          "count": 1,
+          "name": "original soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "tv music"
+        },
+        {
+          "count": 1,
+          "name": "movie music"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "groove music"
+        },
+        {
+          "count": 1,
+          "name": "dark ambient"
+        },
+        {
+          "count": 1,
+          "name": "neoclassical dark wave"
+        },
+        {
+          "count": 1,
+          "name": "darksynth"
+        },
+        {
+          "count": 1,
+          "name": "dark wave"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "progressive pop"
+        },
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "post-classical"
+        },
+        {
+          "count": 1,
+          "name": "minimal synth"
+        },
+        {
+          "count": 1,
+          "name": "minimalism"
+        },
+        {
+          "count": 1,
+          "name": "filmi"
+        },
+        {
+          "count": 1,
+          "name": "symphonic prog"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic pop"
+        },
+        {
+          "count": 1,
+          "name": "symphonic rock"
+        },
+        {
+          "count": 1,
+          "name": "symphony"
+        },
+        {
+          "count": 1,
+          "name": "cinematic music"
+        },
+        {
+          "count": 1,
+          "name": "game music mystical"
+        },
+        {
+          "count": 1,
+          "name": "futurism"
+        },
+        {
+          "count": 1,
+          "name": "dreary music"
+        },
+        {
+          "count": 1,
+          "name": "horror"
+        },
+        {
+          "count": 1,
+          "name": "halloween"
+        },
+        {
+          "count": 1,
+          "name": "sync licensing"
+        },
+        {
+          "count": 1,
+          "name": "fantasia"
+        },
+        {
+          "count": 1,
+          "name": "modern classical"
+        },
+        {
+          "count": 1,
+          "name": "trailer"
+        },
+        {
+          "count": 1,
+          "name": "film music"
+        },
+        {
+          "count": 1,
+          "name": "filmmusic"
+        },
+        {
+          "count": 1,
+          "name": "musiclife"
+        },
+        {
+          "count": 1,
+          "name": "creative"
+        },
+        {
+          "count": 1,
+          "name": "music life"
+        },
+        {
+          "count": 1,
+          "name": "guitar world"
+        },
+        {
+          "count": 1,
+          "name": "neoclassical music"
+        },
+        {
+          "count": 1,
+          "name": "music composer"
+        },
+        {
+          "count": 1,
+          "name": "music composition"
+        },
+        {
+          "count": 1,
+          "name": "orchestra"
+        },
+        {
+          "count": 1,
+          "name": "contemporary classical music"
+        },
+        {
+          "count": 1,
+          "name": "modern classical music"
+        },
+        {
+          "count": 1,
+          "name": "art"
+        },
+        {
+          "count": 1,
+          "name": "cosmic sound"
+        },
+        {
+          "count": 1,
+          "name": "synth"
+        },
+        {
+          "count": 1,
+          "name": "synthwave"
+        },
+        {
+          "count": 1,
+          "name": "melody"
+        },
+        {
+          "count": 1,
+          "name": "production music"
+        },
+        {
+          "count": 1,
+          "name": "prelude"
+        },
+        {
+          "count": 1,
+          "name": "synthpop"
+        },
+        {
+          "count": 1,
+          "name": "epic fantasy"
+        },
+        {
+          "count": 1,
+          "name": "sci-fi"
+        },
+        {
+          "count": 1,
+          "name": "dismal music"
+        },
+        {
+          "count": 1,
+          "name": "scary music"
+        },
+        {
+          "count": 1,
+          "name": "eerie music"
+        },
+        {
+          "count": 1,
+          "name": "creepy music"
+        },
+        {
+          "count": 1,
+          "name": "mysterious music"
+        },
+        {
+          "count": 1,
+          "name": "music producer"
+        },
+        {
+          "count": 1,
+          "name": "trembling music"
+        },
+        {
+          "count": 1,
+          "name": "neoclassical metal"
+        },
+        {
+          "count": 1,
+          "name": "progressive rock"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "new age"
+        },
+        {
+          "count": 1,
+          "name": "new romantic"
+        },
+        {
+          "count": 1,
+          "name": "nature sounds"
+        },
+        {
+          "count": 1,
+          "name": "pleading"
+        },
+        {
+          "count": 1,
+          "name": "soft"
+        },
+        {
+          "count": 1,
+          "name": "cool"
+        },
+        {
+          "count": 1,
+          "name": "hypnotic"
+        },
+        {
+          "count": 1,
+          "name": "relaxed"
+        },
+        {
+          "count": 1,
+          "name": "curious"
+        },
+        {
+          "count": 1,
+          "name": "meditative"
+        },
+        {
+          "count": 1,
+          "name": "mournful"
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "easy"
+        },
+        {
+          "count": 1,
+          "name": "peaceful"
+        },
+        {
+          "count": 1,
+          "name": "neoclassical"
+        },
+        {
+          "count": 1,
+          "name": "happy"
+        },
+        {
+          "count": 1,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 1,
+          "name": "neoclassical new age"
+        },
+        {
+          "count": 1,
+          "name": "neoclassicism"
+        },
+        {
+          "count": 1,
+          "name": "game music"
+        },
+        {
+          "count": 1,
+          "name": "music production"
+        },
+        {
+          "count": 1,
+          "name": "avantgardemusic"
+        },
+        {
+          "count": 1,
+          "name": "nicemusic"
+        },
+        {
+          "count": 1,
+          "name": "audioproduction"
+        },
+        {
+          "count": 1,
+          "name": "musician"
+        },
+        {
+          "count": 1,
+          "name": "goodmusic"
+        },
+        {
+          "count": 1,
+          "name": "underground music"
+        },
+        {
+          "count": 1,
+          "name": "good music"
+        },
+        {
+          "count": 1,
+          "name": "shredding"
+        },
+        {
+          "count": 1,
+          "name": "shred guitar"
+        },
+        {
+          "count": 1,
+          "name": "cinematic"
+        },
+        {
+          "count": 1,
+          "name": "artful"
+        },
+        {
+          "count": 1,
+          "name": "harmony"
+        },
+        {
+          "count": 1,
+          "name": "contemporary music"
+        },
+        {
+          "count": 1,
+          "name": "electronic music"
+        },
+        {
+          "count": 1,
+          "name": "space music"
+        },
+        {
+          "count": 1,
+          "name": "close harmony"
+        },
+        {
+          "count": 1,
+          "name": "madrigal"
+        },
+        {
+          "count": 1,
+          "name": "audio drama"
+        },
+        {
+          "count": 1,
+          "name": "dramatic"
+        },
+        {
+          "count": 1,
+          "name": "dramatic music"
+        },
+        {
+          "count": 1,
+          "name": "horror synth"
+        },
+        {
+          "count": 1,
+          "name": "spacesynth"
+        },
+        {
+          "count": 1,
+          "name": "church music"
+        }
+      ]
+    },
+    {
+      "id": "523c756f-2c3e-4672-a231-b772ff89d344",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sergey Bolkov",
+      "sort-name": "Bolkov, Sergey",
+      "gender": "male",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Niko Burmensky, Belgian engineer & producer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Burmensky, Niko",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Niko Burmensky",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1c81c012-154f-40f7-99e2-482dae97a50d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Сергей Лазарев",
+      "sort-name": "Lazarev, Sergey",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian singer, dancer and actor",
+      "isnis": [
+        "000000037287376X"
+      ],
+      "life-span": {
+        "begin": "1981-04-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lazarev, Sergey",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergey Lazarev",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lazarev, Sergej Vjatsjeslavovitsj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sergej Vjatsjeslavovitsj Lazarev",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лазарев, Серге́й Вячеславович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Серге́й Вячеславович Лазарев",
+          "locale": "ru_RU",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "203f59b0-d89f-4fff-8f7e-2b0fbba570e4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sergey Cheremisinov",
+      "sort-name": "Cheremisinov, Sergey",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

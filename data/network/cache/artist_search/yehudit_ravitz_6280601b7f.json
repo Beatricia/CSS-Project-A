@@ -1,0 +1,470 @@
+{
+  "created": "2026-05-22T17:24:53.633Z",
+  "count": 49,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "10385cb9-e45f-4c18-b03e-190c94f5f305",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "יהודית רביץ",
+      "sort-name": "Ravitz, Yehudit",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d597aa00-6615-4bd4-9012-2c4035bd37c6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beersheba",
+        "sort-name": "Beersheba",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00073310211"
+      ],
+      "isnis": [
+        "0000000119727603"
+      ],
+      "life-span": {
+        "begin": "1956-12-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ravitz, Yehudit",
+          "name": "Yehudit Ravitz",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "06863171-6992-4878-94fb-230ffa5ebfe4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ziv Ravitz",
+      "sort-name": "Ravitz, Ziv",
+      "gender": "male",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d597aa00-6615-4bd4-9012-2c4035bd37c6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beersheba",
+        "sort-name": "Beersheba",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000115212661"
+      ],
+      "life-span": {
+        "begin": "1976",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "27141a33-8a4b-4f9a-a678-bc28ce8a06cb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Max Ravitz",
+      "sort-name": "Ravitz, Max",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "electronic musician",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ravitz, Maxwell",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Maxwell Ravitz",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c0f2f558-32cb-4450-a80a-6114f6e12ce8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jeff Ravitz",
+      "sort-name": "Ravitz, Jeff",
+      "gender": "male",
+      "disambiguation": "lighting designer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f4e5421c-2c52-426c-88ca-161ce7bda33d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Adam Ravitz",
+      "sort-name": "Ravitz, Adam",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f3cb469f-8652-45f0-b54e-ff1f40ecc6ef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "RONEN",
+      "sort-name": "RONEN",
+      "gender": "male",
+      "area": {
+        "id": "e96f1c0d-721b-470d-a9c4-0aa2d89cf9e7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dallas",
+        "sort-name": "Dallas",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ravitz, Ronen",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ronen Ravitz",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "emo rap"
+        }
+      ]
+    },
+    {
+      "id": "0ef3f425-9bd2-4216-9dd2-219d2fe90f1f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lenny Kravitz",
+      "sort-name": "Kravitz, Lenny",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Manhattan",
+        "sort-name": "Manhattan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00128948341"
+      ],
+      "isnis": [
+        "0000000110213788"
+      ],
+      "life-span": {
+        "begin": "1964-05-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kravitz, Leonard Albert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Leonard Albert Kravitz",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "L. Kravitz",
+          "name": "L. Kravitz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lenny Kravits",
+          "name": "Lenny Kravits",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lanny Kravitz",
+          "name": "Lanny Kravitz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lenny Krawitz",
+          "name": "Lenny Krawitz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kravitz, Lenny",
+          "name": "Kravitz, Lenny",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kravitz Lenny",
+          "name": "Kravitz Lenny",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 8,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": -1,
+          "name": "american"
+        },
+        {
+          "count": 4,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "funk"
+        },
+        {
+          "count": 1,
+          "name": "vegan"
+        },
+        {
+          "count": 3,
+          "name": "funk rock"
+        },
+        {
+          "count": 3,
+          "name": "soul"
+        },
+        {
+          "count": 2,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 2,
+          "name": "soft rock"
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        },
+        {
+          "count": -1,
+          "name": "funk-rock"
+        },
+        {
+          "count": 0,
+          "name": "neo-psychedelia"
+        },
+        {
+          "count": -1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 0,
+          "name": "pop soul"
+        },
+        {
+          "count": 0,
+          "name": "psychedelic soul"
+        }
+      ]
+    },
+    {
+      "id": "5ecbd1f3-46d7-4d4b-aedc-cb63753b77f0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "יהודית תמיר",
+      "sort-name": "Tamir, Yehudit",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00727285621"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "87887ca6-9459-4a00-b6f2-e816c4a99694",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "name": "יהודית יוסף",
+      "sort-name": "Yosef, Yehudit",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e2103536-ddfc-4594-8098-3b9ba4bdee88",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "יהודית לוי",
+      "sort-name": "Levi, Yehudit",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

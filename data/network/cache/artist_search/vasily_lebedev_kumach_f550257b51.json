@@ -1,0 +1,340 @@
+{
+  "created": "2026-05-22T17:05:23.308Z",
+  "count": 196,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "80e68520-5e3f-4bcb-847e-0337dd35f5e2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Василий Лебедев-Кумач",
+      "sort-name": "Lebedev-Kumach, Vasiliy",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00080871173"
+      ],
+      "isnis": [
+        "0000000109711536"
+      ],
+      "life-span": {
+        "begin": "1898-07-24",
+        "end": "1949-02-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Лебедев, Василий Иванович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Василий Иванович Лебедев",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лебедев-Кумач, Василий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Василий Лебедев-Кумач",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "40150e53-10d3-4a14-9b53-15bb790bb01a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vasily Kashnikov",
+      "sort-name": "Kashnikov, Vasily",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1985-08-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mushroomer",
+          "name": "Mushroomer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кашников, Василий",
+          "name": "Василий Кашников",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a56f9cf3-7487-43e4-856d-e5ab54b30f22",
+      "score": 86,
+      "name": "Vasily",
+      "sort-name": "Vasily",
+      "disambiguation": "ninety9lives",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d97b19cd-e3f5-48d5-bfc0-21c8ca9f3c58",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 82,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexey Lebedev",
+      "sort-name": "Lebedev, Alexey",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "life-span": {
+        "begin": "1980",
+        "ended": null
+      }
+    },
+    {
+      "id": "44876a00-c7b1-424e-a804-a245d6438982",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 82,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lebedev (RU)",
+      "sort-name": "Lebedev (RU)",
+      "gender": "male",
+      "begin-area": {
+        "id": "de29dec4-ed70-498a-881e-e3774a54091d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Donetsk",
+        "sort-name": "Donetsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "dance music",
+      "life-span": {
+        "begin": "1992-06-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lebedev, Maxim",
+          "name": "Maxim Lebedev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лебедев, Максим",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Максим Лебедев",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f22f805a-551f-4897-925f-c7dc88f642ae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 81,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vladimir Lebedev",
+      "sort-name": "Lebedev, Vladimir",
+      "gender": "male",
+      "disambiguation": "Saxophone Player",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lebedev Sax",
+          "name": "Lebedev Sax",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e9a485c2-1b1c-4b95-9f9f-c1ae82eccb7c",
+      "score": 81,
+      "name": "Maxim Lebedev",
+      "sort-name": "Lebedev, Maxim",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d6b92c71-dde0-495f-8648-911c0185173d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 81,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Evgeny Lebedev",
+      "sort-name": "Lebedev, Evgeny",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian trance music producer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5674953c-f7c2-47b1-bb7e-852e47c5f3be",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 81,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andrey Lebedev",
+      "sort-name": "Lebedev, Andrey",
+      "gender": "male",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "guitarist",
+      "life-span": {
+        "begin": "1991",
+        "ended": null
+      }
+    },
+    {
+      "id": "5bd6c0f9-247d-4209-bf1a-4c6997213ec2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 81,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonid Lebedev",
+      "sort-name": "Lebedev, Leonid",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian flutist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

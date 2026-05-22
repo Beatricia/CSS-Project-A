@@ -1,0 +1,296 @@
+{
+  "created": "2026-05-22T16:47:02.469Z",
+  "count": 51,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5d9db0d9-89dc-407f-80fc-4b638a99c4a9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Микола Віталійович Лисенко",
+      "sort-name": "Lysenko, Mykola",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian composer",
+      "isnis": [
+        "0000000110677363"
+      ],
+      "life-span": {
+        "begin": "1842-03-22",
+        "end": "1912-11-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Лисенко, Микола Віталійович",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Микола Віталійович Лисенко",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lysenko, Mykola",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mykola Lysenko",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лисенко, Микола",
+          "name": "Микола Лисенко",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лысенко, Николай Витальевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Николай Витальевич Лысенко",
+          "locale": "ru_RU",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0691c4c1-2157-4d30-bb88-4e1c951f8b32",
+      "score": 53,
+      "name": "Abel Lysenko",
+      "sort-name": "Lysenko Abel",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ebee6bd8-f8c1-4dc9-91b5-834363223727",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 53,
+      "name": "Lysenko Quartet",
+      "sort-name": "Lysenko Quartet",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "710bd1c6-b6e9-4e9c-9e0d-a34ed18f6169",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Rada Lysenko",
+      "sort-name": "Lysenko, Rada",
+      "gender": "female",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "life-span": {
+        "begin": "1921-07-10",
+        "end": "2021-01-11",
+        "ended": true
+      }
+    },
+    {
+      "id": "0098e0e8-a010-4e93-9ebd-d9fd697c2a51",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "name": "Dmitry Lysenko",
+      "sort-name": "Lysenko, Dmitry",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b5d97e3e-1cc2-41c4-bc71-ff90f0dd0395",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "name": "Ganna Lysenko",
+      "sort-name": "Lysenko, Ganna",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f59df0ce-544b-42f2-a79e-0020091d6b7a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anastazja Lysenko",
+      "sort-name": "Lysenko, Anastazja",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bd2adfaf-667a-427e-845d-0b4929796626",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Igor Lysenko",
+      "sort-name": "Lysenko, Igor",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b444250d-1933-40c7-96dd-47785b6781ce",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mykola Suk",
+      "sort-name": "Suk, Mykola",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "life-span": {
+        "begin": "1945-12-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Suk, Mukola",
+          "name": "Mukola Suk",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Сук, Микола Петрович",
+          "name": "Микола Петрович Сук",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8c433018-422d-472e-a301-db2c2e784243",
+      "score": 52,
+      "name": "Mykola Khvylovy",
+      "sort-name": "Mykola Khvylovy",
+      "end-area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "life-span": {
+        "begin": "1893-12-13",
+        "end": "1933-05-13",
+        "ended": true
+      }
+    }
+  ]
+}

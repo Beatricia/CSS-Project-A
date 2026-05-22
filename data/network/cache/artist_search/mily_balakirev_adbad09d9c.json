@@ -1,0 +1,461 @@
+{
+  "created": "2026-05-22T17:02:45.416Z",
+  "count": 3021,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "482dc0a4-0c39-40dc-9d6d-ca250a5ef833",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Милий Алексеевич Балакирев",
+      "sort-name": "Balakirev, Mily Alexeyevich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fa807dcd-dc30-4c25-bf58-d905dfc6ba9d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nizhny Novgorod",
+        "sort-name": "Nizhny Novgorod",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer, pianist, conductor",
+      "isnis": [
+        "000000011065759X"
+      ],
+      "life-span": {
+        "begin": "1837-01-02",
+        "end": "1910-05-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Balakirev, Mili",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mili Balakirev",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Balakirev, Mili",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mili Balakirev",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Balakirew",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Balakirew",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mily Balakriev",
+          "name": "Mily Balakriev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Balakirev, Mily Alexeyevich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mily Alexeyevich Balakirev",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Милий Алексеевич Бала́кирев",
+          "name": "Милий Алексеевич Бала́кирев",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Balakireff",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Balakireff",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Balakirev, Mily",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mily Balakirev",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        }
+      ]
+    },
+    {
+      "id": "316e226c-2336-44a0-aa2b-d191e6f85857",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mily Clément",
+      "sort-name": "Clément, Mily",
+      "gender": "male",
+      "country": "MG",
+      "area": {
+        "id": "f3a30678-3d23-3f42-8056-d32ebe58c66d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Madagascar",
+        "sort-name": "Madagascar",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f3a30678-3d23-3f42-8056-d32ebe58c66d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Madagascar",
+        "sort-name": "Madagascar",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Singer, songwriter",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b535b99c-3edb-4704-8a15-9295f5a232e8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "name": "Sek-Mily",
+      "sort-name": "Sek-Mily",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3dabdc12-eaf4-4712-ae0b-df6a19772231",
+      "score": 45,
+      "name": "Fionn Mily",
+      "sort-name": "Mily, Fionn",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b8274d85-7749-4d3f-be3d-23bc94cc33a2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tymon",
+      "sort-name": "Tymon",
+      "gender": "male",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Tymon Balakirev, Industrial hardcore artist from Australia",
+      "life-span": {
+        "begin": "1979-09-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Balakirev, Tymon",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Tymon Balakirev",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6f9f6e8a-4ab1-4cb7-aa43-0b93cf92d4ad",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Miły Atz",
+      "sort-name": "Miły Atz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "polish MC",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f5861194-101d-4ebe-b348-d4acc420047b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ay Em",
+      "sort-name": "Ay Em",
+      "gender": "male",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "West London singer/rapper",
+      "life-span": {
+        "begin": "1993-09-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mily, Ali",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ali Mily",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1db48b1f-7e08-484a-9d56-7cf8c5cb5e28",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Виктор Балакирев",
+      "sort-name": "Balakirev, Viktor",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0a54c2d1-3741-4a70-9403-2ab2fd02203e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Николай Балакирев",
+      "sort-name": "Balakirev, Nikolay",
+      "gender": "male",
+      "area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1961-04-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "9ada6fba-df61-4849-9f39-eec9be772b22",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 35,
+      "name": "The Kelly Family",
+      "sort-name": "Kelly Family, The",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6e366819-db90-4137-aaaa-06182fb938c6",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Talavera de la Reina",
+        "sort-name": "Talavera de la Reina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00265383352"
+      ],
+      "isnis": [
+        "0000000115396413"
+      ],
+      "life-span": {
+        "begin": "1974",
+        "end": "2008",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kelfam",
+          "name": "Kelfam",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kelly Family",
+          "name": "Kelly Family",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "celtic"
+        },
+        {
+          "count": 1,
+          "name": "folk pop"
+        },
+        {
+          "count": 1,
+          "name": "christmas music"
+        },
+        {
+          "count": 1,
+          "name": "aln-sh"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "created": "2026-05-22T17:32:36.808Z",
+  "count": 4170,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "20d1949e-ee90-44ed-a26a-05a4d441bbaa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "שם טוב לוי",
+      "sort-name": "Levi, Shem Tov",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a0bb6d21-173e-4fa8-b0a3-f6ac00470973",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rehovot",
+        "sort-name": "Rehovot",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00080671673"
+      ],
+      "isnis": [
+        "0000000117273580"
+      ],
+      "life-span": {
+        "begin": "1950-02-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "שם-טוב לוי",
+          "name": "שם-טוב לוי",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Levi, Shem-Tov",
+          "name": "Shem-Tov Levi",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "473aeb54-8df4-4f40-aa50-9eedbb71652f",
+      "score": 44,
+      "name": "Shem Levi",
+      "sort-name": "Shem Levi",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "41f8b786-c233-4409-bc7c-97ed317931c5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "רן שם טוב",
+      "sort-name": "Shem-Tov, Ran",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9c9a6426-3cb1-4811-87d1-effd38e43d78",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Petah Tikva",
+        "sort-name": "Petah Tikva",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00251274683"
+      ],
+      "life-span": {
+        "begin": "1965-10-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Shem-Tov, Ran",
+          "name": "Ran Shem-Tov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ab80ba0d-dc99-4599-b2ca-3c848888162d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Baal Shem Tov",
+      "sort-name": "Baal Shem Tov",
+      "gender": "male",
+      "isnis": [
+        "0000000116599183"
+      ],
+      "life-span": {
+        "begin": "1698-08-27",
+        "end": "1760-05-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "בעל שם טוב",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "בעל שם טוב",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3d3739a9-2aa2-4256-8d81-25c9b5ed3c34",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yitzchak Shem Tov",
+      "sort-name": "Shem Tov, Yitzchak",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c6aebb7f-c5cc-41d9-b2fe-3fda76299408",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יובל שם־טוב",
+      "sort-name": "Shem‐tov, Yuval",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli singer",
+      "life-span": {
+        "begin": "1972-07-23",
+        "ended": null
+      }
+    },
+    {
+      "id": "8ea529d9-54e1-4586-9890-75f7a83acfe4",
+      "type": "Character",
+      "type-id": "5c1375b0-f18d-3db7-a164-a49d7a63773f",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "שם טוב האבי",
+      "sort-name": "Shem Tov Heavy",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "406035c6-1c37-43cf-aeef-73e8d9463ed6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יוסף שם טוב",
+      "sort-name": "Shem Tov, Yosef",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "576ff1d1-e985-4bce-a451-d91849ca864c",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Baghdād",
+        "sort-name": "Baghdād",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "oud player",
+      "life-span": {
+        "begin": "1922",
+        "end": "2007-04-01",
+        "ended": true
+      }
+    },
+    {
+      "id": "bc613719-9599-4845-8337-9ebe695bcb7f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "tov",
+      "sort-name": "tov",
+      "gender": "male",
+      "area": {
+        "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Seattle",
+        "sort-name": "Seattle",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "aka Benjamin Marx",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ec5b7ab0-3296-43fa-b44d-2fdb68a973c0",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 36,
+      "name": "Shem",
+      "sort-name": "Shem",
+      "area": {
+        "id": "8fe055d7-2c10-48a5-929a-1d1c50b648c1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stuttgart",
+        "sort-name": "Stuttgart",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German psychedelic band",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "improvisational"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "atmospheric"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "jam rock"
+        },
+        {
+          "count": 1,
+          "name": "krautrock"
+        },
+        {
+          "count": 1,
+          "name": "neo-kraut"
+        },
+        {
+          "count": 1,
+          "name": "neo-krautrock"
+        },
+        {
+          "count": 1,
+          "name": "neo-psychedelia"
+        },
+        {
+          "count": 1,
+          "name": "noise rock"
+        },
+        {
+          "count": 1,
+          "name": "psych rock"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 1,
+          "name": "space rock"
+        }
+      ]
+    }
+  ]
+}

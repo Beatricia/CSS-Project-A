@@ -1,0 +1,42 @@
+{
+  "created": "2026-05-22T16:57:03.277Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a7ee0f9b-8527-417f-9082-abb10574ae0a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Alloise",
+      "sort-name": "Alloise",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "25d317cc-c847-4c40-a1b2-cea4c72b8918",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Poltava",
+        "sort-name": "Poltava",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1984-10-19",
+        "ended": null
+      }
+    }
+  ]
+}

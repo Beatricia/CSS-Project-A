@@ -1,0 +1,150 @@
+{
+  "created": "2026-05-22T17:26:48.350Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "69ad9524-ef85-4c7c-a8ea-b85a86f61183",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "אדרת",
+      "sort-name": "Aderet",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00281543564"
+      ],
+      "life-span": {
+        "begin": "1975",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Aderet",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aderet",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "הדר בביוף",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "הדר בביוף",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "dd9c6079-6616-45f1-a50a-3bfca540405f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Gloria Adereti",
+      "sort-name": "Adereti, Gloria",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "dubstep"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "deep house"
+        },
+        {
+          "count": 1,
+          "name": "breakbeat"
+        },
+        {
+          "count": 1,
+          "name": "disco"
+        },
+        {
+          "count": 1,
+          "name": "breaks"
+        },
+        {
+          "count": 1,
+          "name": "tech house"
+        },
+        {
+          "count": 1,
+          "name": "dj tools"
+        }
+      ]
+    },
+    {
+      "id": "9e95f70e-7ee1-40c4-a0dc-5eec0e351c02",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Bea Benaderet",
+      "sort-name": "Benaderet, Bea",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1906-04-04",
+        "end": "1968-10-13",
+        "ended": true
+      }
+    }
+  ]
+}

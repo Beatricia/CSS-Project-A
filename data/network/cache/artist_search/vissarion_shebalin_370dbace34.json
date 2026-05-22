@@ -1,0 +1,242 @@
+{
+  "created": "2026-05-22T17:08:05.933Z",
+  "count": 4,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a4966aba-9075-466e-94c7-2470f6cdd9d0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Виссарион Шебалин",
+      "sort-name": "Shebalin, Vissarion",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "071830ed-b7ba-4c03-a805-c2d97dce6603",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Omsk",
+        "sort-name": "Omsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer, XX c.",
+      "isnis": [
+        "0000000108870551"
+      ],
+      "life-span": {
+        "begin": "1902-06-11",
+        "end": "1963-05-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Shebalin, Vissarion Yakovlevich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vissarion Yakovlevich Shebalin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shebalin, Vissarion",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vissarion Shebalin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chebaline, Vissarion",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vissarion Chebaline",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шебалин, Виссарион",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Виссарион Шебалин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шебалин, Виссарион Яковлевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Виссарион Яковлевич Шебалин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        }
+      ]
+    },
+    {
+      "id": "87161eca-52ca-4f71-9b5e-6ce7c2965c22",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dmitri Shebalin",
+      "sort-name": "Shebalin, Dmitri",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1930",
+        "end": "2013",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Shebalin, Dmitry",
+          "name": "Dmitry Shebalin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "violist"
+        },
+        {
+          "count": 1,
+          "name": "russian violist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "2f3939ff-46bd-4494-ba58-9761a00e9854",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vissarion Solovyev",
+      "sort-name": "Solovyev, Vissarion",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "835254cb-e7ee-43ed-a751-c96ba5543f36",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Иосиф Виссарионович Сталин",
+      "sort-name": "Stalin, Joseph Vissarionovich",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "944bd405-ba73-4bec-979c-f1f5aa000827",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gori",
+        "sort-name": "Gori",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121457825"
+      ],
+      "life-span": {
+        "begin": "1878-12-18",
+        "end": "1953-03-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Stalin, Joseph",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Joseph Stalin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

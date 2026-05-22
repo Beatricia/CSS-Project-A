@@ -1,0 +1,834 @@
+{
+  "created": "2026-05-22T17:22:43.091Z",
+  "count": 2229,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "015c8b7d-015b-4603-9792-18bb440178ac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Saint Levant",
+      "sort-name": "Saint Levant",
+      "gender": "male",
+      "area": {
+        "id": "ae0110b6-13d4-4998-9116-5b926287aa23",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "California",
+        "sort-name": "California",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4b141312-e0d7-49ef-add8-a28584fdfd48",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Palestinian/French/Algerian/Serbian musician",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Abdelhamid, Marwan",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Marwan Abdelhamid",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        }
+      ]
+    },
+    {
+      "id": "4137c070-15b2-4d00-a9f0-3517d02a9ba8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Camille Saint‐Saëns",
+      "sort-name": "Saint‐Saëns, Camille",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "cff017bc-6ebc-4938-b8f8-8ad26b8525a0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Algiers",
+        "sort-name": "Algiers",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00027252009"
+      ],
+      "isnis": [
+        "0000000121195968"
+      ],
+      "life-span": {
+        "begin": "1835-10-09",
+        "end": "1921-12-16",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sain‐Saëns",
+          "name": "Sain‐Saëns",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Camille Saint",
+          "name": "Camille Saint",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Saens, Camille (1835–1921)",
+          "name": "Camille Saint‐Saens (1835–1921)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint Saens",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Saint Saens",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "サンサーンス",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "サン゠サーンス",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Saens, C.",
+          "name": "C. Saint‐Saens",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Sakns, C.",
+          "name": "C. Saint‐Sakns",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Saens, Camile",
+          "name": "Camile Saint‐Saens",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Saens, Camille",
+          "name": "Camille Saint‐Saens",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Sanns, Camille",
+          "name": "Camille Saint‐Sanns",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saints‐Saens, Camille",
+          "name": "Camille Saints‐Saens",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "St‐Saëns, Camille",
+          "name": "Camille St‐Saëns",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Saëns, Camillle",
+          "name": "Camillle Saint‐Saëns",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Saëns, Cammille",
+          "name": "Cammille Saint‐Saëns",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Saëns, Charles Camillle",
+          "name": "Charles Camille Saint‐Saëns",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint Saens, Camille",
+          "name": "Camille Saint Saens",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint-Saens, Camille",
+          "name": "Camille Saint‐Saens",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Seans",
+          "name": "Saint‐Seans",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint Saens, Camille",
+          "name": "Camille Saint Saens",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Saëns",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Saint‐Saëns",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Saens",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Saint‐Saens",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint‐Saëns, Charles-Camille",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Charles-Camille Saint‐Saëns",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1835-10-09",
+          "end-date": "1921-12-16"
+        },
+        {
+          "sort-name": "Sensānss, Kamils",
+          "name": "Kamils Sensānss",
+          "locale": "lv",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "french composer"
+        },
+        {
+          "count": 4,
+          "name": "french"
+        },
+        {
+          "count": 3,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "european"
+        },
+        {
+          "count": 0,
+          "name": "anthony newman"
+        },
+        {
+          "count": 0,
+          "name": "loren maazel"
+        },
+        {
+          "count": 0,
+          "name": "pittsburgh symphony orchestra"
+        },
+        {
+          "count": 0,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "james levine"
+        },
+        {
+          "count": 2,
+          "name": "romantic classical"
+        },
+        {
+          "count": 5,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "c1b43a41-0f31-4167-9d2d-cd6d25165650",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "name": "LeVant",
+      "sort-name": "LeVant",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fa8a94a0-c0df-4636-be6f-697124b1f6e5",
+      "score": 48,
+      "name": "LeVant",
+      "sort-name": "LeVant",
+      "disambiguation": "dark ambient",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4f3c809c-2822-4f34-a329-f04c1c97da5c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Levant",
+      "sort-name": "Levant",
+      "gender": "male",
+      "country": "DK",
+      "area": {
+        "id": "4757b525-2a60-324a-b060-578765d2c993",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Denmark",
+        "sort-name": "Denmark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Danish rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3997d4a6-c2bd-4191-8406-eb07f0abb5d2",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Saint Etienne",
+      "sort-name": "Saint Etienne",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "77bd9218-74c6-4881-9495-457be4ba62e7",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Croydon",
+        "sort-name": "Croydon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114991077"
+      ],
+      "life-span": {
+        "begin": "1990",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "St. Entienne",
+          "name": "St. Entienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "St. Ettiene",
+          "name": "St. Ettiene",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint Ettienne",
+          "name": "Saint Ettienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "St. Etienne",
+          "name": "St. Etienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "St. Ettienne",
+          "name": "St. Ettienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint-Etienne",
+          "name": "Saint-Etienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint Ettiene",
+          "name": "Saint Ettiene",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "St.etienne",
+          "name": "St.etienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint Étienne",
+          "name": "Saint Étienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "St Etienne",
+          "name": "St Etienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 2,
+          "name": "synthpop"
+        },
+        {
+          "count": 0,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": -1,
+          "name": "london"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 2,
+          "name": "indie pop"
+        },
+        {
+          "count": 2,
+          "name": "dance-pop"
+        },
+        {
+          "count": 2,
+          "name": "dream pop"
+        },
+        {
+          "count": 3,
+          "name": "alternative dance"
+        },
+        {
+          "count": 1,
+          "name": "indie dance"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": -1,
+          "name": "england"
+        },
+        {
+          "count": 2,
+          "name": "indietronica"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        }
+      ]
+    },
+    {
+      "id": "51b826eb-0791-43bb-8d02-a6433ba96ca9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oscar Levant",
+      "sort-name": "Levant, Oscar",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "787abc26-28ce-44f8-a2d1-82d86b5d28a8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Pittsburgh",
+        "sort-name": "Pittsburgh",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "73d8cbdd-3149-4cb6-a36d-1ef2036a8b88",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beverly Hills",
+        "sort-name": "Beverly Hills",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00017947071"
+      ],
+      "isnis": [
+        "0000000066373492"
+      ],
+      "life-span": {
+        "begin": "1906-12-27",
+        "end": "1972-08-14",
+        "ended": true
+      }
+    },
+    {
+      "id": "ccd1e18b-acfb-4634-a23c-a92fe37cd754",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Gayle Levant",
+      "sort-name": "Levant, Gayle",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American studio musician, harpist",
+      "ipis": [
+        "00421710304",
+        "00421710402",
+        "00421710500"
+      ],
+      "isnis": [
+        "0000000406842292",
+        "0000000420514252"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gail Levant",
+          "name": "Gail Levant",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richards, Gayle Levant",
+          "name": "Gayle Levant Richards",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richards, Gayle",
+          "name": "Gayle Richards",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "harpist"
+        },
+        {
+          "count": 1,
+          "name": "studio musician"
+        }
+      ]
+    },
+    {
+      "id": "391d85ad-2130-4732-8145-853908013354",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 42,
+      "name": "Saint",
+      "sort-name": "Saint",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f46cc7c2-05e7-4af6-89e9-8225af163394",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salem",
+        "sort-name": "Salem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US Christian heavy metal band from Salem, OR",
+      "life-span": {
+        "begin": "1984",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "christian"
+        },
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 2,
+          "name": "heavy metal"
+        },
+        {
+          "count": 2,
+          "name": "christian metal"
+        },
+        {
+          "count": 1,
+          "name": "christian rock"
+        }
+      ]
+    },
+    {
+      "id": "0719c0d8-7192-4322-80aa-1ebadcf7b853",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "name": "Steve Levant",
+      "sort-name": "Steve Levant",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

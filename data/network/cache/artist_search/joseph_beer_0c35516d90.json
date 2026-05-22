@@ -1,0 +1,1001 @@
+{
+  "created": "2026-05-22T17:01:28.170Z",
+  "count": 5728,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c130b0fb-5dce-449d-9f40-1437f889f7fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joseph Haydn",
+      "sort-name": "Haydn, Joseph",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cca887f7-eb85-4bf4-9e7d-8faea705082c",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Rohrau",
+        "sort-name": "Rohrau",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00451594840"
+      ],
+      "isnis": [
+        "0000000121441049"
+      ],
+      "life-span": {
+        "begin": "1732-03-31",
+        "end": "1809-05-31",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Йозеф Гайдн",
+          "name": "Йозеф Гайдн",
+          "locale": "ru",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Haydn (Attributed to Leopold Hoffman)",
+          "name": "Joseph Haydn (Attributed to Leopold Hoffman)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Haydon",
+          "name": "Joseph Haydon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ハイドン",
+          "name": "ハイドン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, F. J.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "F. J. Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Josef",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Franz Josef Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Hayden",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph Hayden",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J. Haydn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J. Haydn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haynd",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Haynd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Franz Haydn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Franz Haydn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Josepf",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Franz Josepf Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, F J",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Haydn, F J",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Hadyn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph Hadyn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Joseph (1732-1809 )",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Haydn, Franz Joseph (1732-1809 )",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn Franz-Joseph",
+          "name": "Franz-Joseph Haydn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "フランツ・ヨーゼフ・ハイドン",
+          "name": "フランツ・ヨーゼフ・ハイドン",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Joseph",
+          "name": "Haydn, Joseph",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hayd",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hayd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Franz Joseph Haydn",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "하이든",
+          "name": "하이든",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 9,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 5,
+          "name": "austrian"
+        },
+        {
+          "count": 5,
+          "name": "composer"
+        },
+        {
+          "count": 3,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "classical music"
+        },
+        {
+          "count": 2,
+          "name": "symphony"
+        },
+        {
+          "count": -1,
+          "name": "grieg"
+        },
+        {
+          "count": 1,
+          "name": "mass"
+        },
+        {
+          "count": 1,
+          "name": "concerto"
+        },
+        {
+          "count": 4,
+          "name": "classical period"
+        },
+        {
+          "count": 0,
+          "name": "sonata"
+        },
+        {
+          "count": 2,
+          "name": "schöpfung"
+        },
+        {
+          "count": 1,
+          "name": "austrian composer"
+        },
+        {
+          "count": -2,
+          "name": "bernstein"
+        },
+        {
+          "count": 2,
+          "name": "150 cd"
+        },
+        {
+          "count": 0,
+          "name": "haydn: seven last words"
+        }
+      ]
+    },
+    {
+      "id": "70248960-cb53-4ea4-943a-edb18f7d336f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bruce Springsteen",
+      "sort-name": "Springsteen, Bruce",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bb0af2e9-6ae0-4c4f-b729-c8d6444d6380",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Long Branch",
+        "sort-name": "Long Branch",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00076333277"
+      ],
+      "isnis": [
+        "0000000121418834"
+      ],
+      "life-span": {
+        "begin": "1949-09-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ブルース・スプリングスティーン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ブルース・スプリングスティーン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Boss, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Boss",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Springsteen, Bruce",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bruce Springsteen",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bruce Springteen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Bruce Springteen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Springsteen, Bruce Frederick Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Bruce Frederick Joseph Springsteen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1949-09-23",
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 17,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "folk"
+        },
+        {
+          "count": 0,
+          "name": "cotm"
+        },
+        {
+          "count": 3,
+          "name": "american"
+        },
+        {
+          "count": 6,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 2,
+          "name": "usa"
+        },
+        {
+          "count": 0,
+          "name": "folk rock"
+        },
+        {
+          "count": 7,
+          "name": "americana"
+        },
+        {
+          "count": 0,
+          "name": "américain"
+        },
+        {
+          "count": 0,
+          "name": "classic rock"
+        },
+        {
+          "count": 0,
+          "name": "soft rock"
+        },
+        {
+          "count": 3,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 2,
+          "name": "rock and roll"
+        },
+        {
+          "count": 12,
+          "name": "heartland rock"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 2,
+          "name": "aor"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 0,
+          "name": "alternative folk"
+        },
+        {
+          "count": 1,
+          "name": "grammy winner"
+        },
+        {
+          "count": 1,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        },
+        {
+          "count": 0,
+          "name": "englisch"
+        },
+        {
+          "count": 1,
+          "name": "swinger-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "messiah of rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "big music"
+        },
+        {
+          "count": 1,
+          "name": "estados unidos"
+        },
+        {
+          "count": 1,
+          "name": "vyrzukhisuc-artiest"
+        }
+      ]
+    },
+    {
+      "id": "749ef494-8518-4b49-b685-63d8e728d25c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Madison Beer",
+      "sort-name": "Beer, Madison",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3d1aad97-ab44-4494-a0d5-2a2a66ffdc0b",
+        "type": "County",
+        "type-id": "bcecec27-8bdb-3e00-8254-d948dda502fa",
+        "name": "Nassau County",
+        "sort-name": "Nassau County",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American singer",
+      "ipis": [
+        "00864339312"
+      ],
+      "isnis": [
+        "0000000502647438"
+      ],
+      "life-span": {
+        "begin": "1999-03-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Beer, Madison Elle",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Madison Elle Beer",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 2,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative pop"
+        },
+        {
+          "count": 1,
+          "name": "2020s"
+        },
+        {
+          "count": 1,
+          "name": "gen z"
+        }
+      ]
+    },
+    {
+      "id": "fa6750b7-d280-4a5c-908a-ec6df862def8",
+      "score": 83,
+      "name": "Beer Beer",
+      "sort-name": "Beer Beer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "69264dbd-1096-4a58-82c9-668e2f33a4d5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joseph Campbell",
+      "sort-name": "Campbell, Joseph",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "88ef07c5-a926-4ea6-a601-8e224a6763c0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "White Plains",
+        "sort-name": "White Plains",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "a1411661-be21-4290-8dc1-50f3d8e3ea67",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Honolulu",
+        "sort-name": "Honolulu",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American mythologist",
+      "isnis": [
+        "0000000080884272"
+      ],
+      "life-span": {
+        "begin": "1904-03-26",
+        "end": "1987-10-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Campbell, Joe",
+          "name": "Joe Campbell",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Campbell, Joseph John",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Joseph John Campbell",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "mythologist"
+        },
+        {
+          "count": 1,
+          "name": "professor"
+        },
+        {
+          "count": 1,
+          "name": "myth"
+        }
+      ]
+    },
+    {
+      "id": "bec3a2ee-ec38-4e5f-9139-01442e3ac21c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 82,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joseph Saba",
+      "sort-name": "Saba, Joseph",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7a8da20d-4d2e-4882-b020-37d61761c2e5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wilkes-Barre",
+        "sort-name": "Wilkes-Barre",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "production music composer",
+      "isnis": [
+        "0000000078541086"
+      ],
+      "life-span": {
+        "begin": "1971-01-18",
+        "ended": null
+      }
+    },
+    {
+      "id": "9cb98fad-aa25-4fe1-a402-f02a1228e581",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 82,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Daniela Larcher",
+      "sort-name": "Larcher, Daniela",
+      "gender": "female",
+      "begin-area": {
+        "id": "e6adeb53-aabc-4dcf-b346-9d2391d37d9b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bregenz",
+        "sort-name": "Bregenz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1977-04-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Beer, Alex",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alex Beer",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c487d4d5-77ee-47d6-95de-5260c97724d7",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 81,
+      "name": "B.E.E.R.",
+      "sort-name": "Thrash Metal from California",
+      "area": {
+        "id": "7b968db5-0d9a-4221-83e7-2452b95da9ab",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ensenada",
+        "sort-name": "Ensenada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7b968db5-0d9a-4221-83e7-2452b95da9ab",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ensenada",
+        "sort-name": "Ensenada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Thrash Metal from California",
+      "life-span": {
+        "begin": "2010",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "thrash metal"
+        }
+      ]
+    },
+    {
+      "id": "79eaa8f6-b9eb-4316-8c44-250de2c0a5ac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 80,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joseph LoDuca",
+      "sort-name": "LoDuca, Joseph",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Detroit",
+        "sort-name": "Detroit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American score composer",
+      "ipis": [
+        "00121123835"
+      ],
+      "isnis": [
+        "0000000108802452"
+      ],
+      "life-span": {
+        "begin": "1958",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Joseph DoLuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph DoLuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph DeLuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph DeLuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joe LoDuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joe LoDuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "LoDuca, Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Joseph LoDuca",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1958",
+          "end-date": null
+        },
+        {
+          "sort-name": "LoDuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "LoDuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jose LoDuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jose LoDuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Lo Duca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph Lo Duca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Josef LoDuca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Josef LoDuca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph LoDucca",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph LoDucca",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "cinematic classical"
+        }
+      ]
+    },
+    {
+      "id": "2ecad739-5b74-43db-b573-bea511b52cb4",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 79,
+      "name": "Beer",
+      "sort-name": "Beer",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "garage rock"
+        }
+      ]
+    }
+  ]
+}

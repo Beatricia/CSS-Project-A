@@ -1,0 +1,67 @@
+{
+  "created": "2026-05-22T16:59:22.640Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c10e6aa5-afd0-464a-95b9-8022c050cb31",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "SadSvit",
+      "sort-name": "SadSvit",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000507027895"
+      ],
+      "life-span": {
+        "begin": "2004-05-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Богдан Розвадовський",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Богдан Розвадовський",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 5,
+          "name": "post-punk"
+        },
+        {
+          "count": 3,
+          "name": "indie"
+        }
+      ]
+    }
+  ]
+}

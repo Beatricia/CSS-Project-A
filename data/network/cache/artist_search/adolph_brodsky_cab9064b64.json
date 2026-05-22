@@ -1,0 +1,556 @@
+{
+  "created": "2026-05-22T17:13:47.347Z",
+  "count": 226,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b0308f2f-9760-44fa-ac80-489da7cb04d1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Адольф Бродский",
+      "sort-name": "Brodsky, Adolph",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "09edef28-cda4-45c5-9dba-91eb500cfb70",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Taganrog",
+        "sort-name": "Taganrog",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "852531bf-3410-401f-b432-9c3157a386b9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Manchester",
+        "sort-name": "Manchester",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian violinist",
+      "isnis": [
+        "0000000055136491"
+      ],
+      "life-span": {
+        "begin": "1851-04-02",
+        "end": "1929-01-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Бродский, Адольф Давидович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Адольф Давидович Бродский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бродский, Адольф",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Адольф Бродский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brodsky, Adolph",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Adolph Brodsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brodsky, Adolph Davidovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Adolph Davidovich Brodsky",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brodsky, Adolph",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Adolph Brodsky",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "violinist"
+        },
+        {
+          "count": 1,
+          "name": "russian violinist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "teacher"
+        }
+      ]
+    },
+    {
+      "id": "655a8d6f-0a29-43f6-8843-7b4b400db20f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 55,
+      "name": "Brodsky Quartet",
+      "sort-name": "Brodsky Quartet",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dfb35ed0-820a-4b65-8610-cbcf7d89ca9a",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Middlesbrough",
+        "sort-name": "Middlesbrough",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000110159320"
+      ],
+      "life-span": {
+        "begin": "1972",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "The Brodsky Quartet",
+          "name": "The Brodsky Quartet",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "string quartet"
+        },
+        {
+          "count": 1,
+          "name": "british string quartet"
+        },
+        {
+          "count": 1,
+          "name": "chamber music"
+        }
+      ]
+    },
+    {
+      "id": "cb5eb70a-492b-4eaa-a436-c57d90e73c38",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "name": "Brodsky",
+      "sort-name": "Brodsky",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a0ff602c-7f3e-472d-8786-953da6cd7591",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stephen Brodsky",
+      "sort-name": "Brodsky, Stephen",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boston",
+        "sort-name": "Boston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00348840830"
+      ],
+      "isnis": [
+        "0000000043878957"
+      ],
+      "life-span": {
+        "begin": "1979-04-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Brodsky, S",
+          "name": "S Brodsky",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brodsky, Stephen Michael",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Stephen Michael Brodsky",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bredsky, Stove",
+          "name": "Stove Bredsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Steve Brodsky",
+          "name": "Steve Brodsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        }
+      ]
+    },
+    {
+      "id": "07b509b2-24e4-45fa-b7c1-3e0271cc76b6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Chuck Brodsky",
+      "sort-name": "Brodsky, Chuck",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Philadelphia",
+        "sort-name": "Philadelphia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000045401589"
+      ],
+      "life-span": {
+        "begin": "1960-05-20",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        }
+      ]
+    },
+    {
+      "id": "c2a3945a-6b41-496f-8072-7efe10a5c561",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Adolph Deutsch",
+      "sort-name": "Deutsch, Adolph",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c5293e2f-3756-4e4d-aa61-a67879d70c61",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Palm Desert",
+        "sort-name": "Palm Desert",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000109178145"
+      ],
+      "life-span": {
+        "begin": "1897-10-20",
+        "end": "1980-01-01",
+        "ended": true
+      }
+    },
+    {
+      "id": "e4138339-7684-4b1e-9ca0-d1525c1bb35b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Adam Brodsky",
+      "sort-name": "Brodsky, Adam",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "85989e5d-727d-4f04-81f1-4b3e949f034d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Henry Adolph",
+      "sort-name": "Adolph, Henry",
+      "gender": "male",
+      "disambiguation": "fictitious conductor, Alfred Scholz pseudonym",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Adolf, Henry",
+          "name": "Henry Adolf",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 0,
+          "name": "fake artist"
+        }
+      ]
+    },
+    {
+      "id": "ddfe8783-4729-4e99-b27e-1a8b3f407ec3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Emilyn Brodsky",
+      "sort-name": "Brodsky, Emilyn",
+      "gender": "female",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "449222bf-de48-4197-b2c2-a7c889619c58",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Adolph Kurt Böhm",
+      "sort-name": "Böhm, Adolph Kurt",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "df9e4fad-c869-4328-9dad-9bea310be843",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Murnau am Staffelsee",
+        "sort-name": "Murnau am Staffelsee",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German pianist and composer",
+      "isnis": [
+        "0000000015559035"
+      ],
+      "life-span": {
+        "begin": "1926-06-27",
+        "end": "2020-02-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Böhm, Adolph",
+          "name": "Adolph Böhm",
+          "locale": "de",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Böhm, Mutz",
+          "name": "Mutz Böhm",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bohm, Adolphe",
+          "name": "Adolphe Bohm",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Böhm, Adolphe",
+          "name": "Adolphe Böhm",
+          "locale": "fr",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    }
+  ]
+}

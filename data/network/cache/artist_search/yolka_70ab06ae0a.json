@@ -1,0 +1,81 @@
+{
+  "created": "2026-05-22T16:51:01.036Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b8df5180-ff51-4a36-abcb-80d2ed027b99",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ёлка",
+      "sort-name": "Elka",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9a342633-8e6b-43aa-b7a4-0a0dcebcf874",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Uzhhorod",
+        "sort-name": "Uzhhorod",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1982-07-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Elka",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Elka",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Елка",
+          "name": "Елка",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jolka",
+          "name": "Jolka",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yolka",
+          "name": "Yolka",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "created": "2026-05-22T17:13:48.698Z",
+  "count": 130,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "de2f6b7a-9d08-4a16-88c1-68c141e0b0c6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Вячеслав Бутусов",
+      "sort-name": "Butusov, Vyacheslav",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "28e0abb1-6e1b-4291-ba60-bce4633f3f36",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Krasnoyarskiy kray",
+        "sort-name": "Krasnoyarskiy kray",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000027896039"
+      ],
+      "life-span": {
+        "begin": "1961-10-15",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Butusov Jupiter",
+          "name": "Butusov Jupiter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бутусов \"Юпитер\"",
+          "name": "Бутусов \"Юпитер\"",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бутусов, Вячеслав Геннадьевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Вячеслав Геннадьевич Бутусов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бутусов, Вячеслав",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Вячеслав Бутусов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Butusov, Vyacheslav",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vyacheslav Butusov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Áóòóñîâ ÞÏèòåð",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Áóòóñîâ ÞÏèòåð",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "b9a0951a-52d5-42cb-b861-3de1eaee73cb",
+      "score": 43,
+      "name": "Vyacheslav Sketch",
+      "sort-name": "Sketch, Vyacheslav",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1ce79e06-ae85-4b3c-a386-dec06c3e12d1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vyacheslav Gryaznov",
+      "sort-name": "Gryaznov, Vyacheslav",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f27fe2b0-3ccf-4c61-a9be-627a9dc4ce95",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Yuzhno-Sakhalinsk",
+        "sort-name": "Yuzhno-Sakhalinsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian pianist",
+      "isnis": [
+        "0000000451229884"
+      ],
+      "life-span": {
+        "begin": "1982-01-15",
+        "ended": null
+      }
+    },
+    {
+      "id": "d7b83427-31f2-4dda-b6e8-a33036e37392",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vyacheslav Kruglov",
+      "sort-name": "Kruglov, Vyacheslav",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1945",
+        "ended": null
+      }
+    },
+    {
+      "id": "835671cd-43bf-4126-a65f-112d0b221671",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vyacheslav Novikov",
+      "sort-name": "Novikov, Vyacheslav",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1947",
+        "ended": null
+      }
+    },
+    {
+      "id": "5580f781-2e5c-41fd-a237-61cf08b9b3eb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "name": "Vyacheslav Skadorva",
+      "sort-name": "Vyacheslav Skadorva",
+      "disambiguation": "Wargaming composer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f86a0e4b-f307-4270-a4e5-b26aaceceae4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vyacheslav Korobko",
+      "sort-name": "Vyacheslav Korobko",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "75ca98b7-c162-4ad5-9d7d-f3c13f3503cd",
+      "score": 42,
+      "name": "Vyacheslav Vasil'ev",
+      "sort-name": "Vasil'ev, Vyacheslav",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b76575f8-7c78-4354-b77d-37f53f4b3893",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "name": "Vyacheslav Voinarovsky",
+      "sort-name": "Voinarovsky, Vyacheslav",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1b18b864-799a-4e7a-8163-67719f79dd14",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "name": "Vyacheslav Zhirov",
+      "sort-name": "Zhirov, Vyacheslav",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

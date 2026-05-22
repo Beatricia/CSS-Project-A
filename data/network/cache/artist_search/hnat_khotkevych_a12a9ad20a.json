@@ -1,0 +1,394 @@
+{
+  "created": "2026-05-22T16:50:27.277Z",
+  "count": 116,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "3f410987-202e-4ade-9ed4-4314f31f6103",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zdeněk Hnát",
+      "sort-name": "Hnát, Zdeněk",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bed02f72-e8b0-4af3-8bad-54d018c152b7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Liberec",
+        "sort-name": "Liberec",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078752641"
+      ],
+      "life-span": {
+        "begin": "1935-10-25",
+        "ended": null
+      }
+    },
+    {
+      "id": "11b75b19-1265-4ee6-85a3-b68a7dfa9b9b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Johnathan Blake",
+      "sort-name": "Blake, Johnathan",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Philadelphia",
+        "sort-name": "Philadelphia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000002167374"
+      ],
+      "life-span": {
+        "begin": "1976-06-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Blake, Jonathan",
+          "name": "Jonathan Blake",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "post-bop"
+        }
+      ]
+    },
+    {
+      "id": "16f76842-732b-4bdd-9667-59b11b3ffba9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Johnathan McClain",
+      "sort-name": "McClain, Johnathan",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6f98f918-3e19-4cb6-9d88-b56909af47ae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 64,
+      "name": "David Hnatiuk",
+      "sort-name": "Hnatiuk, David",
+      "disambiguation": "Production music composer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a68a1001-8a09-4d8c-8083-289885825200",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 64,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Johnathan Rice",
+      "sort-name": "Rice, Johnathan",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "505da2f1-075d-4bcc-9f87-5908795ffe1f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Alexandria",
+        "sort-name": "Alexandria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Jenny and Johnny",
+      "ipis": [
+        "00402861189"
+      ],
+      "isnis": [
+        "0000000036767124"
+      ],
+      "life-span": {
+        "begin": "1983-05-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Jonathan Rice",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jonathan Rice",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rice, Johnathan",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johnathan Rice",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rice, Johnathan A.",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Johnathan A. Rice",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johnny",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johnny",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e893158d-39e4-4812-b66c-a9994ddaa89a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 62,
+      "name": "Brulvahnatu",
+      "sort-name": "Brulvahnatu",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0197a505-d351-475f-9e6d-eda15a83a235",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Edmonton",
+        "sort-name": "Edmonton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian black metal",
+      "life-span": {
+        "begin": "2007",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "concept fantasy"
+        },
+        {
+          "count": 1,
+          "name": "personal experiences"
+        },
+        {
+          "count": 1,
+          "name": "depression"
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "black metal"
+        },
+        {
+          "count": 1,
+          "name": "death metal"
+        }
+      ]
+    },
+    {
+      "id": "92004ff4-e7e8-4533-872b-73f9d6b5f726",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Johnatron",
+      "sort-name": "Johnatron",
+      "gender": "male",
+      "area": {
+        "id": "ae0110b6-13d4-4998-9116-5b926287aa23",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "California",
+        "sort-name": "California",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "John Sagouspe, electronic/synthwave producer from USA",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e52fb524-425f-4d8f-b83c-4d26537ac7ca",
+      "score": 62,
+      "name": "Michael Johnathon",
+      "sort-name": "Michael Johnathon",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2d3d2b39-9112-4080-8bdb-6703a48e1171",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Johnathan Pushkar",
+      "sort-name": "Pushkar, Johnathan",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00786477184"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a3e48583-5155-484f-91bc-d20ca097abc5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Дмитро Гнатюк",
+      "sort-name": "Hnatyuk, Dmitro",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000057047345"
+      ],
+      "life-span": {
+        "begin": "1925-03-28",
+        "end": "2016-04-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Hnatyuk, Dmitro",
+          "name": "Dmitro Hnatyuk",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

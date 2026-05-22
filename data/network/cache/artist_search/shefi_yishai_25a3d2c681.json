@@ -1,0 +1,308 @@
+{
+  "created": "2026-05-22T17:33:26.794Z",
+  "count": 29,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "db7aceb6-136c-4692-bc92-cce0a5c71b2c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "שפי ישי",
+      "sort-name": "Yishai, Shefi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00217061796"
+      ],
+      "isnis": [
+        "0000000108114799"
+      ],
+      "life-span": {
+        "begin": "1954-12-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Shefi Yishai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Shefi Yishai",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "59220dda-80b1-4fce-8649-2df0b8768af2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kobi Shefi",
+      "sort-name": "Shefi, Kobi",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "02ef88e7-d950-4fa0-94db-f627a2e20f96",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Noga Shefi",
+      "sort-name": "Shefi, Noga",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b4363804-1a81-47ce-9e21-2721a577fcfd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "name": "Vik Shefi",
+      "sort-name": "Shefi, Vik",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fc5ea80d-f252-4e06-98f4-1093b497dcfd",
+      "type": "Character",
+      "type-id": "5c1375b0-f18d-3db7-a164-a49d7a63773f",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "シェフィ",
+      "sort-name": "Shefi",
+      "gender": "female",
+      "disambiguation": "PRINCESS CONNECT! character",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "princess connect!"
+        }
+      ]
+    },
+    {
+      "id": "7beb5aeb-37e3-46b5-b6ef-c647673af96a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "name": "Yishai Swearts",
+      "sort-name": "Swearts, Yishai",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e92fe9cc-cb87-4152-a3e3-dc8b3ec6cbe9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yishai Romanoff",
+      "sort-name": "Romanoff, Yishai",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0dd9f772-7cd1-402f-8627-5121eed4f8ad",
+        "type": "Island",
+        "type-id": "3f8e7b66-058b-369b-9834-ffa5fcba5641",
+        "name": "Long Island",
+        "sort-name": "Long Island",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1986",
+        "ended": null
+      }
+    },
+    {
+      "id": "d7cb4178-f142-468c-94bb-2637ef550a61",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ישי",
+      "sort-name": "Yishai",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "01084068751"
+      ],
+      "life-span": {
+        "begin": "1997-08-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Revivo, Yishai",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yishai Revivo",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ישי רביבו",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "ישי רביבו",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "7196086c-0703-4ccd-8f28-266a6688e145",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ישי לוי",
+      "sort-name": "Levi, Ishay",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7e1a23d4-f045-4317-a884-b20126df9b9b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rosh HaAyin",
+        "sort-name": "Rosh HaAyin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000066944793"
+      ],
+      "life-span": {
+        "begin": "1963-01-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Levi, Yishai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yishai Levi",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "42c1e5ba-c864-494a-901e-25903a0aa6ea",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Avrum Yishai Koenig",
+      "sort-name": "Koenig, Avrum Yishai",
+      "gender": "male",
+      "area": {
+        "id": "8c449bf6-603a-410f-a95b-e2bbd3e73e59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toms River",
+        "sort-name": "Toms River",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Vorka Rabbi",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

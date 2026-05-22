@@ -1,0 +1,277 @@
+{
+  "created": "2026-05-22T17:25:03.769Z",
+  "count": 81,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c5586e9a-afca-4ae6-985d-42c4ea053fe5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dror Feiler",
+      "sort-name": "Feiler, Dror",
+      "gender": "male",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000123418811"
+      ],
+      "life-span": {
+        "begin": "1951-08-31",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "דרור פיילר",
+          "name": "דרור פיילר",
+          "locale": "he",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "דרור אלימלך פיילר",
+          "name": "דרור אלימלך פיילר",
+          "locale": "he",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "5425bed9-a6af-4ad7-bd05-2b4ed26775c1",
+      "score": 40,
+      "name": "Dror",
+      "sort-name": "Dror",
+      "disambiguation": "psytrance",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Elkayam, Dror",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Dror Elkayam",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "bac87e3f-9569-436a-9a8b-1fb4e153a5ef",
+      "score": 37,
+      "name": "Bruce Feiler",
+      "sort-name": "Bruce Feiler",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7eb686a5-32ea-4b2c-9844-88dfdaed64bf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yissachar Dror",
+      "sort-name": "Dror, Yissachar",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "יששכר דרור",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "יששכר דרור",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "דרור יששכר",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "דרור יששכר",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "9265755d-3ecd-48ae-9620-8c1062c76cf7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Hertha Feiler",
+      "sort-name": "Feiler, Hertha",
+      "gender": "female",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000107972994"
+      ],
+      "life-span": {
+        "begin": "1916-08-03",
+        "end": "1970-11-01",
+        "ended": true
+      }
+    },
+    {
+      "id": "92e41263-78f8-437b-ac10-ce699241ebf9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "name": "Josefin Feiler",
+      "sort-name": "Feiler, Josefin",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "08354f19-306e-4327-91ef-b1b80cdcb587",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ingrid Feiler",
+      "sort-name": "Feiler, Ingrid",
+      "gender": "male",
+      "area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b3f91fa6-4eab-494b-bbd7-868a1663c838",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fred Feiler",
+      "sort-name": "Feiler, Fred",
+      "gender": "male",
+      "disambiguation": "Wood carver",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2fb34674-eef9-4937-bfe9-a3bdbb87c407",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Feiler",
+      "sort-name": "Feiler, Frank",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "082330d6-8800-4c7e-a8d2-9e6a48630af2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tommy Feiler",
+      "sort-name": "Feiler, Tommy",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Feiler, Thomas",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Thomas Feiler",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

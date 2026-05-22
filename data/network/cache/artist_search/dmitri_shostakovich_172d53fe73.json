@@ -1,0 +1,1103 @@
+{
+  "created": "2026-05-22T17:02:26.008Z",
+  "count": 430,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "519dd32e-8f30-4380-8826-7aa99169e1bb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Дмитрий Дмитриевич Шостакович",
+      "sort-name": "Shostakovich, Dmitri Dmitrievich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00086317658"
+      ],
+      "isnis": [
+        "0000000121430446"
+      ],
+      "life-span": {
+        "begin": "1906-09-25",
+        "end": "1975-08-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Shostakovich, Dmitriy Dmitrievich",
+          "name": "Dmitriy Dmitrievich Shostakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sjostakovitj, Dmitrij Dmitrijevitj",
+          "name": "Dmitrij Dmitrijevitj Sjostakovitj",
+          "locale": "sv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sjostakovitj, Dmitrij",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitrij Sjostakovitj",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dimitri Chostakovitch",
+          "name": "Dimitri Chostakovitch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schostakowitsch",
+          "name": "Schostakowitsch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "DSCH",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "DSCH",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dimitri Dimitriyevich Shostakovich",
+          "name": "Dimitri Dimitriyevich Shostakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitri Shostakovitch",
+          "name": "Dmitri Shostakovitch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitrij Schostakowitsch",
+          "name": "Dmitrij Schostakowitsch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shostakovich, Dmitry",
+          "name": "Shostakovich, Dmitry",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dimitri Schostakowitsch",
+          "name": "Dimitri Schostakowitsch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "D. Shostakovich",
+          "name": "D. Shostakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitry Shostakovich",
+          "name": "Dmitry Shostakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shostakovitch",
+          "name": "Shostakovitch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sjostakovitsj, Dmitri Dmitrijevitsj",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitri Dmitrijevitsj Sjostakovitsj",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitri Chostakovitch",
+          "name": "Dmitri Chostakovitch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dimitri Shostakovitsh",
+          "name": "Dimitri Shostakovitsh",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dimitri Shostakovitch",
+          "name": "Dimitri Shostakovitch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitri Šostakovitš",
+          "name": "Dmitri Šostakovitš",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitri Shostackovich",
+          "name": "Dmitri Shostackovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шостакович, Дмитрий Дмитриевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Дмитрий Дмитриевич Шостакович",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shotakovich",
+          "name": "Shotakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shostakovich, Dmitri Dmitriyevich",
+          "name": "Dmitri Dmitriyevich Shostakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chostakovitch, Dimitri",
+          "name": "Dimitri Chostakovitch",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sjostakokovitj",
+          "name": "Sjostakokovitj",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitri Sjostakovitj",
+          "name": "Dmitri Sjostakovitj",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schostakovich",
+          "name": "Schostakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "D Shostakovich",
+          "name": "D Shostakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitri Sostakovits",
+          "name": "Dmitri Sostakovits",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dimitri Chostakovich",
+          "name": "Dimitri Chostakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "드미트리 쇼스타코비치",
+          "name": "드미트리 쇼스타코비치",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ショスタコーヴィチ",
+          "name": "ショスタコーヴィチ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chostakovitch, Dmitri Dmitrievitch",
+          "name": "Dmitri Dmitrievitch Chostakovitch",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dimitri Schostakovsch",
+          "name": "Dimitri Schostakovsch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitri Dmitrievitch Chostakovitch",
+          "name": "Dmitri Dmitrievitch Chostakovitch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шостакович, Дмитрий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Дмитрий Шостакович",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitrij Dmitrievič Šostakovič",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitrij Dmitrievič Šostakovič",
+          "locale": "it",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shostakovich, Dmitri",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitri Shostakovich",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chostakovitch, Dmitri",
+          "name": "Dmitri Chostakovitch",
+          "locale": "fr",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schostakowitsch, Dmitri Dmitrijewitsch",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitri Dmitrijewitsch Schostakowitsch",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Šostakovitš, Dmitri",
+          "name": "Dmitri Šostakovitš",
+          "locale": "et",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dimitri Shostakovich",
+          "name": "Dimitri Shostakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "D. Schostakowitsch",
+          "name": "D. Schostakowitsch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shastakovich",
+          "name": "Shastakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shostakovich",
+          "name": "Shostakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sjostakovitsj, Dmitri",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitri Sjostakovitsj",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ショスタコービッチ",
+          "name": "ショスタコービッチ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chostakovitch",
+          "name": "Chostakovitch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Šostakovičs, D.",
+          "name": "D. Šostakovičs",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "soundtrack"
+        },
+        {
+          "count": 9,
+          "name": "classical"
+        },
+        {
+          "count": -1,
+          "name": "soundtrack composer"
+        },
+        {
+          "count": 2,
+          "name": "russian"
+        },
+        {
+          "count": 3,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 3,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        },
+        {
+          "count": 2,
+          "name": "modern classical"
+        },
+        {
+          "count": 0,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "6de29a8e-aec6-449e-88c6-7aaf16e46ffa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Дмитрий Максимович Шостакович",
+      "sort-name": "Shostakovich, Dmitri Maximovich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist, grandson of the composer",
+      "life-span": {
+        "begin": "1961",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Шостакович, Дмитрий Максимович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Дмитрий Максимович Шостакович",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shostakovich, Dmitri, Jr.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitri Shostakovich Jr.",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shostakovich, Dmitri Maximovich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitri Maximovich Shostakovich",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0ed6e209-dd4d-4c47-b6d0-c3a1ae06fef5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dimitri Tiomkin",
+      "sort-name": "Tiomkin, Dimitri",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7acc13e4-9456-4106-9122-2c0fbf2959cf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kremenchuk",
+        "sort-name": "Kremenchuk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00030676200",
+        "00030676399"
+      ],
+      "isnis": [
+        "0000000119641412",
+        "0000000121239035"
+      ],
+      "life-span": {
+        "begin": "1894-05-10",
+        "end": "1979-11-11",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Dmitri Tyomkin",
+          "name": "Dmitri Tyomkin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitri Tiomkin",
+          "name": "Dmitri Tiomkin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        }
+      ]
+    },
+    {
+      "id": "450a4803-0dbc-46cd-9e5a-98767d554f10",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Максим Дмитриевич Шостакович",
+      "sort-name": "Shostakovich, Maxim Dmitrievich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor and pianist, son of the composer",
+      "isnis": [
+        "0000000110007394"
+      ],
+      "life-span": {
+        "begin": "1938-05-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Chostakovitch, Maxime",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Maxime Chostakovitch",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maxim Dmitrievich Shostakovich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Maxim Dmitrievich Shostakovich",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maxim Shostakovich",
+          "name": "Maxim Shostakovich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "affe48d1-bd8e-46c4-b86a-fb7198023fbc",
+      "score": 55,
+      "name": "Dmitri",
+      "sort-name": "Dmitri",
+      "area": {
+        "id": "eb4a386e-1178-4e3a-a371-30418dd6fd2e",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "The Bronx",
+        "sort-name": "The Bronx",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "song \"Mancubus\" on 2020 DOOM tribute album",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c39a1118-0f82-4938-be87-0a6ef8515afc",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 55,
+      "name": "Dmitri",
+      "sort-name": "Dmitri",
+      "area": {
+        "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Austin",
+        "sort-name": "Austin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Austin",
+        "sort-name": "Austin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austin three-piece rock band",
+      "life-span": {
+        "begin": "2021",
+        "ended": null
+      }
+    },
+    {
+      "id": "6fe7c51d-eed2-4866-847d-44ce45eda9dd",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 55,
+      "name": "Shostakovich Trio",
+      "sort-name": "Shostakovich Trio",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8ad285ee-0735-4582-8a87-40b7c7f1e466",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "name": "Dmitri Lopatto",
+      "sort-name": "Lopatto, Dmitri",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "96c39679-7de4-48d1-a9ea-d8840296bb73",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Дмитрий Борисович Кабалевский",
+      "sort-name": "Kabalevsky, Dmitri Borisovich",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Soviet composer/teacher",
+      "isnis": [
+        "0000000120321176"
+      ],
+      "life-span": {
+        "begin": "1904-12-30",
+        "end": "1987-02-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kabalevsky, Dmitri",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitri Kabalevsky",
+          "locale": "fr_FR",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кабалевский, Дмитрий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Дмитрий Кабалевский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кабалевский, Дмитрий Борисович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Дмитрий Борисович Кабалевский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kabalewski, Dmitri Borissowitsch",
+          "name": "Dmitri Borissowitsch Kabalewski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitri Kabelevsky",
+          "name": "Dmitri Kabelevsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дми́трий Бори́сович Кабале́вский",
+          "name": "Дми́трий Бори́сович Кабале́вский",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kabalevsky, Dmitry",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitry Kabalevsky",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitri Kabalevskij",
+          "name": "Dmitri Kabalevskij",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kabalewskij, Dimitrij",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dimitrij Kabalewskij",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kabalevsky, Dmitri",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitri Kabalevsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitrij Borisovich Kabalevskij",
+          "name": "Dmitrij Borisovich Kabalevskij",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dmitri Borisovich Kabalevsky",
+          "name": "Dmitri Borisovich Kabalevsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kabaļevskis, D.",
+          "name": "D. Kabaļevskis",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 0,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "c5fb52ee-00c1-43bb-83b6-7bc52e379339",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dmitri Matheny",
+      "sort-name": "Matheny, Dmitri",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nashville",
+        "sort-name": "Nashville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1965-12-25",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "post-bop"
+        }
+      ]
+    }
+  ]
+}

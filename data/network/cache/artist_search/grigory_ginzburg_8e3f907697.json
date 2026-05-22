@@ -1,0 +1,571 @@
+{
+  "created": "2026-05-22T17:16:51.910Z",
+  "count": 148,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "9ae01b82-72aa-4ebd-85b0-143d4c894dcc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grigory Romanovich Ginzburg",
+      "sort-name": "Ginzburg, Grigory Romanovich",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "fa807dcd-dc30-4c25-bf58-d905dfc6ba9d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nizhny Novgorod",
+        "sort-name": "Nizhny Novgorod",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000081372332"
+      ],
+      "life-span": {
+        "begin": "1904-05-29",
+        "end": "1961-12-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Grigory Ginsberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Grigory Ginsberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ги́нзбург, Григо́рий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Григо́рий Ги́нзбург",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ginzburg, Grigory Romanovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Григо́рий Рома́нович Ги́нзбург",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ginzburg, Grigory",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Grigory Ginzburg",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Grigory Ginzberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Grigory Ginzberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Grigory Ginsburg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Grigory Ginsburg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ginzburg, Grigori",
+          "name": "Grigori Ginzburg",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian pianist"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "cb42445b-f8d8-4eb1-9806-d70c45725fc8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Григорий Лепс",
+      "sort-name": "Leps, Grigory",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6dfc84a1-167d-46d9-ba68-6e3e57622263",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sochi",
+        "sort-name": "Sochi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000040683679X"
+      ],
+      "life-span": {
+        "begin": "1962-07-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Leps, Grigory",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Grigory Leps",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лепсверидзе, Григорий Викторович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Григорий Викторович Лепсверидзе",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лепс, Григорий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Григорий Лепс",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "2a7e80b5-3093-4bf7-8a0a-e6d166e03a6e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "James Ginzburg",
+      "sort-name": "Ginzburg, James",
+      "gender": "male",
+      "area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6b1a0256-bf14-42d5-acc3-048d657adc50",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Silver Spring",
+        "sort-name": "Silver Spring",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "electronic musician",
+      "ipis": [
+        "00453323379"
+      ],
+      "isnis": [
+        "0000000131716229"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ginzburg, J.",
+          "name": "J. Ginzburg",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ginzburg, James Stuart",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "James Stuart Ginzburg",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e533c96c-43a0-467b-ba48-f1a3b891b87a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leo Ginzburg",
+      "sort-name": "Ginzburg, Leo",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000408768612"
+      ],
+      "life-span": {
+        "begin": "1901-04-12",
+        "end": "1979",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "7cce930b-c05e-48a2-a30b-ffd537749b42",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Raphaël Ginzburg",
+      "sort-name": "Ginzburg, Raphaël",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "cellist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6c117fe9-c0dc-4562-ac55-0a49206f96e9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lev Ginzburg",
+      "sort-name": "Ginzburg, Lev",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "b1330c44-b2d9-49e8-8ff9-1cdaa34670e3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mogilyov",
+        "sort-name": "Mogilyov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000118812048"
+      ],
+      "life-span": {
+        "begin": "1907-01-28",
+        "end": "1981-11-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ginzburg, Lev Solomonovič",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lev Solomonovič Ginzburg",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "dd681ec2-e4eb-40b5-a0dc-f0d10aaf5037",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natalia Ginzburg",
+      "sort-name": "Ginzburg, Natalia",
+      "gender": "female",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "817bf729-4a80-422e-b706-feeff29e9eea",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Palermo",
+        "sort-name": "Palermo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dccd77b2-bd3d-49eb-a98f-fd58e87f481e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Roma",
+        "sort-name": "Roma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000368644438"
+      ],
+      "life-span": {
+        "begin": "1916-07-14",
+        "end": "1991-10-07",
+        "ended": true
+      }
+    },
+    {
+      "id": "d06376d3-77bb-4854-ab97-dc521787a00b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leone Ginzburg",
+      "sort-name": "Ginzburg, Leone",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dccd77b2-bd3d-49eb-a98f-fd58e87f481e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Roma",
+        "sort-name": "Roma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000100564349"
+      ],
+      "life-span": {
+        "begin": "1909-04-04",
+        "end": "1944-02-05",
+        "ended": true
+      }
+    },
+    {
+      "id": "aebf4caa-71f8-457a-af37-9520a458f6b7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tom Ginzburg",
+      "sort-name": "Tom Ginzburg",
+      "gender": "male",
+      "disambiguation": "Tel Aviv based DJ Producer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "410384a4-51d0-4948-a856-73fd258ff70e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "name": "Tal Ginzburg",
+      "sort-name": "Ginzburg, Tal",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

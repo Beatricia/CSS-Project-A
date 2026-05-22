@@ -1,0 +1,280 @@
+{
+  "created": "2026-05-22T17:11:47.450Z",
+  "count": 18,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "be18d0fc-adcc-458d-a8d4-eadcc09919db",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yekaterina Chemberdzhi",
+      "sort-name": "Chemberdzhi, Yekaterina",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000034647073"
+      ],
+      "life-span": {
+        "begin": "1960-05-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tschemberdschi, Jekaterina Wladimirowna",
+          "name": "Jekaterina Wladimirowna Tschemberdschi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tchemberdji, Katia",
+          "name": "Katia Tchemberdji",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f7186fe9-0f36-499f-9230-25ca10b18e11",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Elena Guseva",
+      "sort-name": "Guseva, Elena",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "59a353ce-498e-40a6-bf97-01880499f6ba",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kurgan",
+        "sort-name": "Kurgan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "soprano",
+      "life-span": {
+        "begin": "1986-04-01",
+        "ended": null
+      }
+    },
+    {
+      "id": "5b39ec52-1ed6-478d-9d6e-3ca40f0708be",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Maria Guseva",
+      "sort-name": "Guseva, Maria",
+      "gender": "female",
+      "area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8f42e790-0ccc-449f-b561-f4891ba05c14",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tamara Guseva",
+      "sort-name": "Guseva, Tamara",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000033922045"
+      ],
+      "life-span": {
+        "begin": "1926-08-15",
+        "ended": null
+      }
+    },
+    {
+      "id": "d68b1fad-0a40-4e34-bfa8-58345f59bc67",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anastasia Guseva",
+      "sort-name": "Guseva, Anastasia",
+      "gender": "female",
+      "disambiguation": "violin player",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fa8a4a8e-a168-422b-8ee6-7a01be6cf60d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yekaterina Barmotina",
+      "sort-name": "Barmotina, Yekaterina",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0ee85e1b-a79a-4404-bab4-e8285ea8828a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yekaterina Geltser",
+      "sort-name": "Geltser, Yekaterina",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000022012978"
+      ],
+      "life-span": {
+        "begin": "1876-11-14",
+        "end": "1962-12-12",
+        "ended": true
+      }
+    },
+    {
+      "id": "657be351-2874-4e74-b431-44485b412582",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "DJ Katya Guseva",
+      "sort-name": "DJ Katya Guseva",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d8de9ce5-eaf7-4bd9-a857-071d66a74515",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Folkturia",
+      "sort-name": "Folkturia",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kuznetsova, Yekaterina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yekaterina Kuznetsova",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "7e0115a7-26c1-4e6e-ba1d-4d747a441030",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Мария Гусева",
+      "sort-name": "Guseva, Maria",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

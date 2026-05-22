@@ -1,0 +1,598 @@
+{
+  "created": "2026-05-22T16:57:25.566Z",
+  "count": 9,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b2a424f7-d762-4a6a-8772-e82c6da4217d",
+      "score": 100,
+      "name": "Wassili Shtefutsa",
+      "sort-name": "Wassili Shtefutsa",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "16745d25-a109-474c-81bc-88fbad5f611e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Василий Калафати",
+      "sort-name": "Kalafati, Vasily",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1869-02-10",
+        "end": "1942-03-20",
+        "ended": true
+      }
+    },
+    {
+      "id": "70c64d9d-8ad9-4ba1-ab99-ffdb806a5051",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Василий Синайский",
+      "sort-name": "Sinaisky, Vassily",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7fc7ef7e-ee42-40d3-bdd7-e993171cba13",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Respublika Komi",
+        "sort-name": "Respublika Komi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000114391864"
+      ],
+      "life-span": {
+        "begin": "1947-04-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sinaisky, Vassily Serafimovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Vassily Serafimovich Sinaisky",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Синайский, Василий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Василий Синайский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Синайский, Василий Серафимович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Василий Серафимович Синайский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinajski, Vasili",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vasili Sinajski",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinaisky, Vassily",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vassily Sinaisky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinaïsky, Vassily",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vassily Sinaïsky",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinaiski, Wassili",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Wassili Sinaiski",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        }
+      ]
+    },
+    {
+      "id": "e973e135-c028-4820-8f4f-794ca50eed4e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Василий Небольсин",
+      "sort-name": "Nebolsin, Vasili",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "fc617bbb-6cae-4e33-ae25-bf5a6cb7d7d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kharkiv",
+        "sort-name": "Kharkiv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081089799"
+      ],
+      "life-span": {
+        "begin": "1898-06-11",
+        "end": "1958-10-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Nebolsin, Vassili",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vassili Nebolsin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nebolsin, Wassili",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Wassili Nebolsin",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Небольсин, Василий Васильевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Василий Васильевич Небольсин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Небольсин, Василий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Василий Небольсин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nebolsin, Vasilij Vasiljevitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Vasilij Vasiljevitj Nebolsin",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nebolsin, Vasilij",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vasilij Nebolsin",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        }
+      ]
+    },
+    {
+      "id": "eee01e4f-f02b-490c-b2b4-0b30ccd6da5f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Enrico Wassilick",
+      "sort-name": "Wassilick, Enrico",
+      "gender": "male",
+      "ipis": [
+        "00257234467"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6972932c-9a06-498c-931b-e03aed4f6054",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Milivoj Kalafatić",
+      "sort-name": "Kalafatić, Milivoj",
+      "gender": "male",
+      "life-span": {
+        "begin": "1935-08-25",
+        "end": "1990-11-21",
+        "ended": true
+      }
+    },
+    {
+      "id": "6e10d613-1916-4513-a337-b77a10b079cb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "name": "Diamantis Kalafatiadis",
+      "sort-name": "Kalafatiadis, Diamantis",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ba79f661-f328-4fc1-92bf-bc85bb79df5d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Васи́лий Васи́льевич Канди́нский",
+      "sort-name": "Kandinsky, Wassily Wassilyevich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f5f1d03e-cc93-4429-8578-39e68266e277",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Neuilly-sur-Seine",
+        "sort-name": "Neuilly-sur-Seine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "painter",
+      "isnis": [
+        "0000000121235624"
+      ],
+      "life-span": {
+        "begin": "1866-12-04",
+        "end": "1944-12-13",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Wassily Kandinsky",
+          "name": "Wassily Kandinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wassili Wassiljewitsch Kandinski",
+          "name": "Wassili Wassiljewitsch Kandinski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wassily Wassilyevich Kandinsky",
+          "name": "Wassily Wassilyevich Kandinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vasilij Vasil'evič Kandinskij",
+          "name": "Vasilij Vasil'evič Kandinskij",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b86c3843-db89-4e56-96a5-24ea2ddfebce",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Василий Соловьёв-Седой",
+      "sort-name": "Solovyov-Sedoy, Vasily",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00077957319",
+        "00223835577"
+      ],
+      "isnis": [
+        "0000000108590461"
+      ],
+      "life-span": {
+        "begin": "1907-04-25",
+        "end": "1979-12-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Solov'ëv-Sedoj, Vasilij",
+          "name": "Vasilij Solov'ëv-Sedoj",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Solovyov-Sedoi, Vasily",
+          "name": "Vasily Solovyov-Sedoi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Соловьёв-Седой, Василий Павлович",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Василий Павлович Соловьёв-Седой",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Соловьёв, Василий Павлович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Василий Павлович Соловьёв",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wassili Solowjow-Sedoi",
+          "name": "Wassili Solowjow-Sedoi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Soloviev-Sedoy",
+          "name": "Soloviev-Sedoy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Василий Соловьeв‐Седой",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Василий Соловьeв‐Седой",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Соловьёв-Седой, Василий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Василий Соловьёв-Седой",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Solovyov-Sedoy, Vasily",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vasily Solovyov-Sedoy",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vasily Pavlovich Solovyov-Sedoy",
+          "name": "Vasily Pavlovich Solovyov-Sedoy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vasili Solovyov-Sedoy",
+          "name": "Vasili Solovyov-Sedoy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

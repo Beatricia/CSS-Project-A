@@ -1,0 +1,33 @@
+MusicBrainz artist match triage summary
+
+Input matches file: C:\Users\lozag\DTU\CSS\CSS-Project-A\data\network\artist_matches.csv
+Candidate file: C:\Users\lozag\DTU\CSS\CSS-Project-A\data\network\artist_match_candidates.csv
+Output file: C:\Users\lozag\DTU\CSS\CSS-Project-A\data\network\usable_artist_matches.csv
+
+Total rows in artist_matches.csv: 1635
+Number included in usable_artist_matches.csv: 551
+Number excluded as review_needed: 1071
+Number excluded as no_match: 13
+Review-needed rows promoted by exact normalized name match: 0
+Candidate rows loaded: 15579
+
+Included examples:
+- Milla Jovovich -> Milla Jovovich | auto_accept | Included: original match was auto_accept.
+- Vladimir Horowitz -> Vladimir Horowitz | auto_accept | Included: original match was auto_accept.
+- Ignacy Jan Paderewski -> Ignacy Jan Paderewski | auto_accept | Included: original match was auto_accept.
+- Tayanna -> TAYANNA | auto_accept | Included: original match was auto_accept.
+- Karol Szymanowski -> Karol Szymanowski | auto_accept | Included: original match was auto_accept.
+
+Excluded review_needed examples:
+- Anatoliy Solovyanenko -> Anatoliy Frolov | review_needed | Excluded: review_needed row is not an exact normalized name match.
+- Stefania Turkevych-Lukiianovych -> Stefania | review_needed | Excluded: review_needed row is not an exact normalized name match.
+- Sergei Prokofiev -> Сергей Сергеевич Прокофьев | review_needed | Excluded: review_needed row is not an exact normalized name match.
+- Sofia Rotaru -> Руслан Евдокименко | review_needed | Excluded: review_needed row is not an exact normalized name match.
+- Ruslana Lyzhychko -> Руслана | review_needed | Excluded: review_needed row is not an exact normalized name match.
+
+Excluded no_match examples:
+- Hryhorii Skovoroda | Excluded: original match was no_match.
+- Anzhelina Shvachka | Excluded: original match was no_match.
+- Yevsevii Mandychesvky | Excluded: original match was no_match.
+- Yevheniya Dembska | Excluded: original match was no_match.
+- Agrippina Vaganova | Excluded: original match was no_match.

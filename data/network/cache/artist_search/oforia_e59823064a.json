@@ -1,0 +1,116 @@
+{
+  "created": "2026-05-22T17:30:24.537Z",
+  "count": 4,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "1290567d-8b0b-4fbe-822a-93f5b1224209",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oforia",
+      "sort-name": "Oforia",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli goa trance/psytrance DJ/producer Ofer Dikovsky",
+      "life-span": {
+        "begin": "1971-12-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Offoria",
+          "name": "Offoria",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "trance"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "psytrance"
+        },
+        {
+          "count": 1,
+          "name": "progressive trance"
+        }
+      ]
+    },
+    {
+      "id": "a0e1718e-ae12-4ab2-b6d2-1fd6a03e53ce",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 79,
+      "name": "Unnatural Oforia",
+      "sort-name": "Unnatural Oforia",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6e6ae898-4495-4df8-b478-8edb831bab59",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 50,
+      "name": "SkizOforia",
+      "sort-name": "SkizOforia",
+      "disambiguation": "psytrance; Maor Hasbani & Ofer Dikovsky",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c78a9513-656f-4f7e-89b9-f08c1650599a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 50,
+      "name": "Esquizoforia",
+      "sort-name": "Esquizoforia",
+      "area": {
+        "id": "6f85c2b6-4250-468b-9bd8-300fd8b451ad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bogotá",
+        "sort-name": "Bogotá",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

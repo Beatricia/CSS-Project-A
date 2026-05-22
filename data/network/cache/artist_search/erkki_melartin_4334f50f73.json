@@ -1,0 +1,600 @@
+{
+  "created": "2026-05-22T17:08:41.134Z",
+  "count": 140,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5b3f4700-d190-4f70-8f36-9b68e76d9464",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Erkki Melartin",
+      "sort-name": "Melartin, Erkki",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2b3c6169-200b-476c-9d1c-23f3b8b92a6c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Priozersk",
+        "sort-name": "Priozersk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "39d62198-1e76-4de4-b079-e86e3a393bbc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Helsinki",
+        "sort-name": "Helsinki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Finnish composer",
+      "isnis": [
+        "0000000081438178"
+      ],
+      "life-span": {
+        "begin": "1875-02-07",
+        "end": "1937-02-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Melartin, Erik",
+          "name": "Erik Melartin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Melartin, Erik Gustaf Oskarsson",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Erik Gustaf Oskarsson Melartin",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "finnish composer"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "805a2488-ffe9-4105-8ab7-65e9a3fe862c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jyrki Melartin",
+      "sort-name": "Melartin, Jyrki",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1954-04-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Melartin, Jyrki K.",
+          "name": "Jyrki K. Melartin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Melartin, Jyrki Kaarlo",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jyrki Kaarlo Melartin",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "70032540-26c5-4d8c-9753-c9925527a28d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Erkki Junkkarinen",
+      "sort-name": "Junkkarinen, Erkki",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e4bd087b-4355-432f-8e3d-ed91a558340f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Suonenjoki",
+        "sort-name": "Suonenjoki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "4479c385-74d8-4a2b-bdab-f48d1e6969ba",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hämeenlinna",
+        "sort-name": "Hämeenlinna",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000371889508"
+      ],
+      "life-span": {
+        "begin": "1929-04-22",
+        "end": "2008-04-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Junkkarinen, Erkki Aukusti",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Erkki Aukusti Junkkarinen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "d05deaa6-12ea-4a05-9b64-4b5d12da425a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Erkki Liikanen",
+      "sort-name": "Liikanen, Erkki",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d8573f7a-4ee4-4a98-ba74-f639d0a9d7b1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vyborg",
+        "sort-name": "Vyborg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1943-04-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Liikanen, Erkki Ilmari",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Erkki Ilmari Liikanen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Liikanen, Eki",
+          "name": "Eki Liikanen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "996815b7-12e3-49f8-bccf-6fb70c3e9e2f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Erkki Kurenniemi",
+      "sort-name": "Kurenniemi, Erkki",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4479c385-74d8-4a2b-bdab-f48d1e6969ba",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hämeenlinna",
+        "sort-name": "Hämeenlinna",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "39d62198-1e76-4de4-b079-e86e3a393bbc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Helsinki",
+        "sort-name": "Helsinki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000118855603"
+      ],
+      "life-span": {
+        "begin": "1941-07-10",
+        "end": "2017-05-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kurenniemi, Erkki Juhani",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Erkki Juhani Kurenniemi",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "experimental electronic"
+        },
+        {
+          "count": 1,
+          "name": "finnish composer"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "6eaa0bea-0b90-489a-b353-abba660e494b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Erkki Rankaviita",
+      "sort-name": "Rankaviita, Erkki",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9399c945-ad7a-423e-8fed-db6f8d1a50cb",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Karijoki",
+        "sort-name": "Karijoki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "9399c945-ad7a-423e-8fed-db6f8d1a50cb",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Karijoki",
+        "sort-name": "Karijoki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1927-02-20",
+        "end": "2009-02-23",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        }
+      ]
+    },
+    {
+      "id": "4d0bcb67-8dfc-48f6-bb38-7849a4215237",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Erkki Pohjola",
+      "sort-name": "Pohjola, Erkki",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ad14e564-c0c2-4940-8444-8a8e527edf92",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Seinäjoki",
+        "sort-name": "Seinäjoki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "638a021d-f628-4266-8a91-7956f91f1e08",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Espoo",
+        "sort-name": "Espoo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055113345"
+      ],
+      "life-span": {
+        "begin": "1931-01-04",
+        "end": "2009-01-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Pohjola, Erkki Kalevi",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Erkki Kalevi Pohjola",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ba62442e-d084-4226-b1e8-736e9b534f24",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Erkki Rautio",
+      "sort-name": "Rautio, Erkki",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "cellist",
+      "isnis": [
+        "0000000055188611"
+      ],
+      "life-span": {
+        "begin": "1931-10-05",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "cellist"
+        },
+        {
+          "count": 1,
+          "name": "finnish cellist"
+        }
+      ]
+    },
+    {
+      "id": "c9e57af0-b0d2-44b2-b01e-bbaeeadbf609",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Erkki Salmenhaara",
+      "sort-name": "Salmenhaara, Erkki",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "39d62198-1e76-4de4-b079-e86e3a393bbc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Helsinki",
+        "sort-name": "Helsinki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "39d62198-1e76-4de4-b079-e86e3a393bbc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Helsinki",
+        "sort-name": "Helsinki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Finnish composer",
+      "isnis": [
+        "0000000114681124"
+      ],
+      "life-span": {
+        "begin": "1941-03-12",
+        "end": "2002-03-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Salmenhaara, Erkki Olavi",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Erkki Olavi Salmenhaara",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 1,
+          "name": "finnish composer"
+        }
+      ]
+    },
+    {
+      "id": "64640385-ad3a-4873-9116-1a9d2a810e7e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Erkki Alanen",
+      "sort-name": "Alanen, Erkki",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

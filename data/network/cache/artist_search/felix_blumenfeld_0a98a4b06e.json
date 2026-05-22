@@ -1,0 +1,825 @@
+{
+  "created": "2026-05-22T16:49:49.855Z",
+  "count": 1755,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "9654ff1f-1d6d-4673-973e-a4b42c1e8469",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Феликс Блуменфельд",
+      "sort-name": "Blumenfeld, Felix",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "a90737e3-34a7-4df2-b858-027fa204ee61",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kropyvnytskyi",
+        "sort-name": "Kropyvnytskyi",
+        "life-span": {
+          "begin": "2016-07",
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer, pianist, conductor",
+      "isnis": [
+        "0000000115718208"
+      ],
+      "life-span": {
+        "begin": "1863-04-19",
+        "end": "1931-01-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Blumenfeld, Felix",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Felix Blumenfeld",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blumenfeld, Felix Mikhailovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Felix Mikhailovich Blumenfeld",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Блуменфельд, Феликс Михайлович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Феликс Михайлович Блуменфельд",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Блуменфельд, Феликс",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Феликс Блуменфельд",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0e85eb79-1c05-44ba-827c-7b259a3d941a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 64,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Felix Mendelssohn",
+      "sort-name": "Mendelssohn, Felix",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "20619e36-fca8-4499-bcc8-be01a3ea3e41",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Leipzig",
+        "sort-name": "Leipzig",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00020453038"
+      ],
+      "isnis": [
+        "0000000121181195"
+      ],
+      "life-span": {
+        "begin": "1809-02-03",
+        "end": "1847-11-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mendelssohn",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mendelssohn",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn-Bartholdy, Felix",
+          "name": "Felix Mendelssohn-Bartholdy",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelsshohn-Bartholdy",
+          "name": "Mendelsshohn-Bartholdy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Mendelssohn-Barthology",
+          "name": "Felix Mendelssohn-Barthology",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelsohn",
+          "name": "Mendelsohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn Bartholdy, Jakob Ludwig Felix",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jakob Ludwig Felix Mendelssohn Bartholdy",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendlessohn",
+          "name": "Mendlessohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(F. Mendelssohn-Bartholdy)",
+          "name": "(F. Mendelssohn-Bartholdy)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn Bartholdy",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mendelssohn Bartholdy",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Mendelsohn",
+          "name": "Felix Mendelsohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohm",
+          "name": "Mendelssohm",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Mendelson",
+          "name": "Felix Mendelson",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelsohn, Felix",
+          "name": "Mendelsohn, Felix",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn-Bartholdy, Jakob Ludwig Felix",
+          "name": "Mendelssohn-Bartholdy, Jakob Ludwig Felix",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Félix Mendelssohn",
+          "name": "Félix Mendelssohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Mendellsohn-Bartholdy",
+          "name": "Felix Mendellsohn-Bartholdy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn-Bartholdy",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mendelssohn-Bartholdy",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn Bartholdy, Felix",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Felix Mendelssohn Bartholdy",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "フェリックス・メンデルスゾーン",
+          "name": "フェリックス・メンデルスゾーン",
+          "locale": "ja",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Мендельсон, Феликс",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Феликс Мендельсон",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelsohhn",
+          "name": "Mendelsohhn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "F. Mendelssohn-Bartholdy",
+          "name": "F. Mendelssohn-Bartholdy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Filix Mendelssohn",
+          "name": "Filix Mendelssohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Bartholdy Mendelssohn",
+          "name": "Felix Bartholdy Mendelssohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "メンデルスゾーン",
+          "name": "メンデルスゾーン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "F. Mendelssohn",
+          "name": "F. Mendelssohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Mendelssohn (1809-1847)",
+          "name": "Felix Mendelssohn (1809-1847)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn, Felix",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Felix Mendelssohn",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "german composer"
+        },
+        {
+          "count": -1,
+          "name": "conductor"
+        },
+        {
+          "count": -1,
+          "name": "pianist"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": -1,
+          "name": "organist"
+        },
+        {
+          "count": 1,
+          "name": "romantic"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 0,
+          "name": "naxos piano trios"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "407fe493-a0f5-4dcd-bd86-bde9d7dc14e5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Wings of an Angel",
+      "sort-name": "Wings of an Angel",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "ambient / drone AI producer from Israel",
+      "isnis": [
+        "0000000470844196"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kaplan, Felix",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Felix Kaplan",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "drone"
+        }
+      ]
+    },
+    {
+      "id": "8ccf53f8-67c8-427e-bf64-e149a7ccc68a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Chaim Blumenfeld",
+      "sort-name": "Blumenfeld, Chaim",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "חיים בלומנפלד",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "חיים בלומנפלד",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "5c46d858-b08f-4e94-841f-5083d20f7ba3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Felix von Manteuffel",
+      "sort-name": "Manteuffel, Felix von",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d99c0d93-e29f-4623-b517-0ee404b251c7",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Bayrischzell",
+        "sort-name": "Bayrischzell",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114967464"
+      ],
+      "life-span": {
+        "begin": "1945-05-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Baron von Manteuffel-Szoege, Friedrich Karl",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Friedrich Karl Baron von Manteuffel-Szoege",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "94b3706d-3247-455c-a3ff-725f39faa245",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hugh Blumenfeld",
+      "sort-name": "Blumenfeld, Hugh",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0993002c-8666-4857-b333-e35cd713ff8e",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Jamaica",
+        "sort-name": "Jamaica",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1958-10-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hugh Blumefeld",
+          "name": "Hugh Blumefeld",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        }
+      ]
+    },
+    {
+      "id": "a49e313b-9fa4-42a4-89cb-c0b7409a3602",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "FELIX",
+      "sort-name": "Felix",
+      "gender": "male",
+      "area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "31c73193-85c6-4a15-ae27-61c173e30c81",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chelmsford",
+        "sort-name": "Chelmsford",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "British DJ & producer Francis Wright",
+      "ipis": [
+        "00178210769"
+      ],
+      "isnis": [
+        "0000000055193939"
+      ],
+      "life-span": {
+        "begin": "1973-02-15",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "euro house"
+        },
+        {
+          "count": 1,
+          "name": "hardbag"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "me"
+        },
+        {
+          "count": 1,
+          "name": "want"
+        },
+        {
+          "count": 1,
+          "name": "you"
+        },
+        {
+          "count": 1,
+          "name": "francis"
+        },
+        {
+          "count": 1,
+          "name": "felix"
+        },
+        {
+          "count": 1,
+          "name": "wright"
+        },
+        {
+          "count": 0,
+          "name": "canadian"
+        }
+      ]
+    },
+    {
+      "id": "c959c412-8e13-4c59-9b71-83bce4c1a3a5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "name": "Robert Blumenfeld",
+      "sort-name": "Blumenfeld, Robert",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "76b2bbd9-4e9c-4db8-b520-730ea15f9df6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Felix Janosa",
+      "sort-name": "Janosa, Felix",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00071461000"
+      ],
+      "isnis": [
+        "0000000053380781"
+      ],
+      "life-span": {
+        "begin": "1962",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        },
+        {
+          "count": 1,
+          "name": "audio drama"
+        }
+      ]
+    },
+    {
+      "id": "d62c5e32-3606-48de-8b85-c51f791a4250",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ezra Blumenfeld",
+      "sort-name": "Ezra Blumenfeld",
+      "gender": "male",
+      "area": {
+        "id": "96713a37-1ebb-419e-b052-ffc93ceabcb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Saint Paul",
+        "sort-name": "Saint Paul",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7b794382-19d6-4adb-a66c-98b1f3ba71a3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Woodbury",
+        "sort-name": "Woodbury",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2003-04-26",
+        "ended": null
+      }
+    }
+  ]
+}

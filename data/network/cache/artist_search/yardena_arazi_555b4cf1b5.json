@@ -1,0 +1,395 @@
+{
+  "created": "2026-05-22T17:19:50.166Z",
+  "count": 42,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "05bafd96-ada9-43b0-a328-50d96fcbea22",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ירדנה ארזי",
+      "sort-name": "Arazi, Yardena",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7bac8044-f785-4073-a8ef-717462ee0918",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "HaẔafon",
+        "sort-name": "HaẔafon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000374852655"
+      ],
+      "life-span": {
+        "begin": "1951-09-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Yardena Arazi",
+          "name": "Yardena Arazi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ארזי, ירדנה שולמית",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "ירדנה שולמית ארזי",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arazi, Yardena Shulamet",
+          "name": "Yardena Shulamet Arazi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "פינבאום, ירדנה",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "ירדנה פינבאום",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Finebaum, Yardena",
+          "name": "Yardena Finebaum",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0bfaa062-43ae-4367-b0f1-d53985e2dddd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ירדנה חלו",
+      "sort-name": "Hilu, Yardena",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c110e7d5-b4a6-48ca-af05-28e73e8b7eda",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "איציק ארזי",
+      "sort-name": "Arazi, Itzik",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b468b27e-91d2-410f-b0f4-0d885de7b3a5",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 37,
+      "name": "Paraziții",
+      "sort-name": "Paraziții",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "București",
+        "sort-name": "București",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Romanian group",
+      "life-span": {
+        "begin": "1994-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Parazitii",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Parazitii",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Paraziții",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Paraziții",
+          "locale": "ro",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rap"
+        },
+        {
+          "count": 3,
+          "name": "hip hop"
+        },
+        {
+          "count": 3,
+          "name": "romanian"
+        },
+        {
+          "count": 1,
+          "name": "old school rap"
+        },
+        {
+          "count": 3,
+          "name": "romanian band"
+        },
+        {
+          "count": 1,
+          "name": "manele"
+        }
+      ]
+    },
+    {
+      "id": "3e9c8781-32ca-4310-8132-7d8c474f4d52",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "NAËLI",
+      "sort-name": "NAËLI",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Naeli Cohen-Arazi",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "783f4ab1-0e52-4bd3-aed9-357ad9fdbea3",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 31,
+      "name": "Farazi V Kayra",
+      "sort-name": "Farazi V Kayra",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Türkiye",
+        "sort-name": "Türkiye",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2007",
+        "end": "2021-03-31",
+        "ended": true
+      }
+    },
+    {
+      "id": "0a816f8b-24bd-4898-a872-38c8ef9514a4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Farazi",
+      "sort-name": "Farazi",
+      "gender": "male",
+      "area": {
+        "id": "f9a822ff-adce-434c-9292-a8b6a0a37a8e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Istanbul",
+        "sort-name": "Istanbul",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7ad8bd43-9248-4b43-a8f4-139c2e3d1c7f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Robert Sarazin Blake",
+      "sort-name": "Blake, Robert Sarazin",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Blake, Robert",
+          "name": "Robert Blake",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "262d3d08-e166-451d-af76-5d9ff47760dd",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 30,
+      "name": "Parazite",
+      "sort-name": "Parazite",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "A band of the french cinematographer Marc Caro",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "industrial"
+        }
+      ]
+    },
+    {
+      "id": "40155090-01ca-4dc0-a656-17906df17b84",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sarazino",
+      "sort-name": "Sarazino",
+      "gender": "male",
+      "country": "DZ",
+      "area": {
+        "id": "28242750-534a-326b-8ed6-1b03dfb88cd0",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Algeria",
+        "sort-name": "Algeria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "15a7a8d6-0ca1-480d-846f-249936555b0a",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Constantine",
+        "sort-name": "Constantine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1970-03-03",
+        "ended": null
+      }
+    }
+  ]
+}

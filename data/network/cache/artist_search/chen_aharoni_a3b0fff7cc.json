@@ -1,0 +1,606 @@
+{
+  "created": "2026-05-22T17:24:24.003Z",
+  "count": 4773,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "704e1c94-b604-4599-80d4-82374c548612",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "חן אהרוני",
+      "sort-name": "Aharoni, Chen",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "84f1f1ad-c6cf-4125-b882-083a1f5dd959",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Holon",
+        "sort-name": "Holon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00633342372"
+      ],
+      "life-span": {
+        "begin": "1990-04-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Aharoni,Chen",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chen Aharoni",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hen Aharoni",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hen Aharoni",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3445123e-aecd-49a0-8977-134414fa4746",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dov Aharoni",
+      "sort-name": "Aharoni, Dov",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "806e12ff-69c7-4fe3-8040-db5da0b583a0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "name": "Aharoni Benari",
+      "sort-name": "Benari, Aharoni",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "439c9247-9291-47a8-8282-7f80bc3f369d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "CHEN",
+      "sort-name": "CHEN",
+      "gender": "male",
+      "country": "KR",
+      "area": {
+        "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "South Korea",
+        "sort-name": "South Korea",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afc6d9f8-2785-454b-89a4-837bb5d89ca1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Daejeon",
+        "sort-name": "Daejeon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00782216732"
+      ],
+      "isnis": [
+        "0000000460806612"
+      ],
+      "life-span": {
+        "begin": "1992-09-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kim, Jong-dae",
+          "name": "Kim Jong-dae",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim, Jong-dae",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "김종대",
+          "locale": "ko",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "031cdecc-6e68-4af6-9f9e-9248f44d5509",
+      "score": 44,
+      "name": "Ziguo Chen",
+      "sort-name": "Chen, Ziguo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ee0358ab-47c3-4e5e-aac9-81f7825fe552",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "陈致逸",
+      "sort-name": "Chen, Zhiyi",
+      "gender": "male",
+      "country": "CN",
+      "area": {
+        "id": "7c81bb69-a99b-3487-b6d4-0f76d7a29ca0",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "China",
+        "sort-name": "China",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "67fba220-706a-459a-b506-a59fefe7c280",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Changsha",
+        "sort-name": "Changsha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Chinese composer",
+      "ipis": [
+        "00677732108",
+        "00712723565"
+      ],
+      "isnis": [
+        "0000000492753586"
+      ],
+      "life-span": {
+        "begin": "1984-01-15",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "陳宇鵬",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "陳宇鵬",
+          "locale": "zh_Hant",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "陳致逸",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "陳致逸",
+          "locale": "zh_Hant",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chen, Yu‐Peng",
+          "name": "Yu‐Peng Chen",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chen, Zhi Yi",
+          "name": "Zhi Yi Chen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "陈宇鹏",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "陈宇鹏",
+          "locale": "zh_Hans",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "classical crossover"
+        },
+        {
+          "count": 1,
+          "name": "medieval"
+        },
+        {
+          "count": 1,
+          "name": "neo-medieval folk"
+        },
+        {
+          "count": 1,
+          "name": "chinese classical"
+        }
+      ]
+    },
+    {
+      "id": "f71ea42b-60a3-4587-b02b-67aba4c7a7d0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rotem Yakobson Aharoni",
+      "sort-name": "Aharoni, Rotem Yakobson",
+      "gender": "male",
+      "disambiguation": "clarinetist and vocalist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "86119d30-d930-4e65-a97a-e31e22388166",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "陳奕迅",
+      "sort-name": "Chan, Eason",
+      "gender": "male",
+      "country": "HK",
+      "area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hong Kong singer",
+      "ipis": [
+        "00437150376",
+        "00437150474"
+      ],
+      "isnis": [
+        "0000000120281813"
+      ],
+      "life-span": {
+        "begin": "1974-07-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "陈奕迅",
+          "name": "陈奕迅",
+          "locale": "zh_Hans_CN",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chan, Eason",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "陳奕迅",
+          "locale": "zh",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "陈奕迅",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "陈奕迅",
+          "locale": "zh_Hans",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "陳奕迅",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "陳奕迅",
+          "locale": "zh_Hant",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chan, Eason",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Eason Chan",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chen, Yixun",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chen Yixun",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chen, Yi Xun",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chen Yi Xun",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chan, Yik Shun",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chan Yik Shun",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chen Luanxun",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Chen Luanxun",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "chinese"
+        },
+        {
+          "count": 1,
+          "name": "actor"
+        },
+        {
+          "count": 1,
+          "name": "1990s"
+        },
+        {
+          "count": 1,
+          "name": "2000s"
+        },
+        {
+          "count": 2,
+          "name": "mandopop"
+        },
+        {
+          "count": 1,
+          "name": "2010s"
+        },
+        {
+          "count": 2,
+          "name": "cantopop"
+        },
+        {
+          "count": 1,
+          "name": "2020s"
+        },
+        {
+          "count": 1,
+          "name": "1990s hong kong debut"
+        },
+        {
+          "count": 1,
+          "name": "hong kong actor"
+        }
+      ]
+    },
+    {
+      "id": "bc9e5283-2a92-47fa-a4a5-07e770bd2cca",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dani Josie",
+      "sort-name": "Josie, Dani",
+      "gender": "female",
+      "area": {
+        "id": "e6e36a58-3344-4d84-a9ab-d001e5a02330",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wellington",
+        "sort-name": "Wellington",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e6e36a58-3344-4d84-a9ab-d001e5a02330",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wellington",
+        "sort-name": "Wellington",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2005-01-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Aharoni, Daniela",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Daniela Aharoni",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "2b0a7822-3e3e-44cb-ab1b-b26088dd767a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roc Chen",
+      "sort-name": "Chen, Roc",
+      "gender": "male",
+      "isnis": [
+        "0000000467325563"
+      ],
+      "life-span": {
+        "begin": "1984",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Roc Chen",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Roc Chen",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "陈鲲",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "陈鲲",
+          "locale": "zh_Hans",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "阿鯤",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "阿鯤",
+          "locale": "zh_Hant",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "陳鯤",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "陳鯤",
+          "locale": "zh_Hant",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "阿鲲",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "阿鲲",
+          "locale": "zh_Hans_CN",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "vgm"
+        },
+        {
+          "count": 1,
+          "name": "video game music"
+        }
+      ]
+    }
+  ]
+}

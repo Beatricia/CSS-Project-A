@@ -1,0 +1,324 @@
+{
+  "created": "2026-05-22T17:24:10.812Z",
+  "count": 32,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f627ed5a-51e7-4171-95fd-48bf9b2952ae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יגאל בשן",
+      "sort-name": "Bashan, Yigal",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1e6a9408-5df8-424e-adb3-5753d09b31f8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rishon LeZion",
+        "sort-name": "Rishon LeZion",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00083158177"
+      ],
+      "isnis": [
+        "0000000070378325"
+      ],
+      "life-span": {
+        "begin": "1950-09-11",
+        "end": "2018-12-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bashan, Yigal",
+          "name": "Yigal Bashan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bashan, Igal",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igal Bashan",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bashon, E.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "E. Bashon",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Badhan, Yigal",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yigal Badhan",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        }
+      ]
+    },
+    {
+      "id": "018a82b1-6778-4eaa-8fd9-bf197217cdc9",
+      "score": 58,
+      "name": "Bashan",
+      "sort-name": "Bashan",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "429966c0-1794-4df3-96bb-0db5ef5be4d0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yigal",
+      "sort-name": "Yigal",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7c3ae585-f2e1-4af4-aaba-ae240de5d0c0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yigal Calek",
+      "sort-name": "Calek, Yigal",
+      "gender": "male",
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1948",
+        "end": "2024-10-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "יגאל ישראל צליק",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "יגאל ישראל צליק",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "יגאל צליק",
+          "name": "יגאל צליק",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f7d13a00-ee14-4a2b-b120-3d333a59ab03",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sandra Bashan",
+      "sort-name": "Bashan, Sandra",
+      "gender": "female",
+      "disambiguation": "singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "11a63a9a-1f0b-469e-b14a-45929597fd5c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "name": "Yigal Haronian",
+      "sort-name": "Haronian, Yigal",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c495f9f1-96f9-451d-a331-22fb45c49c0e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "בני בשן",
+      "sort-name": "Bashan, Beni",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00451360090"
+      ],
+      "isnis": [
+        "0000000079101963"
+      ],
+      "life-span": {
+        "begin": "1977-05-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Benni Bashan",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Benni Bashan",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "4e0cab88-7fd3-486c-b9a4-69253c1b47bf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יגאל מלצר",
+      "sort-name": "Meltzer, Yigal",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1967",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Meltzer, Yigal",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yigal Meltzer",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "9d06edd5-eac5-4d9c-a8c0-e1e2ef61f2b3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jonathan Bashan Dumas",
+      "sort-name": "Dumas, Jonathan Bashan",
+      "gender": "male",
+      "ipis": [
+        "00429187142"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0962d4a2-454a-40ee-9e9e-bdf65de3be1b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "אורי בשן",
+      "sort-name": "Bashan, Ori",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1974",
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "created": "2026-05-22T17:26:16.510Z",
+  "count": 4803,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "212fa907-2e60-444e-a09e-64ea86af5f13",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yossi Green",
+      "sort-name": "Green, Yossi",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "54725299-e093-4515-9acd-30c63d336a11",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bnei Brak",
+        "sort-name": "Bnei Brak",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00125011532"
+      ],
+      "isnis": [
+        "0000000070090532"
+      ],
+      "life-span": {
+        "begin": "1955-05-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Grun, Joseph",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Joseph Grun",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "גרין, יוסי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "יוסי גרין",
+          "locale": "he_IL",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "orthodox pop"
+        }
+      ]
+    },
+    {
+      "id": "084308bd-1654-436f-ba03-df6697104e19",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 49,
+      "name": "Green Day",
+      "sort-name": "Green Day",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f9719692-c39a-4d9c-bf8c-dd4035b09534",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berkeley",
+        "sort-name": "Berkeley",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000122711282"
+      ],
+      "life-span": {
+        "begin": "1989",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "グリーン・デイ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "グリーン・デイ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Greenday",
+          "name": "Greenday",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 11,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 17,
+          "name": "alternative rock"
+        },
+        {
+          "count": 6,
+          "name": "punk"
+        },
+        {
+          "count": 2,
+          "name": "american"
+        },
+        {
+          "count": 34,
+          "name": "punk rock"
+        },
+        {
+          "count": 0,
+          "name": "grunge"
+        },
+        {
+          "count": 0,
+          "name": "post-punk"
+        },
+        {
+          "count": 0,
+          "name": "ska punk"
+        },
+        {
+          "count": 0,
+          "name": "usa"
+        },
+        {
+          "count": 4,
+          "name": "power pop"
+        },
+        {
+          "count": 0,
+          "name": "pop-punk"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 0,
+          "name": "américain"
+        },
+        {
+          "count": 0,
+          "name": "post-grunge"
+        },
+        {
+          "count": 0,
+          "name": "pop rock"
+        },
+        {
+          "count": 30,
+          "name": "pop punk"
+        },
+        {
+          "count": 0,
+          "name": "skate punk"
+        },
+        {
+          "count": 0,
+          "name": "punk pop"
+        },
+        {
+          "count": 0,
+          "name": "california"
+        },
+        {
+          "count": 0,
+          "name": "bay area"
+        },
+        {
+          "count": 0,
+          "name": "pop and chart"
+        },
+        {
+          "count": 0,
+          "name": "united states"
+        },
+        {
+          "count": 3,
+          "name": "queer"
+        },
+        {
+          "count": 0,
+          "name": "classic pop punk"
+        },
+        {
+          "count": 0,
+          "name": "california punk"
+        },
+        {
+          "count": 0,
+          "name": "classic punk"
+        },
+        {
+          "count": 0,
+          "name": "bay area punk"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        },
+        {
+          "count": -1,
+          "name": "2240665859492"
+        }
+      ]
+    },
+    {
+      "id": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Al Green",
+      "sort-name": "Green, Al",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c4d48bca-3716-4533-8966-a25b8c7b50a5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Forrest City",
+        "sort-name": "Forrest City",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US soul singer, songwriter, pastor and record producer",
+      "ipis": [
+        "00012614624",
+        "00055306003",
+        "00141754583"
+      ],
+      "isnis": [
+        "000000008398392X"
+      ],
+      "life-span": {
+        "begin": "1946-04-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "アル・グリーン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "アル・グリーン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Greene, Albert Leornes",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Albert Leornes Greene",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Green, Al",
+          "name": "Green, Al",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 14,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "1980s"
+        },
+        {
+          "count": 1,
+          "name": "1970s"
+        },
+        {
+          "count": 3,
+          "name": "gospel"
+        },
+        {
+          "count": 2,
+          "name": "southern soul"
+        },
+        {
+          "count": 1,
+          "name": "soul blues"
+        },
+        {
+          "count": 0,
+          "name": "soul and reggae"
+        },
+        {
+          "count": 1,
+          "name": "contemporary gospel"
+        },
+        {
+          "count": 1,
+          "name": "christmas music"
+        },
+        {
+          "count": 5,
+          "name": "smooth soul"
+        },
+        {
+          "count": 1,
+          "name": "pop-soul"
+        },
+        {
+          "count": 2,
+          "name": "memphis soul"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "331edda3-a98d-422e-9b44-9a9484b8a479",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יוסי בנאי",
+      "sort-name": "Banai, Yossi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00064925656"
+      ],
+      "isnis": [
+        "0000000066585620"
+      ],
+      "life-span": {
+        "begin": "1932-04-13",
+        "end": "2006-05-11",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Banai, Yossi",
+          "name": "Yossi Banai",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Banai, Yosi",
+          "name": "Yosi Banai",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a0f92dd5-4f43-40ac-aaf9-d4821892d13d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "name": "Yossi",
+      "sort-name": "Yossi",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "2000s Dutch house DJ/producer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "932b8764-4338-4daa-af34-86c0950433a6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yossi Greenbaum",
+      "sort-name": "Greenbaum, Yossi",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0ebeec28-c9f1-4602-9595-74b4c9ef6376",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Country Yossi",
+      "sort-name": "Country Yossi",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000040296302X"
+      ],
+      "life-span": {
+        "begin": "1949-01-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Country Yossi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Country Yossi",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Toiv, Yossi",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yossi Toiv",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Toiv, Yossi (Joseph)",
+          "name": "Yossi (Joseph) Toiv",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "parody"
+        },
+        {
+          "count": 1,
+          "name": "parody music"
+        },
+        {
+          "count": 1,
+          "name": "orthodox jewish"
+        }
+      ]
+    },
+    {
+      "id": "1a88b270-d763-48d5-a62c-2bb9cabb140c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grant Green",
+      "sort-name": "Green, Grant",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "759f9567-9107-40ef-a825-e57824a62e70",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "St. Louis",
+        "sort-name": "St. Louis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "jazz guitarist",
+      "ipis": [
+        "00012619609"
+      ],
+      "isnis": [
+        "000000011034995X"
+      ],
+      "life-span": {
+        "begin": "1935-06-06",
+        "end": "1979-01-31",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Grant Geeen",
+          "name": "Grant Geeen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 2,
+          "name": "hard bop"
+        },
+        {
+          "count": 1,
+          "name": "jazz-funk"
+        },
+        {
+          "count": 1,
+          "name": "cool jazz"
+        },
+        {
+          "count": 2,
+          "name": "soul jazz"
+        },
+        {
+          "count": 1,
+          "name": "latin jazz"
+        },
+        {
+          "count": -1,
+          "name": "death by heart attack"
+        }
+      ]
+    },
+    {
+      "id": "bc42cfc1-776b-447b-8156-060da9df712f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yossi Sassi",
+      "sort-name": "Sassi, Yossi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9c9a6426-3cb1-4811-87d1-effd38e43d78",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Petah Tikva",
+        "sort-name": "Petah Tikva",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli rock/metal guitarist and producer; ex‐member of Orphaned Land",
+      "ipis": [
+        "00499449189"
+      ],
+      "isnis": [
+        "0000000381628635"
+      ],
+      "life-span": {
+        "begin": "1975-02-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sassi, Yossi & the Oriental Rock Orchestra",
+          "name": "Yossi Sassi & the Oriental Rock Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "יוסי סאסי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "יוסי סאסי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yossi Saharon",
+          "name": "Yossi Saharon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yossi Sassi Sa'aron",
+          "name": "Yossi Sassi Sa'aron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yossi Sa'aron",
+          "name": "Yossi Sa'aron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "mizrahi music"
+        },
+        {
+          "count": 2,
+          "name": "instrumental"
+        },
+        {
+          "count": 0,
+          "name": "israel"
+        },
+        {
+          "count": 0,
+          "name": "israeli"
+        },
+        {
+          "count": 0,
+          "name": "eclectic"
+        },
+        {
+          "count": 2,
+          "name": "muzika mizrahit"
+        },
+        {
+          "count": 0,
+          "name": "mizrahit"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": -1,
+          "name": "oriental"
+        },
+        {
+          "count": 0,
+          "name": "music"
+        },
+        {
+          "count": 2,
+          "name": "oriental rock"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 0,
+          "name": "upbeat"
+        },
+        {
+          "count": 0,
+          "name": "playful"
+        },
+        {
+          "count": 2,
+          "name": "progressive rock"
+        },
+        {
+          "count": 2,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 2,
+          "name": "progressive folk"
+        },
+        {
+          "count": 0,
+          "name": "oriental metal"
+        },
+        {
+          "count": 1,
+          "name": "progressive metal"
+        },
+        {
+          "count": 2,
+          "name": "folk rock"
+        }
+      ]
+    },
+    {
+      "id": "041e1a11-4c07-4ee7-bddd-faeb5e7a48e5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yossi Goldstein",
+      "sort-name": "Goldstein, Yossi",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

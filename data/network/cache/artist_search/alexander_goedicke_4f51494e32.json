@@ -1,0 +1,798 @@
+{
+  "created": "2026-05-22T17:12:40.590Z",
+  "count": 5129,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "682a6858-10fd-4945-8ee9-a20f9299103c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Александр Гёдике",
+      "sort-name": "Goedicke, Alexander",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "isnis": [
+        "0000000082285804"
+      ],
+      "life-span": {
+        "begin": "1877-03-04",
+        "end": "1957-07-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Гёдике, Александр",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Александр Гёдике",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Гёдике, Александр Фёдорович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Александр Фёдорович Гёдике",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Goedicke, Alexander",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexander Goedicke",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Gedicke",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alexander Gedicke",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gedike, Aleksandr",
+          "name": "Aleksandr Gedike",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1f27d918-b658-4918-aa18-80897433e14b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Peter Alexander",
+      "sort-name": "Alexander, Peter",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian singer, actor, entertainer and showmaster",
+      "ipis": [
+        "00040464801",
+        "00040465014"
+      ],
+      "isnis": [
+        "0000000114712330"
+      ],
+      "life-span": {
+        "begin": "1926-06-30",
+        "end": "2011-02-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Neuenhauser, Alexander",
+          "name": "Alexander Neuenhauser",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neumayer, Peter Alexander Ferdinand Maximilian",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Peter Alexander Ferdinand Maximilian Neumayer",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neumayer, Peter Alexander",
+          "name": "Peter Alexander Neumayer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "actor"
+        },
+        {
+          "count": 3,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "austrian"
+        }
+      ]
+    },
+    {
+      "id": "3db4523b-3b14-4038-aaa5-bad5e70c1fe2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Goedicke",
+      "sort-name": "Goedicke, Frank",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f80f8fe9-bd8c-45e5-938b-94d9e023adbf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oliver Goedicke",
+      "sort-name": "Goedicke, Oliver",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00257173165"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gödicke, Oliver",
+          "name": "Oliver Gödicke",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e85a23c7-0334-4ef5-9fd9-9b681e50c646",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Daniel Alexander",
+      "sort-name": "Alexander, Daniel",
+      "gender": "male",
+      "country": "ID",
+      "area": {
+        "id": "d3a68bd0-7419-3f99-a5bd-204d6e057089",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Indonesia",
+        "sort-name": "Indonesia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e1e73e34-e6b3-4fce-aac0-9a3d1d1d8e69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Surabaya",
+        "sort-name": "Surabaya",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Pendidik Pembidik",
+      "life-span": {
+        "begin": "1956-03-22",
+        "ended": null
+      }
+    },
+    {
+      "id": "473653cf-16fc-446c-a07f-96ac43d27dca",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Scourby",
+      "sort-name": "Scourby, Alexander",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1913-11-13",
+        "end": "1985-02-22",
+        "ended": true
+      }
+    },
+    {
+      "id": "a4eba7b5-aceb-4acf-b297-3c0a3cd42757",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Александр Николаевич Скрябин",
+      "sort-name": "Scriabin, Alexander Nikolayevich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist and composer",
+      "isnis": [
+        "0000000122817132"
+      ],
+      "life-span": {
+        "begin": "1872-01-06",
+        "end": "1915-04-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Skrjabin, Aleksandr Nikolajevitj",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksandr Nikolajevitj Skrjabin",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Skrjabin, Aleksandr",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksandr Skrjabin",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Скрябин, Александр Николаевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Александр Николаевич Скрябин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Skrjabin, Aleksandr",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksandr Skrjabin",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scriabin, Alexander",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexander Scriabin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scriabine",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Scriabine",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Skryabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Skryabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "すくりやひん あれくさんとる",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "アレクサンドル・スクリャービン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Nikolayevich Scriabin",
+          "name": "Alexander Nikolayevich Scriabin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aleksandr Nikoláyevich Skriabin",
+          "name": "Aleksandr Nikoláyevich Skriabin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Skrjabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Skrjabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scriabine, Alexandre",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexandre Scriabine",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Skrjabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alexander Skrjabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Nikolajewitsch Skrjabin",
+          "name": "Alexander Nikolajewitsch Skrjabin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A. Scriabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "A. Scriabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scriabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Scriabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Skryabin",
+          "name": "Alexander Skryabin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "059d3759-8605-403b-8741-26d5b970b4c1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Nakarada",
+      "sort-name": "Nakarada, Alexander",
+      "gender": "male",
+      "country": "NO",
+      "area": {
+        "id": "6743d351-6f37-3049-9724-5041161fff4d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Norway",
+        "sort-name": "Norway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6743d351-6f37-3049-9724-5041161fff4d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Norway",
+        "sort-name": "Norway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Norwegian composer",
+      "isnis": [
+        "0000000482861380"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "production music"
+        }
+      ]
+    },
+    {
+      "id": "21848b19-5a20-4a58-b168-0b5f95524cdc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Brandon",
+      "sort-name": "Brandon, Alexander",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7b2ca1e7-e7f6-4155-881d-c660a45c11e8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cleveland",
+        "sort-name": "Cleveland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US video game composer & demoscene musician",
+      "isnis": [
+        "0000000004900760"
+      ],
+      "life-span": {
+        "begin": "1974-09-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Brandon, Alexander",
+          "name": "アレクサンダー・ブランドン",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brandon, Alex",
+          "name": "Alex Brandon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sandman",
+          "name": "Sandman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chromatic Dragon",
+          "name": "Chromatic Dragon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brandon, Alexander",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexander Brandon",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "video game music"
+        },
+        {
+          "count": 1,
+          "name": "vgm"
+        },
+        {
+          "count": 1,
+          "name": "united states"
+        }
+      ]
+    },
+    {
+      "id": "1c9f3af4-4372-41d5-aa0a-a7a0e041a7bd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Courage",
+      "sort-name": "Courage, Alexander",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Philadelphia",
+        "sort-name": "Philadelphia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2a87a504-320b-4392-9bd7-1b22ababef49",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Pacific Palisades",
+        "sort-name": "Pacific Palisades",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00006969952",
+        "00041395396"
+      ],
+      "isnis": [
+        "0000000055130057"
+      ],
+      "life-span": {
+        "begin": "1919-12-10",
+        "end": "2008-05-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Courage, Alexander Mair, Jr.",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alexander Mair Courage, Jr.",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Courage Alexander M",
+          "name": "Courage Alexander M",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A. Courage",
+          "name": "A. Courage",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sandy Courage",
+          "name": "Sandy Courage",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "star trek soundtracks"
+        }
+      ]
+    }
+  ]
+}

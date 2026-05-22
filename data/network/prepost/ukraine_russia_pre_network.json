@@ -1,0 +1,58 @@
+{
+  "nodes": [
+    {
+      "id": "alyona alyona",
+      "artist_name": "alyona alyona",
+      "artist_mbid": "1a6993eb-fa5b-42e2-a834-2a9539c53be1",
+      "recording_count": 2,
+      "weighted_degree": 2,
+      "degree": 2
+    },
+    {
+      "id": "Alina Pash",
+      "artist_name": "Alina Pash",
+      "artist_mbid": "95593341-529e-40e3-ad57-4622f2aacdf8",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Olexesh",
+      "artist_name": "Olexesh",
+      "artist_mbid": "c4e16e8e-4ab7-4f35-ad58-24c00c76ac84",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "Alina Pash",
+      "target": "alyona alyona",
+      "weight": 1,
+      "recordings": [
+        "Падло"
+      ],
+      "recording_titles": [
+        "Падло (2019)"
+      ],
+      "recording_years": [
+        "2019"
+      ]
+    },
+    {
+      "source": "alyona alyona",
+      "target": "Olexesh",
+      "weight": 1,
+      "recordings": [
+        "Shalom"
+      ],
+      "recording_titles": [
+        "Shalom (2021)"
+      ],
+      "recording_years": [
+        "2021"
+      ]
+    }
+  ]
+}

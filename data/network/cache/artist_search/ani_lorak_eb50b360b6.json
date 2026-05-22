@@ -1,0 +1,507 @@
+{
+  "created": "2026-05-22T16:46:40.538Z",
+  "count": 35542,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "29ec65e9-0dcf-4dfa-9155-7f13cef07335",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ани Лорак",
+      "sort-name": "Lorak, Ani",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f491f92e-e657-43ed-8eb2-5bee763d0ccc",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Chernivets'ka Oblast'",
+        "sort-name": "Chernivets'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "01002522531"
+      ],
+      "isnis": [
+        "000000040673868X"
+      ],
+      "life-span": {
+        "begin": "1978-09-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ani Lorak",
+          "name": "Ani Lorak",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kuek, Karolina Miroslavovna",
+          "name": "Karolina Miroslavovna Kuek",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Куєк, Кароліна Мирославівна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Кароліна Мирославівна Куєк",
+          "locale": "uk_UA",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kuiek, Karolina Myroslavivna",
+          "name": "Karolina Myroslavivna Kuiek",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kuyek, Karolina Myroslavivna",
+          "name": "Karolina Myroslavivna Kuyek",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лорак, Ани",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ани Лорак",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kuek, Karolina Myroslavivna",
+          "name": "Karolina Myroslavivna Kuek",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лорак, Ані",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ані Лорак",
+          "locale": "uk_UA",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Куек, Каролина Мирославовна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Каролина Мирославовна Куек",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "ukrainian"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        }
+      ]
+    },
+    {
+      "id": "a7bdc71f-697a-45d9-92b2-a01fbbe50272",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 64,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ani DiFranco",
+      "sort-name": "DiFranco, Ani",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7e5e7fd7-c1eb-4cb8-87e2-fb1c0eda9e48",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Buffalo",
+        "sort-name": "Buffalo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00235346380"
+      ],
+      "isnis": [
+        "0000000114885215"
+      ],
+      "life-span": {
+        "begin": "1970-09-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ani DeFranco",
+          "name": "Ani DeFranco",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "AniDiFranco",
+          "name": "AniDiFranco",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ani di Franco",
+          "name": "Ani di Franco",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ani Difranco",
+          "name": "Ani Difranco",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "DiFranco, Angela Maria",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Angela Maria DiFranco",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "urban folk"
+        }
+      ]
+    },
+    {
+      "id": "4ff534dc-6c13-4b3c-8489-c5724a610fcc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ANI",
+      "sort-name": "ANI",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Finnish pop singer",
+      "life-span": {
+        "begin": "1998-04-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ani",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ani",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nnebedum, Aniachunamoso",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Aniachunamoso Nnebedum",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ba1b49ac-7c1f-4bb8-b31d-e16b4f61b512",
+      "score": 56,
+      "name": "ANI",
+      "sort-name": "ANI",
+      "area": {
+        "id": "0197a505-d351-475f-9e6d-eda15a83a235",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Edmonton",
+        "sort-name": "Edmonton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian darkwave",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "31b17499-318f-4ca6-ba3e-c0946ba3ccf5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "name": "ani",
+      "sort-name": "ani",
+      "disambiguation": "onoken",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "43712efc-8b3f-479a-bc69-eab78d52d14a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ani",
+      "sort-name": "Ani",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Detroit",
+        "sort-name": "Detroit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "06563300-1e2f-4b3f-8693-4b2d6915a017",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Farmington Hills",
+        "sort-name": "Farmington Hills",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "house vocalist Laura Gavoor",
+      "isnis": [
+        "0000000372891861"
+      ],
+      "life-span": {
+        "begin": "1958",
+        "end": "2002-10-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Gavoor, Laura Ani",
+          "name": "Laura Ani Gavoor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "155c61a6-50b1-4f80-9a1a-13eda420474e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "name": "Ani",
+      "sort-name": "Ani",
+      "begin-area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "swiss rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "91eaac92-975a-4a3a-932c-85c022478bfc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ani",
+      "sort-name": "Ani",
+      "gender": "male",
+      "disambiguation": "synth-pop producer George Kazaklis",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "14f3b448-ef80-4b8f-9383-fdbac38653a6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ANI",
+      "sort-name": "ANI",
+      "gender": "male",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c930eb46-7d28-4e5a-9e96-097f0d73090f",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Takatsu-ku",
+        "sort-name": "Takatsu-ku",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "スチャダラパー",
+      "life-span": {
+        "begin": "1967-07-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Matsumoto, Yousuke",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "松本洋介",
+          "locale": "ja",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scha Dara Ani",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "スチャダラアニ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ccf9da7f-d4f4-4dba-bab2-27cb9de9d629",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "A.N.I.",
+      "sort-name": "A.N.I.",
+      "gender": "female",
+      "area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Techno DJ and producer",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

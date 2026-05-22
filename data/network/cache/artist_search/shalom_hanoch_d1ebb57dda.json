@@ -1,0 +1,263 @@
+{
+  "created": "2026-05-22T17:22:38.648Z",
+  "count": 153,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5dfde28d-8e46-43f8-bb33-2f593ee8c9f1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "שלום חנוך",
+      "sort-name": "Hanoch, Shalom",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00034036222"
+      ],
+      "isnis": [
+        "0000000118782926"
+      ],
+      "life-span": {
+        "begin": "1946-09-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Shalom Chanoch",
+          "name": "Shalom Chanoch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shalom Hanuh",
+          "name": "Shalom Hanuh",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hanoch, Shalom",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Shalom Hanoch",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hebrew"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "4e4f9c65-61e0-48aa-a283-6f80d162bec2",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 42,
+      "name": "Shalom",
+      "sort-name": "Shalom",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "disambiguation": "Czech pop group",
+      "life-span": {
+        "begin": "1992",
+        "end": "1996",
+        "ended": true
+      }
+    },
+    {
+      "id": "14a3af43-d7c7-49d6-9c59-b4b6b7767a3d",
+      "score": 40,
+      "name": "Barak Hanoch",
+      "sort-name": "Barak Hanoch",
+      "disambiguation": "Ambient",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f94ff3e0-1498-497e-b9c3-e6093dce2183",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 40,
+      "name": "Shalom",
+      "sort-name": "Shalom",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hard Rock",
+      "life-span": {
+        "begin": "1987",
+        "end": "1996",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "glam rock"
+        }
+      ]
+    },
+    {
+      "id": "311d15a2-f9c9-4293-be0a-0a1904ae47a5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Shalom",
+      "sort-name": "Shalom",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Brooklyn based artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6bb2188b-15a0-49c8-a0cd-14e4639d7d83",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "name": "Shalom",
+      "sort-name": "Shalom",
+      "disambiguation": "reggae artist, perform w Rhythm & Sound",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4295bf8c-8f42-4038-a4c5-ca8ca01ca57d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 38,
+      "name": "Shalom",
+      "sort-name": "Shalom",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1d0b2ae4-376d-40a5-b8b6-385daec5d7a2",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Terrassa",
+        "sort-name": "Terrassa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Appears on \"Pentecostes Vibrations\" Compulation",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "361a4777-43a9-4f8e-a231-b08c8dbcce51",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Shalom",
+      "sort-name": "Shalom",
+      "gender": "male",
+      "disambiguation": "Christian music singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a7767e49-a054-4477-9e3b-8d0e1a2f26e3",
+      "score": 38,
+      "name": "Shalom",
+      "sort-name": "Shalom",
+      "disambiguation": "featured by Micky Medina",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "00a0bfde-1691-4f8e-946d-f8475bed7b0d",
+      "score": 38,
+      "name": "Shalom",
+      "sort-name": "Shalom",
+      "disambiguation": "appears on Dub Archanoid Trim's track",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

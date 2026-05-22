@@ -1,0 +1,254 @@
+{
+  "created": "2026-05-22T16:56:56.454Z",
+  "count": 7,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8fbecb92-da45-4f01-9cc5-746dcfdb200e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Анжелика Варум",
+      "sort-name": "Varum, Anzhelika",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000406515961"
+      ],
+      "life-span": {
+        "begin": "1969-05-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Varum, Anzhelika",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anzhelika Varum",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Angelika Varum",
+          "name": "Angelika Varum",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A. Varum",
+          "name": "A. Varum",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "europop"
+        }
+      ]
+    },
+    {
+      "id": "95119ae7-be61-4be4-9785-fa97246c2919",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Varum",
+      "sort-name": "Varum",
+      "gender": "male",
+      "area": {
+        "id": "20619e36-fca8-4499-bcc8-be01a3ea3e41",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Leipzig",
+        "sort-name": "Leipzig",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d2bb961f-b771-4600-b0a0-d26bc2726a03",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 38,
+      "name": "Анжелика",
+      "sort-name": "Anzhelika",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "russian pop duo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "42181a3d-c037-4c5e-8d75-bbc5cb2dd6ae",
+      "score": 38,
+      "name": "Анжелика",
+      "sort-name": "Anzhelika",
+      "disambiguation": "???",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "454325d0-0b2f-4505-89b3-fb2337eaf322",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Angelika Fuchs",
+      "sort-name": "Fuchs, Angelika",
+      "gender": "female",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Fuks, Anzhelika",
+          "name": "Anzhelika Fuks",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "67ac52b6-79cc-4287-88f8-547dacf996ef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Юрий Варум",
+      "sort-name": "Varum, Yury",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "42cd936b-9dfd-4b56-8ac8-296a2f6421cc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gomel",
+        "sort-name": "Gomel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "4a9aeb42-3763-4234-8fb8-1167ac1dfdfe",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Miami",
+        "sort-name": "Miami",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1949-10-08",
+        "end": "2014-06-05",
+        "ended": true
+      }
+    },
+    {
+      "id": "b983477a-4f15-4eee-823e-fe0d5d08e9cc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Анжелика Шатулина",
+      "sort-name": "Shatulina, Anzhelika",
+      "gender": "female",
+      "area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

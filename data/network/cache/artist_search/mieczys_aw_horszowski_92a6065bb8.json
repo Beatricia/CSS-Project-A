@@ -1,0 +1,545 @@
+{
+  "created": "2026-05-22T16:50:20.862Z",
+  "count": 42,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "37cd67d1-a786-4f5c-b91b-14f93b90ca04",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Horszowski",
+      "sort-name": "Horszowski, Mieczysław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Philadelphia",
+        "sort-name": "Philadelphia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000118279116"
+      ],
+      "life-span": {
+        "begin": "1892-06-23",
+        "end": "1993-05-22",
+        "ended": true
+      }
+    },
+    {
+      "id": "554fbabf-54f4-4640-8eb6-88693b6085c7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Weinberg",
+      "sort-name": "Weinberg, Mieczysław",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "a.k.a. Vainberg (composer)",
+      "isnis": [
+        "0000000121204377"
+      ],
+      "life-span": {
+        "begin": "1919-12-08",
+        "end": "1996-02-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Вайнберг, Мечислав Самуилович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Мечислав Самуилович Вайнберг",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "משה ,וינברג",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה וינברג",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "משה ,װאַינבערג",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה װאַינבערג",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisei Vainberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisei Vainberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weinberg, Mieczysław",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mieczysław Weinberg",
+          "locale": "pl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Weinberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Weinberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Vaynberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Vaynberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Vainberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Vainberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisei Weinberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisei Weinberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Samuilovich Vaynberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Samuilovich Vaynberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вайнберг, Моисей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Моисей Вайнберг",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вайнберг, Моисей Самуилович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Моисей Самуилович Вайнберг",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wajnberg, Mieczysław",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mieczysław Wajnberg",
+          "locale": "pl",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "a552d4dd-7057-4d89-a314-92142717c18a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 37,
+      "name": "Horszowski Trio",
+      "sort-name": "Horszowski Trio",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2011",
+        "ended": null
+      }
+    },
+    {
+      "id": "2c4a0a7c-9826-457d-98d7-39ecaa6aac62",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Fogg",
+      "sort-name": "Fogg, Mieczysław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1901-05-30",
+        "end": "1990-09-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Fogg, Mieczyslaw",
+          "name": "Mieczyslaw Fogg",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "tango"
+        },
+        {
+          "count": 1,
+          "name": "baritone"
+        }
+      ]
+    },
+    {
+      "id": "22f092df-b2f1-4a85-a357-db66cb5d29fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Kosz",
+      "sort-name": "Kosz, Mieczysław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish Musician & Jazz Pianist",
+      "life-span": {
+        "begin": "1944-01-10",
+        "end": "1973-05-31",
+        "ended": true
+      }
+    },
+    {
+      "id": "24d3772a-a24a-40b0-ab0a-c9c8ccf29162",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Jurecki",
+      "sort-name": "Jurecki, Mieczysław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "basista, gitarzysta, kompozytor i aranżer",
+      "life-span": {
+        "begin": "1956-10-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Jurecki, Mietek",
+          "name": "Mietek Jurecki",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "bc9dceeb-47cf-436d-b557-b2220820e175",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Karłowicz",
+      "sort-name": "Karlowicz, Mieczyslaw",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish composer",
+      "isnis": [
+        "000000008135285X"
+      ],
+      "life-span": {
+        "begin": "1876-12-11",
+        "end": "1909-02-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mieczyslaw Karlowicz",
+          "name": "Mieczyslaw Karlowicz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "polish composer"
+        }
+      ]
+    },
+    {
+      "id": "ea03ac7c-b5c1-48b2-b8dc-e5209ad23fb8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Wojnicki",
+      "sort-name": "Wojnicki, Mieczysław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1919-09-18",
+        "end": "2007-01-13",
+        "ended": true
+      }
+    },
+    {
+      "id": "380439cd-5d1e-4151-b102-b2b521d1557f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Czechowicz",
+      "sort-name": "Czechowicz, Mieczysław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "98466136-d6d9-47ec-88bc-06f0fc226d79",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lublin",
+        "sort-name": "Lublin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000071505752"
+      ],
+      "life-span": {
+        "begin": "1930-09-28",
+        "end": "1991-09-14",
+        "ended": true
+      }
+    },
+    {
+      "id": "4ee8dfbe-cf93-46db-b795-2b5eb697c937",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Pawlak",
+      "sort-name": "Pawlak, Mieczysław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish oboist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,555 @@
+{
+  "created": "2026-05-22T17:16:53.313Z",
+  "count": 449,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f2ef5bc9-f6dd-4ec9-9d48-86a8695959fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Лидия Кавина",
+      "sort-name": "Kavina, Lydia",
+      "gender": "female",
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055836025"
+      ],
+      "life-span": {
+        "begin": "1967-09-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kawina, Lidija",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Lidija Kawina",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kawina, Lidija Jewgenjewna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lidija Jewgenjewna Kawina",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кавина, Лидия Евгеньевна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Лидия Евгеньевна Кавина",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кавина, Лидия",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Лидия Кавина",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kavina, Lydia",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Lydia Kavina",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "theremin"
+        }
+      ]
+    },
+    {
+      "id": "51d2793c-2c23-47c9-8ad5-f85c91ae07ef",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "Lydia",
+      "sort-name": "Lydia",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "10475c13-637b-4a91-abe5-b2667999553b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gilbert",
+        "sort-name": "Gilbert",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Band from Arizona",
+      "life-span": {
+        "begin": "2003",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "indie rock"
+        }
+      ]
+    },
+    {
+      "id": "74f2add6-e8b6-4323-a21b-443600379d16",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lydia Lunch",
+      "sort-name": "Lunch, Lydia",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "17203e02-355a-40db-a524-980192eb9d0f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rochester",
+        "sort-name": "Rochester",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00120766100",
+        "00120766299"
+      ],
+      "isnis": [
+        "0000000080552200"
+      ],
+      "life-span": {
+        "begin": "1959-06-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Koch, Lydia Anne",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lydia Anne Koch",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lydia Lunch Retrovirus",
+          "name": "Lydia Lunch Retrovirus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "4ad"
+        },
+        {
+          "count": 1,
+          "name": "punk blues"
+        },
+        {
+          "count": 2,
+          "name": "experimental rock"
+        },
+        {
+          "count": 2,
+          "name": "no wave"
+        },
+        {
+          "count": 2,
+          "name": "spoken word"
+        },
+        {
+          "count": 1,
+          "name": "gothic rock"
+        },
+        {
+          "count": 1,
+          "name": "deathrock"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 1,
+          "name": "post-punk"
+        },
+        {
+          "count": 2,
+          "name": "noise rock"
+        },
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": -1,
+          "name": "actress"
+        }
+      ]
+    },
+    {
+      "id": "df2a707c-9cdf-462e-8705-09b61087dec7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lydia Mendoza",
+      "sort-name": "Mendoza, Lydia",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Houston",
+        "sort-name": "Houston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "a6f7157a-bfab-49e8-a22b-240ade4552ca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San Antonio",
+        "sort-name": "San Antonio",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1916-05-21",
+        "end": "2007-12-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Menoza, Lydia",
+          "name": "Lydia Menoza",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "mexican"
+        }
+      ]
+    },
+    {
+      "id": "c1ccc784-9f18-4369-96b1-38106419b5ad",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tina Arena",
+      "sort-name": "Arena, Tina",
+      "gender": "female",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b4e9352c-8edf-4911-8fa3-e852afa30501",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Melbourne",
+        "sort-name": "Melbourne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00495854005"
+      ],
+      "isnis": [
+        "0000000078400873"
+      ],
+      "life-span": {
+        "begin": "1967-11-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Arena, Filippina Lydia",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Filippina Lydia Arena",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "aln-sh"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        }
+      ]
+    },
+    {
+      "id": "6f2ee410-d72b-47fc-9734-b8ddc90cff85",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lydia",
+      "sort-name": "Lydia",
+      "gender": "female",
+      "area": {
+        "id": "0e4c5a2b-b595-494d-8c3e-2968d18b6e1f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beograd",
+        "sort-name": "Beograd",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "trance vocalist Lydia Delay",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "chillout"
+        },
+        {
+          "count": 1,
+          "name": "progressive trance"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 1,
+          "name": "trance"
+        }
+      ]
+    },
+    {
+      "id": "a96ab31f-03f3-45e1-bffe-c33fb648e614",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lydia",
+      "sort-name": "Lydia",
+      "gender": "female",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9ddf829c-48ee-4457-a80d-f7370f24f2ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Madrid",
+        "sort-name": "Madrid",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish pop singer Lidia Rodríguez Fernández",
+      "isnis": [
+        "0000000059716434"
+      ],
+      "life-span": {
+        "begin": "1980-01-15",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "30432ed9-d03c-43c0-a762-615a3229710c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lydia",
+      "sort-name": "Lydia",
+      "gender": "female",
+      "country": "TH",
+      "area": {
+        "id": "ce209e56-cda5-358e-96db-830e3405b675",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Thailand",
+        "sort-name": "Thailand",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Female singer from Thailand",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lydia",
+          "name": "ลิเดีย",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lydia",
+          "name": "Lydia",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1ff8f015-05f7-4498-8f2a-51f91a91ef7d",
+      "score": 49,
+      "name": "Lydia",
+      "sort-name": "Lydia",
+      "disambiguation": "new age, mystic",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "new age"
+        }
+      ]
+    },
+    {
+      "id": "f48c3355-e4ad-4fbe-90a3-86fcbff63072",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lydia Natalia",
+      "sort-name": "Lydia Natalia",
+      "gender": "female",
+      "country": "ID",
+      "area": {
+        "id": "d3a68bd0-7419-3f99-a5bd-204d6e057089",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Indonesia",
+        "sort-name": "Indonesia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

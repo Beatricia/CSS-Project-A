@@ -1,0 +1,266 @@
+{
+  "created": "2026-05-22T17:19:09.379Z",
+  "count": 574,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "40a0a2c6-4a92-4442-b16e-1750111818b2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "נעמי שמר",
+      "sort-name": "Shemer, Naomi",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00028521398"
+      ],
+      "isnis": [
+        "0000000081091768"
+      ],
+      "life-span": {
+        "begin": "1930-07-13",
+        "end": "2004-06-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "אליפז",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "אליפז",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "כרמל, ש.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ש. כרמל",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shemer, Naomi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Naomi Shemer",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Naomi Shemer",
+          "name": "Naomi Sapir",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3a58d9e0-fab3-4ac1-9f8a-157f5f428997",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 44,
+      "name": "Naomi",
+      "sort-name": "Naomi",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German downtempo duo Bernd Lechler & Nico Tobias Wirtz",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8c49d231-0279-4c85-b6d3-185f57461274",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Shemer Kuznits",
+      "sort-name": "Kuznits, Shemer",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5567a184-f635-4019-b86d-b166d470648e",
+      "score": 44,
+      "name": "Shemer Mordechai",
+      "sort-name": "Mordechai, Shemer",
+      "area": {
+        "id": "1462269e-911b-4db3-be41-434393484e34",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Missouri",
+        "sort-name": "Missouri",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2db8fdb9-b91b-40f1-b4f2-b929c4e1a63a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Shemer",
+      "sort-name": "Shemer, David",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "harpsichordist / conductor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "854d609b-b180-4d9b-9e2f-f32932235bec",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tom Shemer",
+      "sort-name": "Shemer, Tom",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e715d006-5a4b-4cab-9724-8cf35c3c4ef4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "name": "Marc Shemer",
+      "sort-name": "Shemer, Marc",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "331f733f-5846-4114-8044-59997d070a13",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Daniela Shemer",
+      "sort-name": "Shemer, Daniela",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8d6b0fa9-9b2e-47f4-9705-57f38c1de56f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "name": "Naomi",
+      "sort-name": "Naomi",
+      "area": {
+        "id": "30bcaa92-9870-4798-be1a-4e0036755316",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Osaka",
+        "sort-name": "Osaka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Lo-Fi artist from Osaka, Uses the tagline \"(or else)\"",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3b67c9d7-0556-422f-95a4-7902249aa3e3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "name": "Naomi",
+      "sort-name": "Naomi",
+      "disambiguation": "Folk vocalist",
+      "ipis": [
+        "00233391387"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lewis, Naomi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Naomi Lewis",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

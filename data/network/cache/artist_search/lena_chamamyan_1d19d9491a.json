@@ -1,0 +1,660 @@
+{
+  "created": "2026-05-22T17:35:01.243Z",
+  "count": 3152,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "6bba0cc9-74c4-4a83-8171-a225726e9644",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lena Chamamyan",
+      "sort-name": "Chamamian, Lena",
+      "gender": "female",
+      "country": "SY",
+      "area": {
+        "id": "18086faa-7f75-3ca3-a5bb-a77a83d4b200",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Syria",
+        "sort-name": "Syria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "725210c4-3f89-4f49-a508-794e92f700ef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Damascus",
+        "sort-name": "Damascus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1980",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lena Chamamian",
+          "name": "Lena Chamamian",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chamamyan, Lena",
+          "name": "لينا شاماميان",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chamamyan, Lena",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lena Chamamyan",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "néo-trad"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "script-arab"
+        }
+      ]
+    },
+    {
+      "id": "0031bc7a-1b6f-4620-99db-5202405b0749",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lena Horne",
+      "sort-name": "Horne, Lena",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b2213f1e-563c-4809-b158-7529075397df",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Bedford–Stuyvesant",
+        "sort-name": "Bedford–Stuyvesant",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Manhattan",
+        "sort-name": "Manhattan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121305098"
+      ],
+      "life-span": {
+        "begin": "1917-06-30",
+        "end": "2010-05-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Horne Lena",
+          "name": "Horne Lena",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lene Horne",
+          "name": "Lene Horne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lena Horn",
+          "name": "Lena Horn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 1,
+          "name": "broadway"
+        },
+        {
+          "count": -1,
+          "name": "death by heart failure"
+        },
+        {
+          "count": 1,
+          "name": "cotm candidate"
+        }
+      ]
+    },
+    {
+      "id": "cb2b9e04-260f-4c64-8456-d73f28258e55",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lena",
+      "sort-name": "Lena",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "eca79b55-a6c4-4078-a383-8353271ee81e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hannover",
+        "sort-name": "Hannover",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Lena Meyer-Landrut, Eurovision winner",
+      "ipis": [
+        "00617950236",
+        "00631213101"
+      ],
+      "isnis": [
+        "0000000083370189"
+      ],
+      "life-span": {
+        "begin": "1991-05-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lena",
+          "name": "Lena",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Meyer-Landrut, Lena",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lena Meyer-Landrut",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hanover"
+        },
+        {
+          "count": 1,
+          "name": "indie pop"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "germany"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "berlin"
+        },
+        {
+          "count": 1,
+          "name": "hannover"
+        }
+      ]
+    },
+    {
+      "id": "f1693075-b637-49f8-8d0e-8cee8bec77cb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lena Raine",
+      "sort-name": "Raine, Lena",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Seattle",
+        "sort-name": "Seattle",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00874347700"
+      ],
+      "isnis": [
+        "0000000467214468"
+      ],
+      "life-span": {
+        "begin": "1984-02-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Raine, Lena",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Lena Raine",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "soundtrack"
+        },
+        {
+          "count": 2,
+          "name": "ambient"
+        },
+        {
+          "count": 4,
+          "name": "vgm"
+        },
+        {
+          "count": 3,
+          "name": "video game music"
+        },
+        {
+          "count": 4,
+          "name": "chiptune"
+        },
+        {
+          "count": 1,
+          "name": "united states"
+        },
+        {
+          "count": 1,
+          "name": "bookmark"
+        }
+      ]
+    },
+    {
+      "id": "58cd9fcf-00df-4c36-bcf8-feeedec11229",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lena Valaitis",
+      "sort-name": "Valaitis, Lena",
+      "gender": "female",
+      "country": "LT",
+      "area": {
+        "id": "0785dc14-96af-3dc4-bde4-dcdfc2e2d0d6",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Lithuania",
+        "sort-name": "Lithuania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2657dda4-489a-4555-a399-0cc6d435033b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Klaipėda",
+        "sort-name": "Klaipėda",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000058868161"
+      ],
+      "life-span": {
+        "begin": "1943-09-07",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "schlager"
+        }
+      ]
+    },
+    {
+      "id": "0bc56b37-6c5a-47b9-a4a4-1309eb7edce3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lena",
+      "sort-name": "Lena",
+      "gender": "female",
+      "disambiguation": "Cathrine Rose",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fba3e876-68f1-4a1f-99d9-c604480202ba",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lena Philipsson",
+      "sort-name": "Philipsson, Lena",
+      "gender": "female",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c7545614-c52f-49f3-9ff4-ec62a3ccccee",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Vetlanda Municipality",
+        "sort-name": "Vetlanda Municipality",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swedish singer, songwriter and media personality",
+      "ipis": [
+        "00237765735"
+      ],
+      "isnis": [
+        "0000000129631656"
+      ],
+      "life-span": {
+        "begin": "1966-01-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lena PH",
+          "name": "Lena PH",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "pop"
+        },
+        {
+          "count": 3,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "dansband"
+        },
+        {
+          "count": 1,
+          "name": "euro-pop"
+        },
+        {
+          "count": 1,
+          "name": "swedish pop"
+        },
+        {
+          "count": 1,
+          "name": "swedish pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "schlager music"
+        }
+      ]
+    },
+    {
+      "id": "c4a74149-6e0b-4d16-a042-0ce80bbd9a5a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lena",
+      "sort-name": "Lena",
+      "gender": "male",
+      "area": {
+        "id": "eedd8c4c-2d89-4cc1-bc3f-07b316c0ea59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nantes",
+        "sort-name": "Nantes",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "29cb6a9c-006b-4d32-bad6-465cafef0571",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ouagadougou",
+        "sort-name": "Ouagadougou",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Mathias Delplanque, French electrodub",
+      "isnis": [
+        "0000000372824503"
+      ],
+      "life-span": {
+        "begin": "1973",
+        "ended": null
+      }
+    },
+    {
+      "id": "90b9a510-c18c-42b1-955e-f03d461805ed",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Λένα Πλάτωνος",
+      "sort-name": "Platonos, Lena",
+      "gender": "female",
+      "country": "GR",
+      "area": {
+        "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Greece",
+        "sort-name": "Greece",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "004af4d7-9e61-4c72-a468-f4620bef64e1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Heraklion",
+        "sort-name": "Heraklion",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Greek musician",
+      "isnis": [
+        "0000000372546902"
+      ],
+      "life-span": {
+        "begin": "1951-10-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Platonos, Lena",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Lena Platonos",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "greek"
+        }
+      ]
+    },
+    {
+      "id": "97bd413d-1818-454d-8ec1-c810c042ffc0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lena",
+      "sort-name": "Lena",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ab6928e6-04e6-4c00-86c3-ffb7f66ca821",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Flensburg",
+        "sort-name": "Flensburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German house vocalist Lena Mahrt",
+      "isnis": [
+        "000000040671643X"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mahrt, Lena",
+          "name": "Lena Mahrt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

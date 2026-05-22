@@ -1,0 +1,624 @@
+{
+  "created": "2026-05-22T16:46:50.908Z",
+  "count": 404,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "bfb00581-3cf1-4c17-9bb4-2173940d1084",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Наташа Королёва",
+      "sort-name": "Koroleva, Natasha",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000073250175"
+      ],
+      "life-span": {
+        "begin": "1973-05-31",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Natasha Korolyova",
+          "name": "Natasha Korolyova",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Королёва, Наташа",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Наташа Королёва",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Порывай, Наталия Владимировна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Наталия Владимировна Порывай",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Koroleva, Natasha",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Natasha Koroleva",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "8b477559-946e-4ef2-9fe1-446cff8fdd79",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natasha Bedingfield",
+      "sort-name": "Bedingfield, Natasha",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2613ce68-a2e8-41e6-b80d-37096558fb09",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Haywards Heath",
+        "sort-name": "Haywards Heath",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00430271892",
+        "00430368086"
+      ],
+      "isnis": [
+        "0000000114900980"
+      ],
+      "life-span": {
+        "begin": "1981-11-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bedingfield, Natasha Anne",
+          "name": "Natasha Anne Bedingfield",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Natalia Bedingfield",
+          "name": "Natalia Bedingfield",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Natasha Beddingfield",
+          "name": "Natasha Beddingfield",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 0,
+          "name": "contemporary r b"
+        },
+        {
+          "count": 0,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "electropop"
+        },
+        {
+          "count": 1,
+          "name": "progressive trance"
+        },
+        {
+          "count": 2,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 0,
+          "name": "pop and chart"
+        },
+        {
+          "count": 1,
+          "name": "contemporary r&b"
+        }
+      ]
+    },
+    {
+      "id": "10000730-525f-4ed5-aaa8-92888f060f5f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Bat for Lashes",
+      "sort-name": "Bat for Lashes",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808dbe1f-5047-4f97-aeca-cd16ccced82e",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Wembley",
+        "sort-name": "Wembley",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00491468915"
+      ],
+      "isnis": [
+        "0000000114773547"
+      ],
+      "life-span": {
+        "begin": "1979-10-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Khan, Natasha",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Natasha Khan",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "alternative rock"
+        },
+        {
+          "count": 0,
+          "name": "british"
+        },
+        {
+          "count": 3,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 4,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 1,
+          "name": "female vocalist"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "dream pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative pop"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 0,
+          "name": "pakistani"
+        },
+        {
+          "count": 0,
+          "name": "asian"
+        },
+        {
+          "count": 0,
+          "name": "british asian"
+        },
+        {
+          "count": 3,
+          "name": "indietronica"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 3,
+          "name": "folktronica"
+        },
+        {
+          "count": 0,
+          "name": "ambient pop"
+        },
+        {
+          "count": 1,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 0,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": 0,
+          "name": "alternative singer/songwriter"
+        },
+        {
+          "count": 4,
+          "name": "art pop"
+        }
+      ]
+    },
+    {
+      "id": "4f145a24-669d-48fd-b157-44ad3f79b87e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natasha",
+      "sort-name": "Natasha",
+      "gender": "female",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "blues singer/guitarist Natasha Turner",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4b973c17-49a7-4d04-9f6c-ee904ef33f31",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Екатерина Королёва",
+      "sort-name": "Korolyova, Ekaterina",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Королёва, Екатерина",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Екатерина Королёва",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6ed12111-9153-4a6f-b1b9-d7d25fee98e6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "name": "Natasha",
+      "sort-name": "Natasha",
+      "disambiguation": "Kid singer for Discomagic Records",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "75433c64-f96a-4454-9b62-2005fe59acbc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natasha St‐Pier",
+      "sort-name": "St‐Pier, Natasha",
+      "gender": "female",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4f61d79f-4957-490f-b518-33ae45fc7aa9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bathurst",
+        "sort-name": "Bathurst",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00263879815",
+        "00263879913",
+        "00263880152",
+        "00266609639"
+      ],
+      "isnis": [
+        "0000000080156697"
+      ],
+      "life-span": {
+        "begin": "1981-02-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "St-Pierre, Natasha Annick",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Natasha Annick St‐Pierre",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Natasha St Pier",
+          "name": "Natasha St Pier",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Natasha Saint-Pier",
+          "name": "Natasha Saint-Pier",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Natasha St. Pierre",
+          "name": "Natasha St. Pierre",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Natacha St Pier",
+          "name": "Natacha St Pier",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Natasha St. Pier",
+          "name": "Natasha St. Pier",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "french"
+        },
+        {
+          "count": -1,
+          "name": "*nouveau-truc→bathurst"
+        },
+        {
+          "count": 1,
+          "name": "pop francophone"
+        }
+      ]
+    },
+    {
+      "id": "721031ce-ff39-4fbc-9c90-14a4ef413763",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natasha",
+      "sort-name": "Natasha",
+      "gender": "female",
+      "disambiguation": "Italo-house singer with Mig 29",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "df105571-65cb-4824-80c5-ae5ba0ca13ab",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natasha",
+      "sort-name": "Natasha",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US R&B singer Natasha Bradley",
+      "life-span": {
+        "begin": "1988-11-25",
+        "ended": null
+      }
+    },
+    {
+      "id": "40ac4a27-0790-4975-aeee-fd37718c1d02",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natasha",
+      "sort-name": "Natasha",
+      "gender": "female",
+      "area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "disambiguation": "hi-NRG/euro house singer Natasha Alexandrovna",
+      "life-span": {
+        "begin": "1966",
+        "ended": null
+      }
+    }
+  ]
+}

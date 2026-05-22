@@ -1,0 +1,660 @@
+{
+  "created": "2026-05-22T16:53:45.199Z",
+  "count": 1001,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "2a2bf494-ac80-4ac9-901f-1ef2fece51ce",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Irving Mills",
+      "sort-name": "Mills, Irving",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "25b3e1fd-e929-45a5-ba70-8f270a5fad42",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Palm Springs",
+        "sort-name": "Palm Springs",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00020874007"
+      ],
+      "isnis": [
+        "0000000081569522"
+      ],
+      "life-span": {
+        "begin": "1894-01-16",
+        "end": "1985-04-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mills",
+          "name": "Mills",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mills, I.",
+          "name": "I. Mills",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joe Primrose",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Joe Primrose",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Goody Goodwin",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Goody Goodwin",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Minsky, Isadore",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Isadore Minsky",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mills, Irving Harold",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Irving Harold Mills",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8e5bb2b7-6d1e-4bb3-bf05-0883b2e72612",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 69,
+      "name": "Irving Mills & His Modernists",
+      "sort-name": "Irving Mills & His Modernists",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6fe2b394-3afa-4639-a2bb-53b878f2e8e2",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 63,
+      "name": "Irving Mills and His Swyngphonic Orchestra",
+      "sort-name": "Mills, Irving and His Swyngphonic Orchestra",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f089645d-5428-4e07-94f0-fc59c98196ca",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 61,
+      "name": "Irving Mills and His Hotsy‐Totsy Gang",
+      "sort-name": "Mills, Irving and His Hotsy‐Totsy Gang",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "469b5cc3-4dd8-4214-95bb-0d911aaa9b07",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 53,
+      "name": "Patrice C. Irving",
+      "sort-name": "Irving, Patrice C.",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "P. C. Irving",
+          "name": "P. C. Irving",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "P.C. Irving",
+          "name": "P.C. Irving",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fb1080d4-aaf7-430e-b588-6a6ce79e2eb3",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "The Mills Brothers",
+      "sort-name": "Mills Brothers, The",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a80453e2-aa35-4268-aee2-aca99d69dee0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Piqua",
+        "sort-name": "Piqua",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000119544815"
+      ],
+      "life-span": {
+        "begin": "1928",
+        "end": "1982",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mills Brothers, The",
+          "name": "Mills Brothers, The",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mills Brothers",
+          "name": "Mills Brothers",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mills Bros",
+          "name": "Mills Bros",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "3b5ffe22-2841-41da-8f13-dcb5c2d88f35",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "John Irving",
+      "sort-name": "Irving, John",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6d8247ea-3c82-40f9-99f2-649fc674f6d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Exeter",
+        "sort-name": "Exeter",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "writer",
+      "isnis": [
+        "0000000122839315"
+      ],
+      "life-span": {
+        "begin": "1942-03-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "John Irwing",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "John Irwing",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Irving, John Winslow",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "John Winslow Irving",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blunt, John Wallace, Jr.",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "John Wallace Blunt Jr.",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Irving Berlin",
+      "sort-name": "Berlin, Irving",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5af9cc6b-4b0a-480e-8223-0630e1c7fae5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Talachyn",
+        "sort-name": "Talachyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00002852023"
+      ],
+      "isnis": [
+        "0000000108769971"
+      ],
+      "life-span": {
+        "begin": "1888-05-11",
+        "end": "1989-09-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Бейлин, Израиль Моисеевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Израиль Моисеевич Бейлин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бейлин, Израиль",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Израиль Бейлин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Baline, Israel Isidore",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Israel Isidore Baline",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlin",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Berlin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlins, I.",
+          "name": "I. Berlins",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "バーリン",
+          "name": "バーリン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "I. Berlin",
+          "name": "I. Berlin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Annie Get Your Gun",
+          "name": "Annie Get Your Gun",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlin, I.",
+          "name": "I.Berlin",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlins, E.",
+          "name": "E.Berlins",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "May, Ren G.",
+          "name": "Ren G. May",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Irwing Berlin",
+          "name": "Irwing Berlin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "songwriter"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "lyricist"
+        },
+        {
+          "count": 1,
+          "name": "american composer"
+        },
+        {
+          "count": 1,
+          "name": "traditional pop"
+        },
+        {
+          "count": 1,
+          "name": "tin pan alley"
+        }
+      ]
+    },
+    {
+      "id": "470a4ced-1323-4c91-8fd5-0bb3fb4c932a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jeff Mills",
+      "sort-name": "Mills, Jeff",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Detroit",
+        "sort-name": "Detroit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Detroit based DJ",
+      "ipis": [
+        "00230048416",
+        "00225560779",
+        "00225560387"
+      ],
+      "isnis": [
+        "0000000114506887"
+      ],
+      "life-span": {
+        "begin": "1963-06-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mills, Jeffrey Lee",
+          "name": "Jeffrey Lee Mills",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mills, Jeffery Eugene",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jeffery Eugene Mills",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jeffery Mills",
+          "name": "Jeffery Mills",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "techno"
+        },
+        {
+          "count": 2,
+          "name": "detroit techno"
+        },
+        {
+          "count": 1,
+          "name": "dance and electronica"
+        }
+      ]
+    },
+    {
+      "id": "4dbdc50c-62db-4a2a-8df9-7c92bd13ca3b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 47,
+      "name": "Irving",
+      "sort-name": "Irving",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1998",
+        "ended": null
+      }
+    }
+  ]
+}

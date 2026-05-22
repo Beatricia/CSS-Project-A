@@ -1,0 +1,286 @@
+{
+  "created": "2026-05-22T17:41:04.506Z",
+  "count": 129,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "4390b1f3-0ba8-4c72-96d3-0bf9b27b7cdd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eitan Avitsur",
+      "sort-name": "Avitsur, Eitan",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer / conductor",
+      "life-span": {
+        "begin": "1941",
+        "ended": null
+      }
+    },
+    {
+      "id": "33a388d9-e6f4-451b-b028-baf859cbee06",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eitan Katz",
+      "sort-name": "Katz, Eitan",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c4e95a2f-3717-4ab8-9e63-f7e09a594b84",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Teaneck",
+        "sort-name": "Teaneck",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000448039537"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "איתן כץ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "איתן כץ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "כ''ץ, איתן",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "איתן כ''ץ",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "orthodox pop"
+        }
+      ]
+    },
+    {
+      "id": "aecd49ed-be36-47b0-b054-06dfd516f6bc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eitan Hersh",
+      "sort-name": "Eitan Hersh",
+      "gender": "male",
+      "disambiguation": "Author",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9290b7d4-f20c-45bc-8ec0-94e71fad2a0b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "name": "Haim Avitsur",
+      "sort-name": "Avitsur, Haim",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "33f50b72-b3d5-40ca-b61e-717491325fc6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eitan Freilich",
+      "sort-name": "Freilich, Eitan",
+      "gender": "male",
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1993",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "איתן פרייליך",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "איתן פרייליך",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "orthodox pop"
+        }
+      ]
+    },
+    {
+      "id": "831df24e-b1ec-4799-9a2d-cff84518ca62",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eitan Reiter",
+      "sort-name": "Reiter, Eitan",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1982-12-03",
+        "ended": null
+      }
+    },
+    {
+      "id": "19a05b77-131d-44e7-9863-b050a2cf400d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eitan Gedalya",
+      "sort-name": "Gedalya, Eitan",
+      "gender": "male",
+      "area": {
+        "id": "75e398a3-5f3f-4224-9cd8-0fe44715bc95",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c398f09a-bd3f-4766-b92a-42939ebc69b5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eitan Carmi",
+      "sort-name": "Carmi, Eitan",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1984",
+        "ended": null
+      }
+    },
+    {
+      "id": "20c78386-642d-49ad-a7f1-a41bf15f94f8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eitan Cornfield",
+      "sort-name": "Cornfield, Eitan",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "CBC broadcaster",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "066ea748-0155-44c4-9098-31540c74d4f9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eitan Rock",
+      "sort-name": "Rock, Eitan",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

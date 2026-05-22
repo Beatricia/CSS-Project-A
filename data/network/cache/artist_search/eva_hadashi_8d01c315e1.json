@@ -1,0 +1,662 @@
+{
+  "created": "2026-05-22T17:00:00.537Z",
+  "count": 9351,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "6f2dfabb-f0bb-4801-a392-592489a148e7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Eva Cassidy",
+      "sort-name": "Cassidy, Eva",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "af59135f-38b5-4ea4-b4e2-dd28c5f0bad7",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Washington, D.C.",
+        "sort-name": "Washington, D.C.",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "335f4563-412c-4be8-a472-94f5ccc85e1a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bowie",
+        "sort-name": "Bowie",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00419684525"
+      ],
+      "isnis": [
+        "0000000116288684"
+      ],
+      "life-span": {
+        "begin": "1963-02-02",
+        "end": "1996-11-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "エヴァ・キャシディ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "エヴァ・キャシディ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cassidy, Eva Marie",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Eva Marie Cassidy",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 3,
+          "name": "folk"
+        },
+        {
+          "count": 2,
+          "name": "blues"
+        },
+        {
+          "count": 2,
+          "name": "easy listening"
+        },
+        {
+          "count": 2,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "gospel"
+        },
+        {
+          "count": 2,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        }
+      ]
+    },
+    {
+      "id": "38e2bd6c-c8f0-4e63-ae1e-ccbd2e085772",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 99,
+      "name": "Banda Eva",
+      "sort-name": "Banda Eva",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ded88b07-192f-4265-95a6-5085ee12f4ca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salvador",
+        "sort-name": "Salvador",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Brazilian axé/samba-reggae band",
+      "life-span": {
+        "begin": "1993",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Grupo Eva",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Grupo Eva",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eva",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Eva",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f3a2cc8a-7a6d-4ba4-a04a-3f6b18b64e01",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Eva",
+      "sort-name": "Eva",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "49856c85-1b7c-4f46-a078-b01261a058ad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nice",
+        "sort-name": "Nice",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French R&B/soul singer Eva Garnier",
+      "life-span": {
+        "begin": "2001-03-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Garnier, Eva",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Eva Garnier",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "481cbdd9-02ac-46fd-825f-afed658bc505",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Eva Simons",
+      "sort-name": "Simons, Eva",
+      "gender": "female",
+      "area": {
+        "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Amsterdam",
+        "sort-name": "Amsterdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Amsterdam",
+        "sort-name": "Amsterdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Dutch singer & songwriter",
+      "isnis": [
+        "0000000107122535"
+      ],
+      "life-span": {
+        "begin": "1984-04-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Eva Simon",
+          "name": "Eva Simon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Simmons, Eva",
+          "name": "Eva Simmons",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "drum and bass"
+        },
+        {
+          "count": 1,
+          "name": "dubstep"
+        },
+        {
+          "count": 1,
+          "name": "hardcore"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 1,
+          "name": "electronica"
+        },
+        {
+          "count": 1,
+          "name": "progressive house"
+        },
+        {
+          "count": 1,
+          "name": "edm"
+        },
+        {
+          "count": 1,
+          "name": "afro house"
+        },
+        {
+          "count": 1,
+          "name": "trap"
+        },
+        {
+          "count": 1,
+          "name": "future bass"
+        }
+      ]
+    },
+    {
+      "id": "2abfb680-3d88-411b-b3e8-e17ce9643a53",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Eva Mattes",
+      "sort-name": "Mattes, Eva",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3d108f05-cace-46c4-95f1-52a69eaf87d1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tegernsee",
+        "sort-name": "Tegernsee",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German-Austrian actress",
+      "isnis": [
+        "0000000119515117"
+      ],
+      "life-span": {
+        "begin": "1954-12-14",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "actress"
+        },
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        },
+        {
+          "count": 1,
+          "name": "german voice actor"
+        }
+      ]
+    },
+    {
+      "id": "957fb741-42e5-4055-852e-3d58383ec098",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Eva Dahlgren",
+      "sort-name": "Dahlgren, Eva",
+      "gender": "female",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bb1efcf5-b030-4928-9e5b-f61dadba0f81",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Umeå",
+        "sort-name": "Umeå",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00058353565"
+      ],
+      "isnis": [
+        "0000000079811471"
+      ],
+      "life-span": {
+        "begin": "1960-06-09",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "adult contemporary"
+        },
+        {
+          "count": 1,
+          "name": "swedish pop"
+        },
+        {
+          "count": 1,
+          "name": "contemporary singer/songwriter"
+        }
+      ]
+    },
+    {
+      "id": "531643e6-b3ba-4c7f-9d0d-f2831dc42317",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Little Eva",
+      "sort-name": "Little Eva",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6cde41be-ed38-4a4a-bec8-4767076d15cc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Belhaven",
+        "sort-name": "Belhaven",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "ab85ea15-9ec2-45fe-84bf-f8613f7d76e9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kinston",
+        "sort-name": "Kinston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114949506",
+        "0000000406636835",
+        "0000000407048402"
+      ],
+      "life-span": {
+        "begin": "1943-06-29",
+        "end": "2003-04-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Litte Eva",
+          "name": "Litte Eva",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "リトル・エヴァ",
+          "name": "リトル・エヴァ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "リトルエヴァ",
+          "name": "リトルエヴァ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Boyd, Eva Narcissus",
+          "name": "Eva Narcissus Boyd",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "girl group"
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 1,
+          "name": "brill building"
+        }
+      ]
+    },
+    {
+      "id": "e93653c2-31f0-4abd-b034-93ca1eb7fc53",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 94,
+      "name": "Eva Eva Eva",
+      "sort-name": "Eva Eva Eva",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "late 1970s Italian band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ec0be7e5-1160-4490-a5a7-3f816022882a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 92,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Eva Pilarová",
+      "sort-name": "Pilarová, Eva",
+      "gender": "female",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6e997717-e806-4ee9-aa9e-9cd8b11f7e9b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Brno",
+        "sort-name": "Brno",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000109876816"
+      ],
+      "life-span": {
+        "begin": "1939-08-09",
+        "end": "2020-03-14",
+        "ended": true
+      }
+    },
+    {
+      "id": "a5ac3806-ae30-44b8-9045-1cce93fb6dd3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Eva Völler",
+      "sort-name": "Völler, Eva",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e16a01de-b317-4377-8f5d-9e7c6b8742c9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Velbert",
+        "sort-name": "Velbert",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German author",
+      "isnis": [
+        "0000000039822352"
+      ],
+      "life-span": {
+        "begin": "1956",
+        "ended": null
+      }
+    }
+  ]
+}

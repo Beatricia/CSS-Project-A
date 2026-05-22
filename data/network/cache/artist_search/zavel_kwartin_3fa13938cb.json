@@ -1,0 +1,299 @@
+{
+  "created": "2026-05-22T17:00:21.465Z",
+  "count": 12,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "9ece74f0-993b-47d4-9aaa-11ea206e18e6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zavel Kwartin",
+      "sort-name": "Kwartin, Zavel",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a90737e3-34a7-4df2-b858-027fa204ee61",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kropyvnytskyi",
+        "sort-name": "Kropyvnytskyi",
+        "life-span": {
+          "begin": "2016-07",
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "75e398a3-5f3f-4224-9cd8-0fe44715bc95",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000082187534"
+      ],
+      "life-span": {
+        "begin": "1874-03-25",
+        "end": "1952-10-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Zawel Kwartin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Zawel Kwartin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "זבולון קווארטין",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "זבולון קווארטין",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "זבולון קוורטין",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "זבולון קוורטין",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kwartin, Zevulun",
+          "name": "Zevulun Kwartin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sawel Kwartin",
+          "name": "Sawel Kwartin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zevelun Kwartin",
+          "name": "Zevelun Kwartin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "chazzanut"
+        }
+      ]
+    },
+    {
+      "id": "5df8cf92-60f0-4ced-8396-73435c640f7e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zavel Pearlman",
+      "sort-name": "Pearlman, Zavel",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "27358179-c6cd-438b-8de7-1a85d7bbc825",
+      "score": 21,
+      "name": "Tezzavelli",
+      "sort-name": "Tezzavelli",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7779e780-dcf0-420f-8087-d3d68639623a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 21,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Harmzavelli",
+      "sort-name": "Harmzavelli",
+      "gender": "male",
+      "area": {
+        "id": "675bbb61-a94a-4b54-9242-1fbf81a46ee6",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Queensbridge",
+        "sort-name": "Queensbridge",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "QB rapper of Aldaeri",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "0a36ca6c-e27d-41fb-bb66-022d35603833",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 21,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ulrike Zavelberg",
+      "sort-name": "Zavelberg, Ulrike",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1247e85b-4daf-480c-8111-328509a888b4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 21,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Irmgard Zavelberg",
+      "sort-name": "Zavelberg, Irmgard",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1967",
+        "ended": null
+      }
+    },
+    {
+      "id": "6c3966d9-c631-4bb9-82c2-ac07f29a3cb7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 21,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rolf Zavelberg",
+      "sort-name": "Zavelberg, Rolf",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "05f6a87d-6ade-445a-af47-6934cef9bb9b",
+      "score": 21,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mike Dezavelle",
+      "sort-name": "Mike Dezavelle",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b40f0238-9754-494a-9e2b-8e3cfe899eae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 20,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Γιώργος Τζαβέλλας",
+      "sort-name": "Tzavellas, Giorgos",
+      "gender": "male",
+      "country": "GR",
+      "area": {
+        "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Greece",
+        "sort-name": "Greece",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1916",
+        "end": "1976-10-18",
+        "ended": true
+      }
+    },
+    {
+      "id": "e76cd3cf-2e6e-41de-881b-aadf5dc8e9f1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 20,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Πάνος Τζαβέλας",
+      "sort-name": "Tzavelas, Panos",
+      "gender": "male",
+      "country": "GR",
+      "area": {
+        "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Greece",
+        "sort-name": "Greece",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1925",
+        "end": "2009-01-27",
+        "ended": true
+      }
+    }
+  ]
+}

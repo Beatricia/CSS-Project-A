@@ -1,0 +1,241 @@
+{
+  "created": "2026-05-22T17:35:58.782Z",
+  "count": 97,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "abd51f20-f80d-4114-b139-5b71bc4bbce9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Abed Azrié",
+      "sort-name": "Azrié, Abed",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "490ee39f-c553-4821-941d-3230fdbd3615",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Aleppo",
+        "sort-name": "Aleppo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081900377"
+      ],
+      "life-span": {
+        "begin": "1945",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Abed Azerīya",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Abed Azerīya",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "عازرية, عابد",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "عابد عازرية",
+          "locale": "ar",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "be7c6e62-04b5-49c5-8968-dd81dbf5972e",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 39,
+      "name": "Abed",
+      "sort-name": "Abed",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0d49e378-bcfa-457e-8da9-70d78e5b54e7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jaffa",
+        "sort-name": "Jaffa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli metal band",
+      "life-span": {
+        "begin": "2001",
+        "ended": true
+      }
+    },
+    {
+      "id": "91d2f5ce-1079-4713-b286-6068b6883e6c",
+      "score": 38,
+      "name": "Sara Azrie",
+      "sort-name": "Azrie, Sara",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3d1424bb-f9e3-46f2-91af-937ffbfc5631",
+      "score": 35,
+      "name": "Abed Nego",
+      "sort-name": "Abed Nego",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d07731bd-43a7-4c5a-9277-abb8530100b3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Josof Abed",
+      "sort-name": "Abed, Josof",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Josof",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Josof",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "4f71ebdc-5afd-4f74-82dc-972612b6e50b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Shab Abed",
+      "sort-name": "Abed, Shab",
+      "gender": "male",
+      "country": "PS",
+      "area": {
+        "id": "7d24dd34-a00f-37a1-8307-f2ef1dd3dbcd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Palestine",
+        "sort-name": "Palestine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Palestinian singer-songwriter",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d78bd424-a9a4-4a2c-ac9c-e9704b1680f0",
+      "score": 34,
+      "name": "Mohammed Abed",
+      "sort-name": "Abed, Mohammed",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8ef50bd2-690d-4289-93d0-d7feb5a94742",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Cheb Abed",
+      "sort-name": "Abed, Cheb",
+      "gender": "male",
+      "disambiguation": "Rai singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "16a8f0d7-e395-4d3d-b557-9a405203cde6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lyes Abed",
+      "sort-name": "Abed, Lyes",
+      "gender": "male",
+      "country": "DZ",
+      "area": {
+        "id": "28242750-534a-326b-8ed6-1b03dfb88cd0",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Algeria",
+        "sort-name": "Algeria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Algerian metal album cover designer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2f85d230-d9c7-488d-b643-477d5e849e85",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Abed Hathut",
+      "sort-name": "Hathut, Abed",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

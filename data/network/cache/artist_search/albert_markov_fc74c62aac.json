@@ -1,0 +1,730 @@
+{
+  "created": "2026-05-22T17:02:09.224Z",
+  "count": 3687,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "128f928c-6450-4f87-9e16-30ab099aa253",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Albert Markov",
+      "sort-name": "Markov, Albert",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fc617bbb-6cae-4e33-ae25-bf5a6cb7d7d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kharkiv",
+        "sort-name": "Kharkiv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "isnis": [
+        "0000000424377603"
+      ],
+      "life-span": {
+        "begin": "1933-05-08",
+        "ended": null
+      }
+    },
+    {
+      "id": "9d096e39-e6fc-430c-b2c8-ac60408b433b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "name": "K. Markov",
+      "sort-name": "Markov, K.",
+      "area": {
+        "id": "55f3682e-ff80-4f11-9ec9-8923608a6ee1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zagreb",
+        "sort-name": "Zagreb",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Markov, K.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "K.Markov",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "berlin school"
+        },
+        {
+          "count": 1,
+          "name": "space ambient"
+        }
+      ]
+    },
+    {
+      "id": "6291b318-4a18-41d4-96a6-7ee804783dd3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Markov",
+      "sort-name": "Markov",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hungarian DJ",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d3aba97a-1aaa-4cb9-aab0-e5420542e7a5",
+      "score": 49,
+      "name": "MARKOV",
+      "sort-name": "MARKOV",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Japanese composer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "10f89195-3af1-46f5-aa36-504aa3309f5a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Albert King",
+      "sort-name": "King, Albert",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b4bc23bc-ec55-4873-823f-3807872c2e63",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Indianola",
+        "sort-name": "Indianola",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Memphis",
+        "sort-name": "Memphis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "well‐known US blues guitarist & singer",
+      "ipis": [
+        "00016224714"
+      ],
+      "isnis": [
+        "0000000083696349"
+      ],
+      "life-span": {
+        "begin": "1923-04-25",
+        "end": "1992-12-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Nelson, Albert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Albert Nelson",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 6,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "1980s"
+        },
+        {
+          "count": 1,
+          "name": "1970s"
+        },
+        {
+          "count": 1,
+          "name": "1960s"
+        },
+        {
+          "count": 4,
+          "name": "electric blues"
+        },
+        {
+          "count": 1,
+          "name": "rhythm and blues"
+        },
+        {
+          "count": 3,
+          "name": "soul blues"
+        },
+        {
+          "count": 1,
+          "name": "soul-blues"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "urban blues"
+        }
+      ]
+    },
+    {
+      "id": "197450cd-0124-4164-b723-3c22dd16494d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Sinatra",
+      "sort-name": "Sinatra, Frank",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a61386e-15df-4a38-a1f6-d751e133a1a9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hoboken",
+        "sort-name": "Hoboken",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American singer and actor, “Ol’ Blue Eyes”",
+      "ipis": [
+        "00028814966"
+      ],
+      "isnis": [
+        "0000000108823528"
+      ],
+      "life-span": {
+        "begin": "1915-12-12",
+        "end": "1998-05-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sinatra",
+          "name": "Sinatra",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinatra, Francis Albert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Francis Albert Sinatra",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frankie Satin",
+          "name": "Frankie Satin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "フランク・シナトラ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "フランク・シナトラ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinatra Frank",
+          "name": "Sinatra Frank",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frank Sinartra",
+          "name": "Frank Sinartra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 10,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "easy listening"
+        },
+        {
+          "count": 1,
+          "name": "vocal"
+        },
+        {
+          "count": 1,
+          "name": "lounge"
+        },
+        {
+          "count": 0,
+          "name": "baroque pop"
+        },
+        {
+          "count": 1,
+          "name": "christmas"
+        },
+        {
+          "count": 8,
+          "name": "swing"
+        },
+        {
+          "count": 3,
+          "name": "big band"
+        },
+        {
+          "count": 7,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 0,
+          "name": "columbia"
+        },
+        {
+          "count": 0,
+          "name": "easy listening soundtracks and musicals"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 3,
+          "name": "standards"
+        },
+        {
+          "count": 7,
+          "name": "traditional pop"
+        },
+        {
+          "count": 1,
+          "name": "acting"
+        },
+        {
+          "count": 1,
+          "name": "ultimate"
+        },
+        {
+          "count": 1,
+          "name": "singing"
+        },
+        {
+          "count": 3,
+          "name": "christmas music"
+        },
+        {
+          "count": 1,
+          "name": "actors"
+        },
+        {
+          "count": -1,
+          "name": "garland"
+        },
+        {
+          "count": -1,
+          "name": "chrismas"
+        },
+        {
+          "count": 0,
+          "name": "duets"
+        },
+        {
+          "count": -1,
+          "name": "swing; jazz; big band; christmas"
+        },
+        {
+          "count": -1,
+          "name": "my way"
+        },
+        {
+          "count": 1,
+          "name": "motion pictures--production and direction"
+        },
+        {
+          "count": 1,
+          "name": "motion picture producers and directors"
+        }
+      ]
+    },
+    {
+      "id": "64a2cc5b-2cc3-4f25-b2de-1462f9cdb133",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Markov",
+      "sort-name": "Markov, Alexander",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "isnis": [
+        "0000000081386558"
+      ],
+      "life-span": {
+        "begin": "1963-01-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "364f3cef-442b-4182-ae78-4e7e79683c24",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Albert Hammond",
+      "sort-name": "Hammond, Albert",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00013310743"
+      ],
+      "isnis": [
+        "0000000063029266"
+      ],
+      "life-span": {
+        "begin": "1944-05-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hammond, Albert Louis",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Albert Louis Hammond",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hammond, A.",
+          "name": "A. Hammond",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "soft rock"
+        },
+        {
+          "count": 0,
+          "name": "1970s"
+        },
+        {
+          "count": 0,
+          "name": "1980s"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 0,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 0,
+          "name": "canción melódica"
+        },
+        {
+          "count": 0,
+          "name": "folk pop"
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        },
+        {
+          "count": 0,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "561d5b76-f14b-4fd5-b96c-4eb9ebe990eb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Albert Calvo",
+      "sort-name": "Calvo, Albert",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "73b8dddb-ec29-4d11-b449-d97fde73f07b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Albert Collins",
+      "sort-name": "Collins, Albert",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e3064257-2284-4db7-ab36-346643838400",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Leona",
+        "sort-name": "Leona",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "cd22d0ba-c79b-45b3-a8e0-617b240df5f0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Las Vegas",
+        "sort-name": "Las Vegas",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US blues guitarist/vocalist/harmonica",
+      "ipis": [
+        "00040093028"
+      ],
+      "life-span": {
+        "begin": "1932-10-01",
+        "end": "1993-11-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Collins, Albert Gene",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Albert Gene Collins",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Drewery, Albert Gene",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Albert Gene Drewery",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Al Collins",
+          "name": "Al Collins",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "1980s"
+        },
+        {
+          "count": 1,
+          "name": "1970s"
+        },
+        {
+          "count": 1,
+          "name": "1960s"
+        },
+        {
+          "count": 2,
+          "name": "electric blues"
+        },
+        {
+          "count": 2,
+          "name": "texas blues"
+        },
+        {
+          "count": 1,
+          "name": "electric texas blues"
+        }
+      ]
+    }
+  ]
+}

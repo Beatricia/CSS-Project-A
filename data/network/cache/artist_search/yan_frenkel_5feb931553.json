@@ -1,0 +1,435 @@
+{
+  "created": "2026-05-22T16:49:39.711Z",
+  "count": 13004,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "9512750d-5da8-4891-96db-9deb9d421714",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ян Френкель",
+      "sort-name": "Frenkel, Yan",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "9c612199-d66f-4109-aedc-67ab26e0a43b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rīga",
+        "sort-name": "Rīga",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000082301560"
+      ],
+      "life-span": {
+        "begin": "1920-11-21",
+        "end": "1989-08-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Френкель, Ян Абрамович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ян Абрамович Френкель",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Френкель, Ян",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ян Френкель",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yan Frenkel",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yan Frenkel",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frenkel', Ya.",
+          "name": "Я.Френкель",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ed72290b-ee55-4ffc-9b14-53af6e62a61f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yan Yan",
+      "sort-name": "Yan Yan",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lilli Cheng",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Lilli Cheng",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lilly Chung",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Lilly Chung",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lilian Cheung",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lilian Cheung",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yan-Yan",
+          "name": "Yan-Yan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "嚴艷",
+          "name": "嚴艷",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yan Yan",
+          "name": "Yan Yan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "bb2bb3b5-3479-4bbc-9076-d2c6c3ce39c5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "name": "yan",
+      "sort-name": "yan",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "PC game music composer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7ced3511-5649-4f90-9530-22b043c38040",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Diego Frenkel",
+      "sort-name": "Frenkel, Diego",
+      "gender": "male",
+      "country": "AR",
+      "area": {
+        "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Argentina",
+        "sort-name": "Argentina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Buenos Aires",
+        "sort-name": "Buenos Aires",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1965-08-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Frenkel Visser, Diego Alejandro",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Diego Alejandro Frenkel Visser",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "540d17bc-d207-4d1b-93d7-6bf720b72ed8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yan²",
+      "sort-name": "Yan²",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1989-02-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "5cea8f53-575c-4bac-83b5-9f2f3ff46878",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "name": "yan",
+      "sort-name": "yan",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Japanese experimental electronic musician",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cbb89fde-f6c3-42f2-985a-7396234ffecd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Noa Frenkel",
+      "sort-name": "Frenkel, Noa",
+      "gender": "female",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli alto",
+      "isnis": [
+        "0000000066855344"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7a0e3739-3cda-4041-8dcc-3c1bb045807c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yan",
+      "sort-name": "Theofficial_yan",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "theofficial_yan",
+      "ipis": [
+        "01413505693"
+      ],
+      "life-span": {
+        "begin": "1997-10-30",
+        "ended": null
+      }
+    },
+    {
+      "id": "e65948ec-284c-4360-bb11-eb3d45263ee6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "name": "Yan",
+      "sort-name": "Yan",
+      "disambiguation": "Jan Lutgebaucks",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4ddb075e-3391-43b4-bd29-dcedb9970842",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "yan...",
+      "sort-name": "yan...",
+      "gender": "male",
+      "area": {
+        "id": "d2918f1a-c51e-4a4a-ad7f-cdd88877b25f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Florida",
+        "sort-name": "Florida",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "YXXXNZ",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "YVN",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "YVN",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "YXXXNZ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "YXXXNZ",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

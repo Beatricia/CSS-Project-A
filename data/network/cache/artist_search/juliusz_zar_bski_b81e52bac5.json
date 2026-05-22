@@ -1,0 +1,277 @@
+{
+  "created": "2026-05-22T16:54:53.431Z",
+  "count": 20,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "722feabb-7453-4484-bee9-f519719e83d9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Juliusz Zarębski",
+      "sort-name": "Zarębski, Juliusz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "976f52f5-5f09-48dd-bb36-77ebca4402d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zhytomyr",
+        "sort-name": "Zhytomyr",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "976f52f5-5f09-48dd-bb36-77ebca4402d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zhytomyr",
+        "sort-name": "Zhytomyr",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish composer and pianist",
+      "isnis": [
+        "0000000110657696"
+      ],
+      "life-span": {
+        "begin": "1854-03-03",
+        "end": "1885-09-15",
+        "ended": true
+      }
+    },
+    {
+      "id": "60121418-4755-46ef-84bf-0a99c3eaabc1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Wacław Zarębski",
+      "sort-name": "Zarębski, Wacław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d0be9d6d-358e-439f-843b-9dc933325404",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Juliusz Loranc",
+      "sort-name": "Loranc, Juliusz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000370594134"
+      ],
+      "life-span": {
+        "begin": "1937-09-24",
+        "end": "2016-05-25",
+        "ended": true
+      }
+    },
+    {
+      "id": "b7ed7951-b574-4a2f-b90d-7f896e08d3eb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Juliusz Wolfsohn",
+      "sort-name": "Wolfsohn, Juliusz",
+      "gender": "male",
+      "begin-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian-Austrian pianist, composer and music publicist",
+      "life-span": {
+        "begin": "1880-01-07",
+        "end": "1944-02-12",
+        "ended": true
+      }
+    },
+    {
+      "id": "ee223f3a-46cf-4ea3-bde4-f49d80e30800",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Juliusz Łuciuk",
+      "sort-name": "Łuciuk, Juliusz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081451292"
+      ],
+      "life-span": {
+        "begin": "1927-01-01",
+        "ended": null
+      }
+    },
+    {
+      "id": "b219be5e-0d41-4db1-8212-b69fe9953dca",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Juliusz Kamil",
+      "sort-name": "Kamil, Juliusz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5e86a0f6-9207-4ed5-aa61-0303f1596784",
+      "score": 34,
+      "name": "Juliusz Starosta",
+      "sort-name": "Juliusz Starosta",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b14732b2-511c-4f44-a90e-1a4edd5bc7d3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "name": "Juliusz Waclawski",
+      "sort-name": "Waclawski, Juliusz",
+      "disambiguation": "Juliusz Karol Waclawski",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e4098531-9835-4417-a05e-bd77193f6269",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Juliusz Borzym",
+      "sort-name": "Borzym, Juliusz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "340a9e1d-261d-40a4-a7f7-2141ad6f1f95",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Juliusz Sandecki",
+      "sort-name": "Sandecki, Juliusz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

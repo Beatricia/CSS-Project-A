@@ -1,0 +1,394 @@
+{
+  "created": "2026-05-22T17:17:02.655Z",
+  "count": 559,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8e118325-e340-4573-a6d9-3c6b7af1207c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "Оркестр Олега Лундстрема",
+      "sort-name": "Lundstrem, Oleg, orkestr",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Лундстрем, Олег, оркестр",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Оркестр Олега Лундстрема",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lundstrem, Oleg, orchestra",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Oleg Lundstrem Orchestra",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6ad3ee3c-059b-40d3-972c-f164dcc72382",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nika Lundstrem",
+      "sort-name": "Lundstrem, Nika",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f01945ea-d840-4d72-bb94-43d976385c52",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oleg",
+      "sort-name": "Oleg",
+      "gender": "male",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "electropop",
+      "life-span": {
+        "begin": "1984-08-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Nejlik, Oleg",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Oleg Nejlik",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8e9b4bfa-ffdc-452d-9cdd-13b5d0cb087e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oleg",
+      "sort-name": "Oleg",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "de7f2fd7-e2b6-429a-8c6a-9d0fb89bec51",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oleg",
+      "sort-name": "Oleg",
+      "gender": "male",
+      "disambiguation": "photographer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "aca97bb9-e249-4fe1-8615-72373798154d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oleg Maisenberg",
+      "sort-name": "Maisenberg, Oleg",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "000000011440731X"
+      ],
+      "life-span": {
+        "begin": "1945-04-29",
+        "end": "2026-04-16",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "austrian pianist"
+        }
+      ]
+    },
+    {
+      "id": "688821d9-200a-4697-aeb6-87a445cf0022",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oleg Caetani",
+      "sort-name": "Caetani, Oleg",
+      "gender": "male",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "33f49521-f754-43cf-8d7a-d9e336fe56e6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lausanne",
+        "sort-name": "Lausanne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000110860731"
+      ],
+      "life-span": {
+        "begin": "1956-10",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "italian conductor"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "e5cfe463-f535-4030-91d7-91c422773495",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oleg Sõlg",
+      "sort-name": "Sõlg, Oleg",
+      "gender": "male",
+      "country": "EE",
+      "area": {
+        "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Estonia",
+        "sort-name": "Estonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c4bce950-b02e-4239-8429-83665e2d5ac1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hiiumaa",
+        "sort-name": "Hiiumaa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00276584718"
+      ],
+      "isnis": [
+        "0000000407599140"
+      ],
+      "life-span": {
+        "begin": "1951-07-31",
+        "end": "2006-03-17",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        }
+      ]
+    },
+    {
+      "id": "49ed091f-671c-4d0d-83b9-0c7c4bea864b",
+      "score": 50,
+      "name": "Oleg Xaler",
+      "sort-name": "Xaler, Oleg",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        }
+      ]
+    },
+    {
+      "id": "3d6cbfbc-b893-4c2f-8599-3ed43cfc437e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Charly Oleg",
+      "sort-name": "Oleg, Charly",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "53b7b4df-8276-499d-8f34-66f95d2fe7d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nilvange",
+        "sort-name": "Nilvange",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "7db5cd0d-d7f8-4c11-a329-acf169d76ec8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Le Blanc-Mesnil",
+        "sort-name": "Le Blanc-Mesnil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00022833997",
+        "00022834305"
+      ],
+      "isnis": [
+        "0000000001333684"
+      ],
+      "life-span": {
+        "begin": "1931-08-07",
+        "end": "2025-09-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Olejniczak, Charles Auguste",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Charles Auguste Olejniczak",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

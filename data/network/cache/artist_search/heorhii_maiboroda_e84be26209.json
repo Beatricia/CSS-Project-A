@@ -1,0 +1,232 @@
+{
+  "created": "2026-05-22T16:55:14.291Z",
+  "count": 4,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "27aa15fd-08d2-45ec-b279-b1488f5a552e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sergey Maiboroda",
+      "sort-name": "Maiboroda, Sergey",
+      "gender": "male",
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e5a735c3-6e71-4eed-b5de-c04f00852e89",
+      "score": 100,
+      "name": "Polina Maiboroda",
+      "sort-name": "Polina Maiboroda",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f61bd3d2-bbfc-4657-a2e6-0a0e172e0308",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Платон Майборода",
+      "sort-name": "Maiboroda, Platon",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "7acc13e4-9456-4106-9122-2c0fbf2959cf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kremenchuk",
+        "sort-name": "Kremenchuk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078551188"
+      ],
+      "life-span": {
+        "begin": "1918-12-01",
+        "end": "1989-07-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Maiboroda, Platon",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Platon Maiboroda",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Майборода, Платон",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Платон Майборода",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Майборода, Платон Илларионович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Платон Илларионович Майборода",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Майборода, Платон Іларіонович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Платон Іларіонович Майборода",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Майборода, Платон",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Платон Майборода",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e227122d-342e-4a23-9d96-5b121c24dff5",
+      "type": "Choir",
+      "type-id": "6124967d-7e3a-3eba-b642-c9a2ffb44d94",
+      "score": 56,
+      "name": "Академічний хор ім. П.Майбороди Українського радіо",
+      "sort-name": "Academic Choir of the National Radio Company of Ukraine, named after P. Maiboroda",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian Radio Choir",
+      "isnis": [
+        "0000000470299765"
+      ],
+      "life-span": {
+        "begin": "1932",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Academic Choir of the National Radio Company of Ukraine, named after P. Maiboroda",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Academic Choir of the National Radio Company of Ukraine, named after P. Maiboroda",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": "1932",
+          "end-date": null
+        },
+        {
+          "sort-name": "Academic Choir of the National Radio Company of Ukraine, named after P. Maiboroda",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Academic Choir of the National Radio Company of Ukraine, named after P. Maiboroda",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1932",
+          "end-date": null
+        },
+        {
+          "sort-name": "Ukrainian Radio Choir",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ukrainian Radio Choir",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ukrainian Radio Choir",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ukrainian Radio Choir",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

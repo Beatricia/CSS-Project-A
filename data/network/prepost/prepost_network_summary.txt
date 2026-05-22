@@ -1,0 +1,99 @@
+Pre/post collaboration network summary
+
+Conflict group: Ukraine/Russia
+Period: pre
+Conflict start year used: 2022
+Nodes: 3
+Edges: 2
+Recordings represented: 2
+Top nodes by weighted degree:
+- alyona alyona | weighted_degree=2 | degree=2 | recordings=2
+- Alina Pash | weighted_degree=1 | degree=1 | recordings=1
+- Olexesh | weighted_degree=1 | degree=1 | recordings=1
+Top edges by weight:
+- Alina Pash -- alyona alyona | weight=1 | recordings=Падло (2019)
+- alyona alyona -- Olexesh | weight=1 | recordings=Shalom (2021)
+
+Conflict group: Ukraine/Russia
+Period: post
+Conflict start year used: 2022
+Nodes: 6
+Edges: 8
+Recordings represented: 3
+Top nodes by weighted degree:
+- Jerry Heil | weighted_degree=6 | degree=5 | recordings=3
+- alyona alyona | weighted_degree=4 | degree=3 | recordings=2
+- Ela | weighted_degree=2 | degree=2 | recordings=1
+- Evgeny Khmara | weighted_degree=2 | degree=2 | recordings=1
+- MONATIK | weighted_degree=2 | degree=2 | recordings=1
+- Monika Liu | weighted_degree=2 | degree=2 | recordings=1
+Top edges by weight:
+- alyona alyona -- Jerry Heil | weight=2 | recordings=Dai Boh (2022); KUPALA (2022)
+- alyona alyona -- Ela | weight=1 | recordings=KUPALA (2022)
+- alyona alyona -- Monika Liu | weight=1 | recordings=Dai Boh (2022)
+- Ela -- Jerry Heil | weight=1 | recordings=KUPALA (2022)
+- Evgeny Khmara -- Jerry Heil | weight=1 | recordings=ВИМОЛИВ (2025)
+- Evgeny Khmara -- MONATIK | weight=1 | recordings=ВИМОЛИВ (2025)
+- Jerry Heil -- MONATIK | weight=1 | recordings=ВИМОЛИВ (2025)
+- Jerry Heil -- Monika Liu | weight=1 | recordings=Dai Boh (2022)
+
+Conflict group: Israel/Palestine
+Period: pre
+Conflict start year used: 2023
+Nodes: 4
+Edges: 2
+Recordings represented: 2
+Top nodes by weighted degree:
+- Concha Buika | weighted_degree=1 | degree=1 | recordings=1
+- Playyard | weighted_degree=1 | degree=1 | recordings=1
+- Saint Levant | weighted_degree=1 | degree=1 | recordings=1
+- Yasmin Levy | weighted_degree=1 | degree=1 | recordings=1
+Top edges by weight:
+- Concha Buika -- Yasmin Levy | weight=1 | recordings=Olvídate de mí (2012)
+- Playyard -- Saint Levant | weight=1 | recordings=I Guess (2022)
+
+Conflict group: Israel/Palestine
+Period: post
+Conflict start year used: 2023
+Nodes: 5
+Edges: 3
+Recordings represented: 3
+Top nodes by weighted degree:
+- Saint Levant | weighted_degree=2 | degree=2 | recordings=2
+- Bashar Murad | weighted_degree=1 | degree=1 | recordings=1
+- Kehlani | weighted_degree=1 | degree=1 | recordings=1
+- MC Abdul | weighted_degree=1 | degree=1 | recordings=1
+- Sabreen | weighted_degree=1 | degree=1 | recordings=1
+Top edges by weight:
+- Bashar Murad -- Sabreen | weight=1 | recordings=Stone (2024)
+- Kehlani -- Saint Levant | weight=1 | recordings=Allah Yihmeeki (2024)
+- MC Abdul -- Saint Levant | weight=1 | recordings=Deira (2024)
+
+Conflict group: Syria
+Period: pre
+Conflict start year used: 2011
+Nodes: 0
+Edges: 0
+Recordings represented: 0
+Top nodes by weighted degree: none
+Top edges by weight: none
+Note: graph is empty or too sparse for visualization.
+
+Conflict group: Syria
+Period: post
+Conflict start year used: 2011
+Nodes: 0
+Edges: 0
+Recordings represented: 0
+Top nodes by weighted degree: none
+Top edges by weight: none
+Note: graph is empty or too sparse for visualization.
+
+Unassigned summary:
+Unassigned matched recordings: 0
+
+HTML files generated: 4
+- C:\Users\lozag\DTU\CSS\CSS-Project-A\website\public\network\prepost\ukraine_russia_pre_network.html
+- C:\Users\lozag\DTU\CSS\CSS-Project-A\website\public\network\prepost\ukraine_russia_post_network.html
+- C:\Users\lozag\DTU\CSS\CSS-Project-A\website\public\network\prepost\israel_palestine_pre_network.html
+- C:\Users\lozag\DTU\CSS\CSS-Project-A\website\public\network\prepost\israel_palestine_post_network.html

@@ -1,0 +1,380 @@
+{
+  "created": "2026-05-22T17:23:07.187Z",
+  "count": 70,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f50d8f20-8869-48d8-89b6-0cfcfbdb03d5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Samira Saraya",
+      "sort-name": "Saraya, Samira",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0d49e378-bcfa-457e-8da9-70d78e5b54e7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jaffa",
+        "sort-name": "Jaffa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli musician, rapper, writer and actress",
+      "isnis": [
+        "0000000498860630"
+      ],
+      "life-span": {
+        "begin": "1975-12-15",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "סמירה סרייה",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "סמירה סרייה",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0737d6d6-05c3-48c0-9366-a2eb4183235f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Saraya",
+      "sort-name": "Saraya",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a36544c1-cb40-4f44-9e0e-7a5a69e403a8",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "New Jersey",
+        "sort-name": "New Jersey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000110157309"
+      ],
+      "life-span": {
+        "begin": "1987",
+        "end": "1992",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "hard rock"
+        }
+      ]
+    },
+    {
+      "id": "31752332-e5b4-4dcc-80b4-b5db4079649e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Saraya Bevis",
+      "sort-name": "Bevis, Saraya",
+      "gender": "female",
+      "begin-area": {
+        "id": "279c5d9a-0165-493e-bed5-fc691be6a4e4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Norwich",
+        "sort-name": "Norwich",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1992-08-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Saraya",
+          "name": "Saraya",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b3a933d1-70b0-4905-a9a2-54a267b0f534",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "سميرة سعيد",
+      "sort-name": "Said, Samira",
+      "gender": "female",
+      "country": "EG",
+      "area": {
+        "id": "8e0551f2-95c2-3cc0-a0a9-f2d344f10667",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Egypt",
+        "sort-name": "Egypt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6ef0b580-b9d5-4c9e-851d-33b24cd66bac",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rabat",
+        "sort-name": "Rabat",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000119536831"
+      ],
+      "life-span": {
+        "begin": "1956-01-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Samira Saeed",
+          "name": "Samira Saeed",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bensaïd, Samira",
+          "name": "Samira Bensaïd",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Samira Said",
+          "name": "Samira Said",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Samira Saïd",
+          "name": "Samira Saïd",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "world"
+        }
+      ]
+    },
+    {
+      "id": "60b4cf84-2578-4bcd-8fba-4319892f2bcc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Samira",
+      "sort-name": "Samira",
+      "gender": "female",
+      "country": "MA",
+      "area": {
+        "id": "b84d8617-249a-3a06-849d-fc5c25e2249b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Morocco",
+        "sort-name": "Morocco",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b84d8617-249a-3a06-849d-fc5c25e2249b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Morocco",
+        "sort-name": "Morocco",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Moroccan",
+      "life-span": {
+        "begin": "1980-01-01",
+        "ended": null
+      }
+    },
+    {
+      "id": "45004b89-cd06-43a3-9adc-2b908c340c22",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Samira",
+      "sort-name": "Samira",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Probably French RNB or raï",
+      "ipis": [
+        "01183291650"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ammouri, Samira",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Samira Ammouri",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "raï"
+        }
+      ]
+    },
+    {
+      "id": "130fcb41-c20a-433d-ac82-0c875e77f9b8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "SAMIRA",
+      "sort-name": "SAMIRA",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German based Singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ad2d640c-8da9-45e8-b00e-69994794f4ee",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 38,
+      "name": "Samira",
+      "sort-name": "Samira",
+      "disambiguation": "Trance group made up of Samuel Skrbinsek, Michel Beugel & Raymond Geerts",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d1b6fd0b-908f-4d54-8eb1-a6439df654fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Samira",
+      "sort-name": "Samira",
+      "gender": "female",
+      "disambiguation": "unknown from Verão 2001",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "76b70693-d094-4f69-989f-a2bd94bc209b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Samira",
+      "sort-name": "Samira",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English television personality, actress and singer",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

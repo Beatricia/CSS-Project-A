@@ -1,0 +1,468 @@
+{
+  "created": "2026-05-22T17:37:14.401Z",
+  "count": 191,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "fa19a8b6-e7f4-40d4-af15-7a7c41ac7d8f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gabriel Fauré",
+      "sort-name": "Fauré, Gabriel",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "caf9ccb5-e015-46e6-b1e0-3345faae6820",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Pamiers",
+        "sort-name": "Pamiers",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French composer",
+      "ipis": [
+        "00009835865"
+      ],
+      "isnis": [
+        "0000000121000243"
+      ],
+      "life-span": {
+        "begin": "1845-05-12",
+        "end": "1924-11-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Faure",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Faure",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fauré, Gabriel Urbain",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gabriel Urbain Fauré",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Faure, Gabriel",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Gabriel Faure",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ガブリエル・フォーレ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ガブリエル・フォーレ",
+          "locale": "ja_JP",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fauré",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Fauré",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "フォーレ",
+          "name": "フォーレ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Faure, Gabriel (1845-1924)",
+          "name": "Faure, Gabriel (1845-1924)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "포레",
+          "name": "포레",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fauri",
+          "name": "Fauri",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "G. Fauré",
+          "name": "G. Fauré",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 3,
+          "name": "french"
+        },
+        {
+          "count": -3,
+          "name": "production music"
+        },
+        {
+          "count": -1,
+          "name": "opera"
+        },
+        {
+          "count": 4,
+          "name": "composer"
+        },
+        {
+          "count": -1,
+          "name": "european"
+        },
+        {
+          "count": -1,
+          "name": "symphony"
+        },
+        {
+          "count": -1,
+          "name": "modern classical"
+        },
+        {
+          "count": -1,
+          "name": "concerto"
+        },
+        {
+          "count": -1,
+          "name": "requiem"
+        },
+        {
+          "count": 2,
+          "name": "french composer"
+        },
+        {
+          "count": 2,
+          "name": "romantic classical"
+        },
+        {
+          "count": 0,
+          "name": "choral symphony"
+        }
+      ]
+    },
+    {
+      "id": "71e5216a-8334-48ca-aab5-6da43d2da1b7",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 88,
+      "name": "Francine",
+      "sort-name": "Francine",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2bd06d25-be32-4a92-b39f-da304f60d53f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lahti",
+        "sort-name": "Lahti",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Finnish band",
+      "life-span": {
+        "begin": "1987",
+        "ended": null
+      }
+    },
+    {
+      "id": "b781dd40-68c6-49a3-9f41-e1850d292097",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Francine Jordi",
+      "sort-name": "Jordi, Francine",
+      "gender": "female",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "98aa272f-f838-43a9-81a4-f1fb3b819bf6",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Worb",
+        "sort-name": "Worb",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00294683910",
+        "00357993798"
+      ],
+      "isnis": [
+        "0000000058458381"
+      ],
+      "life-span": {
+        "begin": "1977-06-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lehmann, Francine",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Francine Lehmann",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "volkstümliche musik"
+        }
+      ]
+    },
+    {
+      "id": "ca17b8bc-ac05-44a9-ae99-598fbca6fd1e",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 81,
+      "name": "Francine",
+      "sort-name": "Francine",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boston",
+        "sort-name": "Boston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US group",
+      "life-span": {
+        "begin": "1998",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "indie rock"
+        }
+      ]
+    },
+    {
+      "id": "357b9f03-fbda-4f68-93d0-0c05099ff2cf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Francine",
+      "sort-name": "Francine",
+      "gender": "female",
+      "disambiguation": "London-based singer / songwriter",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "937fe0de-5181-472f-acad-0007569ee717",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 78,
+      "name": "Francine",
+      "sort-name": "Francine",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Melbourne, Australia",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5e2b0f3f-11d9-4803-8d8a-76649bcd05cd",
+      "score": 78,
+      "name": "Francine",
+      "sort-name": "Francine",
+      "disambiguation": "appears on The Department of Darkness' track",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "20ba5322-8aef-47cc-9140-41e1a74514b3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 78,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Francine",
+      "sort-name": "Francine",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "model, worked with J. R. Dickson",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3fff8151-5340-44a7-a9f8-a9c4378c875e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 78,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Francine",
+      "sort-name": "Francine",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "member of Hour of Charm All Girl Orchestra",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "dbc3d7b2-1b1e-4a72-bf09-eb733e1b2091",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "name": "Catherine Faure",
+      "sort-name": "Faure, Catherine",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

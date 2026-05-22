@@ -1,0 +1,73 @@
+{
+  "created": "2026-05-22T17:33:40.823Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "28bacb90-e70f-4219-b6e9-5ce0149facff",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "J.Views",
+      "sort-name": "J.Views",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1982-02-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "J. Viewz",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "J. Viewz",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.Viewz",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "J.Viewz",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J. Views",
+          "name": "J. Views",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

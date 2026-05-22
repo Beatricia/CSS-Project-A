@@ -1,0 +1,163 @@
+{
+  "created": "2026-05-22T18:10:43.406Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "bf70b1b2-50dd-4491-972f-340fbe7512e7",
+      "score": 100,
+      "artist-credit-id": "7952eb9a-d0e9-3043-9951-34c13c51d9b8",
+      "title": "Завтра",
+      "length": 179277,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "alyona alyona",
+          "artist": {
+            "id": "1a6993eb-fa5b-42e2-a834-2a9539c53be1",
+            "name": "alyona alyona",
+            "sort-name": "alyona alyona",
+            "disambiguation": "Ukrainian rapper",
+            "aliases": [
+              {
+                "sort-name": "Savranenko, Aliona Olehivna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Альона Олегівна Савраненко",
+                "locale": "uk_UA",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-09-27",
+      "releases": [
+        {
+          "id": "7694eff8-4d2b-48e4-b2e3-038f8ed897d7",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7952eb9a-d0e9-3043-9951-34c13c51d9b8",
+          "count": 1,
+          "title": "Завтра",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "alyona alyona",
+              "artist": {
+                "id": "1a6993eb-fa5b-42e2-a834-2a9539c53be1",
+                "name": "alyona alyona",
+                "sort-name": "alyona alyona",
+                "disambiguation": "Ukrainian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "306175f7-78d7-471b-bcfc-e13876b508a4",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Завтра",
+            "primary-type": "Single"
+          },
+          "date": "2019-09-27",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-09-27",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "2c667750-e6e1-309c-abcd-352f672ada87",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "4d1913d9-4508-43ec-ae52-02713106821d",
+                  "number": "1",
+                  "title": "Завтра",
+                  "length": 179277
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "91d22681-8d85-48e3-92c8-d93c8710d965",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7952eb9a-d0e9-3043-9951-34c13c51d9b8",
+          "count": 1,
+          "title": "В хаті МА",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "alyona alyona",
+              "artist": {
+                "id": "1a6993eb-fa5b-42e2-a834-2a9539c53be1",
+                "name": "alyona alyona",
+                "sort-name": "alyona alyona",
+                "disambiguation": "Ukrainian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6f62297-0c03-4e07-a57c-7efaf7f41982",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "В хаті МА",
+            "primary-type": "Album"
+          },
+          "date": "2019-11-25",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-11-25",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "98e4ec64-9278-3b68-b2fc-e8eeb50107e7",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f9085f13-84c8-4ece-895b-6c367f1fce3b",
+                  "number": "5",
+                  "title": "Завтра",
+                  "length": 179277
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 4
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FR96X1934598"
+      ]
+    }
+  ],
+  "query": "artist:\"Alyona Alyona\" AND recording:\"Завтра\""
+}

@@ -1,0 +1,698 @@
+{
+  "created": "2026-05-22T17:08:12.894Z",
+  "count": 69824,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "75c07dab-c6ac-427e-8455-8033b2ca80a8",
+      "score": 100,
+      "name": "Ivan Russia",
+      "sort-name": "Russia, Ivan",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3621bd75-811e-4ade-9ce5-10ca7ab340f5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andrei Ivanovich",
+      "sort-name": "Ivanovich, Andrei",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "București",
+        "sort-name": "București",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Romanian pianist",
+      "isnis": [
+        "0000000055501196"
+      ],
+      "life-span": {
+        "begin": "1968",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ivanovitch, Andrei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Andrei Ivanovitch",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "romanian"
+        },
+        {
+          "count": 1,
+          "name": "romanian pianist"
+        }
+      ]
+    },
+    {
+      "id": "e3bee689-34ee-45d9-a762-95d012d71051",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Иван Петров",
+      "sort-name": "Petrov, Ivan",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "aa7e0699-d3fd-44a1-9e54-8088abfd5ed1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Irkutsk",
+        "sort-name": "Irkutsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "operatic bass",
+      "isnis": [
+        "0000000077779076"
+      ],
+      "life-span": {
+        "begin": "1920-02-29",
+        "end": "2003-12-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Petrov, Ivan",
+          "name": "Ivan Petrov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "イワン・ペトロフ",
+          "name": "イワン・ペトロフ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrov, Ivan Ivanovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ivan Ivanovich Petrov",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Петров, Иван Иванович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Иван Иванович Петров",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6d67b03b-5ab5-4186-9df3-9f46b9995645",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Vići Ivanovich",
+      "sort-name": "Ivanovich, Vići",
+      "gender": "female",
+      "area": {
+        "id": "782d4fa5-dfbf-4558-87bf-c41043f5a2a1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Brisbane",
+        "sort-name": "Brisbane",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c470412c-a5d0-4d7e-9f4a-6bf214c1d322",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Chris Ivanovich",
+      "sort-name": "Ivanovich, Chris",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "017aedae-cd3a-4f11-a7c8-1bba3c8fe173",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Peter Ivanovich",
+      "sort-name": "Ivanovich, Peter",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8e92f56d-08e0-4e4e-8cc4-8835cd569e7f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Вилли Токарев",
+      "sort-name": "Tokarév, Vilén Ivánovich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a39536e1-8b06-4d20-a3f0-802c0be3a921",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Respublika Adygeya",
+        "sort-name": "Respublika Adygeya",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "singer-songwriter",
+      "isnis": [
+        "0000000046194999"
+      ],
+      "life-span": {
+        "begin": "1934-11-11",
+        "end": "2019-08-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Willy Tokarev",
+          "name": "Willy Tokarev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tokarev, Willi",
+          "name": "Willi Tokarev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 2,
+          "name": "russian chanson"
+        }
+      ]
+    },
+    {
+      "id": "307716ed-851e-4d74-93f5-1f6a990152ad",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 86,
+      "name": "Шумы России",
+      "sort-name": "Shumi Rossii",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2001",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Noises of Russia",
+          "name": "Noises of Russia",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шумы России = Noises Of Russia",
+          "name": "Шумы России = Noises Of Russia",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Noise of Russia",
+          "name": "Noise of Russia",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "noise"
+        }
+      ]
+    },
+    {
+      "id": "e539699a-5cb3-4f73-b60f-691b1499d0af",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Иванович Глинка",
+      "sort-name": "Glinka, Mikhail Ivanovich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a5a09d38-eca0-466e-950b-c3730414d8bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Smolensk",
+        "sort-name": "Smolensk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00012055831"
+      ],
+      "isnis": [
+        "0000000122804438"
+      ],
+      "life-span": {
+        "begin": "1804-06-01",
+        "end": "1857-02-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Glinka, Michail Ivanovitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Michail Ivanovitj Glinka",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Michail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Michail Glinka",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Глинка, Михаил",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Михаил Глинка",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Глинка, Михаил Иванович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Михаил Иванович Глинка",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gļinka, M.",
+          "name": "M. Gļinka",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Mikhail Ivanovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mikhail Ivanovich Glinka",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, M. I.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "M. I. Glinka",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glink",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Glink",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michael Glinka",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Michael Glinka",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Glinka",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Michail",
+          "name": "Michail Glinka",
+          "locale": "nl",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Mikhail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mikhail Glinka",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michail Glinka",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Michail Glinka",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gļinka, Mihails",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mihails Gļinka",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "russian composer"
+        }
+      ]
+    },
+    {
+      "id": "968eba57-0b3b-4812-b2da-411ff5c23632",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Иван IV Васильевич",
+      "sort-name": "Ivan IV of Russia",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000122379996"
+      ],
+      "life-span": {
+        "begin": "1530-08-25",
+        "end": "1584-03-18",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ivan the Terrible",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ivan the Terrible",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Романов, Иван Васильевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Иван Васильевич Романов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Иван Грозный",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иван Грозный",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Иван IV",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иван IV",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ива́н IV Васи́льевич",
+          "name": "Ива́н IV Васи́льевич",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivan IV Vasil'evič",
+          "name": "Ivan IV Vasil'evič",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivan IV Vasilyevich",
+          "name": "Ivan IV Vasilyevich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivan IV of Russia",
+          "name": "Ivan IV of Russia",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    }
+  ]
+}

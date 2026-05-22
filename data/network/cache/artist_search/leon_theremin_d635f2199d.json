@@ -1,0 +1,691 @@
+{
+  "created": "2026-05-22T17:41:29.023Z",
+  "count": 5251,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "9b182733-e7ac-4ce6-86b1-eae2a54bed5f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Лев Сергеевич Термен",
+      "sort-name": "Theremin, Léon",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000063083545"
+      ],
+      "life-span": {
+        "begin": "1896-08-15",
+        "end": "1993-11-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Theremin, Leon",
+          "name": "Leon Theremin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Termin, Lev",
+          "name": "Lev Termin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Termen, Lev Sergeyevich",
+          "name": "Lev Sergeyevich Termen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Theremin, Léon",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Léon Theremin",
+          "locale": "en_US",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "411973aa-e5be-4b70-a0dc-b06c117e8b38",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "Theremin",
+      "sort-name": "Theremin",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2f4ac21a-95e4-4c30-ab89-e95ac02cbd7d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Donna Leon",
+      "sort-name": "Leon, Donna",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a5bf60f4-f5a5-44c7-9a75-e343615d8a99",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Montclair",
+        "sort-name": "Montclair",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121253363"
+      ],
+      "life-span": {
+        "begin": "1942-09-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Donna Leon (Sprecher: Philipp Schepmann)",
+          "name": "Donna Leon (Sprecher: Philipp Schepmann)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "d4cc0ed5-0f76-4188-9e14-2a23ca12188a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leon Russell",
+      "sort-name": "Russell, Leon",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "15ee9075-af86-4013-8cc3-ecb05fad763b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lawton",
+        "sort-name": "Lawton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nashville",
+        "sort-name": "Nashville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00027067395",
+        "00125760777"
+      ],
+      "isnis": [
+        "0000000116386508",
+        "0000000365976891"
+      ],
+      "life-span": {
+        "begin": "1942-04-02",
+        "end": "2016-11-13",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Hank Wilson",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hank Wilson",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leon Russel",
+          "name": "Leon Russel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bridges, Claude Russell",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Claude Russell Bridges",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bridges, Russell",
+          "name": "Russell Bridges",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Russell, C. J.",
+          "name": "C. J. Russell",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "country rock"
+        },
+        {
+          "count": 2,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "piano rock"
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 1,
+          "name": "rhythm and blues"
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "6aadcd17-7597-423d-9c7f-4b719ef4b435",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 45,
+      "name": "Broken Theremin",
+      "sort-name": "Broken Theremin",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b80b3bee-5f5d-4637-b8a9-5519e2f1a1b7",
+      "score": 45,
+      "name": "Theremin Noir",
+      "sort-name": "Theremin Noir",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "31e46f41-c539-4d9f-8f43-02c92738eb42",
+      "score": 45,
+      "name": "Theremin Duo",
+      "sort-name": "Theremin Duo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8a2f71c8-ccbe-42de-a2fa-2490fc015374",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Лев Толстой",
+      "sort-name": "Tolstoy, Leo",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3c964554-785b-452b-a74c-3789715a95ca",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Tul'skaya oblast'",
+        "sort-name": "Tul'skaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d23f4f31-81f0-4418-bb1b-a30c7fd7537f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Lipetskaya oblast'",
+        "sort-name": "Lipetskaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian writer Leo Tolstoy",
+      "isnis": [
+        "0000000122424494"
+      ],
+      "life-span": {
+        "begin": "1828-09-09",
+        "end": "1910-11-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Lev Nikolaevič Tolstoj",
+          "name": "Lev Nikolaevič Tolstoj",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lew Nikolajewitsch Graf Tolstoi",
+          "name": "Lew Nikolajewitsch Graf Tolstoi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Count Lev Nikolayevich Tolstoy",
+          "name": "Count Lev Nikolayevich Tolstoy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstói, León",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "León Tolstói",
+          "locale": "es",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstoï, Léon",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Léon Tolstoï",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Толстой, Лев Николаевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Лев Николаевич Толстой",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Толстой, Лев",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Лев Толстой",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstoi, Leo",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leo Tolstoi",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstoy, Lev Nikolayevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lev Nikolayevich Tolstoy",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstoy, Leo",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leo Tolstoy",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstoi, Lew Nikolajewitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lew Nikolajewitsch Tolstoi",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "88a964a9-bb7d-42b5-a5f2-1fab7a5609b1",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 43,
+      "name": "atelierTheremin",
+      "sort-name": "atelierTheremin",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "atelier Theremin - earlier name f. same Art., see \"Edit note\"",
+      "life-span": {
+        "begin": "1997",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "atelier Theremin",
+          "name": "atelier Theremin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "berlin"
+        },
+        {
+          "count": 1,
+          "name": "neo-krautrock"
+        },
+        {
+          "count": 1,
+          "name": "space rock"
+        },
+        {
+          "count": 1,
+          "name": "krautopia"
+        },
+        {
+          "count": 1,
+          "name": "avant-garde"
+        },
+        {
+          "count": 1,
+          "name": "krautrock"
+        },
+        {
+          "count": 1,
+          "name": "neokrautrock"
+        },
+        {
+          "count": 1,
+          "name": "theremin"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic"
+        },
+        {
+          "count": 1,
+          "name": "avantgarde"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        }
+      ]
+    },
+    {
+      "id": "6ffb8ea9-2370-44d8-b678-e9237bbd347b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 43,
+      "name": "Kings of Leon",
+      "sort-name": "Kings of Leon",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nashville",
+        "sort-name": "Nashville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000122901684"
+      ],
+      "life-span": {
+        "begin": "1999",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 11,
+          "name": "alternative rock"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": -1,
+          "name": "usa"
+        },
+        {
+          "count": 7,
+          "name": "indie rock"
+        },
+        {
+          "count": 0,
+          "name": "indie"
+        },
+        {
+          "count": 0,
+          "name": "alternative"
+        },
+        {
+          "count": 7,
+          "name": "southern rock"
+        },
+        {
+          "count": -1,
+          "name": "américain"
+        },
+        {
+          "count": 2,
+          "name": "garage rock revival"
+        },
+        {
+          "count": 4,
+          "name": "pop rock"
+        },
+        {
+          "count": 5,
+          "name": "garage rock"
+        },
+        {
+          "count": -1,
+          "name": "rock and indie"
+        },
+        {
+          "count": -2,
+          "name": "united states"
+        },
+        {
+          "count": 0,
+          "name": "big music"
+        }
+      ]
+    }
+  ]
+}

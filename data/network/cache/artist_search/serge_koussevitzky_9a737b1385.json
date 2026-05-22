@@ -1,0 +1,1318 @@
+{
+  "created": "2026-05-22T17:04:49.425Z",
+  "count": 1801,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "fdfea72e-82f6-4d99-9ddb-992b5861dd31",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Сергей Кусевицкий",
+      "sort-name": "Koussevitzky, Serge",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ec7b3f11-1f5d-4129-a21a-e4f08b8f96ae",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vyshny Volochyok",
+        "sort-name": "Vyshny Volochyok",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boston",
+        "sort-name": "Boston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000402648476"
+      ],
+      "life-span": {
+        "begin": "1874-07-26",
+        "end": "1951-06-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Кусевицкий, Шмуил Шахнович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Шмуил Шахнович Кусевицкий",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кусевицкий, Сергей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Сергей Кусевицкий",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кусевицкий, Сергей Александрович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Сергей Александрович Кусевицкий",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Koussevitsky, Serge",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Serge Koussevitsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serge Koussevitzky",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Serge Koussevitzky",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Serge Gainsbourg",
+      "sort-name": "Gainsbourg, Serge",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00011123948",
+        "00011935702",
+        "00012741616"
+      ],
+      "isnis": [
+        "0000000115935851"
+      ],
+      "life-span": {
+        "begin": "1928-04-02",
+        "end": "1991-03-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ginsburg, Lucien",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lucien Ginsburg",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1957-04",
+          "end-date": null
+        },
+        {
+          "sort-name": "Gainsbarre",
+          "name": "Gainsbarre",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": "1980",
+          "end-date": null
+        },
+        {
+          "sort-name": "Gris, Julien",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Julien Gris",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1954",
+          "end-date": "1957"
+        },
+        {
+          "sort-name": "Grix, Julien",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Julien Grix",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1954",
+          "end-date": "1957-04"
+        },
+        {
+          "sort-name": "S. Gainsbourg",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "S. Gainsbourg",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ginzburg, Serge",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Serge Ginzburg",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ginsburg, Serge",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Serge Ginsburg",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 6,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "singer"
+        },
+        {
+          "count": 3,
+          "name": "reggae"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "eurovision"
+        },
+        {
+          "count": 1,
+          "name": "french rock"
+        },
+        {
+          "count": 6,
+          "name": "chanson"
+        },
+        {
+          "count": 4,
+          "name": "french pop"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "rock and indie"
+        },
+        {
+          "count": 1,
+          "name": "soundtracks"
+        },
+        {
+          "count": 0,
+          "name": "c’était mieux avant"
+        },
+        {
+          "count": 1,
+          "name": "initials b.b."
+        },
+        {
+          "count": 1,
+          "name": "server name"
+        }
+      ]
+    },
+    {
+      "id": "44ff676e-dfb6-411c-88db-69e648cf4d49",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Moshe Koussevitzky",
+      "sort-name": "Koussevitzky, Moshe",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Chazzan and vocalist",
+      "isnis": [
+        "0000000114919614"
+      ],
+      "life-span": {
+        "begin": "1899-06-09",
+        "end": "1966-08-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "משה קוסביצקי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה קוסביצקי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mosze Kusewicki",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mosze Kusewicki",
+          "locale": "pl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Koswitzky, Mikhail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mikhail Koswitzky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Koussevitsky, Moshe",
+          "name": "Moshe Koussevitsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kusevitsky, Moshe",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Moshe Kusevitsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "chazzanut"
+        }
+      ]
+    },
+    {
+      "id": "9153b056-330e-4368-ae78-a30df88417f8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Serge Reggiani",
+      "sort-name": "Reggiani, Serge",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e2908a-6dca-46d8-8fd5-688ce1b1aa2b",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Reggio Emilia",
+        "sort-name": "Reggio Emilia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "248d4d8c-53b8-4378-9000-39cd95a4840f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boulogne-Billancourt",
+        "sort-name": "Boulogne-Billancourt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00148682246"
+      ],
+      "isnis": [
+        "0000000123216320"
+      ],
+      "life-span": {
+        "begin": "1922-05-02",
+        "end": "2004-07-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Serge Regiani",
+          "name": "Serge Regiani",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "S. Reggiani",
+          "name": "S. Reggiani",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1b44ad31-811f-4c6f-b821-f96133fab1ca",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Serge Lama",
+      "sort-name": "Lama, Serge",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03a6d664-6d79-42e3-bb8a-c48aef1dcc2b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bordeaux",
+        "sort-name": "Bordeaux",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00005968177"
+      ],
+      "isnis": [
+        "0000000119341372"
+      ],
+      "life-span": {
+        "begin": "1943-02-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Chauvier, Serge",
+          "name": "Serge Chauvier",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lama",
+          "name": "Лама",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chauvier, Serge Claude Bernard",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Serge Claude Bernard Chauvier",
+          "locale": "fr_FR",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "chanson française"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        }
+      ]
+    },
+    {
+      "id": "4bc7caed-649f-494d-804f-a398644bfd99",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Simcha Koussevitzky",
+      "sort-name": "Koussevitzky, Simcha",
+      "gender": "male",
+      "begin-area": {
+        "id": "bc82ec2f-70bd-4607-abd8-db1268b2f0d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Grodno",
+        "sort-name": "Grodno",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0f0cb63b-b675-4f9a-ad63-f24686cf2037",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cape Town",
+        "sort-name": "Cape Town",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "end": "1998-06",
+        "ended": true
+      }
+    },
+    {
+      "id": "bdcbcaee-1fa4-48ff-a610-0de55ecb7eae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natalie Koussevitzky",
+      "sort-name": "Koussevitzky, Natalie",
+      "gender": "female",
+      "life-span": {
+        "end": "1942",
+        "ended": true
+      }
+    },
+    {
+      "id": "d6b302cc-a5d6-412b-827d-094e77ce4b37",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Olga Koussevitzky",
+      "sort-name": "Koussevitzky, Olga",
+      "gender": "female",
+      "life-span": {
+        "begin": "1901",
+        "end": "1978",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Naumova, Olga",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Olga Naumova",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Koussevitzky, Olga",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Olga Koussevitzky",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1947",
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ac311c7d-2e8d-4ede-a3a9-0de58512817a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Koussevitzky",
+      "sort-name": "Koussevitzky, Alexander",
+      "gender": "male",
+      "begin-area": {
+        "id": "cadab571-5d70-45d7-9e1d-843f6cb78bb5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vilnius",
+        "sort-name": "Vilnius",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1927-04-08",
+        "end": "1975-05",
+        "ended": true
+      }
+    },
+    {
+      "id": "44b16e44-da77-4580-b851-0d765904573e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Сергей Васильевич Рахманинов",
+      "sort-name": "Rachmaninoff, Sergei Vasilievich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "961495d4-0a6d-4f9a-ab9e-f0d87d7b8d4a",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Novgorodskaya oblast'",
+        "sort-name": "Novgorodskaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "73d8cbdd-3149-4cb6-a36d-1ef2036a8b88",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beverly Hills",
+        "sort-name": "Beverly Hills",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00025196099"
+      ],
+      "isnis": [
+        "0000000121354017"
+      ],
+      "life-span": {
+        "begin": "1873-04-01",
+        "end": "1943-03-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Rachmaninoff, Serge",
+          "name": "Rachmaninoff, Serge",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Siergiej Rachmaninow",
+          "name": "Siergiej Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Racmaninov",
+          "name": "Racmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff, S.",
+          "name": "S. Rachmaninoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergej Rachmaninoff",
+          "name": "Sergej Rachmaninoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rakhmaninov, Sergey",
+          "name": "Rakhmaninov, Sergey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergueï",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergueï Rachmaninov",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Vasilievich Rachmaninov",
+          "name": "Sergei Vasilievich Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Serge",
+          "name": "Serge Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergey (1873–1943)",
+          "name": "Rachmaninov, Sergey (1873–1943)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergey",
+          "name": "Rachmaninov, Sergey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergey Rachmaninov",
+          "name": "Sergey Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninow, Sergei Wassiljewitsch",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Wassiljewitsch Rachmaninow",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff",
+          "name": "Rachmaninoff",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergio Rachmaninoff",
+          "name": "Sergio Rachmaninoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Rachmaniov",
+          "name": "Sergei Rachmaniov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff, Sergej",
+          "name": "Rachmaninoff, Sergej",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rahmaninov, Sergej Vasil'evič",
+          "name": "Sergej Vasil'evič Rahmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergeri Rachmaninoff",
+          "name": "Sergeri Rachmaninoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergei Rachmaninow",
+          "name": "Sergei Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rakhmaninov",
+          "name": "Rakhmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Rachmaninov",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergey Rakhmaninov",
+          "name": "Sergey Rakhmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rakhmaninov, Sergey Vasil’yevich",
+          "name": "Sergey Vasil’yevich Rakhmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, S.",
+          "name": "S. Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Rachmaninov",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergey Vasilyevich",
+          "name": "Sergey Vasilyevich Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergej Rachmaninov",
+          "name": "Sergej Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergey Rachmarinov",
+          "name": "Sergey Rachmarinov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serge Rachmaninow",
+          "name": "Serge Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff, Sergei Vasilievich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Vasilievich Rachmaninoff",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergiusz Rachmaninow",
+          "name": "Sergiusz Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergej Rachmaninow",
+          "name": "Sergej Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergei (1873–1943)",
+          "name": "Rachmaninov, Sergei (1873–1943)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "라흐마니노프",
+          "name": "라흐마니노프",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergei",
+          "name": "Rachmaninov, Sergei",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rhachmaninov",
+          "name": "Rhachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рахманинов, Сергей Васильевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Сергей Васильевич Рахманинов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergei (1873–1943)",
+          "name": "Sergei Rachmaninov (1873–1943)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergej Vasiljevitj",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergej Vasiljevitj Rachmaninov",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rahmaninov, Sergei Vasiljevitš",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Vasiljevitš Rahmaninov",
+          "locale": "fi",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergej",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergej Rachmaninov",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninow",
+          "name": "Rachmaninow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninov, Sergej",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergej Rachmaninov",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninow, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Rachmaninow",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff",
+          "name": "Sergei Vasilyevich Rachmaninoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sergueï Rachmaninov",
+          "name": "Sergueï Rachmaninov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff, Serge",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Serge Rachmaninoff",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rahmaninov, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Rahmaninov",
+          "locale": "fi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rahmaninov, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Rahmaninov",
+          "locale": "et",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rachmaninoff, Sergei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sergei Rachmaninoff",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рахманинов, Сергей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Сергей Рахманинов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "セルゲイ・ラフマニノフ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "セルゲイ・ラフマニノフ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 10,
+          "name": "classical"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "orchestral"
+        },
+        {
+          "count": 6,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 3,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 6,
+          "name": "pianist"
+        },
+        {
+          "count": 6,
+          "name": "composer"
+        },
+        {
+          "count": 4,
+          "name": "romantic"
+        },
+        {
+          "count": 2,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "symphony"
+        },
+        {
+          "count": 1,
+          "name": "concerto"
+        },
+        {
+          "count": 4,
+          "name": "romanticism"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 4,
+          "name": "romantic classical"
+        },
+        {
+          "count": 1,
+          "name": "symphonic poem"
+        },
+        {
+          "count": 0,
+          "name": "choral symphony"
+        }
+      ]
+    }
+  ]
+}

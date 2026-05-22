@@ -1,0 +1,715 @@
+{
+  "created": "2026-05-22T17:02:32.947Z",
+  "count": 884,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7da030e4-3b08-4e29-b497-344d809589fd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Виктор Цой",
+      "sort-name": "Tsoy, Viktor",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Latvia",
+        "sort-name": "Latvia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00217595257",
+        "00217595453"
+      ],
+      "isnis": [
+        "0000000395162311"
+      ],
+      "life-span": {
+        "begin": "1962-06-21",
+        "end": "1990-08-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Zoi, Wiktor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Wiktor Zoi",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tsoi, Victor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Victor Tsoi",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tsoi, Viktor Robertovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Viktor Robertovich Tsoi",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zoi, Wiktor Robertowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Wiktor Robertowitsch Zoi",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "빅토르 초이",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "빅토르 초이",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "维克多·崔",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "维克多·崔",
+          "locale": "zh",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Վիկտոր Ցոյ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Վիկտոր Ցոյ",
+          "locale": "hy",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ვიქტორ ცოი",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ვიქტორ ცოი",
+          "locale": "ka",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ויקטור צוי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ויקטור צוי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヴィクトル・ツォイ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ヴィクトル・ツォイ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Victor Choi",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Victor Choi",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Viktor Coj",
+          "name": "Viktor Coj",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Viktor Tsoy",
+          "name": "Viktor Tsoy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Viktor Tsoi",
+          "name": "Viktor Tsoi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Victor Tsoy",
+          "name": "Victor Tsoy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "빅토르 로베르토비치 최",
+          "name": "빅토르 로베르토비치 최",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Цой, Виктор Робертович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Виктор Робертович Цой",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Цой, Виктор",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Виктор Цой",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        }
+      ]
+    },
+    {
+      "id": "8c1a4ddc-deeb-4212-8e0d-fbe85b29f352",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 78,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Viktor Petrov",
+      "sort-name": "Petrov, Viktor",
+      "gender": "male",
+      "disambiguation": "production music composer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Petrov Viktor",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov Viktor",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrov.Viktor",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov.Viktor",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrov Viktor Prod. By Suchanov A. Swift",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov Viktor Prod. By Suchanov A. Swift",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrov Viktor Prod. By Suchanov A.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov Viktor Prod. By Suchanov A.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrov Viktor Prod. By Tereshchenko Y.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov Viktor Prod. By Tereshchenko Y.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrov Viktor Prod. By Zherebtsov S.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov Viktor Prod. By Zherebtsov S.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b4b05a2c-dfa4-4772-ad9e-3b8bc65f123c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kit Tsoi",
+      "sort-name": "Tsoi, Kit",
+      "gender": "male",
+      "country": "HK",
+      "area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "engineer from Hong Kong",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tsoi, Pun Kit",
+          "name": "Tsoi Pun Kit",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "蔡本杰",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "蔡本杰",
+          "locale": "zh_Hans",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "蔡本傑",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "蔡本傑",
+          "locale": "zh_Hant",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Choi, Kit",
+          "name": "Kit Choi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f64a284c-d269-42d7-a636-a2488f985c61",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Debbie Tsoi",
+      "sort-name": "Tsoi, Debbie",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6443fb24-fa0e-480b-ba32-60d1e4c1a41c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Cherrie Tsoi",
+      "sort-name": "Tsoi, Cherrie",
+      "gender": "female",
+      "country": "HK",
+      "area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "background vocalist",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tsoi, Cherrie",
+          "name": "Cherrie Tsoi",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3ba77abb-5eaf-4c85-85db-ab9846fd8d62",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "蔡國權",
+      "sort-name": "Tsoi, Terence",
+      "gender": "male",
+      "country": "HK",
+      "area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00137101120",
+        "00137101218",
+        "00188752813"
+      ],
+      "isnis": [
+        "0000000465457407"
+      ],
+      "life-span": {
+        "begin": "1953-12-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "蔡国权",
+          "name": "蔡国权",
+          "locale": "zh_Hans",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "蔡國權",
+          "name": "蔡國權",
+          "locale": "zh_Hant",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tsoi, Terence",
+          "name": "Terence Tsoi",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Choi, Terence",
+          "name": "Terence Choi",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "cantopop"
+        },
+        {
+          "count": 1,
+          "name": "alliteration"
+        }
+      ]
+    },
+    {
+      "id": "0ffeaad4-63ed-4191-8f75-3ea7038ec364",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Viktor Lazlo",
+      "sort-name": "Lazlo, Viktor",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "293f8c50-beef-4042-bea0-252b24f239e3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lorient",
+        "sort-name": "Lorient",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French-Belgian singer",
+      "ipis": [
+        "00132211043"
+      ],
+      "isnis": [
+        "0000000081360980"
+      ],
+      "life-span": {
+        "begin": "1960-10-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Dronier, Sonia",
+          "name": "Sonia Dronier",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Victor Laszlo",
+          "name": "Victor Laszlo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dronnier, Sonia",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sonia Dronnier",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Viktot Lazlo",
+          "name": "Viktot Lazlo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "V. Lazlo",
+          "name": "V. Lazlo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Victor Lazlo",
+          "name": "Victor Lazlo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "jazz pop"
+        },
+        {
+          "count": 1,
+          "name": "sophisti-pop"
+        }
+      ]
+    },
+    {
+      "id": "abb5601f-be56-40a0-a72a-bafcd08692be",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Viktor",
+      "sort-name": "Viktor",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "London based gay male performer",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "electro"
+        }
+      ]
+    },
+    {
+      "id": "33991e3a-7c22-4eff-92cc-fbb15919535a",
+      "score": 69,
+      "name": "Viktor",
+      "sort-name": "Viktor",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Viktor (UA)",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d83a62b5-15a5-4246-92c5-b5056dc7e00e",
+      "score": 68,
+      "name": "Viktor",
+      "sort-name": "Viktor",
+      "disambiguation": "trance vocalist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

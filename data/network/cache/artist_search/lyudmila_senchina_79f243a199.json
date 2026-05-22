@@ -1,0 +1,190 @@
+{
+  "created": "2026-05-22T16:52:11.903Z",
+  "count": 56,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "6a2a1337-8967-441d-a10f-948ebe5b9e86",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Людмила Сенчина",
+      "sort-name": "Senchina, Lyudmila",
+      "gender": "female",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1950-12-13",
+        "end": "2018-01-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Сенчина, Людмила",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Людмила Сенчина",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Сенчина, Людмила Петровна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Людмила Петровна Сенчина",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0c29503f-2600-4d1e-a615-604609c5034f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "name": "Lyudmila Malian",
+      "sort-name": "Malian, Lyudmila",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2f64985b-1473-465a-ab3c-7b943a696c4d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lyudmila Lakisova",
+      "sort-name": "Lakisova, Lyudmila",
+      "gender": "female",
+      "disambiguation": "pianist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9441c43c-100b-4908-a0a8-402f2a7ce863",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lyudmila Kerekesha",
+      "sort-name": "Kerekesha, Lyudmila",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "664ce8f3-d48e-4dc8-8a20-cbb5e14c980b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "name": "Lyudmila Hadzhieva",
+      "sort-name": "Hadzhieva, Lyudmila",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "dcff8383-075b-41f2-8209-eb4bc8738fa2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lyudmila Mikhailova",
+      "sort-name": "Mikhailova, Lyudmila",
+      "gender": "female",
+      "disambiguation": "Soprano",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1e18f295-a48a-4431-88d8-ce49ecda7921",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lyudmila Kanunnikova",
+      "sort-name": "Kanunnikova, Lyudmila",
+      "gender": "female",
+      "disambiguation": "Russian mezzo-soprano",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cf62436b-9992-4052-904a-c33be585f48a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lyudmila Kojourina",
+      "sort-name": "Kojourina, Lyudmila",
+      "gender": "female",
+      "disambiguation": "designer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "376c300f-ab02-4efd-b5cb-d2504fbbf3d5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lyudmila Korabelnikova",
+      "sort-name": "Korabelnikova, Lyudmila",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0ddfd0e4-f43b-49fc-99a9-adadbcb3d94c",
+      "score": 68,
+      "name": "Lyudmila Dmitrieva",
+      "sort-name": "Dmitrieva, Lyudmila",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "created": "2026-05-22T17:13:38.821Z",
+  "count": 1019,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f50b2b4f-cfba-4feb-94c1-d5621f94e7e4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ernst Mielck",
+      "sort-name": "Mielck, Ernst",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d8573f7a-4ee4-4a98-ba74-f639d0a9d7b1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vyborg",
+        "sort-name": "Vyborg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "08c1fb02-e2d0-425d-b68c-3ff979a07a7d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Locarno",
+        "sort-name": "Locarno",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081161834"
+      ],
+      "life-span": {
+        "begin": "1877-10-24",
+        "end": "1899-10-22",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "finnish composer"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "3f885339-c80a-46b7-9b2b-7964cb29eed7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ernst Vlcek",
+      "sort-name": "Vlcek, Ernst",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "26410fd9-fac9-4c38-a4a4-ac6cbb362e19",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Brunn am Gebirge",
+        "sort-name": "Brunn am Gebirge",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114498979"
+      ],
+      "life-span": {
+        "begin": "1941",
+        "end": "2008",
+        "ended": true
+      }
+    },
+    {
+      "id": "05373d3f-20bc-4056-af1e-ab7439584ff1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hansi Hinterseer",
+      "sort-name": "Hinterseer, Hansi",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a8970dd2-4e14-4ffd-81de-927463726e03",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kitzbühel",
+        "sort-name": "Kitzbühel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000118769879"
+      ],
+      "life-span": {
+        "begin": "1954-02-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hinterseer, Johann Ernst",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Johann Ernst Hinterseer",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "austrian"
+        }
+      ]
+    },
+    {
+      "id": "6ec4ecc5-0271-4291-a305-c589dc8f8645",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ernst Busch",
+      "sort-name": "Busch, Ernst",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a96d2d8a-ebc3-4845-8e75-1f5be66c38e7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kiel",
+        "sort-name": "Kiel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00004658986"
+      ],
+      "isnis": [
+        "0000000055121345"
+      ],
+      "life-span": {
+        "begin": "1900-01-22",
+        "end": "1980-06-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ernst Busch",
+          "name": "Ernst Busch mit Studentenchor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        }
+      ]
+    },
+    {
+      "id": "cb760939-66f9-4754-a187-d42372818251",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Max Goldt",
+      "sort-name": "Goldt, Max",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e1118b38-3b6b-4e3b-a260-ba83a89eb09a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Göttingen",
+        "sort-name": "Göttingen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00085355066"
+      ],
+      "isnis": [
+        "0000000078435996"
+      ],
+      "life-span": {
+        "begin": "1958-09-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ernst, Matthias",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Matthias Ernst",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        },
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        },
+        {
+          "count": 1,
+          "name": "minimal"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "electro"
+        }
+      ]
+    },
+    {
+      "id": "648d5cb0-c721-4193-9b2d-7452ac5e84e7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ernő Dohnányi",
+      "sort-name": "Dohnányi, Ernő",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ed091849-62dd-4d10-9d40-50594afb1b15",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bratislava",
+        "sort-name": "Bratislava",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hungarian conductor, composer and pianist",
+      "isnis": [
+        "0000000109011513"
+      ],
+      "life-span": {
+        "begin": "1877-07-27",
+        "end": "1960-02-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ernst von Dohnanyi",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ernst von Dohnanyi",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ernst Von Dohananyi",
+          "name": "Ernst Von Dohananyi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dohnányi, von, Ernst",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ernst von Dohnányi",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "hungarian composer"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "3234e34f-2a76-4b0d-904d-cabd3db14306",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bruce Low",
+      "sort-name": "Low, Bruce",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2581f372-782f-449c-bf87-e17be6cf895b",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Paramaribo",
+        "sort-name": "Paramaribo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Dutch schlager and gospel singer and actor",
+      "ipis": [
+        "00018601111"
+      ],
+      "isnis": [
+        "0000000033550472"
+      ],
+      "life-span": {
+        "begin": "1913-03-26",
+        "end": "1990-03-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bielke, Ernst",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ernst Bielke",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bielke, Ernst Gottfried",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ernst Gottfried Bielke",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "schlager"
+        }
+      ]
+    },
+    {
+      "id": "d601a5f6-254f-4ad8-8929-ec01cb059182",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ernst Krenek",
+      "sort-name": "Krenek, Ernst",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "25b3e1fd-e929-45a5-ba70-8f270a5fad42",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Palm Springs",
+        "sort-name": "Palm Springs",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian composer",
+      "isnis": [
+        "0000000109309918"
+      ],
+      "life-span": {
+        "begin": "1900-08-23",
+        "end": "1991-12-22",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "modern classical"
+        },
+        {
+          "count": 1,
+          "name": "austrian composer"
+        }
+      ]
+    },
+    {
+      "id": "931ebca8-ed39-4f1b-b613-bd1878619c9e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ernst Schnabel",
+      "sort-name": "Schnabel, Ernst",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9dcff3f1-a42f-49bb-ada6-82d7a6afef16",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zittau",
+        "sort-name": "Zittau",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000109507877"
+      ],
+      "life-span": {
+        "begin": "1913-09-26",
+        "end": "1986-01-25",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "fa39bc82-9b27-4bbb-9425-d719a72e09ac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonard Bernstein",
+      "sort-name": "Bernstein, Leonard",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "555e5b30-25cf-40ba-a933-ce7acca5866d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lawrence",
+        "sort-name": "Lawrence",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American conductor, composer, pianist",
+      "ipis": [
+        "00002933317"
+      ],
+      "isnis": [
+        "0000000110292324",
+        "0000000368573393"
+      ],
+      "life-span": {
+        "begin": "1918-08-25",
+        "end": "1990-10-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bernstains, L.",
+          "name": "L.Bernstains",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bernstein",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bernstein",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leonard Berstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leonard Berstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leonard Berstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leonard Berstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bernstein, Leonard",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Bernstein, Leonard",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leon Bernstein (1918-1990)",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leon Bernstein (1918-1990)",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leonhard Bernstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leonhard Bernstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Original West Side Story Cast",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Original West Side Story Cast",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "West Side Story",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "West Side Story",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bernstein, Leonard",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonard Bernstein",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "soundtrack"
+        },
+        {
+          "count": 4,
+          "name": "classical"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": -1,
+          "name": "opera"
+        },
+        {
+          "count": 0,
+          "name": "new york"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "royal"
+        },
+        {
+          "count": 0,
+          "name": "faust"
+        }
+      ]
+    }
+  ]
+}

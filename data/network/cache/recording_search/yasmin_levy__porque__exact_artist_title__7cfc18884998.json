@@ -1,0 +1,427 @@
+{
+  "created": "2026-05-22T18:33:50.212Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "e478863b-7e01-426f-a1ec-85bb24704d89",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Porque",
+      "length": 237826,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009-10-05",
+      "releases": [
+        {
+          "id": "aa955377-6187-4878-8fc1-546f13d4a91a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Sentir",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "46ae6c2b-530d-4b19-b31d-88cd34b2900a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sentir",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "2056fb3b-2dd8-3214-9651-a87af236f58b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "edda8d38-fb55-4193-9fcd-e29548e59ecb",
+                  "number": "10",
+                  "title": "Porque",
+                  "length": 237826
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "5738c4b9-f5e3-4671-ab7a-b279fe917c6f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Sentir",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "46ae6c2b-530d-4b19-b31d-88cd34b2900a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sentir",
+            "primary-type": "Album"
+          },
+          "date": "2009-10-05",
+          "country": "XE",
+          "release-events": [
+            {
+              "date": "2009-10-05",
+              "area": {
+                "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+                "name": "Europe",
+                "sort-name": "Europe",
+                "iso-3166-1-codes": [
+                  "XE"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "9ba9611a-b202-3dda-81f7-fe1964ba0ca2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "000be6e8-c9fe-3ef7-98ed-a8bb52630742",
+                  "number": "10",
+                  "title": "Porque",
+                  "length": 237826
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        },
+        {
+          "id": "828b889b-18d5-4f3d-b16e-e27069360879",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Sentir",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "46ae6c2b-530d-4b19-b31d-88cd34b2900a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Sentir",
+            "primary-type": "Album"
+          },
+          "date": "2009-10-05",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2009-10-05",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "1b07c614-273b-36ff-a885-5f27b91b28c2",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "38f6b30c-e5f0-4f2f-a427-a81137062472",
+                  "number": "10",
+                  "title": "Porque",
+                  "length": 237826
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "IL4070900022"
+      ]
+    },
+    {
+      "id": "9b2ca9b9-f877-4e16-8b18-f9ab31188f1a",
+      "score": 79,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Porque Llorash Blank Nina (live at Kit, Holland)",
+      "length": 395000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "75a0587e-288a-435d-a39c-ad7ef1ec985f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Romance & Yasmin",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "491077b8-838c-341b-bece-5b3906a46faf",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Romance & Yasmin",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "21398aa0-5888-3531-8255-2de2a6200a95",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "cedfc827-0f44-4d45-befe-d89e2a729c10",
+                  "number": "12",
+                  "title": "Porque Llorash Blank Nina (live at Kit, Holland)",
+                  "length": 395000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bdaf85c9-9467-4903-b28e-7ed2d2cbf406",
+      "score": 79,
+      "artist-credit-id": "5ae24834-0daf-3757-a2af-2f0e74ae240c",
+      "title": "Porque",
+      "length": 234000,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " feat. ",
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "Ελένη Βιτάλη",
+          "artist": {
+            "id": "32666cb7-cf0b-45a0-b275-d9fe2759d84c",
+            "name": "Ελένη Βιτάλη",
+            "sort-name": "Vitali, Eleni",
+            "aliases": [
+              {
+                "sort-name": "Eleni Vitali",
+                "name": "Eleni Vitali",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Elenh Bitalh",
+                "name": "Elenh Bitalh",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Βιτάλη, Ελένη",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Ελένη Βιτάλη",
+                "locale": "el",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010",
+      "releases": [
+        {
+          "id": "518c4cfa-a2ea-486d-8dea-bcd60530a471",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "Babylon Bar, Part 02",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "3bcd54f0-784b-47b3-bde2-0ae48a3e5d54",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Babylon Bar, Vol. 2",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2010",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 32,
+          "media": [
+            {
+              "id": "63ef1db9-486d-362a-a1fa-b245529e4b01",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "18243a17-7b18-4041-951a-44f23b6dbabc",
+                  "number": "8",
+                  "title": "Porque",
+                  "length": 234000
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Yasmin Levy\" AND recording:\"Porque\""
+}

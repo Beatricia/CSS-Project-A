@@ -1,0 +1,555 @@
+{
+  "created": "2026-05-22T17:01:50.741Z",
+  "count": 205,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b8a57822-8705-420b-92bf-72ef7ad5bff3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kallós Zoltán",
+      "sort-name": "Kallós, Zoltán",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "de175883-cc56-4260-921e-9ec19b1645f5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bonțida",
+        "sort-name": "Bonțida",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "de175883-cc56-4260-921e-9ec19b1645f5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bonțida",
+        "sort-name": "Bonțida",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000108869083"
+      ],
+      "life-span": {
+        "begin": "1926-03-26",
+        "end": "2018-02-14",
+        "ended": true
+      }
+    },
+    {
+      "id": "87cdad2e-508a-424b-9b43-a36080ed997b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "György Sándor",
+      "sort-name": "Sándor, György",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "000000011071745X"
+      ],
+      "life-span": {
+        "begin": "1912-09-21",
+        "end": "2005-12-09",
+        "ended": true
+      }
+    },
+    {
+      "id": "97bb0876-eb88-4e55-b2b3-5087b150bba7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sándor Végh",
+      "sort-name": "Végh, Sándor",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "660f7938-e215-4f56-8cb5-44e15b30b191",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cluj-Napoca",
+        "sort-name": "Cluj-Napoca",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "cc6b213e-25cb-4ea5-ac64-5ffd1bd8012b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Freilassing",
+        "sort-name": "Freilassing",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist/conductor/teacher",
+      "isnis": [
+        "0000000118280301"
+      ],
+      "life-span": {
+        "begin": "1912-05-17",
+        "end": "1997-01-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Végh Sándor",
+          "name": "Végh Sándor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "violinist"
+        },
+        {
+          "count": 1,
+          "name": "hungarian violinist"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "hungarian conductor"
+        }
+      ]
+    },
+    {
+      "id": "b84708ce-501e-447d-b1a2-142d7fd031ba",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ferenz Kallos",
+      "sort-name": "Kallos, Ferenz",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000400097690"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4f247b20-ec60-456c-a8ab-7e3e5bbb7c6a",
+      "score": 89,
+      "name": "Kallos Inc",
+      "sort-name": "Kallos Inc",
+      "disambiguation": "François Kallos, techno/dance",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "083e19f0-783a-4595-977a-ff942de8f5e4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "János Sándor",
+      "sort-name": "Sándor, János",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c5446ccc-24aa-4110-8130-38c97b5d83da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Victoria",
+        "sort-name": "Victoria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114449237"
+      ],
+      "life-span": {
+        "begin": "1933-06-07",
+        "end": "2010-05-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sandor, Janos",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Janos Sandor",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "magyar"
+        },
+        {
+          "count": 1,
+          "name": "hungary"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "hungarian"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "orchestral"
+        }
+      ]
+    },
+    {
+      "id": "3b27b519-22ae-4b6b-bc1d-1c9647b06703",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sandor",
+      "sort-name": "Sandor",
+      "gender": "female",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swiss singer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Florey, Virginie",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Virginie Florey",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "aecefbbe-1d48-45d8-bac7-c0f60b8ff58f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frigyes Sándor",
+      "sort-name": "Sándor, Frigyes",
+      "gender": "male",
+      "area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000110223206"
+      ],
+      "life-span": {
+        "begin": "1905-04-24",
+        "end": "1979-06-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sándor, Frigyes",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sándor Frigyes",
+          "locale": "hu_HU",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sándor, Frigyes",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Frigyes Sándor",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0727d7ce-fefb-4c4a-945b-b96eed5d3b63",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arpád Sándor",
+      "sort-name": "Sándor, Arpád",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hungarian-born American pianist",
+      "life-span": {
+        "begin": "1896-06-05",
+        "end": "1972-02-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sándor, Arpád",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sándor Arpád",
+          "locale": "hu_HU",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sándor, Arpád",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Arpád Sándor",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "hungarian pianist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "ca77e6c8-e954-4c9e-a5da-c7218aa48fa2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sándor Vály",
+      "sort-name": "Vály, Sándor",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1968-03-28",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        }
+      ]
+    }
+  ]
+}

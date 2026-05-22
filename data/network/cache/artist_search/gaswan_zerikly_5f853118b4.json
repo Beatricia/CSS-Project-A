@@ -1,0 +1,46 @@
+{
+  "created": "2026-05-22T17:38:49.102Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c9661c0a-68d2-4b86-9d33-3f8a08f25704",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dima Orsho",
+      "sort-name": "Orsho, Dima",
+      "gender": "female",
+      "country": "SY",
+      "area": {
+        "id": "18086faa-7f75-3ca3-a5bb-a77a83d4b200",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Syria",
+        "sort-name": "Syria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "725210c4-3f89-4f49-a508-794e92f700ef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Damascus",
+        "sort-name": "Damascus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Gaswan Zerikly",
+      "isnis": [
+        "0000000048527777"
+      ],
+      "life-span": {
+        "begin": "1975",
+        "ended": null
+      }
+    }
+  ]
+}

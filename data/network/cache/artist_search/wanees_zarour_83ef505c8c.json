@@ -1,0 +1,78 @@
+{
+  "created": "2026-05-22T17:41:08.615Z",
+  "count": 4,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a240328f-65d6-4f0d-955e-bf59a00a3338",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ونيس",
+      "sort-name": "Wanees",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "510f786d-c650-49b3-80d2-961af77c8962",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "name": "راشد زعرور",
+      "sort-name": "Za’rour, Rashed",
+      "disambiguation": "Rashed Za’rour",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "37b6d536-982c-4c6f-860a-0a64fba6681e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Saïd Zarouri",
+      "sort-name": "Zarouri, Saïd",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "393d8d30-aa9b-4d6c-9032-60df9bb2b5c2",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 59,
+      "name": "Rev. Wallingham & His Swanees",
+      "sort-name": "Rev. Wallingham & His Swanees",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rev. Wallingham and His Swanees",
+          "name": "Rev. Wallingham and His Swanees",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

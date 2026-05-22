@@ -1,0 +1,340 @@
+{
+  "created": "2026-05-22T17:02:02.412Z",
+  "count": 6318,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "46995c56-bcb5-49b3-b508-d0abe7d25881",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Лев Штейнберг",
+      "sort-name": "Steinberg, Lev",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e3ce85a5-ddf3-4be2-b713-cb1d84610709",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dnipro",
+        "sort-name": "Dnipro",
+        "life-span": {
+          "begin": "2016-05-19",
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000045262793"
+      ],
+      "life-span": {
+        "begin": "1870-09-03",
+        "end": "1945-01-16",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Штейнберг, Лев",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Лев Штейнберг",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Штейнберг, Лев Петрович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Лев Петрович Штейнберг",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Steinberg, Lev",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Lev Steinberg",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "513223bd-de24-4cdc-ac2c-e27531268f34",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 95,
+      "name": "Lev Steinberg Symphony Orchestra",
+      "sort-name": "Lev Steinberg Symphony Orchestra",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "533d127d-14b8-4745-ba8b-72638c8986e1",
+      "score": 55,
+      "name": "Steinberg",
+      "sort-name": "Steinberg",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f5ef92b0-fd02-435d-9587-84c40aa80083",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 55,
+      "name": "Lev",
+      "sort-name": "Lev",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian band",
+      "life-span": {
+        "begin": "2002",
+        "ended": null
+      }
+    },
+    {
+      "id": "30be0a7e-b530-4ec5-87c2-79952caa908c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "L.E.V.",
+      "sort-name": "L.E.V.",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "rapper",
+      "life-span": {
+        "begin": "1988",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rudi, Lev",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lev Rudi",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "L.E.V.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "L.€.V.",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "d942a39e-c147-4272-863a-a59af8c20624",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lev",
+      "sort-name": "Lev",
+      "gender": "male",
+      "disambiguation": "Lev Krag",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Krag, Lev",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lev Krag",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "05d38dd7-aed1-49b2-9d6e-27d51f1e811e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "name": "Itay Steinberg",
+      "sort-name": "Steinberg, Itay",
+      "disambiguation": "production music",
+      "ipis": [
+        "00551533467"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "36c151ef-e29a-4a0a-a11f-8f9811e8e601",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "LEV",
+      "sort-name": "LEV",
+      "gender": "male",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "James Levey",
+      "ipis": [
+        "00802374071",
+        "01045117889"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Levey, James",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "James Levey",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Levey, James Peter",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "James Peter Levey",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "16be9542-dc4b-49f3-a2b9-248e0a8d1219",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 54,
+      "name": "Yismach Lev",
+      "sort-name": "Yismach Lev",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "children's music"
+        },
+        {
+          "count": 1,
+          "name": "yiddish"
+        }
+      ]
+    },
+    {
+      "id": "f03dd24b-84ed-4db0-841f-deae7589d6a8",
+      "score": 54,
+      "name": "LEV",
+      "sort-name": "LEV",
+      "disambiguation": "female pop artist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

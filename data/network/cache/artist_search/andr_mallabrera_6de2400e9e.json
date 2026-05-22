@@ -1,0 +1,951 @@
+{
+  "created": "2026-05-22T17:39:25.454Z",
+  "count": 15886,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "cd474e9c-7406-468e-b8bf-e57b046e3f6c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "André Mallabrera",
+      "sort-name": "Mallabrera, André",
+      "gender": "male",
+      "area": {
+        "id": "e815db74-f1aa-4fbc-a78c-f3e76f53409e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Marseille",
+        "sort-name": "Marseille",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d9b8719f-d0d2-4e61-bfb1-e3660ad11af9",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Oran",
+        "sort-name": "Oran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "tenor",
+      "isnis": [
+        "0000000369923703"
+      ],
+      "life-span": {
+        "begin": "1934-06-15",
+        "end": "2017-10-02",
+        "ended": true
+      }
+    },
+    {
+      "id": "0eaa4a38-6bc3-46aa-91be-563f1fa86e16",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "André Rieu",
+      "sort-name": "Rieu, André",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0b565bc6-05e7-4c3a-bc28-075fabd9a8d0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Maastricht",
+        "sort-name": "Maastricht",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000011470295X"
+      ],
+      "life-span": {
+        "begin": "1949-10-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rieu, André Léon Marie Nicolas",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "André Léon Marie Nicolas Rieu",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "André Rieu & His Johann Strauss Orchestra",
+          "name": "André Rieu & His Johann Strauss Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andre Rieu",
+          "name": "Andre Rieu",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "easy listening"
+        },
+        {
+          "count": 1,
+          "name": "classical crossover"
+        },
+        {
+          "count": 1,
+          "name": "tour d amour"
+        },
+        {
+          "count": 1,
+          "name": "waltz"
+        }
+      ]
+    },
+    {
+      "id": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "André Previn",
+      "sort-name": "Previn, André",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist, conductor, composer, arranger",
+      "ipis": [
+        "00024901603"
+      ],
+      "isnis": [
+        "0000000110326977"
+      ],
+      "life-span": {
+        "begin": "1929-04-06",
+        "end": "2019-02-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Andre Previn",
+          "name": "Andre Previn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "piano"
+        },
+        {
+          "count": 4,
+          "name": "conductor"
+        },
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": -1,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 1,
+          "name": "fantasy for two pianos in f minor"
+        },
+        {
+          "count": 1,
+          "name": "op. 73"
+        },
+        {
+          "count": 1,
+          "name": "anton rubinstein"
+        }
+      ]
+    },
+    {
+      "id": "774b509e-15ba-4932-aae4-ec7371e46c27",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "André Hazes",
+      "sort-name": "Hazes, André",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Amsterdam",
+        "sort-name": "Amsterdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8ce0905a-bc98-48c1-837f-2142581ac11b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Woerden",
+        "sort-name": "Woerden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "singer, songwriter",
+      "ipis": [
+        "00039820863"
+      ],
+      "isnis": [
+        "0000000055439652"
+      ],
+      "life-span": {
+        "begin": "1951-06-30",
+        "end": "2004-09-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Andreas Gerardus Hazes",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Andreas Gerardus Hazes",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "André Hazes sr.",
+          "name": "André Hazes sr.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andre Hazes",
+          "name": "Andre Hazes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "André Hazes senior",
+          "name": "André Hazes senior",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "dutch"
+        },
+        {
+          "count": 0,
+          "name": "netherlands"
+        }
+      ]
+    },
+    {
+      "id": "22a096ef-c70d-4d70-ae19-4fc2412d4986",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ATB",
+      "sort-name": "ATB",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f249b770-e6c1-40ac-a813-4a3f69737fa2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Freiberg",
+        "sort-name": "Freiberg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German EDM DJ, musician & producer André Tanneberger",
+      "ipis": [
+        "00249426842"
+      ],
+      "isnis": [
+        "0000000003080713",
+        "0000000080004036"
+      ],
+      "life-span": {
+        "begin": "1973-02-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Andre \"ATB\" Tanneberger",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Andre \"ATB\" Tanneberger",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "André \"ATB\" Tannenberger",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "André \"ATB\" Tannenberger",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andre Tanneberger",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Andre Tanneberger",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A T B",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "A T B",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "atb*",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "atb*",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tanneberger, André",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "André Tanneberger",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "trance"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "ambient trance"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "vocal trance"
+        },
+        {
+          "count": 0,
+          "name": "airplay mix"
+        }
+      ]
+    },
+    {
+      "id": "204db5a8-78f1-4078-801f-ae8f456eeb60",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fabrizio De André",
+      "sort-name": "De André, Fabrizio",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5e27763f-9567-4b8d-ac62-d8e5f18b32d1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Genova",
+        "sort-name": "Genova",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Milano",
+        "sort-name": "Milano",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00000934522"
+      ],
+      "isnis": [
+        "0000000118714288"
+      ],
+      "life-span": {
+        "begin": "1940-02-18",
+        "end": "1999-01-11",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Fabrizio",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Fabrizio",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "De André, Fabrizio Cristiano",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Fabrizio Cristiano De André",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fabrizio De Andrè",
+          "name": "Fabrizio De Andrè",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fabrizio De Andre'",
+          "name": "Fabrizio De Andre'",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "f. de andre",
+          "name": "f. de andre",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fabrizio De Andre",
+          "name": "Fabrizio De Andre",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "De Andr , Fabrizio",
+          "name": "De Andr , Fabrizio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "folk"
+        },
+        {
+          "count": 3,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 3,
+          "name": "italian"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 1,
+          "name": "chanson"
+        },
+        {
+          "count": 5,
+          "name": "cantautore"
+        },
+        {
+          "count": 1,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 0,
+          "name": "cantautori"
+        }
+      ]
+    },
+    {
+      "id": "1408119c-6a6d-480f-b401-633e6b231f35",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "André Campra",
+      "sort-name": "Campra, André",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "37bc32de-19c2-474b-86ed-c73919891f06",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Aix-en-Provence",
+        "sort-name": "Aix-en-Provence",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2322e571-1d9b-4023-a31c-7222509407ab",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Versailles",
+        "sort-name": "Versailles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French composer",
+      "isnis": [
+        "0000000109160885"
+      ],
+      "life-span": {
+        "begin": "1660-12-04",
+        "end": "1744-06-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "André Campra",
+          "name": "Campra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andre Campran",
+          "name": "Andre Campran",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "André Campa",
+          "name": "André Campa",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andre Campra",
+          "name": "Andre Campra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "baroque"
+        },
+        {
+          "count": 1,
+          "name": "french composer"
+        }
+      ]
+    },
+    {
+      "id": "d525b8e6-4d76-44d0-ab2a-b049f22116ff",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "André van Duin",
+      "sort-name": "Duin, van, André",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "755982fa-fbbe-4049-9939-ecfd7fda430b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rotterdam",
+        "sort-name": "Rotterdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00056605380"
+      ],
+      "isnis": [
+        "000000039597132X"
+      ],
+      "life-span": {
+        "begin": "1947-02-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Koos Grandioos",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Koos Grandioos",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andre Van Duin",
+          "name": "Andre Van Duin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "dutch"
+        }
+      ]
+    },
+    {
+      "id": "e188340b-b756-40e6-bf08-ae8d78906875",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "André Cluytens",
+      "sort-name": "Cluytens, André",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c02ebe2f-ecf0-4671-9f09-d997c0effb9a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Antwerp",
+        "sort-name": "Antwerp",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f5f1d03e-cc93-4429-8578-39e68266e277",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Neuilly-sur-Seine",
+        "sort-name": "Neuilly-sur-Seine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian-born French conductor",
+      "isnis": [
+        "0000000108854623"
+      ],
+      "life-span": {
+        "begin": "1905-03-26",
+        "end": "1967-06-03",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 2,
+          "name": "french conductor"
+        }
+      ]
+    },
+    {
+      "id": "87ca0b80-5c62-4316-bc23-c5d2a296a281",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "haircuts for men",
+      "sort-name": "haircuts for men",
+      "area": {
+        "id": "a1411661-be21-4290-8dc1-50f3d8e3ea67",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Honolulu",
+        "sort-name": "Honolulu",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "electronic music producer & DJ",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "hfm",
+          "name": "hfm",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maximillion, Andre",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Andre Maximillion",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 2,
+          "name": "chillwave"
+        },
+        {
+          "count": 1,
+          "name": "instrumental hip hop"
+        },
+        {
+          "count": 5,
+          "name": "vaporwave"
+        },
+        {
+          "count": 4,
+          "name": "barber beats"
+        }
+      ]
+    }
+  ]
+}

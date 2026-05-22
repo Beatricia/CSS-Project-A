@@ -1,0 +1,512 @@
+{
+  "created": "2026-05-22T18:13:14.987Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "83db0c73-c3ba-454b-80ec-2725b54e14f5",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Irme kero",
+      "length": 284840,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-11",
+      "releases": [
+        {
+          "id": "2dc7b1ad-b32a-4c75-8a49-f3739ade5bd6",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Now Hear This!",
+          "status": "Promotion",
+          "disambiguation": "February 2008",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8e12eedd-ef46-46c3-b437-b244e4e277fe",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Now Hear This!",
+            "disambiguation": "February 2008",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008-02",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2008-02",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 15,
+          "media": [
+            {
+              "id": "21dbb42a-6bc9-3885-b180-90aa3d0eff5d",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1577809f-6f64-3753-af20-e41d39e53a28",
+                  "number": "11",
+                  "title": "Irme kero",
+                  "length": 283480
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 10
+            }
+          ]
+        },
+        {
+          "id": "95b17f0f-179f-4d7b-8630-76527e8dc616",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2007",
+          "country": "IL",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+                "name": "Israel",
+                "sort-name": "Israel",
+                "iso-3166-1-codes": [
+                  "IL"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "c8355234-b218-3178-919b-722aa8a12246",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "d327ec10-3f78-48cf-8c6b-786d12e9ead4",
+                  "number": "1",
+                  "title": "Irme kero",
+                  "length": 286893
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "24d92cb1-537e-41e9-a3f2-2a9ccf9be9ea",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2007-11",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2007-11",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "9c94204d-7876-37bd-b796-754c3544cb41",
+              "position": 1,
+              "track": [
+                {
+                  "id": "3dac0be3-9029-3999-bc03-64762e57c60d",
+                  "number": "1",
+                  "title": "Irme kero",
+                  "length": 284840
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "f1305b27-22e1-3c58-8ae1-1d13bb2a707b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2008-01-18",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2008-01-18",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "75ebd255-71c1-341c-8786-7943430a3bd7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "ab0b103a-88c0-3626-b207-41ac58bf00d4",
+                  "number": "1",
+                  "title": "Irme kero",
+                  "length": 284840
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        },
+        {
+          "id": "d8250752-1914-438b-b380-c239bb20ac28",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Hemispheres: One World Under One Roof",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "a8a1cd1d-484d-42c1-a9c7-222a7d140c5a",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Hemispheres: One World Under One Roof",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "db809e44-3d38-3e15-8d7a-8d50c9196890",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "eb0d5956-3977-4a1e-8a95-b2f33876c6ac",
+                  "number": "4",
+                  "title": "Irme Kero"
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 3
+            }
+          ]
+        },
+        {
+          "id": "e9cef624-9b9a-45b1-815b-3f9d12a097ac",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2007",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "c90b76ad-6615-35e0-b7ec-3b44c073717b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "70ecf720-9db1-4af6-8180-2d06c8a79570",
+                  "number": "1",
+                  "title": "Irme kero",
+                  "length": 284840
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "IL4070700001"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "traditional"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        }
+      ]
+    },
+    {
+      "id": "eeb7c2c5-1c79-4f08-9977-b9314b876e4e",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Irme Kero",
+      "length": 280826,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2008",
+      "releases": [
+        {
+          "id": "468c52d5-a75b-49f8-9a9a-6b845d0a09f5",
+          "status-id": "518ffc83-5cde-34df-8627-81bff5093d92",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Jazzadelic 08.1: High-Fidelic Jazz Vibes",
+          "status": "Promotion",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d1349c85-08f4-46cc-b942-98fbe550e7e5",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Jazzadelic 08.1: High-Fidelic Jazz Vibes",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2008",
+          "country": "NL",
+          "release-events": [
+            {
+              "date": "2008",
+              "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "iso-3166-1-codes": [
+                  "NL"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "14c7e1a3-e4bc-36a1-b620-625f1fcc7ef5",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3d8a4c95-f73f-4a72-ab4e-6e5baa1e6d60",
+                  "number": "12",
+                  "title": "Irme Kero",
+                  "length": 280826
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 11
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Yasmin Levy\" AND recording:\"Irme Kero\""
+}

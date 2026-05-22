@@ -1,0 +1,271 @@
+{
+  "created": "2026-05-22T16:57:38.131Z",
+  "count": 7,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "37a4e0e7-ed24-454d-8766-a766eba6580b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lubka Kolessa",
+      "sort-name": "Kolessa, Lubka",
+      "gender": "female",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000117532642"
+      ],
+      "life-span": {
+        "begin": "1902-05-19",
+        "end": "1997-08-15",
+        "ended": true
+      }
+    },
+    {
+      "id": "1c5db40b-c1a7-46ae-8e02-70bc0fca2c65",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 40,
+      "name": "Kolessa",
+      "sort-name": "Kolessa",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "340c21f7-ae55-473c-a8b7-759c726aee29",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 35,
+      "name": "Lubka Lilija",
+      "sort-name": "Lubka Lilija",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Folk",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2a8c7585-4d21-45f5-9e11-cfd6354cb217",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Chrystia Kolessa",
+      "sort-name": "Kolessa, Chrystia",
+      "gender": "female",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "bbc88d72-1f32-4936-8dc6-b62b3318e1c4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ottawa",
+        "sort-name": "Ottawa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000085734919"
+      ],
+      "life-span": {
+        "begin": "1916-10-15",
+        "end": "1978-07-22",
+        "ended": true
+      }
+    },
+    {
+      "id": "c3b65019-1a56-4cc3-bfd9-05b248670e4f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Filaret Kolessa",
+      "sort-name": "Kolessa, Filaret",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "997a775f-fd0d-4371-884a-6260d4df1cfa",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "L'vivs'ka Oblast'",
+        "sort-name": "L'vivs'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000109905154"
+      ],
+      "life-span": {
+        "begin": "1871-07-17",
+        "end": "1947-03-03",
+        "ended": true
+      }
+    },
+    {
+      "id": "1a0c7f95-c118-4d26-9cc9-46c422736e72",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Микола Колесса",
+      "sort-name": "Kolessa, Mykola",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "57755791-2fca-4f81-a2cf-0f405c86e673",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sambir",
+        "sort-name": "Sambir",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer, conductor, educator",
+      "life-span": {
+        "begin": "1903-12-06",
+        "end": "2006-06-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kolessa, Mykola",
+          "name": "Mykola Kolessa",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1432fe27-d94c-4ca4-81e6-87f9d663ff66",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lubka-Jordanova Lihareva-Miladinova",
+      "sort-name": "Lihareva-Miladinova, Lubka-Jordanova",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

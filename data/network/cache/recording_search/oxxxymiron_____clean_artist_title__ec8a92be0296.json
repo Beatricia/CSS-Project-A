@@ -1,0 +1,306 @@
+{
+  "created": "2026-05-22T18:30:31.066Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "d095e630-f93c-4581-92a2-837dc43a82d2",
+      "score": 100,
+      "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+      "title": "Город под подошвой",
+      "length": 229324,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Oxxxymiron",
+          "artist": {
+            "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+            "name": "Oxxxymiron",
+            "sort-name": "Oxxxymiron",
+            "disambiguation": "Russian rapper",
+            "aliases": [
+              {
+                "sort-name": "Оксимирон",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Оксимирон",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Фёдоров, Мирон Янович",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Мирон Янович Фёдоров",
+                "locale": "ru",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Окси",
+                "name": "Окси",
+                "locale": "ru",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-11-12",
+      "releases": [
+        {
+          "id": "21a2a7e5-9769-4eca-9485-97deb720b106",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+          "count": 1,
+          "title": "miXXXtape III: Смутное время",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Oxxxymiron",
+              "artist": {
+                "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+                "name": "Oxxxymiron",
+                "sort-name": "Oxxxymiron",
+                "disambiguation": "Russian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "003ad093-9663-44e1-82f2-b81a0c87c00c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "miXXXtape III: Смутное время",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2021-11-12",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-11-12",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "id": "1ce7d03f-c6fd-32ba-9eda-d856d4844bc8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "773812b3-19a2-4e1d-b3cc-ed51b8fa22e5",
+                  "number": "31",
+                  "title": "Город под подошвой",
+                  "length": 229324
+                }
+              ],
+              "track-count": 36,
+              "track-offset": 30
+            }
+          ]
+        },
+        {
+          "id": "9ad1eab8-dbe1-4cd2-9103-99ae8f801436",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+          "count": 1,
+          "title": "miXXXtape III: Смутное время",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Oxxxymiron",
+              "artist": {
+                "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+                "name": "Oxxxymiron",
+                "sort-name": "Oxxxymiron",
+                "disambiguation": "Russian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "003ad093-9663-44e1-82f2-b81a0c87c00c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "miXXXtape III: Смутное время",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2021-11-12",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-11-12",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "id": "af0a106f-7cbe-3113-982b-1b24056fa678",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "563111ec-bbd2-400c-b34b-f664ec20c2ba",
+                  "number": "31",
+                  "title": "Город под подошвой",
+                  "length": 229324
+                }
+              ],
+              "track-count": 36,
+              "track-offset": 30
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMDA72145617"
+      ]
+    },
+    {
+      "id": "e447f505-3a9a-4b64-816c-9f15a98910dd",
+      "score": 100,
+      "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+      "title": "Город под подошвой",
+      "length": 246000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Oxxxymiron",
+          "artist": {
+            "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+            "name": "Oxxxymiron",
+            "sort-name": "Oxxxymiron",
+            "disambiguation": "Russian rapper",
+            "aliases": [
+              {
+                "sort-name": "Оксимирон",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Оксимирон",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Фёдоров, Мирон Янович",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Мирон Янович Фёдоров",
+                "locale": "ru",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Окси",
+                "name": "Окси",
+                "locale": "ru",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2015-09-21",
+      "releases": [
+        {
+          "id": "4f02bab9-2c48-4d7c-826d-39cb12a64362",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+          "count": 1,
+          "title": "Город под подошвой",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Oxxxymiron",
+              "artist": {
+                "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+                "name": "Oxxxymiron",
+                "sort-name": "Oxxxymiron",
+                "disambiguation": "Russian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0c562f9c-f8d2-40ec-8bf8-df9b7f20fe20",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Город под подошвой",
+            "primary-type": "Single"
+          },
+          "date": "2015-09-21",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2015-09-21",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "50f4ca3a-f727-349c-b01c-2657fa4bb2f2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "979a5042-4d12-4528-958d-137c9f270305",
+                  "number": "1",
+                  "title": "Город под подошвой",
+                  "length": 246000
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Oxxxymiron\" AND recording:\"Город под подошвой\""
+}

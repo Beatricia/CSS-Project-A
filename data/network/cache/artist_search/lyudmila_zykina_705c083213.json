@@ -1,0 +1,246 @@
+{
+  "created": "2026-05-22T17:04:18.738Z",
+  "count": 60,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "3e00febf-61ac-4609-9769-8d5856148970",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Татьяна Зыкина",
+      "sort-name": "Tatyana Zykina",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5fd94a22-dde4-4d39-836c-d4116d1c8da1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Izhevsk",
+        "sort-name": "Izhevsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1981-04-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Баграмян, Татьяна",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Татьяна Баграмян",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1999",
+          "end-date": "2002"
+        },
+        {
+          "sort-name": "Zykina, Tatyana",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tatyana Zykina",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a2661379-2b99-473c-829f-c3450a65e635",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Людмила Зыкина",
+      "sort-name": "Zikina, Ludmila",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1929-06-10",
+        "end": "2009-07-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ludmila Zikina",
+          "name": "Ludmila Zikina",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lyudmila Georgievna Zykina",
+          "name": "Lyudmila Georgievna Zykina",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ludmila Zykina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ludmila Zykina",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Зыкина, Людмила Георгиевна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Людмила Георгиевна Зыкина",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Зыкина, Людмила",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Людмила Зыкина",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        }
+      ]
+    },
+    {
+      "id": "0c29503f-2600-4d1e-a615-604609c5034f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "name": "Lyudmila Malian",
+      "sort-name": "Malian, Lyudmila",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2f64985b-1473-465a-ab3c-7b943a696c4d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lyudmila Lakisova",
+      "sort-name": "Lakisova, Lyudmila",
+      "gender": "female",
+      "disambiguation": "pianist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9441c43c-100b-4908-a0a8-402f2a7ce863",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lyudmila Kerekesha",
+      "sort-name": "Kerekesha, Lyudmila",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "664ce8f3-d48e-4dc8-8a20-cbb5e14c980b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "name": "Lyudmila Hadzhieva",
+      "sort-name": "Hadzhieva, Lyudmila",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1e18f295-a48a-4431-88d8-ce49ecda7921",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lyudmila Kanunnikova",
+      "sort-name": "Kanunnikova, Lyudmila",
+      "gender": "female",
+      "disambiguation": "Russian mezzo-soprano",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "dcff8383-075b-41f2-8209-eb4bc8738fa2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lyudmila Mikhailova",
+      "sort-name": "Mikhailova, Lyudmila",
+      "gender": "female",
+      "disambiguation": "Soprano",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cf62436b-9992-4052-904a-c33be585f48a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lyudmila Kojourina",
+      "sort-name": "Kojourina, Lyudmila",
+      "gender": "female",
+      "disambiguation": "designer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0ddfd0e4-f43b-49fc-99a9-adadbcb3d94c",
+      "score": 95,
+      "name": "Lyudmila Dmitrieva",
+      "sort-name": "Dmitrieva, Lyudmila",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

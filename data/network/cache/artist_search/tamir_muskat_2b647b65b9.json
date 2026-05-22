@@ -1,0 +1,326 @@
+{
+  "created": "2026-05-22T17:31:49.962Z",
+  "count": 113,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7a610a17-7575-447a-ae39-a47d7e4fd365",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "תמיר מוסקט",
+      "sort-name": "Muscat, Tamir",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9c9a6426-3cb1-4811-87d1-effd38e43d78",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Petah Tikva",
+        "sort-name": "Petah Tikva",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Tamir Muscat",
+      "ipis": [
+        "00403829273"
+      ],
+      "isnis": [
+        "0000000448795535"
+      ],
+      "life-span": {
+        "begin": "1972",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Muskat, Tamir",
+          "name": "Tamir Muskat",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "תמיר מוסקט",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "תמיר מוסקט",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a026a23c-f7a7-4d04-ba1a-f6b99e9847ca",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 55,
+      "name": "Muskat",
+      "sort-name": "Muskat",
+      "area": {
+        "id": "b8a2776a-eedf-48ea-a6f3-1a9070f0b823",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Köln",
+        "sort-name": "Köln",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German Indie-Pop Band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "61ee4a7d-479c-47e9-9869-554851c8fa13",
+      "type": "Character",
+      "type-id": "5c1375b0-f18d-3db7-a164-a49d7a63773f",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tamir",
+      "sort-name": "Tamir",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Sesame Street Muppet",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tamir",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sesame Street's Tamir",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c05d03e5-ce16-424f-89b8-11d5c23b862c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 48,
+      "name": "Muskat 120",
+      "sort-name": "Muskat 120",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "street music",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9b8587da-64ee-47b7-91dd-56520290847f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lyle Muskat",
+      "sort-name": "Muskat, Lyle",
+      "gender": "male",
+      "area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "907c83aa-2359-4e9d-afbb-9312cc606094",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "name": "Muskat Nuss",
+      "sort-name": "Muskat Nuss",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e4cdc8f5-f361-4a12-9ffb-4fad74b386f9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Thomas Muskat",
+      "sort-name": "Muskat, Thomas",
+      "gender": "male",
+      "country": "NO",
+      "area": {
+        "id": "6743d351-6f37-3049-9724-5041161fff4d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Norway",
+        "sort-name": "Norway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4ff5564e-c99c-4cab-9185-6ab1d6b91ee6",
+      "score": 46,
+      "name": "Muškat Hamburg",
+      "sort-name": "Muškat Hamburg",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f650e8c4-78aa-496a-a5ad-35b48eacab18",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Tamir",
+      "sort-name": "Tamir, Alexander",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cadab571-5d70-45d7-9e1d-843f6cb78bb5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vilnius",
+        "sort-name": "Vilnius",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1931-04-02",
+        "end": "2019-08-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "אלכסנדר תמיר",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "אלכסנדר תמיר",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alek Volkoviski",
+          "name": "Alek Volkoviski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alec Wolkowiski",
+          "name": "Alec Wolkowiski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "7e0beba1-8541-4202-a078-78531fe2e495",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tamir Hendelman",
+      "sort-name": "Hendelman, Tamir",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1971",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    }
+  ]
+}

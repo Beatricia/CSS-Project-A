@@ -1,0 +1,92 @@
+{
+  "created": "2026-05-22T17:08:01.773Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c3fbe265-f1e0-4839-a391-6629184f18d8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Децл",
+      "sort-name": "Detsl",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "5fd94a22-dde4-4d39-836c-d4116d1c8da1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Izhevsk",
+        "sort-name": "Izhevsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian hip-hop artist",
+      "life-span": {
+        "begin": "1983-07-22",
+        "end": "2019-02-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Tolmatskiy, Kirill Aleksandrovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Кирилл Александрович Толмацкий",
+          "locale": "ru_RU",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Le Truk",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Le Truk",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Detsl",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Detsl",
+          "locale": "en_001",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    }
+  ]
+}

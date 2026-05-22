@@ -1,0 +1,363 @@
+{
+  "created": "2026-05-22T16:52:38.089Z",
+  "count": 293,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "4f81bb0c-ea29-4671-9224-e55597811340",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Misha Mengelberg",
+      "sort-name": "Mengelberg, Misha",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Amsterdam",
+        "sort-name": "Amsterdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist, improviser, composer, co-founder of ICP",
+      "isnis": [
+        "0000000055158041"
+      ],
+      "life-span": {
+        "begin": "1935-06-05",
+        "end": "2017-03-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "ミシャ・メンゲルベルク",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ミシャ・メンゲルベルク",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "free improvisation"
+        },
+        {
+          "count": 1,
+          "name": "free jazz"
+        },
+        {
+          "count": 1,
+          "name": "jazz and blues"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "3da3c12e-312b-42ea-812c-ed3624186c48",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 82,
+      "name": "Misha Mengelberg Quartet",
+      "sort-name": "Mengelberg, Misha, Quartet",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "66e7a64f-66ea-4790-822d-fd2b3b7eac60",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 81,
+      "name": "Misha Mengelberg Trio",
+      "sort-name": "Mengelberg, Misha, Trio",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "2708887b-798b-4f47-b02f-58969f5a36de",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 59,
+      "name": "Misha Mengelberg & Han Bennink Duo",
+      "sort-name": "Mengelberg, Misha & Bennink, Han, Duo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "47812ace-089e-40fb-b146-d6c38f2ff753",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 59,
+      "name": "Misha Mengelberg and Dave Douglas Duo",
+      "sort-name": "Mengelberg, Misha and Douglas, Dave, Duo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9e3a6adb-c247-4d0c-9cce-febb48bdf195",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Willem Mengelberg",
+      "sort-name": "Mengelberg, Willem",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a727c39a-8d76-4a1a-9033-696ada9bedda",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Utrecht",
+        "sort-name": "Utrecht",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f6306a7c-4d43-40ca-80f7-dac37f219c76",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zuort",
+        "sort-name": "Zuort",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081089780"
+      ],
+      "life-span": {
+        "begin": "1871-03-28",
+        "end": "1951-03-21",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "dutch conductor"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "0e60a59e-607b-4a17-baec-233d7f2daab2",
+      "type": "Other",
+      "type-id": "ac897045-5043-3294-969b-187360e45d86",
+      "score": 40,
+      "name": "Eeko",
+      "sort-name": "Eeko",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Misha Mengelberg's pet parrot - grey, red tail",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "da31f94b-86c4-4611-8f59-ce4910079ead",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Misha",
+      "sort-name": "Misha",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "producer-rapper from Finland",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "boom bap"
+        },
+        {
+          "count": 1,
+          "name": "instrumental hip hop"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi hip hop"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "chillwave"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi"
+        }
+      ]
+    },
+    {
+      "id": "661dc1c8-5bc1-458d-9cbb-6f0f37e07c78",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Misha",
+      "sort-name": "Misha",
+      "gender": "female",
+      "country": "SK",
+      "area": {
+        "id": "eb52ca74-dd11-37a1-a3fa-154430bf2df2",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Slovakia",
+        "sort-name": "Slovakia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bcf3b37b-e975-46ec-8f4d-44eb19d6581c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Michalovce",
+        "sort-name": "Michalovce",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Slovak singer",
+      "ipis": [
+        "00436895904"
+      ],
+      "isnis": [
+        "000000005576608X"
+      ],
+      "life-span": {
+        "begin": "1975-03-06",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz and blues"
+        }
+      ]
+    },
+    {
+      "id": "1dea2f56-73de-477d-b12c-9d7ab0c2d97e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Misha",
+      "sort-name": "Misha",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "disambiguation": "Mishovy silenosti",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "meme"
+        }
+      ]
+    }
+  ]
+}

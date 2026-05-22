@@ -1,0 +1,152 @@
+{
+  "created": "2026-05-22T17:17:19.938Z",
+  "count": 4,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8df84e50-d6fc-42b8-afbe-7c502bf79dd8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Zulya",
+      "sort-name": "Zulya",
+      "gender": "female",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "85cfb970-3954-432e-a9ba-658e097c9772",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Udmurtskaya Respublika",
+        "sort-name": "Udmurtskaya Respublika",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b4e9352c-8edf-4911-8fa3-e852afa30501",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Melbourne",
+        "sort-name": "Melbourne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00190490957"
+      ],
+      "isnis": [
+        "0000000056239038"
+      ],
+      "life-span": {
+        "begin": "1969-08-08",
+        "end": "2024-09-18",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Зуля Камалова",
+          "name": "Зуля Камалова",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kamalova, Zulya",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Zulya Kamalova",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "tartar music"
+        },
+        {
+          "count": 1,
+          "name": "world music"
+        },
+        {
+          "count": 1,
+          "name": "russian music"
+        }
+      ]
+    },
+    {
+      "id": "1d197aa1-46a1-4ba8-97d4-6fcff33ac8de",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 57,
+      "name": "Zulya and The Children of the Underground",
+      "sort-name": "Zulya and Children of the Underground, The",
+      "life-span": {
+        "begin": "2003",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Зуля и Дети подземелья",
+          "name": "Зуля и Дети подземелья",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zulya Kamalova and The Children of the Underground",
+          "name": "Zulya Kamalova and The Children of the Underground",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "aa6ff8cc-8e90-4ba0-9298-7d73bbe40278",
+      "score": 25,
+      "name": "AZULYA",
+      "sort-name": "AZULYA",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "54322ea3-ba3d-4707-b429-4d3439485459",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 23,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Эдуард Фазульянов",
+      "sort-name": "Fazulyanov, Eduard",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

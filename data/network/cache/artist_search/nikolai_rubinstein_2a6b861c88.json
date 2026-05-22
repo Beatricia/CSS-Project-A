@@ -1,0 +1,1496 @@
+{
+  "created": "2026-05-22T17:03:46.637Z",
+  "count": 457,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "56a5de93-d69d-411d-9168-7feb8fbe507a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Николай Рубинштейн",
+      "sort-name": "Rubinstein, Nikolai",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "XIX century Russian pianist, conductor and composer",
+      "isnis": [
+        "000000011026864X"
+      ],
+      "life-span": {
+        "begin": "1835-06-14",
+        "end": "1881-03-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Rubinstein, Nikolai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolai Rubinstein",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рубинштейн, Николай",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Николай Рубинштейн",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubinstein, Nikolay Grigoryevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nikolay Grigoryevich Rubinstein",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рубинштейн, Николай Григорьевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Николай Григорьевич Рубинштейн",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        }
+      ]
+    },
+    {
+      "id": "7cc89d05-3db5-4d08-bea0-9c328aa56c39",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arthur Rubinstein",
+      "sort-name": "Rubinstein, Arthur",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "71ce186a-285d-4c01-b863-6e46bf10e249",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Łódź",
+        "sort-name": "Łódź",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "28d44913-d1b1-4cc8-8c51-bf80a2a210cf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Genève",
+        "sort-name": "Genève",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000120285187"
+      ],
+      "life-span": {
+        "begin": "1887-01-28",
+        "end": "1982-12-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Artur Rubinstein",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Artur Rubinstein",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arthur Rubenstein",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Arthur Rubenstein",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arthur Rubinsteing",
+          "name": "Arthur Rubinsteing",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artur Rubenstein",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Artur Rubenstein",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 4,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 2,
+          "name": "performer"
+        },
+        {
+          "count": 0,
+          "name": "chopin"
+        },
+        {
+          "count": 1,
+          "name": "american pianist"
+        }
+      ]
+    },
+    {
+      "id": "0974b7b6-835b-412c-bce4-731ab0c0c301",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nikolai",
+      "sort-name": "Nikolai",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Nikolai Kaeßmann, trance",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "trance"
+        }
+      ]
+    },
+    {
+      "id": "0f4d7f2c-69e9-4795-90f8-024b29a67cbe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Антон Григорьевич Рубинштейн",
+      "sort-name": "Rubinstein, Anton Grigorevich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cc696318-7de1-4267-89d7-75975326269a",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Transnistria",
+        "sort-name": "Transnistria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e040bd9b-5c28-4ab0-9048-91da6fba021e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Petergof",
+        "sort-name": "Petergof",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00026946269"
+      ],
+      "isnis": [
+        "0000000110347321"
+      ],
+      "life-span": {
+        "begin": "1829-11-28",
+        "end": "1894-11-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Rubinstein, Anton Grigoryevich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anton Grigoryevich Rubinstein",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubinstein, Anton",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anton Rubinstein",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рубинштейн, Антон",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Антон Рубинштейн",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubinstein, Anton",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anton Rubinstein",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubinstein, Anton Grigorjewitsch",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anton Grigorjewitsch Rubinstein",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubinstein, Anton",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anton Rubinstein",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рубинштейн, Антон Григорьевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Антон Григорьевич Рубинштейн",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Anton Grogorevich Rubinstein",
+          "name": "Anton Grogorevich Rubinstein",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Anton Grigorevich Rubinstein",
+          "name": "Anton Grigorevich Rubinstein",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubenstein",
+          "name": "Rubenstein",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubinstein",
+          "name": "Rubinstein",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Anton Rubenstein",
+          "name": "Anton Rubenstein",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubinstein, Anton",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anton Rubinstein",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubinstein, Anton",
+          "name": "Anton Rubinstein",
+          "locale": "et",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubeinstein, Anton",
+          "name": "Anton Rubeinstein",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        }
+      ]
+    },
+    {
+      "id": "9e78fbc3-c774-412c-9a18-9852fe2e2ddc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Donald Rubinstein",
+      "sort-name": "Rubinstein, Donald",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American musician and score composer",
+      "isnis": [
+        "0000000108001735"
+      ],
+      "life-span": {
+        "begin": "1952-02-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubenstin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubenstin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubensten",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubensten",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubinsteinh",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubinsteinh",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubinshtein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubinshtein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubinstain",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubinstain",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubinsthein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubinsthein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubinsteim",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubinsteim",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubinsteinn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubinsteinn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubinsten",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubinsten",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubinstin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubinstin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubinsteen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubinsteen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubinztein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubinztein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubintsein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubintsein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubistein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubistein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubrinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubrinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rudinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rudinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubbinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubbinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Ruobinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Ruobinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Robinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Robinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Roubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Roubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Doland Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Doland Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Danald Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Danald Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donnie Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donnie Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donny Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donny Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donadl Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donadl Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donad Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donad Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donal Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donal Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Doneld Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Doneld Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dounald Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dounald Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dunald Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dunald Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donnald Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donnald Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubinstein, Donald",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Donald Rubinstein",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald A Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald A Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald A. Rubinstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald A. Rubinstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rubinstein, Donald Allan",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Donald Allan Rubinstein",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1952-02-19",
+          "end-date": null
+        },
+        {
+          "sort-name": "Доналд Рубинстайн",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Доналд Рубинстайн",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Donald Rubenstein",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Donald Rubenstein",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a30272ba-1887-4332-9931-bc69871897d7",
+      "score": 54,
+      "name": "Nikolai",
+      "sort-name": "Nikolai",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK Techno artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4cfe7051-f649-4d07-83b3-7a732abe7249",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Николай Андреевич Римский‐Корсаков",
+      "sort-name": "Rimsky‐Korsakov, Nikolai Andreyevich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fc780671-0f09-409c-9bbb-dd898dc12ce2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tikhvin",
+        "sort-name": "Tikhvin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "4e62f2ac-3e1d-4100-a6bd-47981b1a7f4d",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Plyussky District",
+        "sort-name": "Plyussky District",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00086323960"
+      ],
+      "isnis": [
+        "000000012139342X"
+      ],
+      "life-span": {
+        "begin": "1844-03-18",
+        "end": "1908-06-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Nikolai Rimsky-Korsakov",
+          "name": "Nikolai Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolaj Rimski Korsakov",
+          "name": "Nikolaj Rimski Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nicolai A. Rimsky-Korsakov",
+          "name": "Nicolai A. Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakov, Nikolaï Andreïevitch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nikolaï Andreïevitch Rimski-Korsakov",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikoli Rimsky-Korsakov",
+          "name": "Nikoli Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakow, Nikolai Andrejewitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nikolai Andrejewitsch Rimski-Korsakow",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Римский‐Корсаков, Николай Андреевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Николай Андреевич Римский‐Корсаков",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolai Rimsky-Korsakow",
+          "name": "Nikolai Rimsky-Korsakow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "N. R. Korsakov",
+          "name": "N. R. Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolaj Rimskij-Korsakov",
+          "name": "Nikolaj Rimskij-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakoff",
+          "name": "Rimsky-Korsakoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "N. Rimskij-Korssakow",
+          "name": "N. Rimskij-Korssakow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Korssakoff",
+          "name": "Korssakoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakov, Nikolai Andreyevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nikolai Andreyevich Rimsky-Korsakov",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky - Korsakov",
+          "name": "Rimsky - Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rymsky-Korsakov",
+          "name": "Rymsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolaj Rimski-Korsakov",
+          "name": "Nikolaj Rimski-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakof",
+          "name": "Rimsky-Korsakof",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky Korsakov",
+          "name": "Rimsky Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky- Korsakov",
+          "name": "Rimsky- Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakov Nicolai Andreyevich",
+          "name": "Rimsky-Korsakov Nicolai Andreyevich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nicolai Rimski-Korsakof",
+          "name": "Nicolai Rimski-Korsakof",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimskij-Korsakov, Nikolaj Andreevič",
+          "name": "Rimskij-Korsakov, Nikolaj Andreevič",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakov Nikolai",
+          "name": "Rimsky-Korsakov Nikolai",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Kosrakoff",
+          "name": "Rimsky-Kosrakoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakov",
+          "name": "Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "N. Rimsky-Korsakov",
+          "name": "N. Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "N. Rimski-Korsakow",
+          "name": "N. Rimski-Korsakow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimskij-Korsakov, Nikolaj Andrejevitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nikolaj Andrejevitj Rimskij-Korsakov",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikołaj Rimski-Korsakow",
+          "name": "Mikołaj Rimski-Korsakow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakov, Nikolai",
+          "name": "Rimsky-Korsakov, Nikolai",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimskij-Korsakov",
+          "name": "Rimskij-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nicholai Rimsky-Korsakov",
+          "name": "Nicholai Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolay Andreyevich Rimsky-Korsakov",
+          "name": "Nikolay Andreyevich Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky‐Korsakov, Nikolai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolai Rimsky‐Korsakov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimskij-Korsakov, Nikolaj",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolaj Rimskij-Korsakov",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakov, Nikolaï",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolaï Rimski-Korsakov",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakow, Nikolai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolai Rimski-Korsakow",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Римский‐Корсаков, Николай",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Николай Римский‐Корсаков",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "リムスキー=コルサコフ",
+          "name": "リムスキー=コルサコフ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakov, Nikolaj",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolaj Rimski-Korsakov",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolai Rimski-Korsakov",
+          "name": "Nikolai Rimski-Korsakov",
+          "locale": "et",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimskij Korsakov",
+          "name": "Rimskij Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "R. Korsakov",
+          "name": "R. Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolaj Andreevič Rimskij-Korsakov",
+          "name": "Nikolaj Andreevič Rimskij-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakov",
+          "name": "Rimski-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolai Rimsky-Korsakoff",
+          "name": "Nikolai Rimsky-Korsakoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "score"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "b844c748-3e13-48b3-b35d-aeb453f0ca01",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nikolai",
+      "sort-name": "Nikolai",
+      "gender": "male",
+      "disambiguation": "rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4cbe6844-05d2-46d2-8415-ba88af3c1620",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nikolai",
+      "sort-name": "Nikolai",
+      "gender": "male",
+      "disambiguation": "video game arrangement",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2e1404a6-7984-488c-9c76-6756d782eec7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "nikolai",
+      "sort-name": "nikolai",
+      "gender": "male",
+      "disambiguation": "German rapper",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

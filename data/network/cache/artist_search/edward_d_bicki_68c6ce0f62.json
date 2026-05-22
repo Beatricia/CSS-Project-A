@@ -1,0 +1,838 @@
+{
+  "created": "2026-05-22T16:58:00.306Z",
+  "count": 3457,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "4e60a56a-514a-4a19-a3cc-49927c96b3cb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Edward Elgar",
+      "sort-name": "Elgar, Edward",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2fb56867-9b52-4fd3-a562-6d7d13441d60",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Worcestershire",
+        "sort-name": "Worcestershire",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "6f9a378d-32c0-4107-ab3c-4d904a0b5bc6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Worcester",
+        "sort-name": "Worcester",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00009182791"
+      ],
+      "isnis": [
+        "000000012102494X",
+        "0000000368635750"
+      ],
+      "life-span": {
+        "begin": "1857-06-02",
+        "end": "1934-02-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Edvard Elgar",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Edvard Elgar",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elgar, Edward",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Elgar",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "E. Elgar",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "E. Elgar",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Edware Elgar",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Edware Elgar",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "엘가",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "엘가",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Edgar Elgar",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Edgar Elgar",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "エルガー",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "エルガー",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elgar, Edward",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Edward Elgar",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elgar, Edward William",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edward William Elgar",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alger, Edward",
+          "name": "Edward Alger",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elgar, Edward William, Sir, 1st Baronet",
+          "name": "Sir Edward William Elgar, 1st Baronet",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": "1904-07-05",
+          "end-date": null
+        },
+        {
+          "sort-name": "Elgar, Edward, Sir",
+          "name": "Sir Edward Elgar",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": "1904-07-05",
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 3,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 3,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "symphony"
+        },
+        {
+          "count": 1,
+          "name": "concerto"
+        },
+        {
+          "count": 1,
+          "name": "romance"
+        },
+        {
+          "count": 0,
+          "name": "the elgar society"
+        },
+        {
+          "count": 2,
+          "name": "british composer"
+        },
+        {
+          "count": 2,
+          "name": "romantic classical"
+        },
+        {
+          "count": 1,
+          "name": "choral symphony"
+        }
+      ]
+    },
+    {
+      "id": "3ed7a90e-0dfa-4273-9291-f8efa2d25edb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "name": "Woulg",
+      "sort-name": "Woulg",
+      "area": {
+        "id": "c3cc624e-b963-49cf-ad0b-e318cb341963",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Montréal",
+        "sort-name": "Montréal",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Debicki, Greg",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Greg Debicki",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "7719919e-996f-4448-9956-bec8b0b0b2fb",
+      "score": 84,
+      "name": "Elizabeth Debicki",
+      "sort-name": "Debickim",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "257891db-1f69-4660-894d-075e355431a8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Edward Maya",
+      "sort-name": "Maya, Edward",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "București",
+        "sort-name": "București",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Romanian DJ and singer",
+      "ipis": [
+        "00602908269"
+      ],
+      "isnis": [
+        "0000000368618838"
+      ],
+      "life-span": {
+        "begin": "1986-06-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ilie, Edward Marian",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edward Marian Ilie",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Edward Maya & Vika Jigulina",
+          "name": "Edward Maya & Vika Jigulina",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "deep house"
+        },
+        {
+          "count": 1,
+          "name": "romanian"
+        },
+        {
+          "count": 1,
+          "name": "romanian singer"
+        }
+      ]
+    },
+    {
+      "id": "bce10b1e-a4d3-42a3-919d-64b335e5c3e9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Edward",
+      "sort-name": "Edward",
+      "gender": "male",
+      "area": {
+        "id": "8297708c-5743-47d6-a5ac-f40a41c49ad9",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Wales",
+        "sort-name": "Wales",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Edward Morris Jones, Welsh singer, 1960s/70s",
+      "life-span": {
+        "begin": "1944-05-22",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Jones, Edward Morus",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edward Morus Jones",
+          "locale": "cy",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "baf86ca2-85b7-4d24-8060-986efd64deea",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Edward Ka-Spel",
+      "sort-name": "Ka-Spel, Edward",
+      "gender": "male",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000042353446"
+      ],
+      "life-span": {
+        "begin": "1954-01-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Edward Kaspel",
+          "name": "Edward Kaspel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Edward Ka Spel",
+          "name": "Edward Ka Spel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "industrial"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 2,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic"
+        },
+        {
+          "count": 1,
+          "name": "space rock"
+        },
+        {
+          "count": 1,
+          "name": "experimental electronic"
+        }
+      ]
+    },
+    {
+      "id": "449ad76e-1d61-46ea-8377-76ceaaae4dac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Edward",
+      "sort-name": "Edward",
+      "gender": "male",
+      "area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Gilles Aiken",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Aiken, Gilles",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gilles Aiken",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "49ae5227-605a-47a8-9b8e-cd89bf01a97c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 78,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Benjamin Britten",
+      "sort-name": "Britten, Benjamin",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e51b505b-de92-4d33-8bed-747d323fbb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lowestoft",
+        "sort-name": "Lowestoft",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "03e409f5-41e3-4702-8cf0-a21951ac19d9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Aldeburgh",
+        "sort-name": "Aldeburgh",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English composer, conductor, and pianist",
+      "ipis": [
+        "00004252041"
+      ],
+      "isnis": [
+        "0000000121181099"
+      ],
+      "life-span": {
+        "begin": "1913-11-22",
+        "end": "1976-12-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Britten, B.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "B. Britten",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Britten, Edward Benjamin",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edward Benjamin Britten",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Britten",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Britten",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Baron Britten of Aldeburgh",
+          "name": "Baron Britten of Aldeburgh",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 3,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 3,
+          "name": "opera"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 4,
+          "name": "composer"
+        },
+        {
+          "count": 3,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "20th century"
+        },
+        {
+          "count": 2,
+          "name": "british composer"
+        },
+        {
+          "count": 2,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ed Sheeran",
+      "sort-name": "Sheeran, Ed",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "918efe5e-4f94-4554-8ce7-6aac7a5ac09f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Halifax",
+        "sort-name": "Halifax",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK singer‐songwriter",
+      "ipis": [
+        "00583552527",
+        "00600664284"
+      ],
+      "isnis": [
+        "0000000364434564"
+      ],
+      "life-span": {
+        "begin": "1991-02-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "에드 시런",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "에드 시런",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sheeran, Edward Christopher",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edward Christopher Sheeran",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 11,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "guitarist"
+        },
+        {
+          "count": 3,
+          "name": "folk"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 2,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "singer"
+        },
+        {
+          "count": 1,
+          "name": "soft rock"
+        },
+        {
+          "count": 3,
+          "name": "dance-pop"
+        },
+        {
+          "count": 0,
+          "name": "pop rap"
+        },
+        {
+          "count": 6,
+          "name": "folk pop"
+        },
+        {
+          "count": -1,
+          "name": "rapper"
+        },
+        {
+          "count": 0,
+          "name": "pop soul"
+        },
+        {
+          "count": -1,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 0,
+          "name": "2010s"
+        },
+        {
+          "count": 0,
+          "name": "persian pop"
+        },
+        {
+          "count": -1,
+          "name": "ed sheeran does not make sillyname tracks ಠ_ಠ"
+        },
+        {
+          "count": -1,
+          "name": "gradually watermelon"
+        },
+        {
+          "count": 1,
+          "name": "music for soccer moms"
+        }
+      ]
+    },
+    {
+      "id": "ae43e90b-b3b7-4903-8245-6ed3e3746bcb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bob Bradley",
+      "sort-name": "Bradley, Bob",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00268799883"
+      ],
+      "life-span": {
+        "begin": "1974-02-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bradley, Robert Edward",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Robert Edward Bradley",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "media composer"
+        }
+      ]
+    }
+  ]
+}

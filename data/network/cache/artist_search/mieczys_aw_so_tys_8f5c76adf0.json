@@ -1,0 +1,509 @@
+{
+  "created": "2026-05-22T17:01:32.433Z",
+  "count": 50,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "554fbabf-54f4-4640-8eb6-88693b6085c7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Weinberg",
+      "sort-name": "Weinberg, Mieczysław",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "a.k.a. Vainberg (composer)",
+      "isnis": [
+        "0000000121204377"
+      ],
+      "life-span": {
+        "begin": "1919-12-08",
+        "end": "1996-02-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Вайнберг, Мечислав Самуилович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Мечислав Самуилович Вайнберг",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "משה ,וינברג",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה וינברג",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "משה ,װאַינבערג",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה װאַינבערג",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisei Vainberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisei Vainberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weinberg, Mieczysław",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mieczysław Weinberg",
+          "locale": "pl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Weinberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Weinberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Vaynberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Vaynberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Vainberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Vainberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisei Weinberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisei Weinberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Samuilovich Vaynberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Samuilovich Vaynberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вайнберг, Моисей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Моисей Вайнберг",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вайнберг, Моисей Самуилович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Моисей Самуилович Вайнберг",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wajnberg, Mieczysław",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mieczysław Wajnberg",
+          "locale": "pl",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "37cd67d1-a786-4f5c-b91b-14f93b90ca04",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Horszowski",
+      "sort-name": "Horszowski, Mieczysław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Philadelphia",
+        "sort-name": "Philadelphia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000118279116"
+      ],
+      "life-span": {
+        "begin": "1892-06-23",
+        "end": "1993-05-22",
+        "ended": true
+      }
+    },
+    {
+      "id": "da911ec2-1973-451b-8646-bc48aa9894b9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tomasz Sołtys",
+      "sort-name": "Sołtys, Tomasz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d003abd0-5ee6-4bf8-924a-544abc738d31",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Maciej Sołtys",
+      "sort-name": "Maciej Sołtys",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1989-04-10",
+        "ended": null
+      }
+    },
+    {
+      "id": "a6d295b0-4ce0-4db3-b92c-641b1030af1c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Adam Sołtys",
+      "sort-name": "Sołtys, Adam",
+      "gender": "male",
+      "disambiguation": "conductor, composer, musicologist, teacher and journalist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "89a30873-13b7-4545-ae7c-342e038fc8a3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "name": "Paweł Sołtys",
+      "sort-name": "Sołtys, Paweł",
+      "life-span": {
+        "begin": "1978-03-30",
+        "ended": null
+      }
+    },
+    {
+      "id": "2c4a0a7c-9826-457d-98d7-39ecaa6aac62",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Fogg",
+      "sort-name": "Fogg, Mieczysław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1901-05-30",
+        "end": "1990-09-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Fogg, Mieczyslaw",
+          "name": "Mieczyslaw Fogg",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "tango"
+        },
+        {
+          "count": 1,
+          "name": "baritone"
+        }
+      ]
+    },
+    {
+      "id": "fc952749-f0ff-4507-a3d4-836297fbf827",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "LouiSe",
+      "sort-name": "LouiSe",
+      "gender": "female",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish trance/house DJ",
+      "life-span": {
+        "begin": "1991-04-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sołtys, Luiza",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Luiza Sołtys",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "dj"
+        },
+        {
+          "count": 1,
+          "name": "trance"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        }
+      ]
+    },
+    {
+      "id": "22f092df-b2f1-4a85-a357-db66cb5d29fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Kosz",
+      "sort-name": "Kosz, Mieczysław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish Musician & Jazz Pianist",
+      "life-span": {
+        "begin": "1944-01-10",
+        "end": "1973-05-31",
+        "ended": true
+      }
+    },
+    {
+      "id": "24d3772a-a24a-40b0-ab0a-c9c8ccf29162",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Jurecki",
+      "sort-name": "Jurecki, Mieczysław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "basista, gitarzysta, kompozytor i aranżer",
+      "life-span": {
+        "begin": "1956-10-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Jurecki, Mietek",
+          "name": "Mietek Jurecki",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

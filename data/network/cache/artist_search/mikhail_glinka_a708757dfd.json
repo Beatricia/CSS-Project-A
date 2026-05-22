@@ -1,0 +1,370 @@
+{
+  "created": "2026-05-22T17:02:38.486Z",
+  "count": 612,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "e539699a-5cb3-4f73-b60f-691b1499d0af",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Иванович Глинка",
+      "sort-name": "Glinka, Mikhail Ivanovich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a5a09d38-eca0-466e-950b-c3730414d8bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Smolensk",
+        "sort-name": "Smolensk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00012055831"
+      ],
+      "isnis": [
+        "0000000122804438"
+      ],
+      "life-span": {
+        "begin": "1804-06-01",
+        "end": "1857-02-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Glinka, Michail Ivanovitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Michail Ivanovitj Glinka",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Michail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Michail Glinka",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Глинка, Михаил",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Михаил Глинка",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Глинка, Михаил Иванович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Михаил Иванович Глинка",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gļinka, M.",
+          "name": "M. Gļinka",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Mikhail Ivanovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mikhail Ivanovich Glinka",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, M. I.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "M. I. Glinka",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glink",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Glink",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michael Glinka",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Michael Glinka",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Glinka",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Michail",
+          "name": "Michail Glinka",
+          "locale": "nl",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Mikhail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mikhail Glinka",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michail Glinka",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Michail Glinka",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gļinka, Mihails",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mihails Gļinka",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "russian composer"
+        }
+      ]
+    },
+    {
+      "id": "cdb2c959-3f00-4385-93ca-75a06d19b653",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Iwona Glinka",
+      "sort-name": "Glinka, Iwona",
+      "gender": "female",
+      "disambiguation": "flutist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0fcb4ff5-6384-4497-b796-9d545583c8bd",
+      "score": 52,
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "disambiguation": "Mikhail Karikis",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "87292d94-6b2c-44e5-a561-27ab1e28bc21",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "name": "Ivona Glinka",
+      "sort-name": "Glinka, Ivona",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6dafca58-eb22-44b1-9adb-0f2027f4f994",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "name": "Mihail Glinka",
+      "sort-name": "Glinka, Mihail",
+      "disambiguation": "chorus master, NOT the 19th century composer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4d34bc82-52c0-4ad5-be19-d353da3255a9",
+      "type": "Choir",
+      "type-id": "6124967d-7e3a-3eba-b642-c9a2ffb44d94",
+      "score": 52,
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b9e3274f-3a41-45fb-ba69-fe8ee68db6ad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hyattsville",
+        "sort-name": "Hyattsville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US metal band",
+      "life-span": {
+        "begin": "2004",
+        "ended": null
+      }
+    },
+    {
+      "id": "31922742-c2ff-46b7-8b0f-e7ccc6c2d19b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "name": "Marian Glinka",
+      "sort-name": "Glinka, Marian",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "45c0fb11-d1f6-47d7-a8f8-a2fb626f067c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Aleksandra Glinka",
+      "sort-name": "Glinka, Aleksandra",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "95927eb3-3b86-4005-8263-ff25bcd43ba8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hans Glinka",
+      "sort-name": "Glinka, Hans",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "04fa8f9d-3a06-40dd-a2dd-d467449750f8",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "Ne Glinka",
+      "sort-name": "Ne Glinka",
+      "life-span": {
+        "begin": "2002-11",
+        "ended": null
+      }
+    }
+  ]
+}

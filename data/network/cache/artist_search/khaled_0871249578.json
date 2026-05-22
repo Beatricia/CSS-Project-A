@@ -1,0 +1,512 @@
+{
+  "created": "2026-05-22T17:34:18.835Z",
+  "count": 100,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b4a479aa-4384-4acf-88b0-dee9188faeb5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Khaled",
+      "sort-name": "Khaled",
+      "gender": "male",
+      "country": "DZ",
+      "area": {
+        "id": "28242750-534a-326b-8ed6-1b03dfb88cd0",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Algeria",
+        "sort-name": "Algeria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d9b8719f-d0d2-4e61-bfb1-e3660ad11af9",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Oran",
+        "sort-name": "Oran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Algerian raï singer‐songwriter",
+      "ipis": [
+        "00147407867",
+        "00147407965",
+        "00151106813"
+      ],
+      "isnis": [
+        "0000000120204201"
+      ],
+      "life-span": {
+        "begin": "1960-02-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cheb Khaled",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Cheb Khaled",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "خالد, الشاب",
+          "name": "الشاب خالد",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Khaled Hadj Brahim",
+          "name": "Khaled Hadj Brahim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Khaled Hadj Ibrahim",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Khaled Hadj Ibrahim",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "خالد الحج ابراهيم",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "خالد الحج ابراهيم",
+          "locale": "ar",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kaled",
+          "name": "Kaled",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Khalèd",
+          "name": "Khalèd",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "شب خالد",
+          "name": "شب خالد",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Khaled",
+          "name": "Khaled",
+          "locale": "fr",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 3,
+          "name": "arabic"
+        },
+        {
+          "count": 1,
+          "name": "world"
+        },
+        {
+          "count": 2,
+          "name": "algerian"
+        },
+        {
+          "count": 5,
+          "name": "raï"
+        },
+        {
+          "count": 2,
+          "name": "north african"
+        },
+        {
+          "count": 1,
+          "name": "script-arab"
+        }
+      ]
+    },
+    {
+      "id": "081a2d60-9791-4e05-a075-f1890355eeee",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "DJ Khaled",
+      "sort-name": "Khaled, DJ",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New Orleans",
+        "sort-name": "New Orleans",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American hip hop DJ & producer",
+      "ipis": [
+        "00453265264",
+        "00453265362",
+        "00453265460"
+      ],
+      "isnis": [
+        "0000000118783398"
+      ],
+      "life-span": {
+        "begin": "1975-11-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Khaled.",
+          "name": "Khaled.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Khaled, Khaled Mohamed",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Khaled Mohamed Khaled",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Khaled, Khaled",
+          "name": "Khaled Khaled",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "another one"
+        },
+        {
+          "count": 1,
+          "name": "we the best music"
+        },
+        {
+          "count": 1,
+          "name": "congratulations you played yourself"
+        },
+        {
+          "count": 2,
+          "name": "trap rap"
+        },
+        {
+          "count": 3,
+          "name": "pop rap"
+        },
+        {
+          "count": 0,
+          "name": "conscious hip hop"
+        },
+        {
+          "count": 2,
+          "name": "southern hip hop"
+        },
+        {
+          "count": 2,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 0,
+          "name": "hip hop rnb and dance hall"
+        },
+        {
+          "count": 5,
+          "name": "hip hop"
+        },
+        {
+          "count": 2,
+          "name": "gangsta rap"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        }
+      ]
+    },
+    {
+      "id": "a888def5-ba9f-4bce-aa0d-3f5a97c008e9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Khaled Hosseini",
+      "sort-name": "Hosseini, Khaled",
+      "gender": "male",
+      "begin-area": {
+        "id": "422967c2-1619-4ab4-9182-5cd8926fc7ab",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kabul",
+        "sort-name": "Kabul",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000110791561"
+      ],
+      "life-span": {
+        "begin": "1965-03-04",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "0b1aea37-1b1a-4c1f-bd59-23443ba90741",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Khaled",
+      "sort-name": "Khaled",
+      "gender": "male",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish-Moroccan rapper",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rodríguez, Jalid",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jalid Rodríguez",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "681e537c-c507-4f40-8e13-79018cdc23c2",
+      "score": 82,
+      "name": "Khaled",
+      "sort-name": "Khaled",
+      "disambiguation": "German Rap",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2c418d76-0069-4bb5-bd13-bed68da3ba25",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "name": "Khaled Rohaim",
+      "sort-name": "Rohaim, Khaled",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Australia-based hip hop producer, part of The Formula",
+      "ipis": [
+        "00658524124"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Khaled",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Khaled",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c914e186-519b-4122-aed0-afc6b47d5476",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Khaled Mouzanar",
+      "sort-name": "Mouzanar, Khaled",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "55a7e0e3-4780-491b-8c19-91aa530958cc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Khaled Freak",
+      "sort-name": "Khaled Freak",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French DJ specialised in political mashups",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "comedy"
+        }
+      ]
+    },
+    {
+      "id": "969a7ad0-9d4b-48c6-a29d-e5636881be28",
+      "score": 75,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Khaled Aggag",
+      "sort-name": "Aggag, Khaled",
+      "gender": "male",
+      "country": "EG",
+      "area": {
+        "id": "8e0551f2-95c2-3cc0-a0a9-f2d344f10667",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Egypt",
+        "sort-name": "Egypt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "خالد عجاج",
+          "name": "خالد عجاج",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "arabic"
+        }
+      ]
+    },
+    {
+      "id": "98f37f1d-a369-4905-bbf0-f200eb819fb8",
+      "score": 73,
+      "name": "Zaid Khaled",
+      "sort-name": "Khaled, Zaid",
+      "country": "JO",
+      "area": {
+        "id": "2e40127e-0b8a-3a01-bfbc-58c7fcdba532",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Jordan",
+        "sort-name": "Jordan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

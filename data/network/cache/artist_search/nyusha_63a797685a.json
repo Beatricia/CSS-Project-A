@@ -1,0 +1,109 @@
+{
+  "created": "2026-05-22T17:04:01.996Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "e2a017fe-4e00-4528-b572-cb6cc0858850",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Нюша",
+      "sort-name": "Nyusha",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian pop singer",
+      "isnis": [
+        "0000000358387511"
+      ],
+      "life-span": {
+        "begin": "1990-08-15",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Nyusha",
+          "name": "Nyusha",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "rnb"
+        }
+      ]
+    },
+    {
+      "id": "3ae016b3-261d-4249-b4c9-c8775f15acad",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 80,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Нюша Флоринская",
+      "sort-name": "Florinskaya, Nyusha",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a07fb3ea-b1e9-4358-9543-e2808d616bcb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Владимир Шурочкин",
+      "sort-name": "Shurochkin, Vladimir",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "from russian band Laskoviy May, Nyusha's father",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

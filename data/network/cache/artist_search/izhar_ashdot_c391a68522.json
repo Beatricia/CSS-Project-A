@@ -1,0 +1,379 @@
+{
+  "created": "2026-05-22T17:29:16.445Z",
+  "count": 22,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a6d1d71e-74db-4e82-a548-b15051e9b2e7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יזהר אשדות",
+      "sort-name": "Ashdot, Izhar",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00053975257"
+      ],
+      "isnis": [
+        "0000000118779065"
+      ],
+      "life-span": {
+        "begin": "1958-11-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ashdot, Izhar",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Izhar Ashdot",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "c3d121a5-a80e-4416-8cb0-a7781c98299d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 54,
+      "name": "Foggy White",
+      "sort-name": "Foggy White",
+      "disambiguation": "Izhar Ashdot, Ohad Dekel",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9fdb0490-ff34-4d34-a217-84a21c67df33",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Izhar Elias",
+      "sort-name": "Elias, Izhar",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Dutch classical guitarist",
+      "life-span": {
+        "begin": "1977",
+        "ended": null
+      }
+    },
+    {
+      "id": "8b65f92c-6dbd-4a1c-ab9d-bfdefab10bdb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Izhar Iz",
+      "sort-name": "Iz, Izhar",
+      "gender": "male",
+      "country": "DK",
+      "area": {
+        "id": "4757b525-2a60-324a-b060-578765d2c993",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Denmark",
+        "sort-name": "Denmark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Danish Rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d98296f6-5f57-4b92-b021-ba13f1386d38",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "עיליי אשדות",
+      "sort-name": "Ashdot, Ilai",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "01022695968"
+      ],
+      "life-span": {
+        "begin": "1998-03-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ashdot, Ilay",
+          "name": "Ilay Ashdot",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "124fa000-44ae-4171-bbd0-c5d000a616a6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יזהר כהן",
+      "sort-name": "Cohen, Izhar",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "23a5d590-f8ca-4e1e-b6e2-41242ffa6c14",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Tel-Aviv",
+        "sort-name": "Tel-Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli singer who won the 1978 Eurovision Song Contest",
+      "ipis": [
+        "00217060799"
+      ],
+      "isnis": [
+        "0000000365871395"
+      ],
+      "life-span": {
+        "begin": "1951-03-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cohen, Yizhar",
+          "name": "Yizhar Cohen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cohen, Izhar",
+          "name": "Izhar Cohen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8e45e1aa-6b31-4fe9-86ea-d67d3b63441d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יזהר שאבי",
+      "sort-name": "Shabi, Izhar",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00258330566"
+      ],
+      "life-span": {
+        "begin": "1965-12-04",
+        "ended": null
+      }
+    },
+    {
+      "id": "b0471225-f93b-4a9b-82cd-1b6b5305a372",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יזהר ירון",
+      "sort-name": "Yaron, Izhar",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00033353606"
+      ],
+      "life-span": {
+        "begin": "1910-07-08",
+        "end": "1984-05-23",
+        "ended": true
+      }
+    },
+    {
+      "id": "c5e4418e-7ff4-4eed-8485-0fedb17f44ce",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יזהר שרון",
+      "sort-name": "Sharon, Izhar",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ef3ef3a0-10f9-4e76-8c47-5266d06d17dd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יזהר בן־טוב",
+      "sort-name": "Ben‐Tov, Izhar",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

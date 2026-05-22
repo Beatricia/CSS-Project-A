@@ -1,0 +1,440 @@
+{
+  "created": "2026-05-22T17:07:33.355Z",
+  "count": 75,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ca9739ab-d1a3-474c-8061-903c28c07043",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Янка Дягилева",
+      "sort-name": "Dyagileva, Yanka",
+      "gender": "female",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "22c10271-daf7-4cb3-8056-5c6bc2786fd2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Novosibirsk",
+        "sort-name": "Novosibirsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "fa06c373-a91e-427a-9718-e6b45503ff24",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Novosibirskaya oblast'",
+        "sort-name": "Novosibirskaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000372820641"
+      ],
+      "life-span": {
+        "begin": "1966-09-04",
+        "end": "1991-05-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Дягилева, Янка",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Янка Дягилева",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дягилева, Яна Станиславовна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Яна Станиславовна Дягилева",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yanka Diagileva",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Yanka Diagileva",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Янка",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Янка",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "יאנקה דיאגילבה",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "יאנקה דיאגילבה",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Djagileva, Janka",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Janka Djagileva",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дзягілева, Яна",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Яна Дзягілева",
+          "locale": "be",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diagilewa, Janka",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Janka Diagilewa",
+          "locale": "pl",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дягілєва, Яна Станіславівна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Яна Станіславівна Дягілєва",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dyagileva, Yanka",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yanka Dyagileva",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 2,
+          "name": "russian"
+        },
+        {
+          "count": 2,
+          "name": "vocal"
+        },
+        {
+          "count": 1,
+          "name": "russia"
+        },
+        {
+          "count": 2,
+          "name": "siberian punk"
+        }
+      ]
+    },
+    {
+      "id": "14d8c8e4-e9c7-46b7-b5d2-ab9a410c56e3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yanka",
+      "sort-name": "Yanka",
+      "gender": "female",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian 1970s singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "73444a55-2a4f-44c8-bd22-61cf99cc48cc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yanka",
+      "sort-name": "Yanka",
+      "gender": "female",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7a3a01cd-651a-4ddf-b90d-aca2ec141b67",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Galați",
+        "sort-name": "Galați",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Romanian dance-pop vocalist",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Petcu, Anca Elena",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Anca Elena Petcu",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0953746f-1b99-4335-b88f-9876b5608d07",
+      "score": 49,
+      "name": "Yanka",
+      "sort-name": "Yanka",
+      "disambiguation": "French rap",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e6a1640c-103a-465d-aaa8-2c9b56658931",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Shanaelle Yanka",
+      "sort-name": "Yanka, Shanaelle",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c93bab0b-fdde-4e32-bf67-811bdc2d36d7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yanka Hekimova",
+      "sort-name": "Hekimova, Yanka",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d4be1407-a4ae-4c23-adb6-ee85e6cb7d4b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Yanka Lena",
+      "sort-name": "Lena, Yanka",
+      "disambiguation": "member of Hathor's Rose Choir",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b32eb433-dafe-412f-9559-e6617ce38a2d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Янка Рупкина",
+      "sort-name": "Rupkina, Yanka",
+      "gender": "female",
+      "country": "BG",
+      "area": {
+        "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Bulgaria",
+        "sort-name": "Bulgaria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "259a37f7-8af7-4b5b-9e0c-f24b7fc2c9ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bogdanovo",
+        "sort-name": "Bogdanovo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Yanka Rupkina",
+      "ipis": [
+        "00177204179"
+      ],
+      "isnis": [
+        "0000000406594786"
+      ],
+      "life-span": {
+        "begin": "1938-08-15",
+        "end": "2026-04-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Roupkina, Yanka",
+          "name": "Yanka Roupkina",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rupkina, Ianka",
+          "name": "Ianka Rupkina",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roupkina, Ianka",
+          "name": "Ianka Roupkina",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rupkina, Janka",
+          "name": "Janka Rupkina",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        }
+      ]
+    },
+    {
+      "id": "a853d229-2271-4836-8034-908dbc0d8e85",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 37,
+      "name": "Янка и Великие Октябри",
+      "sort-name": "Yanka i Velikie Oktyabri",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Yanka i Velikie Oktyabri",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yanka i Velikie Oktyabri",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1a987c0d-d788-4a8f-8cf8-bca7467264ec",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "name": "ヤンカ・レーナ",
+      "sort-name": "Yanka Lena",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

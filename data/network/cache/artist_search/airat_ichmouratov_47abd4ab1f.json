@@ -1,0 +1,317 @@
+{
+  "created": "2026-05-22T17:03:00.609Z",
+  "count": 14,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ef6395f2-54b8-460e-9c5e-4fca2d1ceb94",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Airat Ichmouratov",
+      "sort-name": "Ichmouratov, Airat",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "05cd175a-0e3a-4bd6-a27e-86fad1a654f4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kazan",
+        "sort-name": "Kazan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114612858"
+      ],
+      "life-span": {
+        "begin": "1973-06-28",
+        "ended": null
+      }
+    },
+    {
+      "id": "d9d67233-71cf-4acb-b751-7829e0343aa5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Айрат Сафин",
+      "sort-name": "Safin, Airat",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "59c2acca-9719-4f23-af2c-f8a58d0bfc43",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 24,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Omar Khairat",
+      "sort-name": "Khairat, Omar",
+      "gender": "male",
+      "country": "EG",
+      "area": {
+        "id": "8e0551f2-95c2-3cc0-a0a9-f2d344f10667",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Egypt",
+        "sort-name": "Egypt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1e77791f-41ce-4872-9eaa-bf8da389e490",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cairo",
+        "sort-name": "Cairo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Egyptian pianist and composer",
+      "ipis": [
+        "00200482321"
+      ],
+      "isnis": [
+        "0000000003034821",
+        "0000000372412314"
+      ],
+      "life-span": {
+        "begin": "1948-11-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Omar Khariat",
+          "name": "Omar Khariat",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "عمر خيرت",
+          "name": "عمر خيرت",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "easy listening"
+        }
+      ]
+    },
+    {
+      "id": "1ef318fc-e515-4e55-abce-905c11ed78d6",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 23,
+      "name": "Despairation",
+      "sort-name": "Despairation",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Despiration",
+          "name": "Despiration",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e09a32fe-8fea-4c0c-b160-8699853fe388",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 23,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rudi Wairata",
+      "sort-name": "Wairata, Rudi",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0c7a19dd-4204-494d-9953-7e01fcc78182",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ternate",
+        "sort-name": "Ternate",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "755982fa-fbbe-4049-9939-ecfd7fda430b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rotterdam",
+        "sort-name": "Rotterdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1929-12-25",
+        "end": "1981-07-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Wairata, Diederich Gijsbrecht Christo",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Diederich Gijsbrecht Christo Wairata",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "64b93fde-3285-4ca6-ab5e-21d5815b22c0",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 22,
+      "name": "airattic",
+      "sort-name": "airattic",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Japanese idol group",
+      "life-span": {
+        "begin": "2022-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "エアラティック",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "airattic",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fd79ebef-cc80-400e-a287-28a98c40182d",
+      "score": 21,
+      "name": "Nairate",
+      "sort-name": "Nairate",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "efd177fa-4720-4999-84ad-ff5b678c7216",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 20,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Luisa Cairati",
+      "sort-name": "Cairati, Luisa",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4d85de13-173f-45e1-a616-43d5c3a23d05",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 20,
+      "name": "Enea Cairati",
+      "sort-name": "Cairati, Enea",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c758a6bb-7bb4-420c-a86b-5ee294527cae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 20,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kaïrat Aïtbaev",
+      "sort-name": "Aïtbaev, Kaïrat",
+      "gender": "male",
+      "country": "KZ",
+      "area": {
+        "id": "92d52542-3363-351c-a8b6-d991e0bccb8f",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Kazakhstan",
+        "sort-name": "Kazakhstan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Kazakh dombra player, born in 1982",
+      "life-span": {
+        "begin": "1982",
+        "ended": null
+      }
+    }
+  ]
+}

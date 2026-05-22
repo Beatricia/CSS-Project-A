@@ -1,0 +1,508 @@
+{
+  "created": "2026-05-22T17:41:11.397Z",
+  "count": 551,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ae7f8b18-4140-4181-9af7-c286ce5defbb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Kohava Levy",
+      "sort-name": "Levy, Kohava",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1946",
+        "ended": null
+      }
+    },
+    {
+      "id": "8ddf3da1-dfa9-490a-93cc-7d4072319995",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Barrington Levy",
+      "sort-name": "Levy, Barrington",
+      "gender": "male",
+      "country": "JM",
+      "area": {
+        "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Jamaica",
+        "sort-name": "Jamaica",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "49412054-5de5-49ba-af06-5cab89efb48b",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Clarendon",
+        "sort-name": "Clarendon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00046699535",
+        "00400791096",
+        "00627637917"
+      ],
+      "isnis": [
+        "000000005517325X"
+      ],
+      "life-span": {
+        "begin": "1964-04-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Levy, Barrington Ainsworth",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Barrington Ainsworth Levy",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "reggae"
+        },
+        {
+          "count": 2,
+          "name": "dancehall"
+        },
+        {
+          "count": 2,
+          "name": "classic pop and rock"
+        }
+      ]
+    },
+    {
+      "id": "2a3ef858-6a9a-42ca-a14d-4abe0bc61bf2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Shuki Levy",
+      "sort-name": "Levy, Shuki",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00036311316",
+        "00065485651",
+        "00065485749",
+        "00074556948"
+      ],
+      "isnis": [
+        "0000000059495619"
+      ],
+      "life-span": {
+        "begin": "1947-06-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "לוי, שוקי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "שוקי לוי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yehoshua, Levy",
+          "name": "Levy Yehoshua",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Levy, Yehosua",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yehosua Levy",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "israeli"
+        },
+        {
+          "count": 0,
+          "name": "zionist"
+        }
+      ]
+    },
+    {
+      "id": "edeee0cd-f6d6-4c94-922c-e91333c8e342",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Levy",
+      "sort-name": "Levy, David",
+      "gender": "male",
+      "area": {
+        "id": "ec1e55f4-03df-4ba1-a314-1ab959aa3fd6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Orlando",
+        "sort-name": "Orlando",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US producer/engineer/video game music",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7118eb4e-5d56-4f1f-a99d-8a5cd44c0fe5",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 37,
+      "name": "LEVY",
+      "sort-name": "LEVY",
+      "area": {
+        "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Manhattan",
+        "sort-name": "Manhattan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "NYC indie rock band",
+      "life-span": {
+        "begin": "2004",
+        "ended": null
+      }
+    },
+    {
+      "id": "c0515731-5824-458f-a38c-fc463c9157fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "General Levy",
+      "sort-name": "Levy, General",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055163641"
+      ],
+      "life-span": {
+        "begin": "1971-05-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Levy, Paul",
+          "name": "Paul Levy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Levy, Paul Scott",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Paul Scott Levy",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "drum and bass"
+        },
+        {
+          "count": 4,
+          "name": "jungle"
+        },
+        {
+          "count": 2,
+          "name": "mc"
+        },
+        {
+          "count": 2,
+          "name": "dubwise"
+        }
+      ]
+    },
+    {
+      "id": "049ac20e-4359-467e-aceb-607878d471e4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Steven Levy",
+      "sort-name": "Steven Levy",
+      "gender": "male",
+      "life-span": {
+        "begin": "1951-01-26",
+        "ended": null
+      }
+    },
+    {
+      "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yasmin Levy",
+      "sort-name": "Levy, Yasmin",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00499449777"
+      ],
+      "isnis": [
+        "0000000109283543"
+      ],
+      "life-span": {
+        "begin": "1975-12-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "יסמין לוי",
+          "name": "יסמין לוי",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "sephardi"
+        },
+        {
+          "count": 0,
+          "name": "israel"
+        },
+        {
+          "count": 1,
+          "name": "tango"
+        },
+        {
+          "count": 1,
+          "name": "world"
+        },
+        {
+          "count": 1,
+          "name": "flamenco"
+        },
+        {
+          "count": 2,
+          "name": "ladino"
+        }
+      ]
+    },
+    {
+      "id": "57a74286-21e3-4e6a-96b8-22e405b64045",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "name": "Levy",
+      "sort-name": "Levy",
+      "disambiguation": "lo‐fi beatmaker",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "chillwave"
+        },
+        {
+          "count": 1,
+          "name": "boom bap"
+        },
+        {
+          "count": 1,
+          "name": "instrumental hip hop"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi hip hop"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        }
+      ]
+    },
+    {
+      "id": "b1465205-5fc9-4bcf-a31a-f940ef725984",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "LEVY",
+      "sort-name": "LEVY",
+      "gender": "male",
+      "area": {
+        "id": "b07271ff-75a4-4dbd-96ee-6386cf3c5fab",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mannheim",
+        "sort-name": "Mannheim",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "00ed07a5-acd7-4217-a37a-72ebf08349b6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wiesbaden",
+        "sort-name": "Wiesbaden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German bassist",
+      "ipis": [
+        "01018608378"
+      ],
+      "life-span": {
+        "begin": "1997",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Levy, David John",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "David John Levy",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

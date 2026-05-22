@@ -1,0 +1,311 @@
+{
+  "created": "2026-05-22T17:25:31.966Z",
+  "count": 56,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "937ae77b-d6de-49d7-98cf-9c34f73139e0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yehonathan",
+      "sort-name": "Yehonathan",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Yeho",
+      "life-span": {
+        "begin": "1977-10-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Yehonathan Gatro",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yehonathan Gatro",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "593e8cc4-fa1d-484c-9a18-76c33fe7d6fe",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 23,
+      "name": "Gigatron",
+      "sort-name": "Gigatron",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "743523d6-c574-454e-9079-de113e30452a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Valencia",
+        "sort-name": "Valencia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "heavy metal parody band",
+      "life-span": {
+        "begin": "1997",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "comedy rock"
+        },
+        {
+          "count": 1,
+          "name": "freak metal"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        }
+      ]
+    },
+    {
+      "id": "adfce772-8a1d-4fb3-89ad-4b566b101935",
+      "score": 21,
+      "name": "Ryan Murgatroyd",
+      "sort-name": "Murgatroyd, Ryan",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c02ae24f-a842-4cbd-8062-4f2e026d5f1f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 21,
+      "name": "Megatronic",
+      "sort-name": "Megatronic",
+      "disambiguation": "German eurodance group",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "705b9e8b-bc52-4dc2-886e-c8e252e05d95",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 21,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Miss Murgatroid",
+      "sort-name": "Miss Murgatroid",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "23caeef7-b9c1-48aa-9fdb-5ac41dbe8c99",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 21,
+      "name": "Gorgatron",
+      "sort-name": "Gorgatron",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c6b4c765-3cbf-4919-9de7-c3891099e756",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Fargo",
+        "sort-name": "Fargo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American death metal/grindcore band",
+      "life-span": {
+        "begin": "2006",
+        "ended": null
+      }
+    },
+    {
+      "id": "789a362c-b313-403a-838b-fd19549ed838",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 21,
+      "name": "Gigatron 2000",
+      "sort-name": "Gigatron 2000",
+      "area": {
+        "id": "9ccc285c-c6a8-4a17-8d0c-d149b2df57a6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tilburg",
+        "sort-name": "Tilburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2012",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gigatron2000",
+          "name": "Gigatron2000",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "stoner metal"
+        }
+      ]
+    },
+    {
+      "id": "b230498c-5c10-4700-9e9a-37ce4f913445",
+      "score": 21,
+      "name": "Megatronix",
+      "sort-name": "Megatronix",
+      "area": {
+        "id": "2fb5445d-3987-49fe-957a-f730a7acc4a2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Baltimore",
+        "sort-name": "Baltimore",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Baltimore synthwave",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "synthwave"
+        },
+        {
+          "count": 1,
+          "name": "metal"
+        }
+      ]
+    },
+    {
+      "id": "743c0fe1-ea3c-420f-b986-fe369e2b4b00",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 21,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vulgatron",
+      "sort-name": "Vulgatron",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "O.V",
+          "name": "O.V",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vulgatron",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vulgatron",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orifice Vulgatron",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Orifice Vulgatron",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b51f92df-311e-4465-a8a6-33c9e588c750",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 21,
+      "name": "Hubert Murgatroyd Farrar",
+      "sort-name": "Farrar, Hubert Murgatroyd",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

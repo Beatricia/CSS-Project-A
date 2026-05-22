@@ -1,0 +1,316 @@
+{
+  "created": "2026-05-22T17:22:25.222Z",
+  "count": 17285,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "e923f95c-48f2-482a-9504-a1db5d1141a3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "טל סונדק",
+      "sort-name": "Sondak, Tal",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1976-07-23",
+        "ended": null
+      }
+    },
+    {
+      "id": "0c7083e0-d1fd-426a-a663-2ee49de4093e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tal",
+      "sort-name": "Tal",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli-French singer",
+      "isnis": [
+        "0000000077593255"
+      ],
+      "life-span": {
+        "begin": "1989-12-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Taloula",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Taloula",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2021",
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "dance-pop"
+        },
+        {
+          "count": 0,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "french pop"
+        },
+        {
+          "count": 2,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 0,
+          "name": "tal"
+        }
+      ]
+    },
+    {
+      "id": "c199070b-ee2e-4d06-a632-c14743141f50",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 82,
+      "name": "Dan Sondak",
+      "sort-name": "Sondak, Dan",
+      "disambiguation": "audiobook/drama music",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "177e3c4c-fb44-4981-bbe6-9b34d9c53bfd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 80,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tal Farlow",
+      "sort-name": "Farlow, Tal",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7fafba3d-8607-4a50-94f0-4b20a9afab84",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Greensboro",
+        "sort-name": "Greensboro",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Manhattan",
+        "sort-name": "Manhattan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "jazz guitarist",
+      "isnis": [
+        "0000000081361027"
+      ],
+      "life-span": {
+        "begin": "1921-06-07",
+        "end": "1998-07-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Farrow, Tal",
+          "name": "Tal Farrow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "bebop"
+        },
+        {
+          "count": 1,
+          "name": "cool jazz"
+        }
+      ]
+    },
+    {
+      "id": "08d0d32d-82dc-4bb6-b3cc-e7cf04ff757f",
+      "score": 78,
+      "name": "Tal-Tal",
+      "sort-name": "Tal-Tal",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "noise",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f2787157-3ba4-4bdc-9024-e23949312012",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "name": "Tal",
+      "sort-name": "Tal",
+      "disambiguation": "Wolfgang Voigt",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "92e77b31-c2f9-4faa-b4f4-dc63e5d61b02",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tal",
+      "sort-name": "Tal",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Abstract/Downtempo artist Hadad Tal",
+      "isnis": [
+        "0000000406603486"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6ebbfdec-51d9-4252-8177-a06d0a9ca4cb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tal",
+      "sort-name": "Tal",
+      "gender": "male",
+      "disambiguation": "US Singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "52f3c253-b105-411d-9822-81b34ff03852",
+      "score": 74,
+      "name": "Tal",
+      "sort-name": "Tal",
+      "disambiguation": "Christian music singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c0d7a88d-b980-4c1d-92ef-7dc0349891bc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "TAL",
+      "sort-name": "TAL",
+      "gender": "male",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Transtic Nerve guitarist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

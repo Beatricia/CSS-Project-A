@@ -1,0 +1,347 @@
+{
+  "nodes": [
+    {
+      "id": "alyona alyona",
+      "artist_name": "alyona alyona",
+      "artist_mbid": "1a6993eb-fa5b-42e2-a834-2a9539c53be1",
+      "recording_count": 4,
+      "weighted_degree": 6,
+      "degree": 5
+    },
+    {
+      "id": "Jerry Heil",
+      "artist_name": "Jerry Heil",
+      "artist_mbid": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+      "recording_count": 3,
+      "weighted_degree": 6,
+      "degree": 5
+    },
+    {
+      "id": "Saint Levant",
+      "artist_name": "Saint Levant",
+      "artist_mbid": "015c8b7d-015b-4603-9792-18bb440178ac",
+      "recording_count": 3,
+      "weighted_degree": 3,
+      "degree": 3
+    },
+    {
+      "id": "Alina Pash",
+      "artist_name": "Alina Pash",
+      "artist_mbid": "95593341-529e-40e3-ad57-4622f2aacdf8",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Bashar Murad",
+      "artist_name": "Bashar Murad",
+      "artist_mbid": "5a289a16-e872-4058-ba3d-4e108e46ff5c",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Concha Buika",
+      "artist_name": "Concha Buika",
+      "artist_mbid": "349076a6-d2e3-4f84-a879-d3f01374a5bf",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Ela",
+      "artist_name": "Ela",
+      "artist_mbid": "ccc046ca-b523-4b07-92c6-aaa7040008e8",
+      "recording_count": 1,
+      "weighted_degree": 2,
+      "degree": 2
+    },
+    {
+      "id": "Evgeny Khmara",
+      "artist_name": "Evgeny Khmara",
+      "artist_mbid": "61d2d352-082a-4d63-8396-044ffad8bdd6",
+      "recording_count": 1,
+      "weighted_degree": 2,
+      "degree": 2
+    },
+    {
+      "id": "Kehlani",
+      "artist_name": "Kehlani",
+      "artist_mbid": "3260ce89-5eb0-4c6a-89c7-379c0dfc2ab9",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "MC Abdul",
+      "artist_name": "MC Abdul",
+      "artist_mbid": "bd49121d-3dd5-46ae-8ef9-69c66fd01bff",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "MONATIK",
+      "artist_name": "MONATIK",
+      "artist_mbid": "c0199391-00f4-483a-aa8a-d1fe27d05dc6",
+      "recording_count": 1,
+      "weighted_degree": 2,
+      "degree": 2
+    },
+    {
+      "id": "Monika Liu",
+      "artist_name": "Monika Liu",
+      "artist_mbid": "1db6fa57-63b8-449f-acc1-ea20f696d5ba",
+      "recording_count": 1,
+      "weighted_degree": 2,
+      "degree": 2
+    },
+    {
+      "id": "Olexesh",
+      "artist_name": "Olexesh",
+      "artist_mbid": "c4e16e8e-4ab7-4f35-ad58-24c00c76ac84",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Playyard",
+      "artist_name": "Playyard",
+      "artist_mbid": "40b8dcf2-fdec-4563-8954-cdc7ee7f1ace",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Sabreen",
+      "artist_name": "Sabreen",
+      "artist_mbid": "bdadce04-f83c-4b53-8179-9b0d2a3f33f7",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Yasmin Levy",
+      "artist_name": "Yasmin Levy",
+      "artist_mbid": "856e486f-21f3-4203-a5d2-e30993988b38",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "alyona alyona",
+      "target": "Jerry Heil",
+      "weight": 2,
+      "recordings": [
+        "Dai Boh",
+        "KUPALA"
+      ],
+      "recording_titles": [
+        "Dai Boh (2022)",
+        "KUPALA (2022)"
+      ],
+      "recording_years": [
+        "2022",
+        "2022"
+      ]
+    },
+    {
+      "source": "Alina Pash",
+      "target": "alyona alyona",
+      "weight": 1,
+      "recordings": [
+        "Падло"
+      ],
+      "recording_titles": [
+        "Падло (2019)"
+      ],
+      "recording_years": [
+        "2019"
+      ]
+    },
+    {
+      "source": "alyona alyona",
+      "target": "Ela",
+      "weight": 1,
+      "recordings": [
+        "KUPALA"
+      ],
+      "recording_titles": [
+        "KUPALA (2022)"
+      ],
+      "recording_years": [
+        "2022"
+      ]
+    },
+    {
+      "source": "alyona alyona",
+      "target": "Monika Liu",
+      "weight": 1,
+      "recordings": [
+        "Dai Boh"
+      ],
+      "recording_titles": [
+        "Dai Boh (2022)"
+      ],
+      "recording_years": [
+        "2022"
+      ]
+    },
+    {
+      "source": "alyona alyona",
+      "target": "Olexesh",
+      "weight": 1,
+      "recordings": [
+        "Shalom"
+      ],
+      "recording_titles": [
+        "Shalom (2021)"
+      ],
+      "recording_years": [
+        "2021"
+      ]
+    },
+    {
+      "source": "Bashar Murad",
+      "target": "Sabreen",
+      "weight": 1,
+      "recordings": [
+        "Stone"
+      ],
+      "recording_titles": [
+        "Stone (2024)"
+      ],
+      "recording_years": [
+        "2024"
+      ]
+    },
+    {
+      "source": "Concha Buika",
+      "target": "Yasmin Levy",
+      "weight": 1,
+      "recordings": [
+        "Olvídate de mí"
+      ],
+      "recording_titles": [
+        "Olvídate de mí (2012)"
+      ],
+      "recording_years": [
+        "2012"
+      ]
+    },
+    {
+      "source": "Ela",
+      "target": "Jerry Heil",
+      "weight": 1,
+      "recordings": [
+        "KUPALA"
+      ],
+      "recording_titles": [
+        "KUPALA (2022)"
+      ],
+      "recording_years": [
+        "2022"
+      ]
+    },
+    {
+      "source": "Evgeny Khmara",
+      "target": "Jerry Heil",
+      "weight": 1,
+      "recordings": [
+        "ВИМОЛИВ"
+      ],
+      "recording_titles": [
+        "ВИМОЛИВ (2025)"
+      ],
+      "recording_years": [
+        "2025"
+      ]
+    },
+    {
+      "source": "Evgeny Khmara",
+      "target": "MONATIK",
+      "weight": 1,
+      "recordings": [
+        "ВИМОЛИВ"
+      ],
+      "recording_titles": [
+        "ВИМОЛИВ (2025)"
+      ],
+      "recording_years": [
+        "2025"
+      ]
+    },
+    {
+      "source": "Jerry Heil",
+      "target": "MONATIK",
+      "weight": 1,
+      "recordings": [
+        "ВИМОЛИВ"
+      ],
+      "recording_titles": [
+        "ВИМОЛИВ (2025)"
+      ],
+      "recording_years": [
+        "2025"
+      ]
+    },
+    {
+      "source": "Jerry Heil",
+      "target": "Monika Liu",
+      "weight": 1,
+      "recordings": [
+        "Dai Boh"
+      ],
+      "recording_titles": [
+        "Dai Boh (2022)"
+      ],
+      "recording_years": [
+        "2022"
+      ]
+    },
+    {
+      "source": "Kehlani",
+      "target": "Saint Levant",
+      "weight": 1,
+      "recordings": [
+        "Allah Yihmeeki"
+      ],
+      "recording_titles": [
+        "Allah Yihmeeki (2024)"
+      ],
+      "recording_years": [
+        "2024"
+      ]
+    },
+    {
+      "source": "MC Abdul",
+      "target": "Saint Levant",
+      "weight": 1,
+      "recordings": [
+        "Deira"
+      ],
+      "recording_titles": [
+        "Deira (2024)"
+      ],
+      "recording_years": [
+        "2024"
+      ]
+    },
+    {
+      "source": "Playyard",
+      "target": "Saint Levant",
+      "weight": 1,
+      "recordings": [
+        "I Guess"
+      ],
+      "recording_titles": [
+        "I Guess (2022)"
+      ],
+      "recording_years": [
+        "2022"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "created": "2026-05-22T16:59:39.234Z",
+  "count": 14,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "93c75877-c152-4b49-b070-46ef20cd6f11",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vadym Kholodenko",
+      "sort-name": "Kholodenko, Vadym",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000433505662"
+      ],
+      "life-span": {
+        "begin": "1986-09-04",
+        "ended": null
+      }
+    },
+    {
+      "id": "26d243df-085b-477e-b20e-2e63c6bc69fc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Anton Kholodenko",
+      "sort-name": "Kholodenko, Anton",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fc617bbb-6cae-4e33-ae25-bf5a6cb7d7d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kharkiv",
+        "sort-name": "Kharkiv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist/violist",
+      "isnis": [
+        "0000000372017760"
+      ],
+      "life-span": {
+        "begin": "1963",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kolodenko, Anton",
+          "name": "Anton Kolodenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "379ff7fb-3582-4ae5-a4d1-7a49c6913a0a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vadym Kuznietsov",
+      "sort-name": "Kuznietsov, Vadym",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "instrumental"
+        }
+      ]
+    },
+    {
+      "id": "d2609f78-994a-4f23-b194-13b381b07d6d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vadym Perig",
+      "sort-name": "Perig, Vadym",
+      "gender": "male",
+      "disambiguation": "violinist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9c682b8e-0d85-410e-8a67-3e39acdf2c6b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vadym Makarenko",
+      "sort-name": "Makarenko, Vadym",
+      "gender": "male",
+      "disambiguation": "violinist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2024bb9f-e0b0-49aa-b015-7029ef674aca",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "name": "Vadym Skrypets",
+      "sort-name": "Skrypets, Vadym",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "55ddfdc4-ca62-4074-a138-4c07e1d099fc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vadym Holunha",
+      "sort-name": "Vadym Holunha",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2015-01-01",
+        "ended": null
+      }
+    },
+    {
+      "id": "9f2a0245-3e21-4b58-9ac7-8f0730807d3c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Flakzz",
+      "sort-name": "Flakzz",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Aleksandrov, Vadym",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Vadym Aleksandrov",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "dubstep"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        }
+      ]
+    },
+    {
+      "id": "1f17f4b1-d58a-43a3-8fde-ef6b24a7122f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eleck",
+      "sort-name": "Eleck",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian techno DJ & producer Vadym Morozov",
+      "life-span": {
+        "begin": "1987-12-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Morozov, Vadym",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Vadym Morozov",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "06d647bd-6133-4b78-bbc0-49dda0dd188a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Вадим Кирилович Стеценко",
+      "sort-name": "Stetsenko, Vadym",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian violinist and composer",
+      "life-span": {
+        "begin": "1914-04-15",
+        "end": "1984-03-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Стеценко, Вадим Кирилович",
+          "name": "Вадим Кирилович Стеценко",
+          "locale": "uk",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stetsenko, Vadym",
+          "name": "Vadym Stetsenko",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

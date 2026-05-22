@@ -1,0 +1,18 @@
+MusicBrainz smoke-test collaboration edge summary
+
+Input recording rows: 30
+Matched rows: 8
+Rows with 2+ credited artists: 2
+Nodes: 4
+Edges: 2
+Recording rows used for graph: 2
+
+Top nodes by weighted degree:
+- Bashar Murad | weighted_degree=1 | degree=1 | recordings=1
+- Playyard | weighted_degree=1 | degree=1 | recordings=1
+- Sabreen | weighted_degree=1 | degree=1 | recordings=1
+- Saint Levant | weighted_degree=1 | degree=1 | recordings=1
+
+Sample edges:
+- Bashar Murad -- Sabreen | weight=1 | recordings=Stone (2024)
+- Playyard -- Saint Levant | weight=1 | recordings=I Guess (2022)

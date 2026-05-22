@@ -1,0 +1,315 @@
+{
+  "created": "2026-05-22T17:19:58.986Z",
+  "count": 7465,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "1b803671-18dd-4ce9-b527-75872ca880a0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ريم بنا",
+      "sort-name": "Banna, Rim",
+      "gender": "female",
+      "country": "PS",
+      "area": {
+        "id": "7d24dd34-a00f-37a1-8307-f2ef1dd3dbcd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Palestine",
+        "sort-name": "Palestine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0f01a27e-09f9-46f6-a987-030cf5c565e0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nazareth",
+        "sort-name": "Nazareth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000119281269"
+      ],
+      "life-span": {
+        "begin": "1966-12-08",
+        "end": "2018-03-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Rim Banna",
+          "name": "Rim Banna",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ريم بنا",
+          "name": "ريم بنا",
+          "locale": "ar",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "רים בנא",
+          "name": "רים בנא",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ce9cb85b-dcd6-48b2-9481-52cb6d06c846",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Banna",
+      "sort-name": "Banna",
+      "gender": "male",
+      "ipis": [
+        "01030485595"
+      ],
+      "life-span": {
+        "begin": "1998-04-22",
+        "ended": null
+      }
+    },
+    {
+      "id": "a0481942-9b3c-4327-b955-7ea3304749a8",
+      "type": "Character",
+      "type-id": "5c1375b0-f18d-3db7-a164-a49d7a63773f",
+      "score": 52,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "理芽",
+      "sort-name": "RIM",
+      "gender": "female",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2019-10-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "RIM",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "RIM",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "rime",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "りめ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "vtuber"
+        }
+      ]
+    },
+    {
+      "id": "633aedb6-16d8-4402-ada5-966c7d25d79f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 50,
+      "name": "Rim",
+      "sort-name": "Rim",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swedish / Norwegian folk band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b2905997-dd05-4996-bb6e-71b10b09520e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "RIM",
+      "sort-name": "RIM",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US rapper, member of DaVillins",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cbba2fd7-0bf1-452f-a474-b3e2568c07f5",
+      "score": 49,
+      "name": "RIM",
+      "sort-name": "RIM",
+      "disambiguation": "jamendo funk rock",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7cebbcc2-2c1d-4dc1-b19f-349b7b3646d0",
+      "score": 49,
+      "name": "Rim",
+      "sort-name": "Rim",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a6d9cf31-b934-44ae-9c1f-9c0288051b01",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rim",
+      "sort-name": "Rim",
+      "gender": "male",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4420283f-e0d7-4388-9a70-ff2b27bb4792",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kortrijk",
+        "sort-name": "Kortrijk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian MC Karim Kediambiko",
+      "life-span": {
+        "begin": "1995-06-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rim, MC",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "MC Rim",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kediambiko, Karim",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Karim Kediambiko",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "568f8037-6c3c-4c4e-89c0-6eb696971b27",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "RIM",
+      "sort-name": "rim",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ambient performer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "84eb1070-c0d8-4ba6-a0df-623e4faa7016",
+      "score": 49,
+      "name": "Rim",
+      "sort-name": "Rim",
+      "disambiguation": "probably us hiphop",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

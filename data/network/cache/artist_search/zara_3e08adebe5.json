@@ -1,0 +1,324 @@
+{
+  "created": "2026-05-22T17:05:32.744Z",
+  "count": 457,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f977f5e8-3901-4c61-8255-f73486ea5904",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Zara",
+      "sort-name": "Zara",
+      "gender": "female",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Türkiye",
+        "sort-name": "Türkiye",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b245dfab-1ba7-41de-abd6-feacdd99b29d",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "İstanbul",
+        "sort-name": "İstanbul",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Turkish singer",
+      "life-span": {
+        "begin": "1976-01-15",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 0,
+          "name": "faruk demir"
+        },
+        {
+          "count": 2,
+          "name": "turkish"
+        }
+      ]
+    },
+    {
+      "id": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Zara Larsson",
+      "sort-name": "Larsson, Zara",
+      "gender": "female",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5547fe29-26aa-43be-abb6-6b8124fb340e",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Solna municipality",
+        "sort-name": "Solna municipality",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00768459580"
+      ],
+      "isnis": [
+        "0000000446453320"
+      ],
+      "life-span": {
+        "begin": "1997-12-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Larsson, Zara Maria",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Zara Maria Larsson",
+          "locale": "sv_SE",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 0,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        },
+        {
+          "count": 4,
+          "name": "electropop"
+        },
+        {
+          "count": 1,
+          "name": "disco"
+        },
+        {
+          "count": 5,
+          "name": "dance-pop"
+        },
+        {
+          "count": 2,
+          "name": "alternative pop"
+        },
+        {
+          "count": 0,
+          "name": "uk bass"
+        },
+        {
+          "count": 3,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 2,
+          "name": "2010s"
+        },
+        {
+          "count": 0,
+          "name": "roblox"
+        },
+        {
+          "count": 2,
+          "name": "2020s"
+        },
+        {
+          "count": 1,
+          "name": "gen z"
+        }
+      ]
+    },
+    {
+      "id": "637c7e95-45d5-40e2-9dd6-a40fa57e9ee5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Zara Taylor",
+      "sort-name": "Taylor, Zara",
+      "gender": "female",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vancouver",
+        "sort-name": "Vancouver",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "EDM vocalist and songwriter",
+      "life-span": {
+        "begin": "1983-11-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Zara",
+          "name": "Zara",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "edm"
+        },
+        {
+          "count": 1,
+          "name": "tranic"
+        },
+        {
+          "count": 1,
+          "name": "vocalist"
+        }
+      ]
+    },
+    {
+      "id": "8ec1987f-f862-4a0c-b5fc-4e2856546c0a",
+      "score": 89,
+      "name": "Zara",
+      "sort-name": "Zara",
+      "disambiguation": "Zara Olsen",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e72dea40-1898-4f7c-886a-b5b9470f0b27",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Zara",
+      "sort-name": "Zara",
+      "gender": "female",
+      "disambiguation": "Laura Marina",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0c01950a-87c9-424d-8dbb-27628398c716",
+      "score": 88,
+      "name": "Zara",
+      "sort-name": "Zara",
+      "disambiguation": "appears on \"DJ\" rec.",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "070b1b75-dc19-4c73-9d50-a880a232260f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "name": "ZarA",
+      "sort-name": "ZarA",
+      "disambiguation": "soulseek electro/breakcore artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8f0006b1-6e37-49a9-8686-c515ffa4964b",
+      "score": 88,
+      "name": "Zara",
+      "sort-name": "Zara",
+      "disambiguation": "hardcore vocalist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2061f925-960b-4605-8c48-eed42f83be29",
+      "score": 87,
+      "name": "Zara",
+      "sort-name": "Zara",
+      "disambiguation": "electronic music artist, wrote 'The Balance'",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8fc3fe5c-d22a-4803-a0f8-a16c98d5e1e5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zara",
+      "sort-name": "Zara",
+      "gender": "male",
+      "country": "KR",
+      "area": {
+        "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "South Korea",
+        "sort-name": "South Korea",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Korean emcee",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "created": "2026-05-22T17:18:53.486Z",
+  "count": 3318,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "669572e9-6104-402f-a639-13348d3650f7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "TALI",
+      "sort-name": "TALI",
+      "gender": "female",
+      "country": "LU",
+      "area": {
+        "id": "563d21b7-4a8e-35e2-83a7-7804baefbfa7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Luxembourg",
+        "sort-name": "Luxembourg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "402c46d5-e884-46e1-928c-a47c215f6b01",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Yerushalayim",
+        "sort-name": "Yerushalayim",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Golergant, Luxembourgish-Israeli singer",
+      "isnis": [
+        "0000000518133124"
+      ],
+      "life-span": {
+        "begin": "2000-07-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Golergant, Tali",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Tali Golergant",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "TALI",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "TALI",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Golergant, Tali",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "טלי גולרגנט",
+          "locale": "he_IL",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "eurovision 2024 artists"
+        }
+      ]
+    },
+    {
+      "id": "260e42e9-71ca-4754-be60-e6e6f218f0ec",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tali",
+      "sort-name": "Tali",
+      "gender": "female",
+      "country": "NZ",
+      "area": {
+        "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "New Zealand",
+        "sort-name": "New Zealand",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "New Zealand",
+        "sort-name": "New Zealand",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "NZ DnB MC/singer/songwriter/producer - Natalia Scott",
+      "isnis": [
+        "0000000372912212"
+      ],
+      "life-span": {
+        "begin": "1976",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "taliofficial",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "taliofficial",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "mctali",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "mctali",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "TALITHE1stLADY",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "TALITHE1stLADY",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "talimusic",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "talimusic",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "mc_tali",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "mc_tali",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tali, MC",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "MC Tali",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scott, Natalia",
+          "name": "Natalia Scott",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scott, Natalia Jane",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Natalia Jane Scott",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sheppard, Natalia Jane",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Natalia Jane Sheppard",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 5,
+          "name": "drum and bass"
+        },
+        {
+          "count": 1,
+          "name": "jungle"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "electro"
+        },
+        {
+          "count": 1,
+          "name": "singer"
+        },
+        {
+          "count": 1,
+          "name": "deep house"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 1,
+          "name": "electronica"
+        },
+        {
+          "count": 1,
+          "name": "breakbeat"
+        },
+        {
+          "count": 1,
+          "name": "psytrance"
+        },
+        {
+          "count": 1,
+          "name": "breaks"
+        },
+        {
+          "count": 1,
+          "name": "indie dance"
+        },
+        {
+          "count": 1,
+          "name": "freestyle"
+        },
+        {
+          "count": 1,
+          "name": "grime"
+        },
+        {
+          "count": 2,
+          "name": "mc"
+        },
+        {
+          "count": 1,
+          "name": "caribbean"
+        },
+        {
+          "count": 1,
+          "name": "liquid funk"
+        },
+        {
+          "count": 1,
+          "name": "deep dubstep"
+        },
+        {
+          "count": 1,
+          "name": "organic house"
+        }
+      ]
+    },
+    {
+      "id": "037da196-729f-48d3-ae7e-c5a8ac051ae9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "name": "Tali",
+      "sort-name": "Tali",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Australian singer-songwriter, \"Whatever\", \"Don't be Sorry\"",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f3b63f58-77d9-4739-bd44-a6c794e0ce44",
+      "score": 46,
+      "name": "Tali",
+      "sort-name": "Tali",
+      "disambiguation": "Psy/Goa",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4f5951ac-d68d-4fbd-9071-c862ec698de0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "TALI",
+      "sort-name": "TALI",
+      "gender": "female",
+      "disambiguation": "Brazilian rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b9a4ebae-b5c9-4a44-b586-beb41c5a6ca9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tali Yess",
+      "sort-name": "Yess, Tali",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Yess, Naftali",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Naftali Yess",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "ddfff60e-cdde-46cc-a5ee-aac6d4ffa121",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tali Goya",
+      "sort-name": "Goya, Tali",
+      "gender": "male",
+      "country": "DO",
+      "area": {
+        "id": "696cb3e0-5084-30ab-9916-65ece70adbf6",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Dominican Republic",
+        "sort-name": "Dominican Republic",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "696cb3e0-5084-30ab-9916-65ece70adbf6",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Dominican Republic",
+        "sort-name": "Dominican Republic",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Juan Miguel Villar aka Tali",
+      "ipis": [
+        "00591297124"
+      ],
+      "isnis": [
+        "0000000464108360"
+      ],
+      "life-span": {
+        "begin": "1990-09-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Villar, Juan Miguel",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Juan Miguel Villar",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "2015-01-01",
+          "end-date": null
+        },
+        {
+          "sort-name": "Tali",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tali",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "latin"
+        }
+      ]
+    },
+    {
+      "id": "8278f4ab-bfff-4c7c-a605-6e7868469ac5",
+      "score": 42,
+      "name": "Yung Tali",
+      "sort-name": "Yung Tali",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1dacae89-ca38-44bf-87b7-9362cef3d92c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anu Tali",
+      "sort-name": "Tali, Anu",
+      "gender": "female",
+      "country": "EE",
+      "area": {
+        "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Estonia",
+        "sort-name": "Estonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1972-06-18",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "estonian conductor"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "c18a9c71-a12c-4700-89b2-b80e175c6efe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Henri Tali",
+      "sort-name": "Tali, Henri",
+      "gender": "male",
+      "country": "EE",
+      "area": {
+        "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Estonia",
+        "sort-name": "Estonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000013211879X"
+      ],
+      "life-span": {
+        "begin": "1987-09-23",
+        "ended": null
+      }
+    }
+  ]
+}

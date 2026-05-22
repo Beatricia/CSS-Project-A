@@ -1,0 +1,519 @@
+{
+  "created": "2026-05-22T17:29:35.237Z",
+  "count": 3320,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "0f9e269b-872a-42a4-b5fd-10fbd769bef0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Natan Brand",
+      "sort-name": "Brand, Natan",
+      "gender": "male",
+      "begin-area": {
+        "id": "402c46d5-e884-46e1-928c-a47c215f6b01",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Yerushalayim",
+        "sort-name": "Yerushalayim",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "life-span": {
+        "begin": "1944",
+        "end": "1990-12-06",
+        "ended": true
+      }
+    },
+    {
+      "id": "3b8e574d-e7a5-483b-a0d4-a6070ae2d6c6",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Natan",
+      "sort-name": "Natan",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6eb0cbe7-256a-4543-aa71-653cbdee50da",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Genk",
+        "sort-name": "Genk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian 2000/2010s pagan/black metal band",
+      "isnis": [
+        "0000000471125409"
+      ],
+      "life-span": {
+        "begin": "2002",
+        "end": "2015",
+        "ended": true
+      }
+    },
+    {
+      "id": "fc9d9312-8bac-4350-8910-23864d830cb3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Natan",
+      "sort-name": "Natan",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8ca93644-c3a4-41f4-aba4-39bd13736393",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Almaty",
+        "sort-name": "Almaty",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian recording artist",
+      "life-span": {
+        "begin": "1986-03-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mirov, Natan",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Натан Миров",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Natan",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Natan",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "NATAN Black Star",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "NATAN Black Star",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "23b194ef-b756-4a02-803b-bb89fd010f4a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Richard Band",
+      "sort-name": "Band, Richard",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078238212"
+      ],
+      "life-span": {
+        "begin": "1953-12-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Brand, Richard",
+          "name": "Richard Brand",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "cc02cf2c-4d1b-419f-ae12-92e559a62518",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mike Brant",
+      "sort-name": "Brant, Mike",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c73db7e7-d86e-4808-b784-1bf90834cfb5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lefka",
+        "sort-name": "Lefka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00067425271"
+      ],
+      "life-span": {
+        "begin": "1947-02-01",
+        "end": "1975-04-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Brand, Moshe",
+          "name": "Moshe Brand",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brand, Moshé",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Moshé Brand",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brand, Moshe Michael",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Moshe Michael Brand",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 0,
+          "name": "death by suicide"
+        }
+      ]
+    },
+    {
+      "id": "40278b5f-ba1f-4804-8218-79252354aff5",
+      "score": 45,
+      "name": "NATAN",
+      "sort-name": "NATAN",
+      "disambiguation": "EDM artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3b74ff3d-cb9c-4770-8e84-e9c5a6a7f0b3",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 45,
+      "name": "Natan",
+      "sort-name": "Natan",
+      "country": "AR",
+      "area": {
+        "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Argentina",
+        "sort-name": "Argentina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Buenos Aires",
+        "sort-name": "Buenos Aires",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Argentina metal band",
+      "life-span": {
+        "begin": "2010",
+        "ended": null
+      }
+    },
+    {
+      "id": "fc5f32fd-f807-4da7-8fc3-6e64958e7d6a",
+      "score": 45,
+      "name": "Natan",
+      "sort-name": "Natan",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German DJ Jonathan Wagner",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Wagner, Jonathan",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jonathan Wagner",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "9b8d6e2c-2b4e-4924-82ae-226b4e701f6b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 43,
+      "name": "The Brand New Heavies",
+      "sort-name": "Brand New Heavies, The",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8bcd4274-68a9-4a13-a754-c9e4e2aaddaf",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Ealing",
+        "sort-name": "Ealing",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000110869381"
+      ],
+      "life-span": {
+        "begin": "1985",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Brand New Heavies",
+          "name": "Brand New Heavies",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "acid jazz"
+        },
+        {
+          "count": 2,
+          "name": "funk"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "9311e2bc-bb3f-44cf-90d8-b1fe6912b60b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 43,
+      "name": "Brand New",
+      "sort-name": "Brand New",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1616c85e-a933-441a-969d-4ee2b1112b1e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Merrick",
+        "sort-name": "Merrick",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US alternative rock",
+      "isnis": [
+        "000000010659467X"
+      ],
+      "life-span": {
+        "begin": "2000",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 7,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        },
+        {
+          "count": 3,
+          "name": "indie rock"
+        },
+        {
+          "count": 9,
+          "name": "emo"
+        },
+        {
+          "count": 1,
+          "name": "acoustic"
+        },
+        {
+          "count": 1,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 4,
+          "name": "pop punk"
+        },
+        {
+          "count": 4,
+          "name": "post-hardcore"
+        },
+        {
+          "count": 1,
+          "name": "noise rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative punk"
+        },
+        {
+          "count": 0,
+          "name": "midwest emo"
+        }
+      ]
+    }
+  ]
+}

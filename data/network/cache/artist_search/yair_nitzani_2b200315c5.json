@@ -1,0 +1,343 @@
+{
+  "created": "2026-05-22T17:28:57.262Z",
+  "count": 108,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "fd1020c5-1dce-4e0e-9aba-7e728c143753",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יאיר ניצני",
+      "sort-name": "Nitzani, Yair",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d597aa00-6615-4bd4-9012-2c4035bd37c6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beersheba",
+        "sort-name": "Beersheba",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00053976352"
+      ],
+      "isnis": [
+        "0000000068054938"
+      ],
+      "life-span": {
+        "begin": "1958-08-22",
+        "ended": null
+      }
+    },
+    {
+      "id": "1af9330e-3a20-415f-be51-45871e61b921",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "name": "Yair",
+      "sort-name": "Yair",
+      "country": "AR",
+      "area": {
+        "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Argentina",
+        "sort-name": "Argentina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "house",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Yair (AR)",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Yair (AR)",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "cefe3833-6788-462d-888e-9f4ef3a2ce40",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 72,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yair Yona",
+      "sort-name": "Yona, Yair",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00563728133"
+      ],
+      "isnis": [
+        "0000000402683917"
+      ],
+      "life-span": {
+        "begin": "1981-03-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "יאיר יונה",
+          "name": "יאיר יונה",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "55ca56d4-6536-4e08-b6d9-72349f1aa2e2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 72,
+      "name": "Yair Etziony",
+      "sort-name": "Etziony, Yair",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "579a3f74-8b43-445a-84e5-99cd97a17a0c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dr. Enzo Nitzani",
+      "sort-name": "Nitzani, Dr. Enzo",
+      "gender": "male",
+      "begin-area": {
+        "id": "2b397313-0d04-4167-b9a8-914f16935d4a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Firenze",
+        "sort-name": "Firenze",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ניצני, ד״ר אנצו",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ד״ר אנצו ניצני",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b8c022f4-91dc-4fac-ba80-c5bfbefbc25c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yair Rosenberg",
+      "sort-name": "Rosenberg, Yair",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "92238596-981a-40b0-af30-49abb2a60114",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "name": "Dr. Umberto Nitzani",
+      "sort-name": "Nitzani, Dr. Umberto",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ניצני, ד״ר אומברטו",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ד״ר אומברטו ניצני",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ddd9d584-bdcf-48f2-9797-a5afe21604ea",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יאיר קלינגר",
+      "sort-name": "Klinger, Yaïr",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00034582192"
+      ],
+      "isnis": [
+        "000000036979995X"
+      ],
+      "life-span": {
+        "begin": "1944-07-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Yair Klinger",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yair Klinger",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yaïr",
+          "name": "Yaïr",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yair",
+          "name": "Yair",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "יאיר קלינגר",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "יאיר קלינגר",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ab3ff998-a7ad-4d01-b6ef-37923b08f906",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yair Melamed",
+      "sort-name": "Melamed, Yair",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli record producer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "22c048b3-8761-4de2-b2de-0f2770a7d2d8",
+      "score": 69,
+      "name": "Adi Yair",
+      "sort-name": "Yair, Adi",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

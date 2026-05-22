@@ -1,0 +1,835 @@
+{
+  "created": "2026-05-22T17:12:13.028Z",
+  "count": 15887,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "58f94ab2-b68f-4647-963d-4b922a91b15b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "André Kostelanetz",
+      "sort-name": "Kostelanetz, André",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3c620ce0-11e1-4dfc-b510-4143b165258f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Port-au-Prince",
+        "sort-name": "Port-au-Prince",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000084149937"
+      ],
+      "life-span": {
+        "begin": "1901-12-22",
+        "end": "1980-01-13",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kostelanetz, Davis",
+          "name": "Davis Kostelanetz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Андрей Костеланец",
+          "name": "Андрей Костеланец",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrey Kostelanetz",
+          "name": "Andrey Kostelanetz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "arr. Andre Kostalanetz",
+          "name": "arr. Andre Kostalanetz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kostelanetz, Andre",
+          "name": "Kostelanetz, Andre",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrei Kostelanetz",
+          "name": "Andrei Kostelanetz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3481732d-918f-48aa-8800-771999f888c3",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 89,
+      "name": "André Kostelanetz and His Orchestra",
+      "sort-name": "Kostelanetz, André and Orchestra, His",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "The Andre Kostelanetz Orchestra",
+          "name": "The Andre Kostelanetz Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kostelanetz, André, Orchestra",
+          "name": "André Kostelanetz Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1984c5ae-efee-4943-bb99-648d7fea60d4",
+      "score": 64,
+      "name": "André Kostelanetz and His Chorus",
+      "sort-name": "Kostelanetz, André and Chorus, His",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0ed994ea-6271-4f37-a964-9139577039cc",
+      "score": 43,
+      "name": "Richard Kostelanetz",
+      "sort-name": "Kostelanetz, Richard",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0eaa4a38-6bc3-46aa-91be-563f1fa86e16",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "André Rieu",
+      "sort-name": "Rieu, André",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0b565bc6-05e7-4c3a-bc28-075fabd9a8d0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Maastricht",
+        "sort-name": "Maastricht",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000011470295X"
+      ],
+      "life-span": {
+        "begin": "1949-10-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rieu, André Léon Marie Nicolas",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "André Léon Marie Nicolas Rieu",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "André Rieu & His Johann Strauss Orchestra",
+          "name": "André Rieu & His Johann Strauss Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andre Rieu",
+          "name": "Andre Rieu",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "easy listening"
+        },
+        {
+          "count": 1,
+          "name": "classical crossover"
+        },
+        {
+          "count": 1,
+          "name": "tour d amour"
+        },
+        {
+          "count": 1,
+          "name": "waltz"
+        }
+      ]
+    },
+    {
+      "id": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "André Previn",
+      "sort-name": "Previn, André",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist, conductor, composer, arranger",
+      "ipis": [
+        "00024901603"
+      ],
+      "isnis": [
+        "0000000110326977"
+      ],
+      "life-span": {
+        "begin": "1929-04-06",
+        "end": "2019-02-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Andre Previn",
+          "name": "Andre Previn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "piano"
+        },
+        {
+          "count": 4,
+          "name": "conductor"
+        },
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": -1,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 1,
+          "name": "fantasy for two pianos in f minor"
+        },
+        {
+          "count": 1,
+          "name": "op. 73"
+        },
+        {
+          "count": 1,
+          "name": "anton rubinstein"
+        }
+      ]
+    },
+    {
+      "id": "22a096ef-c70d-4d70-ae19-4fc2412d4986",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ATB",
+      "sort-name": "ATB",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f249b770-e6c1-40ac-a813-4a3f69737fa2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Freiberg",
+        "sort-name": "Freiberg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German EDM DJ, musician & producer André Tanneberger",
+      "ipis": [
+        "00249426842"
+      ],
+      "isnis": [
+        "0000000003080713",
+        "0000000080004036"
+      ],
+      "life-span": {
+        "begin": "1973-02-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Andre \"ATB\" Tanneberger",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Andre \"ATB\" Tanneberger",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "André \"ATB\" Tannenberger",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "André \"ATB\" Tannenberger",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andre Tanneberger",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Andre Tanneberger",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A T B",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "A T B",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "atb*",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "atb*",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tanneberger, André",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "André Tanneberger",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "trance"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "ambient trance"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "vocal trance"
+        },
+        {
+          "count": 0,
+          "name": "airplay mix"
+        }
+      ]
+    },
+    {
+      "id": "774b509e-15ba-4932-aae4-ec7371e46c27",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "André Hazes",
+      "sort-name": "Hazes, André",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Amsterdam",
+        "sort-name": "Amsterdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8ce0905a-bc98-48c1-837f-2142581ac11b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Woerden",
+        "sort-name": "Woerden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "singer, songwriter",
+      "ipis": [
+        "00039820863"
+      ],
+      "isnis": [
+        "0000000055439652"
+      ],
+      "life-span": {
+        "begin": "1951-06-30",
+        "end": "2004-09-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Andreas Gerardus Hazes",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Andreas Gerardus Hazes",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "André Hazes sr.",
+          "name": "André Hazes sr.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andre Hazes",
+          "name": "Andre Hazes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "André Hazes senior",
+          "name": "André Hazes senior",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "dutch"
+        },
+        {
+          "count": 0,
+          "name": "netherlands"
+        }
+      ]
+    },
+    {
+      "id": "090e9c0a-6767-49e0-8f51-84a43226a174",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Peter Andre",
+      "sort-name": "Andre, Peter",
+      "gender": "male",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "40868657-ef80-4b66-88ba-263ecac1b9a1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Harrow",
+        "sort-name": "Harrow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00165621375"
+      ],
+      "isnis": [
+        "0000000055191239"
+      ],
+      "life-span": {
+        "begin": "1973-02-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "André, Peter",
+          "name": "Peter André",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrea, Peter James",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Peter James Andrea",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "australian"
+        },
+        {
+          "count": 1,
+          "name": "rock and indie"
+        }
+      ]
+    },
+    {
+      "id": "204db5a8-78f1-4078-801f-ae8f456eeb60",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fabrizio De André",
+      "sort-name": "De André, Fabrizio",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5e27763f-9567-4b8d-ac62-d8e5f18b32d1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Genova",
+        "sort-name": "Genova",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Milano",
+        "sort-name": "Milano",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00000934522"
+      ],
+      "isnis": [
+        "0000000118714288"
+      ],
+      "life-span": {
+        "begin": "1940-02-18",
+        "end": "1999-01-11",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Fabrizio",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Fabrizio",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "De André, Fabrizio Cristiano",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Fabrizio Cristiano De André",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fabrizio De Andrè",
+          "name": "Fabrizio De Andrè",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fabrizio De Andre'",
+          "name": "Fabrizio De Andre'",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "f. de andre",
+          "name": "f. de andre",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fabrizio De Andre",
+          "name": "Fabrizio De Andre",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "De Andr , Fabrizio",
+          "name": "De Andr , Fabrizio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "folk"
+        },
+        {
+          "count": 3,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 3,
+          "name": "italian"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 1,
+          "name": "chanson"
+        },
+        {
+          "count": 5,
+          "name": "cantautore"
+        },
+        {
+          "count": 1,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 0,
+          "name": "cantautori"
+        }
+      ]
+    }
+  ]
+}

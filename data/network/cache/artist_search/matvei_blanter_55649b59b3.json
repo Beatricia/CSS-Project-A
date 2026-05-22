@@ -1,0 +1,524 @@
+{
+  "created": "2026-05-22T17:05:15.871Z",
+  "count": 13,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a8d8f148-4cb9-44a9-9a9c-2f8c059cf0cb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Матвей Блантер",
+      "sort-name": "Blanter, Matvey",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "297d1529-56f1-46d8-b9c9-77fc03a538df",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Pochep",
+        "sort-name": "Pochep",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Soviet Jewish composer",
+      "ipis": [
+        "00038984240",
+        "00082902671"
+      ],
+      "isnis": [
+        "0000000081333261"
+      ],
+      "life-span": {
+        "begin": "1903-02-10",
+        "end": "1990-09-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "M.Blanter",
+          "name": "M.Blanter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "マトヴェイ・ブランテル",
+          "name": "マトヴェイ・ブランテル",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ブランテル",
+          "name": "ブランテル",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blanters, M.",
+          "name": "M.Blanters",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Matvei Blanter",
+          "name": "Matvei Blanter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Блантер, Матвей Исаакович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Матвей Исаакович Блантер",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Блантер, М.",
+          "name": "М. Блантер",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blanter, Matvei Isaakovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Matvei Isaakovich Blanter",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blanter, Matvej",
+          "name": "Matvej Blanter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blanter, Matvey",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Matvey Blanter",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Блантер, Матвей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Матвей Блантер",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blanter, Matveï",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Matveï Blanter",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8796f9f4-8377-4cd2-be86-3185e7070703",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "name": "MATVEÏ",
+      "sort-name": "MATVEÏ",
+      "area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "from Kitsune compilation",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a684d6d4-d919-4c6c-974d-4c17d49c956c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "name": "Blanter Co",
+      "sort-name": "Blanter Co",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7dd61d7d-a9dc-4fda-84c1-cd0adf433700",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Matvei Procak",
+      "sort-name": "Procak, Matvei",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e0b6e43f-a361-4820-8c9f-4e3adb559cd3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Матвей Сахаров",
+      "sort-name": "Sakharov, Matvey",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "disambiguation": "pianist & composer",
+      "life-span": {
+        "begin": "1894",
+        "end": "1958",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sakharov, Matvei",
+          "name": "Matvei Sakharov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "07c2f4e6-24cc-45ea-8782-3006a465c080",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Матвей Степанович Павлов-Азанчеев",
+      "sort-name": "Pavlov-Azancheev, Matvei",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f2725db1-295d-4d20-8f35-406798dbbaed",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Kurskaya oblast'",
+        "sort-name": "Kurskaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f28c8adb-c118-4478-981e-1bbbb1ff09b5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Armavir",
+        "sort-name": "Armavir",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000019719366"
+      ],
+      "life-span": {
+        "begin": "1888-02-24",
+        "end": "1963-01-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Pavlov-Azancheev, Matvei",
+          "name": "Matvei Pavlov-Azancheev",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b69a7814-db92-4303-a6c1-76581ff4ebb8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Matvey Bernard",
+      "sort-name": "Bernard, Matvey",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000024218451"
+      ],
+      "life-span": {
+        "begin": "1794",
+        "end": "1871-05-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Matvei Ivanovich Bernard",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Matvei Ivanovich Bernard",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mathias Bernard",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mathias Bernard",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "df7048be-7df0-4e71-bcf8-ced7cdf08c1b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Matvey Emerson",
+      "sort-name": "Emerson, Matvey",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9f3f583e-c3b7-43a9-9ce5-b21027e5357b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Perm",
+        "sort-name": "Perm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian DJ",
+      "life-span": {
+        "begin": "1988-09-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Matvey Katsabin",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Matvey Katsabin",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Matvey Emerson",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Matvey Emerson",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Матвей Кацабин",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Матвей Кацабин",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Matvei Katcabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Matvei Katcabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Matvey Kaschabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Matvey Kaschabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "020994c1-1d4c-4c36-a049-cee4a4adf820",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Liisa Matveinen",
+      "sort-name": "Matveinen, Liisa",
+      "gender": "female",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1961",
+        "ended": null
+      }
+    },
+    {
+      "id": "7f37abf7-baec-444c-b135-4baddd489d85",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "VVPSKVD.",
+      "sort-name": "vvpskvd.",
+      "gender": "male",
+      "area": {
+        "id": "a5a09d38-eca0-466e-950b-c3730414d8bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Smolensk",
+        "sort-name": "Smolensk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Matvei Rvachev, phonk producer",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

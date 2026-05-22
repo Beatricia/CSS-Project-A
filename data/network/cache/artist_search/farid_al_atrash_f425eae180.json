@@ -1,0 +1,555 @@
+{
+  "created": "2026-05-22T17:34:23.147Z",
+  "count": 3679,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "810c7829-2e33-4dd9-876b-77a3d0ce1c2d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "فريد الأطرش",
+      "sort-name": "Atrache, Farid El",
+      "gender": "male",
+      "country": "EG",
+      "area": {
+        "id": "8e0551f2-95c2-3cc0-a0a9-f2d344f10667",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Egypt",
+        "sort-name": "Egypt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b9986608-5420-407b-8ca2-8d2c56ece512",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "As Suwaydā’",
+        "sort-name": "As Suwaydā’",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1d9b2b8d-824b-406f-b6c0-02a9ccd312b8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beirut",
+        "sort-name": "Beirut",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000123209139"
+      ],
+      "life-span": {
+        "begin": "1917-10-19",
+        "end": "1974-12-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Farid El Acrache",
+          "name": "Farid El Acrache",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Farid El Atrach",
+          "name": "Farid El Atrach",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elatrache, Farid",
+          "name": "Farid Elatrache",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Farid al-Atrash",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Farid al-Atrash",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Атраш, Фарид аль-",
+          "name": "Фарид аль-Атраш",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "فريد فهد فرحان إسماعيل الأطرش",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "فريد فهد فرحان إسماعيل الأطرش",
+          "locale": "ar",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "traditional arabic pop"
+        },
+        {
+          "count": 1,
+          "name": "arabic bellydance music"
+        },
+        {
+          "count": 1,
+          "name": "levantine arabic music"
+        },
+        {
+          "count": 1,
+          "name": "arabic music"
+        },
+        {
+          "count": 1,
+          "name": "arabic"
+        },
+        {
+          "count": 1,
+          "name": "egyptian music"
+        },
+        {
+          "count": 1,
+          "name": "arabic classical music"
+        }
+      ]
+    },
+    {
+      "id": "06eceb73-b79e-4f93-9709-d72782a4a916",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Farid Bang",
+      "sort-name": "Bang, Farid",
+      "gender": "male",
+      "area": {
+        "id": "03e75281-c3a3-454a-8d78-c85a5415c49e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Düsseldorf",
+        "sort-name": "Düsseldorf",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74bd349c-179d-444b-b816-ec5cdfe789c7",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Melilla",
+        "sort-name": "Melilla",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000372524017"
+      ],
+      "life-span": {
+        "begin": "1986-06-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Farid Ben",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Farid Ben",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2017-10-12",
+          "end-date": "2017-10-13"
+        },
+        {
+          "sort-name": "Farid Urlaub",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Farid Urlaub",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Abdellaoui, Farid Hamed El",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Farid Hamed El Abdellaoui",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "deutschrap"
+        },
+        {
+          "count": 2,
+          "name": "gangsta rap"
+        },
+        {
+          "count": 1,
+          "name": "battle rap"
+        },
+        {
+          "count": 1,
+          "name": "rap"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 4,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "83a63adf-d51c-40cc-97f9-556840efd2d9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Farid Al-Shami",
+      "sort-name": "Al-Shami, Farid",
+      "gender": "male",
+      "begin-area": {
+        "id": "ed84bfa7-9cc0-4b70-b1b5-32a9880ca703",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Neunkirchen",
+        "sort-name": "Neunkirchen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian jazz drummer",
+      "life-span": {
+        "begin": "1968",
+        "ended": null
+      }
+    },
+    {
+      "id": "ce357f15-2479-4fb8-b22f-ef4161d196dc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Farid Farid",
+      "sort-name": "Farid Farid",
+      "gender": "male",
+      "disambiguation": "probably Australian",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "91604a02-df20-4c5f-8352-9ee142b82466",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yacoub G. Al-Atrash",
+      "sort-name": "Al-Atrash, Yacoub G.",
+      "gender": "male",
+      "country": "PS",
+      "area": {
+        "id": "7d24dd34-a00f-37a1-8307-f2ef1dd3dbcd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Palestine",
+        "sort-name": "Palestine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7d24dd34-a00f-37a1-8307-f2ef1dd3dbcd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Palestine",
+        "sort-name": "Palestine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1978-09-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "2b05a572-d211-407a-baa4-03ec74670612",
+      "score": 51,
+      "name": "عليا الأطرش",
+      "sort-name": "al-Atrash, Alia",
+      "begin-area": {
+        "id": "8138206e-5786-3f86-a53b-19a7303e7419",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Lebanon",
+        "sort-name": "Lebanon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8138206e-5786-3f86-a53b-19a7303e7419",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Lebanon",
+        "sort-name": "Lebanon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1895",
+        "end": "1968",
+        "ended": true
+      }
+    },
+    {
+      "id": "98432769-4641-468a-be93-28be00f93de6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Farid",
+      "sort-name": "Farid",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Farid (Ali) Nouri, member of Peace Bureau",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ali, Farid",
+          "name": "Farid Ali",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nouri, Farid (Ali)",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Farid (Ali) Nouri",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Al Green",
+      "sort-name": "Green, Al",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c4d48bca-3716-4533-8966-a25b8c7b50a5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Forrest City",
+        "sort-name": "Forrest City",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US soul singer, songwriter, pastor and record producer",
+      "ipis": [
+        "00012614624",
+        "00055306003",
+        "00141754583"
+      ],
+      "isnis": [
+        "000000008398392X"
+      ],
+      "life-span": {
+        "begin": "1946-04-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "アル・グリーン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "アル・グリーン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Greene, Albert Leornes",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Albert Leornes Greene",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Green, Al",
+          "name": "Green, Al",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 14,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "1980s"
+        },
+        {
+          "count": 1,
+          "name": "1970s"
+        },
+        {
+          "count": 3,
+          "name": "gospel"
+        },
+        {
+          "count": 2,
+          "name": "southern soul"
+        },
+        {
+          "count": 1,
+          "name": "soul blues"
+        },
+        {
+          "count": 0,
+          "name": "soul and reggae"
+        },
+        {
+          "count": 1,
+          "name": "contemporary gospel"
+        },
+        {
+          "count": 1,
+          "name": "christmas music"
+        },
+        {
+          "count": 5,
+          "name": "smooth soul"
+        },
+        {
+          "count": 1,
+          "name": "pop-soul"
+        },
+        {
+          "count": 2,
+          "name": "memphis soul"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "3674158e-6d47-494e-8227-7e7a7069819d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 50,
+      "name": "Tutu Atrash",
+      "sort-name": "Tutu Atrash",
+      "area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2017",
+        "ended": null
+      }
+    },
+    {
+      "id": "8054b6c3-1cf0-4e66-bc00-4109000a61ca",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Farid",
+      "sort-name": "Farid",
+      "gender": "male",
+      "disambiguation": "trance producer",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

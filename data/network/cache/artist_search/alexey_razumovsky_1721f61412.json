@@ -1,0 +1,428 @@
+{
+  "created": "2026-05-22T16:50:46.405Z",
+  "count": 408,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c164b104-f96a-4773-9f41-e45cc154403e",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "Razumovsky Quartet",
+      "sort-name": "Razumovsky Quartet",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "British string quartet, founded in 2020",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d32943cb-23ad-45b3-9d49-aef810b44b3e",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 95,
+      "name": "Razumovsky Symphony Orchestra",
+      "sort-name": "Razumovsky Symphony Orchestra",
+      "country": "SK",
+      "area": {
+        "id": "eb52ca74-dd11-37a1-a3fa-154430bf2df2",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Slovakia",
+        "sort-name": "Slovakia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000010660580X"
+      ],
+      "life-span": {
+        "begin": "1995",
+        "ended": null
+      }
+    },
+    {
+      "id": "8ea0657d-5983-493a-b157-e83291067ec2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "name": "Alexey",
+      "sort-name": "Alexey",
+      "disambiguation": "Techno/electro/minimal artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b496f74c-0218-406f-a8be-7cf9ccf10db3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexey Omelchuk",
+      "sort-name": "Omelchuk, Alexey",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000372776644"
+      ],
+      "life-span": {
+        "begin": "1974",
+        "ended": null
+      }
+    },
+    {
+      "id": "feee4f20-e48a-49c0-a735-6c2e3c6cf6ca",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 89,
+      "name": "Count Razumovsky’s Quartet",
+      "sort-name": "Razumovsky, Count’s Quartet",
+      "life-span": {
+        "begin": "1808",
+        "end": "1814",
+        "ended": true
+      }
+    },
+    {
+      "id": "9c6d5959-a574-423e-8955-bd7ebbd9626c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Алексей Рыбников",
+      "sort-name": "Rybnikov, Alexey",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000079745451"
+      ],
+      "life-span": {
+        "begin": "1945-07-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "А. Рыбников",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "А. Рыбников",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rybnikov, Aleksey",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksey Rybnikov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aleksej Rybnikov",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Aleksej Rybnikov",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexei Rybnikov",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alexei Rybnikov",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рыбников, Алексей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Алексей Рыбников",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рыбников, Алексей Львович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Алексей Львович Рыбников",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8729f8ba-9834-4594-9e80-cf238660e663",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexey Shor",
+      "sort-name": "Shor, Alexey",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American composer",
+      "life-span": {
+        "begin": "1970",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Кононенко, Олексій Володимирович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Олексій Володимирович Кононенко",
+          "locale": "uk_UA",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kononenko, Alexey Vladimorovich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexey Vladimorovich Kononenko",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian composer"
+        }
+      ]
+    },
+    {
+      "id": "5320602d-9610-439d-9159-1982925f20ef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Валерий Разумовский",
+      "sort-name": "Razumovsky, Valery",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d6e57b65-e993-4e93-b64e-a101798f57cc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jēkabpils",
+        "sort-name": "Jēkabpils",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000482922198"
+      ],
+      "life-span": {
+        "begin": "1968-12-07",
+        "end": "2023-07-31",
+        "ended": true
+      }
+    },
+    {
+      "id": "f7e98251-5a82-4393-a1ba-334226132f62",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Андрей Разумовский",
+      "sort-name": "Razumovsky, Andrey",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian diplomat",
+      "isnis": [
+        "0000000061552360"
+      ],
+      "life-span": {
+        "begin": "1752-11-02",
+        "end": "1836-09-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Разумовский, Андрей Кириллович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Андрей Кириллович Разумовский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Разумовский, Андрей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Андрей Разумовский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "5cb7a891-0b47-4fe9-a945-adae72306629",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Voronov Alexey",
+      "sort-name": "Alexey, Voronov",
+      "gender": "male",
+      "area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

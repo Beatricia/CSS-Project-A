@@ -1,0 +1,483 @@
+{
+  "created": "2026-05-22T17:02:53.694Z",
+  "count": 17,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "0ffcc552-fc9d-4b79-a6d5-b78912a7cdfb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Фёдор Шаляпин",
+      "sort-name": "Shalapin, Fedor",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "05cd175a-0e3a-4bd6-a27e-86fad1a654f4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kazan",
+        "sort-name": "Kazan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "operatic bass",
+      "isnis": [
+        "0000000354558635"
+      ],
+      "life-span": {
+        "begin": "1873-02-01",
+        "end": "1938-04-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Chaliapin, Fiódor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Fiódor Chaliapin",
+          "locale": "es",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chaliapine, Fédor Ivanovitch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Fédor Ivanovitch Chaliapine",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chaliapine, Fédor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Fédor Chaliapine",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schaljapin, Fjodor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Fjodor Schaljapin",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schaljapin, Fjodor Iwanowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Fjodor Iwanowitsch Schaljapin",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шаляпин, Фёдор",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Фёдор Шаляпин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шаляпин, Фёдор Иванович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Фёдор Иванович Шаляпин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chaliapin, Fyodor",
+          "name": "Fyodor Chaliapin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fedor Shalapin",
+          "name": "Fedor Shalapin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schaljapin, Fedor",
+          "name": "Fedor Schaljapin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chaliapin, Feodor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Feodor Chaliapin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "estrada"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "russian romance"
+        },
+        {
+          "count": 2,
+          "name": "bass"
+        }
+      ]
+    },
+    {
+      "id": "02c2153b-72e9-447d-b7fc-cbb4ad3dcb93",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Feodor Chin",
+      "sort-name": "Chin, Feodor",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "83f22bb6-4631-443c-bace-9fae8540362a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San Francisco",
+        "sort-name": "San Francisco",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1974-08-18",
+        "ended": null
+      }
+    },
+    {
+      "id": "eb4bcf97-ad7b-4a8f-965d-2f1cabef8bb8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Feodor Dosumov",
+      "sort-name": "Dosumov. Feodor",
+      "gender": "male",
+      "disambiguation": "Electric Guitarist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "94bb33a5-7148-4846-842d-4fbde6fea608",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Feodor Atkine",
+      "sort-name": "Atkine, Feodor",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000117647925"
+      ],
+      "life-span": {
+        "begin": "1948-02-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kaufmann, Thierry",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Thierry Kaufmann",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "15612371-e198-4376-b17c-91274a4aa5b9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Feodor Pratšu",
+      "sort-name": "Pratšu, Feodor",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1852",
+        "end": "1921-09-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Pratšu, Feodor Matfeinpoika",
+          "name": "Feodor Matfeinpoika Pratšu",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "78701d5a-c95e-4742-acff-7d45a37b42d1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Прохор Шаляпин",
+      "sort-name": "Chaliapin, Prokhor",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "dc31d977-2652-4a69-b53b-13e98222e1a8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Фёдор Фёдорович Кёнеман",
+      "sort-name": "Koenemann, Feodor Feodorovich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1873-04-20",
+        "end": "1937-03-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Keneman, Fyodor",
+          "name": "Fyodor Keneman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Koenemann, Feodor",
+          "name": "Feodor Koenemann",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "58c5d197-560b-46a4-a1a0-8e6804b6d9c5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Фёдор Безносиков",
+      "sort-name": "Beznosikov, Feodor",
+      "gender": "male",
+      "disambiguation": "violinist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fd0e0015-5188-4310-bca1-24a8cd98b9d3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bichinho",
+      "sort-name": "Bivol, Feodor",
+      "gender": "male",
+      "begin-area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c91984e8-c9d0-4f99-a9f3-967df2b04703",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Фёдор Амиров",
+      "sort-name": "Amirov, Feodor",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "49534a7d-3bbb-4e50-a006-6441d2929cc2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dimitrovgrad",
+        "sort-name": "Dimitrovgrad",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000397262519"
+      ],
+      "life-span": {
+        "begin": "1981",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Амиров, Фёдор",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Фёдор Амиров",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

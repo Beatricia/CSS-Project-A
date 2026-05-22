@@ -1,0 +1,829 @@
+{
+  "created": "2026-05-22T17:02:42.608Z",
+  "count": 2812,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5e645519-a175-4fe0-9a9b-eb9dc9f506b5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Irving Berlin",
+      "sort-name": "Berlin, Irving",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5af9cc6b-4b0a-480e-8223-0630e1c7fae5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Talachyn",
+        "sort-name": "Talachyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00002852023"
+      ],
+      "isnis": [
+        "0000000108769971"
+      ],
+      "life-span": {
+        "begin": "1888-05-11",
+        "end": "1989-09-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Бейлин, Израиль Моисеевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Израиль Моисеевич Бейлин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бейлин, Израиль",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Израиль Бейлин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Baline, Israel Isidore",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Israel Isidore Baline",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlin",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Berlin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlins, I.",
+          "name": "I. Berlins",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "バーリン",
+          "name": "バーリン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "I. Berlin",
+          "name": "I. Berlin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Annie Get Your Gun",
+          "name": "Annie Get Your Gun",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlin, I.",
+          "name": "I.Berlin",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlins, E.",
+          "name": "E.Berlins",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "May, Ren G.",
+          "name": "Ren G. May",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Irwing Berlin",
+          "name": "Irwing Berlin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "songwriter"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "lyricist"
+        },
+        {
+          "count": 1,
+          "name": "american composer"
+        },
+        {
+          "count": 1,
+          "name": "traditional pop"
+        },
+        {
+          "count": 1,
+          "name": "tin pan alley"
+        }
+      ]
+    },
+    {
+      "id": "b42b454e-5a33-4187-8909-f9fa12347f40",
+      "score": 69,
+      "name": "Irving Berlin Stage Show",
+      "sort-name": "Irving Berlin Stage Show",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "469b5cc3-4dd8-4214-95bb-0d911aaa9b07",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 48,
+      "name": "Patrice C. Irving",
+      "sort-name": "Irving, Patrice C.",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "P. C. Irving",
+          "name": "P. C. Irving",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "P.C. Irving",
+          "name": "P.C. Irving",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c7cb9a2e-ff57-4bb8-bd2c-83524e18e369",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 47,
+      "name": "Berlin",
+      "sort-name": "Berlin",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8ba9ac5a-5b4e-4ecc-b24a-e730920fc12b",
+        "type": "County",
+        "type-id": "bcecec27-8bdb-3e00-8254-d948dda502fa",
+        "name": "Orange County",
+        "sort-name": "Orange County",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US new wave/synthpop",
+      "isnis": [
+        "0000000113648293"
+      ],
+      "life-span": {
+        "begin": "1978",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "synthpop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "new wave"
+        },
+        {
+          "count": 1,
+          "name": "usa"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "3b5ffe22-2841-41da-8f13-dcb5c2d88f35",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "John Irving",
+      "sort-name": "Irving, John",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6d8247ea-3c82-40f9-99f2-649fc674f6d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Exeter",
+        "sort-name": "Exeter",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "writer",
+      "isnis": [
+        "0000000122839315"
+      ],
+      "life-span": {
+        "begin": "1942-03-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "John Irwing",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "John Irwing",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Irving, John Winslow",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "John Winslow Irving",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blunt, John Wallace, Jr.",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "John Wallace Blunt Jr.",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "dea28aa9-1086-4ffa-8739-0ccc759de1ce",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 44,
+      "name": "Berliner Philharmoniker",
+      "sort-name": "Berliner Philharmoniker",
+      "area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000120191498",
+        "0000000121144247"
+      ],
+      "life-span": {
+        "begin": "1882",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Berlin Philharmonic",
+          "name": "Berlin Philharmonic",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "BPO",
+          "name": "BPO",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berliner Philharmonisches Orchester",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Berliner Philharmonisches Orchester",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ベルリン・フィルハーモニー・ブラスオルケスター",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ベルリン・フィルハーモニー・ブラスオルケスター",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlin Philharmonic Orchestra, The",
+          "name": "The Berlin Philharmonic Orchestra",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berliini Filharmoonia Orkester",
+          "name": "Berliini Filharmoonia Orkester",
+          "locale": "et",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ベルリン・フィルハーモニーかんげんがくだん",
+          "name": "ベルリン・フィルハーモニー管弦楽団",
+          "locale": "ja",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orquesta filarmónica de Berlín",
+          "name": "Orquesta filarmónica de Berlín",
+          "locale": "es",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orchestre philharmonique de Berlin",
+          "name": "Orchestre philharmonique de Berlin",
+          "locale": "fr",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlin Philharmonic Orchestra",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Berlin Philharmonic Orchestra",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlin Philharmoniker",
+          "name": "Berlin Philharmoniker",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berliner Philharmoniker",
+          "name": "Berliner Philharmoniker",
+          "locale": "de",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "western classical"
+        },
+        {
+          "count": 4,
+          "name": "classical"
+        },
+        {
+          "count": 3,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "orchestral"
+        },
+        {
+          "count": 2,
+          "name": "symphony orchestra"
+        },
+        {
+          "count": 2,
+          "name": "orchestra"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "symphony"
+        },
+        {
+          "count": 1,
+          "name": "modern classical"
+        },
+        {
+          "count": 1,
+          "name": "concerto"
+        },
+        {
+          "count": 1,
+          "name": "romanticism"
+        },
+        {
+          "count": 1,
+          "name": "dvorak"
+        },
+        {
+          "count": 1,
+          "name": "classical period"
+        },
+        {
+          "count": 1,
+          "name": "german orchestra"
+        }
+      ]
+    },
+    {
+      "id": "ccfa0410-bd90-4fd1-ab85-8995a57e265b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 44,
+      "name": "Dash Berlin",
+      "sort-name": "Dash Berlin",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1bf52e6e-d46b-4013-9427-3ad4446ecbc0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Den Haag",
+        "sort-name": "Den Haag",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2006",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "seen live"
+        },
+        {
+          "count": 1,
+          "name": "dutch"
+        },
+        {
+          "count": 2,
+          "name": "vocal trance"
+        },
+        {
+          "count": 1,
+          "name": "dutch trance"
+        },
+        {
+          "count": 3,
+          "name": "trance"
+        }
+      ]
+    },
+    {
+      "id": "4dbdc50c-62db-4a2a-8df9-7c92bd13ca3b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 43,
+      "name": "Irving",
+      "sort-name": "Irving",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1998",
+        "ended": null
+      }
+    },
+    {
+      "id": "3b67833c-fd91-4387-90f5-d34ca131f886",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 42,
+      "name": "Staatskapelle Berlin",
+      "sort-name": "Staatskapelle Berlin",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000110159371"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Berlin State Opera Orchestra",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Berlin State Opera Orchestra",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berlin Court Orchestra",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Berlin Court Orchestra",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hofoper Berlin, Orchester der",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Orchester der Hofoper Berlin",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Opera de Berlin, Orchestre de l’",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Orchestre de l’Opera de Berlin",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ベルリン・シュターツカペレ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ベルリン・シュターツカペレ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Preussische Staatskapelle",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Preussische Staatskapelle",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1944",
+          "end-date": "1945-04-19"
+        },
+        {
+          "sort-name": "Berliner Staatskapelle",
+          "name": "Berliner Staatskapelle",
+          "locale": "de",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Berliner Orchester der Staatsoper",
+          "name": "Berliner Orchester der Staatsoper",
+          "locale": "de",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "symphony orchestra"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "german orchestra"
+        }
+      ]
+    },
+    {
+      "id": "d510526d-3649-4d82-b75a-cb5b0133175f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "IRVING",
+      "sort-name": "IRVING",
+      "gender": "male",
+      "area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French producer",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

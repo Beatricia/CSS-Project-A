@@ -1,0 +1,915 @@
+{
+  "created": "2026-05-22T17:29:08.322Z",
+  "count": 26789,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "06f90281-1ca4-44f1-88c2-8f57506bd408",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "אלי גורנשטיין",
+      "sort-name": "Gorenstein, Eli",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli singer",
+      "isnis": [
+        "0000000500286616"
+      ],
+      "life-span": {
+        "begin": "1952-08-31",
+        "ended": null
+      }
+    },
+    {
+      "id": "924ac345-7a41-470d-809f-3af40bbb0d6a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nicolas Gorenstein",
+      "sort-name": "Gorenstein, Nicolas",
+      "gender": "male",
+      "disambiguation": "organist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f3a2cfce-6cdc-48b7-b20b-8e9d5e523a21",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "name": "eli.",
+      "sort-name": "eli.",
+      "disambiguation": "Eli Lucas",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "926c50c2-a55a-409b-8333-d1ca2e0c99f1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Марк Горенштейн",
+      "sort-name": "Gorenstein, Mark",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055156775"
+      ],
+      "life-span": {
+        "begin": "1946-09-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Горенштейн, Марк",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Марк Горенштейн",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Горенштейн, Марк Борисович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Марк Борисович Горенштейн",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gorenstein, Mark Borisovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mark Borisovich Gorenstein",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gorenstein, Mark",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mark Gorenstein",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "678d88b2-87b0-403b-b63d-5da7465aecc3",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 75,
+      "name": "Led Zeppelin",
+      "sort-name": "Led Zeppelin",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "32fd275d-7731-4d78-bcde-d9a14d148c78",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Clewer",
+        "sort-name": "Clewer",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000123483226"
+      ],
+      "life-span": {
+        "begin": "1968",
+        "end": "1980-09-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "レッド・ツェッペリン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "レッド・ツェッペリン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Led Zeppelin",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Led Zeppelin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "レッド・ゼップ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "レッド・ゼップ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "レッドゼップ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "レッドゼップ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ゼップ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "ゼップ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ledzep",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "ledzep",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bootleg Zeppelin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Bootleg Zeppelin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "LZ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "LZ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Led Zepplelin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Led Zepplelin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Led Zepellin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Led Zepellin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "レッド ツェッペリン",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "レッド ツェッペリン",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "レッドツェッペリン",
+          "name": "レッドツェッペリン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Led Zepplin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Led Zepplin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Led Zep",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Led Zep",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 22,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "progressive rock"
+        },
+        {
+          "count": 4,
+          "name": "heavy metal"
+        },
+        {
+          "count": -1,
+          "name": "folk"
+        },
+        {
+          "count": -1,
+          "name": "metal"
+        },
+        {
+          "count": -4,
+          "name": "american"
+        },
+        {
+          "count": -1,
+          "name": "blues"
+        },
+        {
+          "count": 5,
+          "name": "british"
+        },
+        {
+          "count": -1,
+          "name": "uk"
+        },
+        {
+          "count": -2,
+          "name": "band"
+        },
+        {
+          "count": 33,
+          "name": "hard rock"
+        },
+        {
+          "count": -3,
+          "name": "usa"
+        },
+        {
+          "count": 5,
+          "name": "folk rock"
+        },
+        {
+          "count": 17,
+          "name": "blues rock"
+        },
+        {
+          "count": -5,
+          "name": "américain"
+        },
+        {
+          "count": 7,
+          "name": "classic rock"
+        },
+        {
+          "count": -4,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "arena rock"
+        },
+        {
+          "count": -1,
+          "name": "british blues"
+        },
+        {
+          "count": -1,
+          "name": "english"
+        },
+        {
+          "count": -1,
+          "name": "zoo"
+        },
+        {
+          "count": -4,
+          "name": "film soundtrack"
+        },
+        {
+          "count": -1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": -2,
+          "name": "led zeppelin"
+        },
+        {
+          "count": -2,
+          "name": "persistence"
+        },
+        {
+          "count": -2,
+          "name": "want to listen"
+        },
+        {
+          "count": 0,
+          "name": "prog related"
+        },
+        {
+          "count": 0,
+          "name": "reino unido"
+        }
+      ]
+    },
+    {
+      "id": "bb470eab-7005-4d71-8567-d31ad309845e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "name": "eLi",
+      "sort-name": "Eli",
+      "disambiguation": "singer-songwriter",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "518fd51f-9197-4e78-b28c-927aa9185bd8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eli Escobar",
+      "sort-name": "Escobar, Eli",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "DJ, producer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0e85eb79-1c05-44ba-827c-7b259a3d941a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Felix Mendelssohn",
+      "sort-name": "Mendelssohn, Felix",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "20619e36-fca8-4499-bcc8-be01a3ea3e41",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Leipzig",
+        "sort-name": "Leipzig",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00020453038"
+      ],
+      "isnis": [
+        "0000000121181195"
+      ],
+      "life-span": {
+        "begin": "1809-02-03",
+        "end": "1847-11-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mendelssohn",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mendelssohn",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn-Bartholdy, Felix",
+          "name": "Felix Mendelssohn-Bartholdy",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelsshohn-Bartholdy",
+          "name": "Mendelsshohn-Bartholdy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Mendelssohn-Barthology",
+          "name": "Felix Mendelssohn-Barthology",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelsohn",
+          "name": "Mendelsohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn Bartholdy, Jakob Ludwig Felix",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jakob Ludwig Felix Mendelssohn Bartholdy",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendlessohn",
+          "name": "Mendlessohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(F. Mendelssohn-Bartholdy)",
+          "name": "(F. Mendelssohn-Bartholdy)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn Bartholdy",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mendelssohn Bartholdy",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Mendelsohn",
+          "name": "Felix Mendelsohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohm",
+          "name": "Mendelssohm",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Mendelson",
+          "name": "Felix Mendelson",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelsohn, Felix",
+          "name": "Mendelsohn, Felix",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn-Bartholdy, Jakob Ludwig Felix",
+          "name": "Mendelssohn-Bartholdy, Jakob Ludwig Felix",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Félix Mendelssohn",
+          "name": "Félix Mendelssohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Mendellsohn-Bartholdy",
+          "name": "Felix Mendellsohn-Bartholdy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn-Bartholdy",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mendelssohn-Bartholdy",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn Bartholdy, Felix",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Felix Mendelssohn Bartholdy",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "フェリックス・メンデルスゾーン",
+          "name": "フェリックス・メンデルスゾーン",
+          "locale": "ja",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Мендельсон, Феликс",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Феликс Мендельсон",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelsohhn",
+          "name": "Mendelsohhn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "F. Mendelssohn-Bartholdy",
+          "name": "F. Mendelssohn-Bartholdy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Filix Mendelssohn",
+          "name": "Filix Mendelssohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Bartholdy Mendelssohn",
+          "name": "Felix Bartholdy Mendelssohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "メンデルスゾーン",
+          "name": "メンデルスゾーン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "F. Mendelssohn",
+          "name": "F. Mendelssohn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Felix Mendelssohn (1809-1847)",
+          "name": "Felix Mendelssohn (1809-1847)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mendelssohn, Felix",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Felix Mendelssohn",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "german composer"
+        },
+        {
+          "count": -1,
+          "name": "conductor"
+        },
+        {
+          "count": -1,
+          "name": "pianist"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": -1,
+          "name": "organist"
+        },
+        {
+          "count": 1,
+          "name": "romantic"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 0,
+          "name": "naxos piano trios"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "cdd66a8e-71ff-4b7f-9bef-b428ca3877f1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "E.L.I.",
+      "sort-name": "E.L.I.",
+      "gender": "male",
+      "disambiguation": "Electronic music, alias of Crossover Network",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c39bb1e8-9a76-4f56-9634-fa0c499fbc90",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 72,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eli Marcus",
+      "sort-name": "Marcus, Eli",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e183ffae-1d35-4c78-b552-957535e40af1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Long Beach",
+        "sort-name": "Long Beach",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00810969623"
+      ],
+      "life-span": {
+        "begin": "1987-06-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "מרקוס, אלי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "אלי מרקוס",
+          "locale": "he_IL",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

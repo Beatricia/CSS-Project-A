@@ -1,0 +1,322 @@
+{
+  "created": "2026-05-22T16:59:05.508Z",
+  "count": 25,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "1938ef95-a40c-4db0-a1a3-723769d6c437",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sholom Secunda",
+      "sort-name": "Secunda, Sholom",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cf51394d-4f44-41fb-aef9-cda81e5c1429",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oleksandriia",
+        "sort-name": "Oleksandriia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000117004153"
+      ],
+      "life-span": {
+        "begin": "1894-09-04",
+        "end": "1974-01-13",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "שלום סעקונדאַ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "שלום סעקונדאַ",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Secunda",
+          "name": "Secunda",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Secunda, Samuel",
+          "name": "Samuel Secunda",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "58879cce-d82f-4737-a703-826e2a89327d",
+      "score": 42,
+      "name": "Secunda",
+      "sort-name": "Secunda",
+      "area": {
+        "id": "ae0110b6-13d4-4998-9116-5b926287aa23",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "California",
+        "sort-name": "California",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "dungeon synth",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "91b35084-23ca-411d-8aa8-7d1b0695ff69",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sholom",
+      "sort-name": "Sholom",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Benstein, Sholom Mordechai",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sholom Mordechai Benstein",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "eb19bab2-a446-4ec8-b195-5c83678c7d20",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Daniel Secunda",
+      "sort-name": "Secunda, Daniel",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c982f7f1-4099-4b1e-a3cc-874779e8dcf9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tony Secunda",
+      "sort-name": "Secunda, Tony",
+      "gender": "male",
+      "begin-area": {
+        "id": "30a9d18f-37e4-40e6-abc6-0fafb45e73de",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Epsom",
+        "sort-name": "Epsom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "10707591-7aa1-46b8-b073-0353a1411e09",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tiburon",
+        "sort-name": "Tiburon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Anthony Michael \"Tony\" Secunda",
+      "life-span": {
+        "begin": "1940-08-24",
+        "end": "1995-02-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Secunda, Anthony Michael \"Tony\"",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Anthony Michael \"Tony\" Secunda",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A. Secunda",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "A. Secunda",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b5e78788-82f6-453b-a103-8c407592c06b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Secunda Wood",
+      "sort-name": "Wood, Secunda",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bf628739-1e80-495d-8232-3cef27105e7b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Boruch Sholom",
+      "sort-name": "Boruch Sholom",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "01243399053"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ברוך שלום בלסופסקי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ברוך שלום בלסופסקי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blesofsky, Boruch Sholom",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Boruch Sholom Blesofsky",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Boruch Sholom",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Boruch Sholom",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1cacd208-fef9-4999-a587-04ef3a003fcf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "name": "Sholom Kalib",
+      "sort-name": "Kalib, Sholom",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2c2ae6a8-26d6-4dd8-973e-39b93b81bf2a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michoel Sholom",
+      "sort-name": "Sholom, Michoel",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5ca13f17-d7a4-480a-b6b8-c97d6a3edf1b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sholom Lebovics",
+      "sort-name": "Lebovics, Sholom",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

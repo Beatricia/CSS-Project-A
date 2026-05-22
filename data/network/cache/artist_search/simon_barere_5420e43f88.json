@@ -1,0 +1,795 @@
+{
+  "created": "2026-05-22T16:52:43.978Z",
+  "count": 6304,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "e4f0f6c2-e196-48d9-bcac-3099f518dee1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Симон Барер",
+      "sort-name": "Barere, Simon",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000081361190"
+      ],
+      "life-span": {
+        "begin": "1896-09-01",
+        "end": "1951-04-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Barere, Simon",
+          "name": "Simon Barere",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Барер, Симон",
+          "name": "Симон Барер",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a8d5807f-6dd9-4967-b2dd-b2c10765b34f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Simon Jäger",
+      "sort-name": "Jäger, Simon",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German voice actor",
+      "isnis": [
+        "000000001753013X"
+      ],
+      "life-span": {
+        "begin": "1972-03-16",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "7de0afe3-2a28-47ba-a005-c90c3e2ebc73",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Elena Barere",
+      "sort-name": "Barere, Elena",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Manhattan",
+        "sort-name": "Manhattan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "violinist"
+        },
+        {
+          "count": 1,
+          "name": "concertmaster"
+        }
+      ]
+    },
+    {
+      "id": "02e43d61-905c-44d9-a0de-a20ad8fbe092",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Diane Barere",
+      "sort-name": "Barere, Diane",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c4df30f5-5487-4806-9189-b69c9f27532c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Carly Simon",
+      "sort-name": "Simon, Carly",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "eb4a386e-1178-4e3a-a371-30418dd6fd2e",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "The Bronx",
+        "sort-name": "The Bronx",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00035205711"
+      ],
+      "isnis": [
+        "0000000114706328"
+      ],
+      "life-span": {
+        "begin": "1943-06-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Simon, Carly Elisabeth",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Carly Elisabeth Simon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "blues rock"
+        },
+        {
+          "count": 6,
+          "name": "soft rock"
+        },
+        {
+          "count": 2,
+          "name": "adult contemporary"
+        },
+        {
+          "count": 3,
+          "name": "pop rock"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "singer/songwriter"
+        }
+      ]
+    },
+    {
+      "id": "05517043-ff78-4988-9c22-88c68588ebb9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Paul Simon",
+      "sort-name": "Simon, Paul",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "85c7cd5f-6fe2-4195-a44d-69fa390bd6ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Newark",
+        "sort-name": "Newark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "of Simon & Garfunkel",
+      "ipis": [
+        "00028781364"
+      ],
+      "isnis": [
+        "0000000114799181"
+      ],
+      "life-span": {
+        "begin": "1941-10-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Simon, Paul",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Paul Simon",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kane, Paul",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Paul Kane",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ポール・サイモン",
+          "name": "ポール・サイモン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Simon, Paul Frederic",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Paul Frederic Simon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 7,
+          "name": "pop"
+        },
+        {
+          "count": 6,
+          "name": "folk"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 3,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 4,
+          "name": "folk rock"
+        },
+        {
+          "count": 0,
+          "name": "world"
+        },
+        {
+          "count": 0,
+          "name": "classic"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "folk pop"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 0,
+          "name": "various artists"
+        },
+        {
+          "count": 0,
+          "name": "paul-simon"
+        },
+        {
+          "count": 1,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        }
+      ]
+    },
+    {
+      "id": "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 53,
+      "name": "Simon & Garfunkel",
+      "sort-name": "Simon & Garfunkel",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bf700b75-0498-4676-aed1-bc0a84a6a40b",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Kew Gardens Hills",
+        "sort-name": "Kew Gardens Hills",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00011396705",
+        "00028781364"
+      ],
+      "isnis": [
+        "0000000119545316"
+      ],
+      "life-span": {
+        "begin": "1963",
+        "end": "1970",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "サイモン&ガーファンクル",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "サイモン&ガーファンクル",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Paul Simon and Arthur Garfunkel",
+          "name": "Paul Simon and Arthur Garfunkel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Simon & Garfunkle",
+          "name": "Simon & Garfunkle",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Simon & Garfunkal",
+          "name": "Simon & Garfunkal",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Simon and Garfunkle",
+          "name": "Simon and Garfunkle",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Paul Simon and Art Garfunkle",
+          "name": "Paul Simon and Art Garfunkle",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Simon and Garfunkel",
+          "name": "Simon and Garfunkel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Paul Simon and Art Garfunkel",
+          "name": "Paul Simon and Art Garfunkel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 5,
+          "name": "folk"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 16,
+          "name": "folk rock"
+        },
+        {
+          "count": 0,
+          "name": "classic rock"
+        },
+        {
+          "count": 0,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 5,
+          "name": "folk pop"
+        },
+        {
+          "count": 0,
+          "name": "film soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 0,
+          "name": "seven"
+        },
+        {
+          "count": 0,
+          "name": "simon-garfunkel"
+        },
+        {
+          "count": 0,
+          "name": "singer/songwriter"
+        }
+      ]
+    },
+    {
+      "id": "a0d64aed-0cc8-4713-ae66-28919f6ff87c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Simon Vance",
+      "sort-name": "Vance, Simon",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "16fe6dbc-b7aa-4935-a150-5d90660af8a5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Brighton",
+        "sort-name": "Brighton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English narrator/actor",
+      "isnis": [
+        "0000000076961183"
+      ],
+      "life-span": {
+        "begin": "1955-12-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Whitfield, Robert",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Robert Whitfield",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Matthews, Richard",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Richard Matthews",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "81576230-b859-48b2-bd98-82cc4ef66aaf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Helen Vlashek",
+      "sort-name": "Vlashek, Helen",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Barere, Helena",
+          "name": "Helena Barere",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "80c3bce9-0b54-409c-aa10-3b0c7dbbc597",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Simon Rattle",
+      "sort-name": "Rattle, Simon",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Liverpool",
+        "sort-name": "Liverpool",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "000000010930050X"
+      ],
+      "life-span": {
+        "begin": "1955-01-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "サイモン・ラトル",
+          "name": "サイモン・ラトル",
+          "locale": "ja",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rattle, Simon",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Simon Rattle",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rattle, Simon Denis, Sir",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sir Simon Denis Rattle, CBE",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1994",
+          "end-date": null
+        },
+        {
+          "sort-name": "Rattle, Simon Denis",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Simon Denis Rattle, CBE",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1987",
+          "end-date": "1994"
+        },
+        {
+          "sort-name": "Rattle, Simon, Sir",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sir Simon Rattle",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "conductor"
+        },
+        {
+          "count": 2,
+          "name": "british conductor"
+        },
+        {
+          "count": 3,
+          "name": "classical"
+        }
+      ]
+    }
+  ]
+}

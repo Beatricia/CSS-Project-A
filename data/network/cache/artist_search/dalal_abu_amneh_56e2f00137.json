@@ -1,0 +1,342 @@
+{
+  "created": "2026-05-22T17:21:34.305Z",
+  "count": 2600,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "18d79c2c-c768-4e3d-90f5-25afb970ee6e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "دلال أبو آمنة",
+      "sort-name": "آمنة, دلال أبو",
+      "gender": "female",
+      "country": "PS",
+      "area": {
+        "id": "7d24dd34-a00f-37a1-8307-f2ef1dd3dbcd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Palestine",
+        "sort-name": "Palestine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0f01a27e-09f9-46f6-a987-030cf5c565e0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nazareth",
+        "sort-name": "Nazareth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1983-08-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "آمنة, دلال غازي محمد أبو",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "دلال غازي محمد أبو آمنة",
+          "locale": "ar",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Amneh, Dalal Ghazi Muhammad Abu",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Dalal Ghazi Muhammad Abu Amneh",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "אמנה, דלאל אבו",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "דלאל אבו אמנה",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "امنه, دلال ابو",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "دلال ابو امنه",
+          "locale": "ar_EG",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "آمنه, دلال ابو",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "دلال ابو آمنه",
+          "locale": "fa",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "آمنة, دلال أبو",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "دلال أبو آمنة",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Amneh, Dalal Abu",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dalal Abu Amneh",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "19fcfdc9-b69c-4a25-ae78-59dd0f8f2ee8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dalal",
+      "sort-name": "Dalal",
+      "gender": "female",
+      "disambiguation": "singer/songwriter/actress Dalal Bruchmann",
+      "ipis": [
+        "00638000379"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bruchmann, Dalal",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Dalal Bruchmann",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "51fc422a-d04b-42c3-8815-243fe4da4df6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Abu",
+      "sort-name": "Abu",
+      "gender": "male",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swiss singer-songwriter",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "switzerland"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        }
+      ]
+    },
+    {
+      "id": "fe4cbaf6-bec4-49ac-8348-4b2d6605bf6c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 64,
+      "name": "Abu",
+      "sort-name": "Abu",
+      "disambiguation": "Mulatu Astatke",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Astatke, Mulatu",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mulatu Astatke",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "91f0a955-62c1-4e09-9099-9afe09ac4cf4",
+      "score": 64,
+      "name": "Abu",
+      "sort-name": "Abu",
+      "disambiguation": "US rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f08da5ca-c852-4841-8bf1-3a05c83ba4ba",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 64,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Abu",
+      "sort-name": "Abu",
+      "gender": "male",
+      "country": "NO",
+      "area": {
+        "id": "6743d351-6f37-3049-9724-5041161fff4d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Norway",
+        "sort-name": "Norway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7bf1c64d-569e-4cbf-84b2-bd0e0f2fce69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lahore",
+        "sort-name": "Lahore",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Norwegian-pakistani actor, comedian and presenter",
+      "life-span": {
+        "begin": "1987-04-18",
+        "ended": null
+      }
+    },
+    {
+      "id": "8de051e3-979d-467c-a629-3ae9d80ac958",
+      "score": 64,
+      "name": "Abu",
+      "sort-name": "Abu",
+      "disambiguation": "psytrance",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "44c1b834-3c44-4ff6-abc4-a141af8a4bff",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 63,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Amita Dalal",
+      "sort-name": "Amita Dalal",
+      "gender": "female",
+      "country": "IN",
+      "area": {
+        "id": "d31a9a15-537f-3669-ad53-25753ddd2772",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "India",
+        "sort-name": "India",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "00135c78-15dd-41d6-b902-afeadf0a5c87",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 63,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nora Dalal",
+      "sort-name": "Dalal, Nora",
+      "gender": "female",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1981-01-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Dalal",
+          "name": "Dalal",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "84756918-ce21-48b4-be5a-6518bb879c6b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 63,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rehan Dalal",
+      "sort-name": "Dalal, Rehan",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

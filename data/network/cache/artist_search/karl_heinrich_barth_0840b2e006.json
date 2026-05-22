@@ -1,0 +1,647 @@
+{
+  "created": "2026-05-22T17:14:17.827Z",
+  "count": 4325,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "695de63f-d20a-4e8f-bba9-2ae645f109a9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karl Heinrich Barth",
+      "sort-name": "Barth, Karl Heinrich",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1847-07-12",
+        "end": "1922-12-23",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german pianist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        }
+      ]
+    },
+    {
+      "id": "cbdcee87-59a0-4f05-929b-86a3d91b6dfa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heinrich Schütz",
+      "sort-name": "Schütz, Heinrich",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "13729d23-183d-41a1-bcd6-6af1fb2b63cd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bad Köstritz",
+        "sort-name": "Bad Köstritz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "624f2956-bfdb-43a9-8924-9aadb812ee04",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dresden",
+        "sort-name": "Dresden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000122806150"
+      ],
+      "life-span": {
+        "begin": "1585-10-18",
+        "end": "1672-11-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "H. Schütz",
+          "name": "H. Schütz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Heinrich Schutz",
+          "name": "Heinrich Schutz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sch tz, Heinrich",
+          "name": "Sch tz, Heinrich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Heinrich Schuetz",
+          "name": "Heinrich Schuetz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schütz, Heinrich",
+          "name": "Schütz, Heinrich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "baroque"
+        },
+        {
+          "count": 1,
+          "name": "religious"
+        }
+      ]
+    },
+    {
+      "id": "65e22c94-2460-46b7-bc3c-d53ed8c5a1a9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Friedrich Karl Barth",
+      "sort-name": "Barth, Friedrich Karl",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7b612d6a-36ca-49b3-a321-aa0d07445e9e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kassel",
+        "sort-name": "Kassel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German priest",
+      "ipis": [
+        "00038821376"
+      ],
+      "life-span": {
+        "begin": "1938-02-07",
+        "ended": null
+      }
+    },
+    {
+      "id": "9d702a4a-3bb7-4be8-b102-b7cd5a78aa0b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Barth",
+      "sort-name": "Barth",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French pop-rock singer, Barthélémy Corbelet",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9a1e19d6-34bc-48b5-847b-4ffe0b63260d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karl Heinrich Waggerl",
+      "sort-name": "Waggerl, Karl Heinrich",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e684b527-18ff-4f84-85db-4a66f3b10dd0",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Salzburg",
+        "sort-name": "Salzburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2cfaf06e-9253-486c-b043-3c46f3d57672",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Schwarzach im Pongau",
+        "sort-name": "Schwarzach im Pongau",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1897-12-10",
+        "end": "1973-11-04",
+        "ended": true
+      }
+    },
+    {
+      "id": "3e9a5a33-46b2-4647-ab68-08a5f3ff3b25",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heinrich Frantzen",
+      "sort-name": "Frantzen, Heinrich",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b8a2776a-eedf-48ea-a6f3-1a9070f0b823",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Köln",
+        "sort-name": "Köln",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b8a2776a-eedf-48ea-a6f3-1a9070f0b823",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Köln",
+        "sort-name": "Köln",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000057389732"
+      ],
+      "life-span": {
+        "begin": "1880-10-01",
+        "end": "1953-05-13",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Frantzen, Karl Theodor Heinrich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Karl Theodor Heinrich Frantzen",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "cea8f0af-2d41-4da3-9105-139ce405cdbe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Carl Reinecke",
+      "sort-name": "Reinecke, Carl",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "20619e36-fca8-4499-bcc8-be01a3ea3e41",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Leipzig",
+        "sort-name": "Leipzig",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000110616552"
+      ],
+      "life-span": {
+        "begin": "1824-06-23",
+        "end": "1910-03-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Reinecke, Carl Heinrich Carsten",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Carl Heinrich Carsten Reinecke",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Carsten, Heinrich (alias Carl Reinecke)",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Heinrich Carsten",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Reinecke, Karl",
+          "name": "Karl Reinecke",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Carl Heinrich Reinecke",
+          "name": "Carl Heinrich Reinecke",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "german composer"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "33bfe9fd-a793-4c47-b060-e15225342ff7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karl Heinrich Ulrichs",
+      "sort-name": "Ulrichs, Karl Heinrich",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ba992b70-2440-4aaa-8dc3-15ba0731870d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Aurich",
+        "sort-name": "Aurich",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "16b33cac-4288-4359-ba53-ed4444486707",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "L'Aquila",
+        "sort-name": "L'Aquila",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German jurist and writer",
+      "life-span": {
+        "begin": "1825-08-28",
+        "end": "1895-07-14",
+        "ended": true
+      }
+    },
+    {
+      "id": "9d0828bc-702d-4c89-b66f-4954958b8e11",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bert Kaempfert",
+      "sort-name": "Kaempfert, Bert",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ccb257c9-ccb7-45c3-99c9-6a38cb4cc25d",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Barmbek",
+        "sort-name": "Barmbek",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "6696b7a4-693d-4392-81b4-60916aeac21c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Palma",
+        "sort-name": "Palma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German orchestra leader, producer and songwriter",
+      "ipis": [
+        "00015741304",
+        "00076253764"
+      ],
+      "isnis": [
+        "000000011452417X"
+      ],
+      "life-span": {
+        "begin": "1923-10-16",
+        "end": "1980-06-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kämpfert, Berthold Heinrich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Berthold Heinrich Kämpfert",
+          "locale": "de_DE",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "easy listening"
+        },
+        {
+          "count": 0,
+          "name": "sweet and gentle"
+        },
+        {
+          "count": -1,
+          "name": "death by stroke"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "a004ef4f-4761-4d1d-a577-6bdde87cdd50",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Carl Heinrich Biber",
+      "sort-name": "Biber, Carl Heinrich",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f0590317-8b42-4498-a2e4-34cc5562fcf8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salzburg",
+        "sort-name": "Salzburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f0590317-8b42-4498-a2e4-34cc5562fcf8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salzburg",
+        "sort-name": "Salzburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000108375067"
+      ],
+      "life-span": {
+        "begin": "1681-09-04",
+        "end": "1749-11-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Biber von Bibern, Karl Heinrich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Karl Heinrich Biber von Bibern",
+          "locale": "de_AT",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "created": "2026-05-22T17:26:17.898Z",
+  "count": 17,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "6a7a2250-f266-469b-b353-a14cfc71e56b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Wissam Joubran",
+      "sort-name": "Joubran, Wissam",
+      "gender": "male",
+      "life-span": {
+        "begin": "1983",
+        "ended": null
+      }
+    },
+    {
+      "id": "a5b18818-8579-4022-a5a1-a663e2faaf44",
+      "score": 40,
+      "name": "Wissam",
+      "sort-name": "Wissam",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "05a64133-b9a5-4125-b6f6-735a2785c05d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Samir Joubran",
+      "sort-name": "Joubran, Samir",
+      "gender": "male",
+      "life-span": {
+        "begin": "1973",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "סמיר ג׳וברן",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "סמיר ג׳וברן",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ג׳ובראן, סמיר",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "סמיר ג׳ובראן",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "7208d519-0815-483f-aa05-954e428a3c63",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Adnan Joubran",
+      "sort-name": "Joubran, Adnan",
+      "gender": "male",
+      "area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1985-11-09",
+        "ended": null
+      }
+    },
+    {
+      "id": "144b3120-df12-4179-8643-cfff77ec27ef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Wissam Boustany",
+      "sort-name": "Boustany, Wissam",
+      "gender": "male",
+      "country": "LB",
+      "area": {
+        "id": "8138206e-5786-3f86-a53b-19a7303e7419",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Lebanon",
+        "sort-name": "Lebanon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1960-10-01",
+        "ended": null
+      }
+    },
+    {
+      "id": "ad1c4b5d-bfbf-4103-9d7f-cd84c96b7eb9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Wissam Murad",
+      "sort-name": "Murad, Wissam",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "da815b2d-e53d-4de2-9e0a-000abd98b846",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "name": "Wissam Saliba",
+      "sort-name": "Saliba, Wissam",
+      "disambiguation": "vocal",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2808c0b3-7217-478d-9488-35cdec7546c8",
+      "score": 35,
+      "name": "Wissam Ghorayeb",
+      "sort-name": "Ghorayeb, Wissam",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "61b0bd54-0d4c-4056-908b-dcf720421d7f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Wissam Abboud",
+      "sort-name": "Abboud, Wissam",
+      "gender": "male",
+      "country": "LB",
+      "area": {
+        "id": "8138206e-5786-3f86-a53b-19a7303e7419",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Lebanon",
+        "sort-name": "Lebanon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Classical Guitarist",
+      "life-span": {
+        "begin": "1993-12-12",
+        "ended": null
+      }
+    },
+    {
+      "id": "e033ae12-43f9-4a32-9156-1c21f1896c57",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Wissam Tabet",
+      "sort-name": "Tabet, Wissam",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

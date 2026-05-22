@@ -1,0 +1,535 @@
+{
+  "created": "2026-05-22T17:32:06.642Z",
+  "count": 971,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "13e12c5a-96ff-40e2-8bbc-8986d966abba",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "סגיב כהן",
+      "sort-name": "Cohen, Sagiv",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00285433549"
+      ],
+      "isnis": [
+        "0000000403643415"
+      ],
+      "life-span": {
+        "begin": "1975-02-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cohen, Sagiv",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sagiv Cohen",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "כהן, סגיב",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "סגיב כהן",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "65314b12-0e08-43fa-ba33-baaa7b874c15",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonard Cohen",
+      "sort-name": "Cohen, Leonard",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3f504d54-c40c-487d-bc16-c1990eac887f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Westmount",
+        "sort-name": "Westmount",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian singer‐songwriter and poet",
+      "ipis": [
+        "00006457004"
+      ],
+      "isnis": [
+        "0000000110273481"
+      ],
+      "life-span": {
+        "begin": "1934-09-21",
+        "end": "2016-11-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Cohen, Leonard Norman",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Leonard Norman Cohen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leonhard Cohen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leonhard Cohen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lonard Cohen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Lonard Cohen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "L. Cohen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "L. Cohen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 7,
+          "name": "folk"
+        },
+        {
+          "count": 0,
+          "name": "blues"
+        },
+        {
+          "count": 0,
+          "name": "canadian"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "music"
+        },
+        {
+          "count": -1,
+          "name": "canada"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 3,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "poetry"
+        },
+        {
+          "count": 0,
+          "name": "soft rock"
+        },
+        {
+          "count": 4,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "composers"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 0,
+          "name": "singer and songwriter"
+        },
+        {
+          "count": 1,
+          "name": "fiction"
+        },
+        {
+          "count": 0,
+          "name": "sophisti-pop"
+        },
+        {
+          "count": 1,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 1,
+          "name": "novelists"
+        },
+        {
+          "count": 1,
+          "name": "poets"
+        },
+        {
+          "count": 1,
+          "name": "lyricists"
+        },
+        {
+          "count": 0,
+          "name": "nuno"
+        }
+      ]
+    },
+    {
+      "id": "f3f15228-39fd-41d7-a02d-968d2adffe4d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kaveh Cohen",
+      "sort-name": "Cohen, Kaveh",
+      "gender": "male",
+      "disambiguation": "production music",
+      "ipis": [
+        "00349009853"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3a4291ed-7ff5-4e71-91a2-cb37970ba28d",
+      "score": 51,
+      "name": "Asaf Sagiv",
+      "sort-name": "Sagiv, Asaf",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b9d67b06-9d28-4964-83e7-e577bd6b92f7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tamar Sagiv",
+      "sort-name": "Sagiv, Tamar",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli cellist",
+      "life-span": {
+        "begin": "1994-12-06",
+        "ended": null
+      }
+    },
+    {
+      "id": "8497578b-b569-4898-a696-25c4857b6ee9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "name": "Sagiv Boxer",
+      "sort-name": "Boxer, Sagiv",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3e51c1f7-e36e-472b-b3b8-6e545668d968",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "name": "Sagiv Alfasi",
+      "sort-name": "Alfasi, Sagiv",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "17d78170-7194-4603-8dbb-ca1108430882",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Avishai Cohen",
+      "sort-name": "Cohen, Avishai",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7bac8044-f785-4073-a8ef-717462ee0918",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "HaẔafon",
+        "sort-name": "HaẔafon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli jazz bassist",
+      "ipis": [
+        "00199423824"
+      ],
+      "isnis": [
+        "0000000119533307"
+      ],
+      "life-span": {
+        "begin": "1970-04-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cohen, Avishai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Avishai Cohen",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cohen, Avishai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Avishai Cohen",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "אבישי כהן",
+          "name": "אבישי כהן",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "post-bop"
+        },
+        {
+          "count": 1,
+          "name": "jazz and blues"
+        }
+      ]
+    },
+    {
+      "id": "f24ebcc6-f285-46a6-9fc7-fdfbc3eaecdd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joel Cohen",
+      "sort-name": "Cohen, Joel",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1b4c4320-f55b-47ca-84c6-6e95dc5493b4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Providence",
+        "sort-name": "Providence",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor of Boston Camerata",
+      "isnis": [
+        "0000000109782035"
+      ],
+      "life-span": {
+        "begin": "1942-05-23",
+        "ended": null
+      }
+    },
+    {
+      "id": "b41d78f2-1a3f-445e-8068-a4e008767ada",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "DJ Sagiv S",
+      "sort-name": "Sagiv S, DJ",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sagiv.S, DJ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "DJ Sagiv.S",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sagiv Samuel, DJ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "DJ Sagiv Samuel",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shay, Sagiv Sol",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sagiv Sol Shay",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "S, Sagiv",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sagiv S",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

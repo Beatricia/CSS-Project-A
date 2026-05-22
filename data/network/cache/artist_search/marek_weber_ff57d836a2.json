@@ -1,0 +1,639 @@
+{
+  "created": "2026-05-22T16:54:19.543Z",
+  "count": 1203,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7591640c-968e-42bf-9e4e-6cbce12352e6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marek Weber",
+      "sort-name": "Weber, Marek",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000059542630"
+      ],
+      "life-span": {
+        "begin": "1888-10-24",
+        "end": "1964-02-09",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "tango"
+        }
+      ]
+    },
+    {
+      "id": "ec51811a-9c26-477c-826e-c000d1319b4b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 85,
+      "name": "Marek Weber Trio",
+      "sort-name": "Marek Weber Trio",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c71f5979-d09f-4183-a1a9-58bb6e7cb703",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 83,
+      "name": "Marek Weber und sein Orchester",
+      "sort-name": "Weber, Marek und sein Orchester",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1908",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Marek Weber et son orchestre",
+          "name": "Marek Weber et son orchestre",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marek Weber and his Orchestra",
+          "name": "Marek Weber and his Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marek Orchester Weber",
+          "name": "Marek Orchester Weber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c2d17829-1424-435b-9386-c77d3a920abe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Carl Maria von Weber",
+      "sort-name": "Weber, Carl Maria von",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d1a17bfe-b392-4aae-bf67-e6c6987363fe",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Eutin",
+        "sort-name": "Eutin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000123199065"
+      ],
+      "life-span": {
+        "begin": "1786-11-19",
+        "end": "1826-06-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Weber",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Weber",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вебер, К. М.",
+          "name": "К. М. Вебер",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weber, Carl Maria von",
+          "name": "Weber, Carl Maria von",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ウェーバー",
+          "name": "ウェーバー",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "C.M.von Weber",
+          "name": "C.M.von Weber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karl Maria von Weber",
+          "name": "Karl Maria von Weber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Carl Weber",
+          "name": "Carl Weber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karl Weber",
+          "name": "Karl Weber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vēbers, K. M.",
+          "name": "K. M. Vēbers",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 5,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "german composer"
+        },
+        {
+          "count": -1,
+          "name": "production music"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "romantic"
+        },
+        {
+          "count": 2,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "9804f521-09a2-4b3f-b640-55374b3e68b6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Weber",
+      "sort-name": "Weber, David",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7b2ca1e7-e7f6-4155-881d-c660a45c11e8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cleveland",
+        "sort-name": "Cleveland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "author",
+      "isnis": [
+        "0000000071416151"
+      ],
+      "life-span": {
+        "begin": "1952-10-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "17d126de-97b6-458b-8b19-7615c19a0a79",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marek Grechuta",
+      "sort-name": "Grechuta, Marek",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2f82c9c5-0192-4da8-beeb-3eeae35e5127",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zamość",
+        "sort-name": "Zamość",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e82975d0-7258-4e4c-9c56-6e1deea8ad4c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kraków",
+        "sort-name": "Kraków",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00067157758"
+      ],
+      "isnis": [
+        "0000000080175425"
+      ],
+      "life-span": {
+        "begin": "1945-12-10",
+        "end": "2006-10-09",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "polish"
+        }
+      ]
+    },
+    {
+      "id": "22fce35d-7fa6-435d-bb92-d8e0283e66c9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Marianne Weber",
+      "sort-name": "Weber, Marianne",
+      "gender": "female",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a727c39a-8d76-4a1a-9033-696ada9bedda",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Utrecht",
+        "sort-name": "Utrecht",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00264027483"
+      ],
+      "life-span": {
+        "begin": "1955-12-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Marjan Weber",
+          "name": "Marjan Weber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "levenslied"
+        },
+        {
+          "count": 2,
+          "name": "dutch"
+        },
+        {
+          "count": 1,
+          "name": "the netherlands"
+        }
+      ]
+    },
+    {
+      "id": "ebe0666c-6d24-4866-afaa-fc20f2768adf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marek Janowski",
+      "sort-name": "Janowski, Marek",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "000000011057409X"
+      ],
+      "life-span": {
+        "begin": "1939-02-18",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "983edff7-4f11-4324-9d5c-b50ce6e31697",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Beri Weber",
+      "sort-name": "Weber, Beri",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0c875d86-e14e-4d3a-a4f4-6070f1a23d7f",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Williamsburg",
+        "sort-name": "Williamsburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hasdic singer, songwriter, and educator",
+      "ipis": [
+        "01120030254"
+      ],
+      "isnis": [
+        "0000000433811846"
+      ],
+      "life-span": {
+        "begin": "1984",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "בערי וובר",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "בערי וובר",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ובר, ברי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ברי ובר",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weber, Shmiel Ber",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Shmiel Ber Weber",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "וועבער, בערי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "בערי וועבער",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "orthodox pop"
+        }
+      ]
+    },
+    {
+      "id": "6d4e9a31-3167-4c6c-be68-027f8d19e134",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Raimon Weber",
+      "sort-name": "Weber, Raimon",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1961-03-27",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "audio drama"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,868 @@
+{
+  "created": "2026-05-22T18:33:59.807Z",
+  "count": 9,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "d81545b5-f46a-45cd-a151-9378488d782a",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "La serena",
+      "length": 149306,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "8770a041-42f1-3476-9351-b063bf834b09",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "La Judería",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c1f38-e725-30a0-bda6-41bc8f5f320a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La judería",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "317f7561-8228-3ce6-9cce-5f299f3be866",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c447dbd0-b4fe-3433-a9fa-072d808b72b9",
+                  "number": "7",
+                  "title": "La serena",
+                  "length": 149306
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7f11e113-68ae-46b6-a879-915a2c98adfd",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "La serena",
+      "length": 243000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "19b7de26-e0cf-4ea9-957e-8a0d5aecb4ea",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "La judería",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c1f38-e725-30a0-bda6-41bc8f5f320a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La judería",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "ede1394a-4a20-3f7e-a7a2-0004498bbde6",
+              "position": 1,
+              "track": [
+                {
+                  "id": "daaf43a9-d9a7-301c-9c7b-ccd005c49f0e",
+                  "number": "7",
+                  "title": "La serena",
+                  "length": 243000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 6
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "flamenco"
+        },
+        {
+          "count": 2,
+          "name": "latin"
+        }
+      ]
+    },
+    {
+      "id": "235d7d38-9d53-441f-93e3-0bf0924f6fd6",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "La serena",
+      "length": 239066,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "73876006-7253-4e5c-9f66-ad3ed9efac9a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "La Juderia",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c1f38-e725-30a0-bda6-41bc8f5f320a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La judería",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "b67b8d5e-793b-36df-9cd0-3a68f68306ce",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "1a4cc3b7-afee-3cd7-9483-96498e453ecc",
+                  "number": "3",
+                  "title": "La serena",
+                  "length": 239066
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a45d96d-c2d5-400c-a8f8-e08b0daa67d8",
+      "score": 94,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "La serena (instrumental)",
+      "length": 59000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "8770a041-42f1-3476-9351-b063bf834b09",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "La Judería",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c1f38-e725-30a0-bda6-41bc8f5f320a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La judería",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "317f7561-8228-3ce6-9cce-5f299f3be866",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "6a051e6f-28c1-3dd9-a838-391e823af5dc",
+                  "number": "12",
+                  "title": "La serena (instrumental)",
+                  "length": 60226
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "19b7de26-e0cf-4ea9-957e-8a0d5aecb4ea",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "La judería",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c1f38-e725-30a0-bda6-41bc8f5f320a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La judería",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "ede1394a-4a20-3f7e-a7a2-0004498bbde6",
+              "position": 1,
+              "track": [
+                {
+                  "id": "ab980ac7-ec85-3e8e-a84f-2d1b7f45e577",
+                  "number": "12",
+                  "title": "La serena (instrumental)",
+                  "length": 59000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "flamenco"
+        },
+        {
+          "count": 1,
+          "name": "traditional"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        }
+      ]
+    },
+    {
+      "id": "eee381cd-d0a5-4bdb-a01d-463ea41229c8",
+      "score": 89,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "La serena [The Mermaid]",
+      "length": 243000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "6a3452f5-6d9f-4f74-971a-0bb0f4c560b9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "La Juderia",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c1f38-e725-30a0-bda6-41bc8f5f320a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La judería",
+            "primary-type": "Album"
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "c7008113-9f85-3b6e-99ba-bfcf443abf1f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4491dd6a-008a-4638-90c6-580bfb6593d8",
+                  "number": "3",
+                  "title": "La serena [The Mermaid]",
+                  "length": 243000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10504fc8-3c53-4e83-8b67-fa8567fca447",
+      "score": 89,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "La Serena (The Mermaid)",
+      "length": 228000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2023",
+      "releases": [
+        {
+          "id": "31a71386-4e6d-4c31-a002-7916295025c8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Live At The Tower Of David, Jerusalem",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0c12ecfa-6a65-4368-86ff-51b72e1c7c3f",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live At The Tower Of David, Jerusalem",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2023",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2023",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "3ee037be-e19e-3549-87e3-839d47329b44",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "18673870-2774-4377-92a4-98b599b70ada",
+                  "number": "2",
+                  "title": "La Serena (The Mermaid)",
+                  "length": 228000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4f2489b-0d65-49b2-854c-60305135869e",
+      "score": 83,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "La Serena (live at Oslo, Norway)",
+      "length": 261000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "releases": [
+        {
+          "id": "75a0587e-288a-435d-a39c-ad7ef1ec985f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Romance & Yasmin",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "491077b8-838c-341b-bece-5b3906a46faf",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Romance & Yasmin",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "21398aa0-5888-3531-8255-2de2a6200a95",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b96a9e50-b76a-478d-a1a1-1b6c37351fba",
+                  "number": "13",
+                  "title": "La Serena (live at Oslo, Norway)",
+                  "length": 261000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8d39549-a6c3-4248-9685-fd57659af040",
+      "score": 81,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "La serena [The Mermaid] - (instrumental version)",
+      "length": 62000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "6a3452f5-6d9f-4f74-971a-0bb0f4c560b9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "La Juderia",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c1f38-e725-30a0-bda6-41bc8f5f320a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La judería",
+            "primary-type": "Album"
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "c7008113-9f85-3b6e-99ba-bfcf443abf1f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c2d3f0ea-f8ae-4591-acb5-d153bce8ee08",
+                  "number": "11",
+                  "title": "La serena [The Mermaid] - (instrumental version)",
+                  "length": 62000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9894cfef-d51c-4e5c-a7d9-32b0f0aad837",
+      "score": 79,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Noches, Noches & La Serena (Solea Por Buleria)",
+      "length": 759000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2023",
+      "releases": [
+        {
+          "id": "31a71386-4e6d-4c31-a002-7916295025c8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Live At The Tower Of David, Jerusalem",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0c12ecfa-6a65-4368-86ff-51b72e1c7c3f",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live At The Tower Of David, Jerusalem",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2023",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2023",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "3ee037be-e19e-3549-87e3-839d47329b44",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f023ecdd-9a3f-46e4-a41a-2b9d12d3293a",
+                  "number": "8",
+                  "title": "Noches, Noches & La Serena (Solea Por Buleria)",
+                  "length": 759000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Yasmin Levy\" AND recording:\"La Serena\""
+}

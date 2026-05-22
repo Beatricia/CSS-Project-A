@@ -1,0 +1,845 @@
+{
+  "created": "2026-05-22T17:37:03.553Z",
+  "count": 1658,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "6952c973-d9ea-4355-8769-a9ae15ab71cc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Errol Parker",
+      "sort-name": "Parker, Errol",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "792b1496-3f80-4ad0-92c2-2c2154a9b642",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oran",
+        "sort-name": "Oran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000000295903"
+      ],
+      "life-span": {
+        "begin": "1930-10-30",
+        "end": "1998-07-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Schécroun, Ralph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ralph Schécroun",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "7b2be21d-a3ae-4ed2-b79a-b8d2279fda73",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 85,
+      "name": "Errol Parker Trio",
+      "sort-name": "Parker, Errol Trio",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "c7356af9-9ea6-4a78-a55b-c73775716312",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Charlie Parker",
+      "sort-name": "Parker, Charlie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c1fc21db-40e9-47f5-af93-f3ebe6581113",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kansas City",
+        "sort-name": "Kansas City",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "aka “Bird”, jazz alto saxophonist",
+      "ipis": [
+        "00023505323",
+        "00039934450"
+      ],
+      "isnis": [
+        "0000000120955806",
+        "0000000368633974"
+      ],
+      "life-span": {
+        "begin": "1920-08-29",
+        "end": "1955-03-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bird And Chet",
+          "name": "Bird And Chet",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charlie Parker with Strings",
+          "name": "Charlie Parker with Strings",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parker, Charles Christopher, Jr.",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Charles Christopher Parker, Jr",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parker, Charlie \"Chan\"",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Charlie \"Chan\" Parker",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charlie Parker and Strings",
+          "name": "Charlie Parker and Strings",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charley Parker",
+          "name": "Charley Parker",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charlier Parker with Strings",
+          "name": "Charlier Parker with Strings",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charles Parker",
+          "name": "Charles Parker",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charlie Parker Jam Session",
+          "name": "Charlie Parker Jam Session",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chan, Charlie",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Charlie Chan",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parker, C.",
+          "name": "C. Parker",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bird",
+          "name": "Bird",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 7,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "saxophone"
+        },
+        {
+          "count": 3,
+          "name": "bebop"
+        },
+        {
+          "count": 1,
+          "name": "cool jazz"
+        },
+        {
+          "count": -1,
+          "name": "death by cirrhosis"
+        },
+        {
+          "count": -1,
+          "name": "death by pneumonia"
+        },
+        {
+          "count": -1,
+          "name": "death by bleeding ulcer"
+        }
+      ]
+    },
+    {
+      "id": "e1eff221-4e60-4104-a30b-11949b782337",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eddie Meduza",
+      "sort-name": "Meduza, Eddie",
+      "gender": "male",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8f6c316e-9924-48ea-967b-16757dd82399",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gothenburg",
+        "sort-name": "Gothenburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b688c1af-6218-4aac-9d6b-8661537770c8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Växjö",
+        "sort-name": "Växjö",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000129612922"
+      ],
+      "life-span": {
+        "begin": "1948-06-17",
+        "end": "2002-01-16",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Norstedt, Errol",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Errol Norstedt",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddie Medusa",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Eddie Medusa",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ]
+    },
+    {
+      "id": "0ee32ef3-30e1-41ae-bc27-4b56e88efa5d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Errol Dunkley",
+      "sort-name": "Dunkley, Errol",
+      "gender": "male",
+      "country": "JM",
+      "area": {
+        "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Jamaica",
+        "sort-name": "Jamaica",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055139190"
+      ],
+      "life-span": {
+        "begin": "1951-02-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Erroll Dunkley",
+          "name": "Erroll Dunkley",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Errol Dunkly",
+          "name": "Errol Dunkly",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eroll Dunkey",
+          "name": "Eroll Dunkey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Erol Dunkey",
+          "name": "Erol Dunkey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Errol Dunkey",
+          "name": "Errol Dunkey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dunkley Errol",
+          "name": "Dunkley Errol",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock and indie"
+        }
+      ]
+    },
+    {
+      "id": "32ab59d6-048f-484c-aa91-d47948776c50",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Matthew Parker",
+      "sort-name": "Parker, Matthew Henry",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American Pop/EDM singer-songwriter",
+      "life-span": {
+        "begin": "1994-03-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Parker, Matthew Henry",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Matthew Henry Parker",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parker, Matthew",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Matthew Parker",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "contemporary christian"
+        },
+        {
+          "count": 1,
+          "name": "edm"
+        }
+      ]
+    },
+    {
+      "id": "b6962c33-28a2-4a66-b700-6cf2b91e7701",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alan Parker",
+      "sort-name": "Parker, Alan",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "55dd286a-f047-423b-9062-37408f148633",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Derbyshire",
+        "sort-name": "Derbyshire",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "guitarist & composer",
+      "ipis": [
+        "00055737363"
+      ],
+      "isnis": [
+        "0000000042403546"
+      ],
+      "life-span": {
+        "begin": "1944-08-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Parker, Alan Frederick",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alan Frederick Parker",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A. Parker",
+          "name": "A. Parker",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "production music"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "eb2f8c3f-8c4c-408a-8944-917283e3bc70",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Errol Brown",
+      "sort-name": "Brown, Errol",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "23e0d135-9fe7-48cb-b2c4-93addd3d1e37",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Kingston",
+        "sort-name": "Kingston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f8b33963-7364-33be-8c6c-5ab2e1075ae1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Bahamas",
+        "sort-name": "Bahamas",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "British‐Jamaican singer and songwriter, in Hot Chocolate",
+      "ipis": [
+        "00055048489"
+      ],
+      "isnis": [
+        "0000000055483098"
+      ],
+      "life-span": {
+        "begin": "1943-11-12",
+        "end": "2015-05-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Brown, Errol Ainsworth Glenstor",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Errol Ainsworth Glenstor Brown",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brown, Lester Errol",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lester Errol Brown",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "jamaican"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        }
+      ]
+    },
+    {
+      "id": "f9227504-4fa5-44ee-b205-5301a1f86936",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Graham Parker",
+      "sort-name": "Parker, Graham",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00089674316"
+      ],
+      "isnis": [
+        "0000000073604746"
+      ],
+      "life-span": {
+        "begin": "1950-11-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Parker, Graham & The Shot",
+          "name": "Graham Parker & The Shot",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parker, Graham Thomas",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Graham Thomas Parker",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "new wave"
+        },
+        {
+          "count": 1,
+          "name": "power pop"
+        },
+        {
+          "count": 0,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "rhythm and blues"
+        },
+        {
+          "count": 2,
+          "name": "pub rock"
+        }
+      ]
+    },
+    {
+      "id": "884c61a3-01f5-467f-a859-ad8417b79909",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "William Parker",
+      "sort-name": "Parker, William",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "eb4a386e-1178-4e3a-a371-30418dd6fd2e",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "The Bronx",
+        "sort-name": "The Bronx",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US free jazz double bassist, multi-instrumentalist, poet & composer",
+      "isnis": [
+        "0000000055166578"
+      ],
+      "life-span": {
+        "begin": "1952-01-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Parker, William",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ウィリアム・パーカー",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "avant-garde jazz"
+        },
+        {
+          "count": 1,
+          "name": "free jazz"
+        }
+      ]
+    }
+  ]
+}

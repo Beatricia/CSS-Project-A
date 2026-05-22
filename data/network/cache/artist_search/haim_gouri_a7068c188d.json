@@ -1,0 +1,464 @@
+{
+  "created": "2026-05-22T17:21:18.253Z",
+  "count": 406,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a384a6d4-5a42-4799-9817-0ee66caa1ca6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "חיים גורי",
+      "sort-name": "Gouri, Haim",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00013021261"
+      ],
+      "isnis": [
+        "0000000368580200"
+      ],
+      "life-span": {
+        "begin": "1923-10-09",
+        "end": "2018-01-31",
+        "ended": true
+      }
+    },
+    {
+      "id": "aef06569-098f-4218-a577-b413944d9493",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 93,
+      "name": "HAIM",
+      "sort-name": "HAIM",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US pop‐rock trio",
+      "isnis": [
+        "0000000470072421"
+      ],
+      "life-span": {
+        "begin": "2006",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Halm",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Halm",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 4,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "indie pop"
+        },
+        {
+          "count": 1,
+          "name": "leftfield"
+        }
+      ]
+    },
+    {
+      "id": "c756723e-77fa-484e-aefc-556209a76bc1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 81,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Gouri Choudhury",
+      "sort-name": "Choudhury, Gouri",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "501a4989-e08a-4d7d-acfa-c1f1d99cbcf4",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Sylhet",
+        "sort-name": "Sylhet",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1964-05",
+        "ended": null
+      }
+    },
+    {
+      "id": "8f4d1f98-5c93-4ed2-9e57-53b92b216a08",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 81,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Haim Saban",
+      "sort-name": "Saban, Haim",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "519fb127-912a-43ab-b5f7-68ba2ce7253d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Alexandria",
+        "sort-name": "Alexandria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00087323464"
+      ],
+      "isnis": [
+        "000000011443983X"
+      ],
+      "life-span": {
+        "begin": "1944-10-15",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Haïm Saban",
+          "name": "Haïm Saban",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "zionist"
+        },
+        {
+          "count": 1,
+          "name": "billionaire"
+        },
+        {
+          "count": 1,
+          "name": "mizrahi"
+        },
+        {
+          "count": 1,
+          "name": "sephardim"
+        },
+        {
+          "count": 1,
+          "name": "israeli"
+        }
+      ]
+    },
+    {
+      "id": "6e90211b-cf15-43cd-a903-7200dae53dbc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "name": "郷里大輔",
+      "sort-name": "Gouri, Daisuke",
+      "life-span": {
+        "begin": "1952-02-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Daisuke Gouri",
+          "name": "Daisuke Gouri",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "50601ad0-50e5-40ae-b446-d6ada5986d19",
+      "score": 74,
+      "name": "Haïm",
+      "sort-name": "Haïm",
+      "disambiguation": "Raï pop act",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Haim",
+          "name": "Haim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "arabic"
+        }
+      ]
+    },
+    {
+      "id": "c1fcdde9-4208-47c9-8929-f8c8432e108c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Emmanuelle Haïm",
+      "sort-name": "Haïm, Emmanuelle",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000120371595"
+      ],
+      "life-span": {
+        "begin": "1962-05-11",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "french harpsichordist"
+        },
+        {
+          "count": 1,
+          "name": "harpsichordist"
+        }
+      ]
+    },
+    {
+      "id": "de250d68-9b30-4cfd-8c48-5cf288733bee",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Danielle Haim",
+      "sort-name": "Haim, Danielle",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00534344270"
+      ],
+      "isnis": [
+        "0000000367670319"
+      ],
+      "life-span": {
+        "begin": "1989-02-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Haim, Danielle Sari",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Danielle Sari Haim",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1ae6636d-636f-4ef5-ba1a-31de31d96457",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "name": "Haim Mazar",
+      "sort-name": "Mazar, Haim",
+      "disambiguation": "production music composer",
+      "ipis": [
+        "00595558787"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "85de81eb-23d1-4536-b757-e0dda9c57129",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Este Haim",
+      "sort-name": "Haim, Este",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00515734360"
+      ],
+      "life-span": {
+        "begin": "1986-03-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Haim, Este Arielle",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Este Arielle Haim",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

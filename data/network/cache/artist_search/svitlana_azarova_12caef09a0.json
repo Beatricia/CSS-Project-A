@@ -1,0 +1,467 @@
+{
+  "created": "2026-05-22T16:51:34.144Z",
+  "count": 23,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ca2e1c69-be90-49ab-917d-3b679053293f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Svitlana Azarova",
+      "sort-name": "Azarova, Svitlana",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "62061c58-b034-4296-87ff-65075d0a1cc1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Izmail",
+        "sort-name": "Izmail",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000044643666"
+      ],
+      "life-span": {
+        "begin": "1976-01-09",
+        "ended": null
+      }
+    },
+    {
+      "id": "65ab2cb7-1c43-494d-ac66-938f49d9f10a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Світлана Няньо",
+      "sort-name": "Nianio, Svitlana",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000465935640"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Nianio, Svitlana",
+          "name": "Svitlana Nianio",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Okhrimenko, Svitlana",
+          "name": "Svitlana Okhrimenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ochrimenko, Svitlana",
+          "name": "Svitlana Ochrimenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Охріменко, Світлана",
+          "name": "Світлана Охріменко",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "avant-folk"
+        }
+      ]
+    },
+    {
+      "id": "afcd01a8-c5bb-4a0b-ac8e-f25ebc23ce71",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Svitlana Zaria",
+      "sort-name": "Zaria, Svitlana",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "74835774-16f1-4f95-b0c3-36f0025510bb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ludmila Azarova",
+      "sort-name": "Azarova, Ludmila",
+      "gender": "female",
+      "country": "LV",
+      "area": {
+        "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Latvia",
+        "sort-name": "Latvia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1935-04-11",
+        "end": "2012-05-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Azarova, Ludmila",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ludmila Azarova",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Азарова, Людмила Тимофеевна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Людмила Тимофеевна Азарова",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Азарова, Людмила",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Людмила Азарова",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vāciete, Ludmila",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ludmila Vāciete",
+          "locale": "lv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "202c8faa-a240-49f3-b0b4-501d92fa17e4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "TARABAROVA",
+      "sort-name": "TARABAROVA",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tarabarova, Svitlana",
+          "name": "Svitlana Tarabarova",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "dc17fb0f-3077-4a7b-93b4-4c1d1d487b7c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Світлана Незнал",
+      "sort-name": "Neznal, Svitlana",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Незнал, Света",
+          "name": "Света Незнал",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neznal, Sveta",
+          "name": "Sveta Neznal",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a39848f4-4968-4607-9f59-73d526639e39",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Світлана Вєліченко",
+      "sort-name": "Vyelichenko, Svitlana",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e9fb8ee3-de73-4f83-bd88-974a7e5033f9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Світлана Кирильчук",
+      "sort-name": "Kyrylchuk, Svitlana",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5115a77c-d0c9-45c2-a7c4-4d35187bcd5e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Світлана Медведєва",
+      "sort-name": "Medvedieva, Svitlana",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8544e819-41a1-47ce-8c78-d8c44ec099e4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 26,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "LOBODA",
+      "sort-name": "Loboda",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "783981f6-86e6-437e-849a-b95bb9039336",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Kyïvs'ka Oblast'",
+        "sort-name": "Kyïvs'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00869405892"
+      ],
+      "isnis": [
+        "0000000372371620",
+        "0000000462269486"
+      ],
+      "life-span": {
+        "begin": "1982-10-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Loboda, Svetlana",
+          "name": "Светлана Лобода",
+          "locale": "ru_RU",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Loboda, Svitlana",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Світлана Лобода",
+          "locale": "uk_UA",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Svetlana Loboda",
+          "name": "Svetlana Loboda",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Svitlana Loboda",
+          "name": "Svitlana Loboda",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "LOBODA",
+          "name": "LOBODA",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "electropop"
+        },
+        {
+          "count": 1,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian"
+        },
+        {
+          "count": 1,
+          "name": "ukraine"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian pop"
+        }
+      ]
+    }
+  ]
+}

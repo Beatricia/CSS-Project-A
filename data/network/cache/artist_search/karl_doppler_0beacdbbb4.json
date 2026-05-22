@@ -1,0 +1,602 @@
+{
+  "created": "2026-05-22T16:51:28.549Z",
+  "count": 3368,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ae8620b8-fc84-4a69-8611-ea6dee738e83",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karl Doppler",
+      "sort-name": "Doppler, Karl",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8fe055d7-2c10-48a5-929a-1d1c50b648c1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stuttgart",
+        "sort-name": "Stuttgart",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000083876489"
+      ],
+      "life-span": {
+        "begin": "1825-09-12",
+        "end": "1900-03-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Carl Doppler",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Carl Doppler",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "68567425-f46f-477e-be1b-609ce5ddee47",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 50,
+      "name": "DOPPLeR",
+      "sort-name": "DOPPLeR",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Noisecore band from Lyon, France",
+      "life-span": {
+        "begin": "1998",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "lyon"
+        },
+        {
+          "count": 1,
+          "name": "noise"
+        }
+      ]
+    },
+    {
+      "id": "8a9992dd-37e7-47c5-8e50-902066cfb901",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Doppler",
+      "sort-name": "Doppler",
+      "gender": "male",
+      "area": {
+        "id": "f47b1f03-d63f-4dbe-aa5f-0675c4b5fdb9",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Puebla",
+        "sort-name": "Puebla",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Psytrance; Alberto Lobillo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3e870db0-7913-40bb-8482-bc28037d6a07",
+      "score": 49,
+      "name": "Doppler",
+      "sort-name": "Doppler",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ef37ab90-ca28-43cb-a3f6-785093184152",
+      "score": 49,
+      "name": "Doppler",
+      "sort-name": "Doppler",
+      "disambiguation": "Doppler (Artist)",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fd09d776-ddfd-4558-afe7-814420d704ed",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karlheinz Stockhausen",
+      "sort-name": "Stockhausen, Karlheinz",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5793490e-fb9d-4bf3-84f7-b733a1c20f36",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kerpen",
+        "sort-name": "Kerpen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d84acc43-f0d1-427b-b3a1-dc6c4df51f77",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Kürten",
+        "sort-name": "Kürten",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00029672952"
+      ],
+      "isnis": [
+        "0000000117783476"
+      ],
+      "life-span": {
+        "begin": "1928-08-22",
+        "end": "2007-12-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Karl Heinz Stockhausen",
+          "name": "Karl Heinz Stockhausen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "electronic"
+        },
+        {
+          "count": 0,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "german composer"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "electronic music"
+        },
+        {
+          "count": 1,
+          "name": "electroacoustic"
+        },
+        {
+          "count": 0,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "composers"
+        },
+        {
+          "count": 0,
+          "name": "modern classical"
+        },
+        {
+          "count": 0,
+          "name": "musique concrète"
+        },
+        {
+          "count": 0,
+          "name": "experimental electronic"
+        },
+        {
+          "count": 0,
+          "name": "music concrete"
+        },
+        {
+          "count": 1,
+          "name": "composition"
+        },
+        {
+          "count": 1,
+          "name": "art music"
+        }
+      ]
+    },
+    {
+      "id": "c5e0328e-035a-45da-9ae5-908bf22169aa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karel Gott",
+      "sort-name": "Gott, Karel",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bfaeca68-243c-47ed-9122-8de8ed87964e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Plzeň",
+        "sort-name": "Plzeň",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00142640696"
+      ],
+      "isnis": [
+        "0000000063143309"
+      ],
+      "life-span": {
+        "begin": "1939-07-14",
+        "end": "2019-10-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Готт, Карел",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Карел Готт",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karell Gott",
+          "name": "Karell Gott",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "KARL GOTT",
+          "name": "KARL GOTT",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "schlager"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "czech"
+        }
+      ]
+    },
+    {
+      "id": "9b72186d-d6cc-4a64-b769-24fdc4ac2e21",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karl May",
+      "sort-name": "May, Karl",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dedfd71b-5a9e-4e65-b1de-cca0f7d32476",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hohenstein-Ernstthal",
+        "sort-name": "Hohenstein-Ernstthal",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c398c794-6238-42b9-81e7-ecc3df81dc9b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Radebeul",
+        "sort-name": "Radebeul",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000107786374"
+      ],
+      "life-span": {
+        "begin": "1842-02-25",
+        "end": "1912-03-30",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "audio drama"
+        },
+        {
+          "count": 1,
+          "name": "audiobook"
+        },
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        },
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "cdb34f45-c9d3-4f14-a79a-bc1da62455cc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karl Böhm",
+      "sort-name": "Böhm, Karl",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e8ad73e9-9e7f-41c4-a395-6e29260ff1df",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Graz",
+        "sort-name": "Graz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f0590317-8b42-4498-a2e4-34cc5562fcf8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salzburg",
+        "sort-name": "Salzburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian conductor",
+      "isnis": [
+        "0000000108635957"
+      ],
+      "life-span": {
+        "begin": "1894-08-28",
+        "end": "1981-08-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Boehm, Karl",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Karl Boehm",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 2,
+          "name": "symphony"
+        },
+        {
+          "count": 1,
+          "name": "concerto"
+        },
+        {
+          "count": 1,
+          "name": "romanticism"
+        },
+        {
+          "count": 1,
+          "name": "classical period"
+        },
+        {
+          "count": 2,
+          "name": "austrian conductor"
+        },
+        {
+          "count": 1,
+          "name": "opera buffa"
+        }
+      ]
+    },
+    {
+      "id": "b2ccf9e8-cc2c-4887-a47a-07f0bdd87927",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 45,
+      "name": "Super Doppler",
+      "sort-name": "Super Doppler",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "520b4d15-da9b-40ce-8ba5-d797d0eae8a2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Norfolk",
+        "sort-name": "Norfolk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2008",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Super Doppler",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Super Doppler",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Major and the Monbacks",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Major and the Monbacks",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2008",
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

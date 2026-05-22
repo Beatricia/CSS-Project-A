@@ -1,0 +1,5010 @@
+{
+  "created": "2026-05-22T17:02:12.089Z",
+  "count": 6326,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f296083e-9c83-4efa-a497-ccf27c2b0b8a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gustav Winckler",
+      "sort-name": "Winckler, Gustav",
+      "gender": "male",
+      "country": "DK",
+      "area": {
+        "id": "4757b525-2a60-324a-b060-578765d2c993",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Denmark",
+        "sort-name": "Denmark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e0e3c82a-aea8-48d3-beda-9e587db0b969",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Copenhagen",
+        "sort-name": "Copenhagen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f44375a1-0b43-41bf-bf14-562bd526d1d9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Viborg",
+        "sort-name": "Viborg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Danish singer, composer and music publisher",
+      "ipis": [
+        "00014379199",
+        "00033057707",
+        "00039679728"
+      ],
+      "isnis": [
+        "0000000131593409"
+      ],
+      "life-span": {
+        "begin": "1925-10-13",
+        "end": "1979-01-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Winckler, Gustav Frands Wilzeck",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gustav Frands Wilzeck Winckler",
+          "locale": "da_DK",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gustav Winkler",
+          "name": "Gustav Winkler",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "international"
+        },
+        {
+          "count": 1,
+          "name": "western european traditions"
+        },
+        {
+          "count": 2,
+          "name": "dansktop"
+        },
+        {
+          "count": 1,
+          "name": "dansk pop"
+        }
+      ]
+    },
+    {
+      "id": "8d610e51-64b4-4654-b8df-064b0fb7a9d9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gustav Mahler",
+      "sort-name": "Mahler, Gustav",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8a7722dd-3377-4da7-8c1f-1fd5eee51c39",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Kaliště",
+        "sort-name": "Kaliště",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00019139783"
+      ],
+      "isnis": [
+        "0000000121358915"
+      ],
+      "life-span": {
+        "begin": "1860-07-07",
+        "end": "1911-05-18",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mahler",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mahler",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "グスタフ・マーラー",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "グスタフ・マーラー",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gustavs Mālers",
+          "name": "Gustavs Mālers",
+          "locale": "lv",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mahler, Gustav",
+          "name": "Mahler, Gustav",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "G. Mahler",
+          "name": "G. Mahler",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gutav Mahler",
+          "name": "Gutav Mahler",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "G. Malher",
+          "name": "G. Malher",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mahler, Gustav (1860-1911)",
+          "name": "Mahler, Gustav (1860-1911)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "말러",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "구스타프 말러",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 7,
+          "name": "classical"
+        },
+        {
+          "count": -1,
+          "name": "production music"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 5,
+          "name": "austrian"
+        },
+        {
+          "count": 6,
+          "name": "composer"
+        },
+        {
+          "count": 3,
+          "name": "romantic"
+        },
+        {
+          "count": 3,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "symphony"
+        },
+        {
+          "count": 1,
+          "name": "art song"
+        },
+        {
+          "count": -1,
+          "name": "von weber"
+        },
+        {
+          "count": 1,
+          "name": "ballet"
+        },
+        {
+          "count": 0,
+          "name": "simon rattle"
+        },
+        {
+          "count": 0,
+          "name": "austrian composer"
+        },
+        {
+          "count": 1,
+          "name": "western classical"
+        },
+        {
+          "count": 3,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "6ca44967-c88d-4601-a3da-9419d9fe5c1c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Winkler",
+      "sort-name": "Winkler, Alexander",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fc617bbb-6cae-4e33-ae25-bf5a6cb7d7d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kharkiv",
+        "sort-name": "Kharkiv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "98383cf1-f1e4-43b2-b6d9-0a6b254d984b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Besançon",
+        "sort-name": "Besançon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian pianist and composer",
+      "isnis": [
+        "0000000066577321"
+      ],
+      "life-span": {
+        "begin": "1865-03-03",
+        "end": "1935-08-06",
+        "ended": true
+      }
+    },
+    {
+      "id": "3ba68671-e3b5-4263-81dc-76b16b29bbc6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gustav Holst",
+      "sort-name": "Holst, Gustav",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fb4623e6-2117-4e59-b8b6-790621dcf995",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cheltenham",
+        "sort-name": "Cheltenham",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00014323528"
+      ],
+      "isnis": [
+        "0000000109178161"
+      ],
+      "life-span": {
+        "begin": "1874-09-21",
+        "end": "1934-05-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "グスターヴ・ホルスト",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "グスターヴ・ホルスト",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Holst Gustav",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Holst Gustav",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Holst",
+          "name": "Holst",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "G. Holst",
+          "name": "G. Holst",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Holsts, G.",
+          "name": "G. Holsts",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gustav Theodore Holst",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Gustav Theodore Holst",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Holst, Gustav",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Gustav Holst",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": -1,
+          "name": "production music"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "20th century"
+        },
+        {
+          "count": 1,
+          "name": "symphony"
+        },
+        {
+          "count": 1,
+          "name": "ballet"
+        },
+        {
+          "count": 1,
+          "name": "british composer"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        },
+        {
+          "count": 1,
+          "name": "folk song"
+        }
+      ]
+    },
+    {
+      "id": "1f27d918-b658-4918-aa18-80897433e14b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Peter Alexander",
+      "sort-name": "Alexander, Peter",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian singer, actor, entertainer and showmaster",
+      "ipis": [
+        "00040464801",
+        "00040465014"
+      ],
+      "isnis": [
+        "0000000114712330"
+      ],
+      "life-span": {
+        "begin": "1926-06-30",
+        "end": "2011-02-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Neuenhauser, Alexander",
+          "name": "Alexander Neuenhauser",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neumayer, Peter Alexander Ferdinand Maximilian",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Peter Alexander Ferdinand Maximilian Neumayer",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neumayer, Peter Alexander",
+          "name": "Peter Alexander Neumayer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "actor"
+        },
+        {
+          "count": 3,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "austrian"
+        }
+      ]
+    },
+    {
+      "id": "27b0750a-7318-4075-9470-43b82d454ea0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gustav Leonhardt",
+      "sort-name": "Leonhardt, Gustav",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "564f7acb-fe2f-4936-8ee6-3d9b6a2547bc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "'s-Graveland",
+        "sort-name": "'s-Graveland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Amsterdam",
+        "sort-name": "Amsterdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor, harpsichordist",
+      "isnis": [
+        "0000000109371981"
+      ],
+      "life-span": {
+        "begin": "1928-05-30",
+        "end": "2012-01-16",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "keyboardist"
+        },
+        {
+          "count": 1,
+          "name": "dutch"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "musicologist"
+        },
+        {
+          "count": 1,
+          "name": "teacher"
+        },
+        {
+          "count": 1,
+          "name": "editor"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "125ec42a-7229-4250-afc5-e057484327fe",
+      "type": "Other",
+      "type-id": "ac897045-5043-3294-969b-187360e45d86",
+      "score": 83,
+      "gender-id": "8cf3c8c8-4af9-4b53-bad4-e43c0450ba04",
+      "name": "[unknown]",
+      "sort-name": "[unknown]",
+      "gender": "not applicable",
+      "country": "XW",
+      "area": {
+        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+        "name": "[Worldwide]",
+        "sort-name": "[Worldwide]",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Special Purpose Artist – Do not add releases here, if possible.",
+      "ipis": [
+        "01087899975"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "？",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "？",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "佚名",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "佚名",
+          "locale": "zh",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "未知",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "未知",
+          "locale": "zh",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "［佚名］",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "［佚名］",
+          "locale": "zh",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "［未知］",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "［未知］",
+          "locale": "zh",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Gold Diggers of 1937\" Chorus",
+          "name": "\"Gold Diggers of 1937\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "not specified",
+          "name": "not specified",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sense",
+          "name": "Sense",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aka",
+          "name": "Aka",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cayapa harmonica player",
+          "name": "Cayapa harmonica player",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Melan-ryu, Kimpu-ryu, Tozan-ryu, Ikuta-ryu and Kikusue-ryu",
+          "name": "Melan-ryu, Kimpu-ryu, Tozan-ryu, Ikuta-ryu and Kikusue-ryu",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Popular Collection",
+          "name": "Popular Collection",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Artist - Vocals:Tatiana",
+          "name": "Unknown Artist - Vocals:Tatiana",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Colorado shaman",
+          "name": "Colorado shaman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aut. nezināms",
+          "name": "Aut. nezināms",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Camp Stories Soundtrack",
+          "name": "Camp Stories Soundtrack",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Movie Score",
+          "name": "Movie Score",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ゲーム・ミュージック",
+          "name": "ゲーム・ミュージック",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Antartika Chorus, Ta",
+          "name": "\"Τα Αντάρτικα\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Porter Twin Disc Music Box",
+          "name": "Porter Twin Disc Music Box",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "man, Unidentified",
+          "name": "Unidentified man",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Singer2",
+          "name": "Singer2",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(none listed)",
+          "name": "(none listed)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Narsaiyyanee Hundi\" Chorus",
+          "name": "\"Narsaiyyanee Hundi\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "unbekannt",
+          "name": "unbekannt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pan Flute Favourites",
+          "name": "Pan Flute Favourites",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Asian Zen Meditation",
+          "name": "Asian Zen Meditation",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unforgettable Panpipes",
+          "name": "Unforgettable Panpipes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ukjent",
+          "name": "ukjent",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "neizvestny",
+          "name": "неизвестный",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Footlight Parade\" Chorus",
+          "name": "\"Footlight Parade\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "オルゴール",
+          "name": "オルゴール",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"The Burning Train\" Chorus",
+          "name": "\"The Burning Train\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Forente Artister",
+          "name": "Forente Artister",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lucas Arts",
+          "name": "Lucas Arts",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(Bolivia)",
+          "name": "(Bolivia)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "No credit",
+          "name": "No credit",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Copyright Control",
+          "name": "Copyright Control",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Happy Divorce",
+          "name": "Happy Divorce",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bollywood",
+          "name": "Bollywood",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Film Hits",
+          "name": "Film Hits",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ACapella Classics",
+          "name": "ACapella Classics",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Children Favorites",
+          "name": "Children Favorites",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "hidden artist",
+          "name": "hidden artist",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Guitarists",
+          "name": "Unknown Guitarists",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "B.O. Film",
+          "name": "B.O. Film",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Original Motion Picture Soundtrak",
+          "name": "Original Motion Picture Soundtrak",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Allegro Corporation",
+          "name": "Allegro Corporation",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Indian Artist",
+          "name": "Unknown Indian Artist",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "unknown writer",
+          "name": "unknown writer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Na Tum Jaano Na Hum\" Chorus",
+          "name": "\"Na Tum Jaano Na Hum\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Autori nezināmi",
+          "name": "Autori nezināmi",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Madam\" Chorus",
+          "name": "\"Madam\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "name": "\"Ύμνοι Αγγέλων Σε Ρυθμούς Ανθρώπων\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "National Lampoon's Christmas Vacation Cast",
+          "name": "National Lampoon's Christmas Vacation Cast",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown (Country Banjos)",
+          "name": "Unknown (Country Banjos)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Uncredited",
+          "name": "Uncredited",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[ukendt]",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "[ukendt]",
+          "locale": "da",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "TV TOONS",
+          "name": "TV TOONS",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"In Caliente\" Chorus",
+          "name": "\"In Caliente\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Piano & Orchestra",
+          "name": "Piano & Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Porter Music Box Company",
+          "name": "Porter Music Box Company",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Onbekend",
+          "name": "Onbekend",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Baby Genius",
+          "name": "Baby Genius",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kuoro",
+          "name": "Kuoro",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "“Barood” Chorus",
+          "name": "“Barood” Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Manchali\" Chorus",
+          "name": "\"Manchali\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "inconnu",
+          "name": "inconnu",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Several",
+          "name": "Several",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown (German version)",
+          "name": "Unknown (German version)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kindermusik",
+          "name": "Kindermusik",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Malian Artists",
+          "name": "Various Malian Artists",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Kannada Singers",
+          "name": "Various Kannada Singers",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Book of Mormon",
+          "name": "Book of Mormon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[tautasdziesma]",
+          "name": "[tautasdziesma]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orchestra, \"The Abominable Snowman\" Studio",
+          "name": "\"The Abominable Snowman\" Studio Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Higher And Higher\" Cast",
+          "name": "\"Higher And Higher\" Cast",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[no artist listed]",
+          "name": "[no artist listed]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Greece Artists",
+          "name": "Unknown Greece Artists",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(karaoke)",
+          "name": "(karaoke)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "name": "Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Shiva\" Chorus",
+          "name": "\"Shiva\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "“Dharmatma” Chorus",
+          "name": "“Dharmatma” Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Havurat Banim Banot",
+          "name": "חבורת בנים בנות",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Intro & Outro",
+          "name": "Intro & Outro",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ベトナム曲",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "ベトナム曲",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "DP",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "DP",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Instrumental",
+          "name": "Instrumental",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "3D Realms",
+          "name": "3D Realms",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Íåèçâåñòíûé èñïîëíèòåëü",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Íåèçâåñòíûé èñïîëíèòåëü",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Others",
+          "name": "Others",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[Instrumental]",
+          "name": "[Instrumental]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"42nd Street\" Chorus",
+          "name": "\"42nd Street\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Chaahat Ek Nasha\" Chorus",
+          "name": "\"Chaahat Ek Nasha\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Grease Soundtrack",
+          "name": "Grease Soundtrack",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Movie Love Songs",
+          "name": "Movie Love Songs",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Pathar Ke Insan\" Chorus",
+          "name": "\"Pathar Ke Insan\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alto Saxophone",
+          "name": "Alto Saxophone",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Choir",
+          "name": "Choir",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Havura",
+          "name": "חבורה",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Winkler/Rauch",
+          "name": "Winkler/Rauch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "New York Life presents",
+          "name": "New York Life presents",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Silsila\" Chorus",
+          "name": "\"Silsila\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Double Gadbad\" Chorus",
+          "name": "\"Double Gadbad\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "HTOA Test CD",
+          "name": "HTOA Test CD",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Singer1",
+          "name": "Singer1",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Original Sound Track",
+          "name": "Original Sound Track",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[unknown female]",
+          "name": "[unknown female]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "CLASSICS 100",
+          "name": "CLASSICS 100",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Instrumental Music",
+          "name": "Instrumental Music",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saber Marionette J",
+          "name": "Saber Marionette J",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Изворна Народна",
+          "name": "Изворна Народна",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Author Unknown",
+          "name": "Author Unknown",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dixieland",
+          "name": "Dixieland",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "DJ Mix",
+          "name": "DJ Mix",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Latin hymn, 17th century",
+          "name": "Latin hymn, 17th century",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Original Motion Picture Soundtrack",
+          "name": "Original Motion Picture Soundtrack",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unutulmayan Ask Sarkilari",
+          "name": "Unutulmayan Ask Sarkilari",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "“Ab ayega mazaa” Chorus",
+          "name": "“Ab ayega mazaa” Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Onegai Sensei",
+          "name": "Onegai Sensei",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unidentified",
+          "name": "Unidentified",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Group",
+          "name": "Group",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cayapa shaman",
+          "name": "Cayapa shaman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mixed",
+          "name": "Mixed",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Numerous Artist",
+          "name": "Numerous Artist",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Oh! My Goddess!",
+          "name": "Oh! My Goddess!",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "geleneksel",
+          "name": "geleneksel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[interlude]",
+          "name": "[interlude]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Cheetah\" Chorus",
+          "name": "\"Cheetah\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tv Theme",
+          "name": "Tv Theme",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Have I Got News for You",
+          "name": "Have I Got News for You",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Cameroonian",
+          "name": "Unknown Cameroonian",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tuntematon",
+          "name": "Tuntematon",
+          "locale": "fi",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "grup de soliști",
+          "name": "grup de soliști",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various IHOP staff",
+          "name": "Various IHOP staff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Desconhecido",
+          "name": "Desconhecido",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orchestra, \"Night Of The Demon\" Studio",
+          "name": "\"Night Of The Demon\" Studio Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "LucasArts",
+          "name": "LucasArts",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "12 Exitazos Rancheros",
+          "name": "12 Exitazos Rancheros",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mnong",
+          "name": "Mnong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Original Motion Picture Cast",
+          "name": "Original Motion Picture Cast",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hillsborough Various Artists",
+          "name": "Hillsborough Various Artists",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "T.O.T.S. - Cast",
+          "name": "T.O.T.S. - Cast",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "サウンドトラック",
+          "name": "サウンドトラック",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Composer",
+          "name": "Unknown Composer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Original Soundtack",
+          "name": "Original Soundtack",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Instrumental Score",
+          "name": "Instrumental Score",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Instr.",
+          "name": "Instr.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Philips",
+          "name": "Philips",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aut. nez.",
+          "name": "Aut. nez.",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "unspecified",
+          "name": "unspecified",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kyoto Shakuhachi Master",
+          "name": "Kyoto Shakuhachi Master",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[uknown]",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "[uknown]",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Punk Covers",
+          "name": "Punk Covers",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cayapa singer",
+          "name": "Cayapa singer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kinderlieder-Klassiker",
+          "name": "Kinderlieder-Klassiker",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[tautas dziesma]",
+          "name": "[tautas dziesma]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Gundaraj\" Chorus",
+          "name": "\"Gundaraj\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Happy Graduation",
+          "name": "Happy Graduation",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Dinosaur Planet\" Chorus",
+          "name": "\"Dinosaur Planet\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Full Cast",
+          "name": "Full Cast",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Dames\" Chorines",
+          "name": "\"Dames\" Chorines",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Harp, Violin & Flute",
+          "name": "Harp, Violin & Flute",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ｐ Ｄ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ｐ Ｄ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nieznany",
+          "name": "Nieznany",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Korean Artists",
+          "name": "Various Korean Artists",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Collections",
+          "name": "Collections",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "news report",
+          "name": "news report",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Female Secoya singers",
+          "name": "Female Secoya singers",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cantonese Opera",
+          "name": "Cantonese Opera",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown",
+          "name": "Unknown",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Altın Şarkılar 03",
+          "name": "Altın Şarkılar 03",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "TV Theme Songs",
+          "name": "TV Theme Songs",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pickin' on Series",
+          "name": "Pickin' on Series",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Waorani singers",
+          "name": "Waorani singers",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(Bolivia - Afroyungas)",
+          "name": "(Bolivia - Afroyungas)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "GDR Propaganda",
+          "name": "GDR Propaganda",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Panflöte & Orchestra",
+          "name": "Panflöte & Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Preetam\" Chorus",
+          "name": "\"Preetam\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Happy Birthday",
+          "name": "Happy Birthday",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "White Label",
+          "name": "White Label",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Gold Diggers of 1933\" Chorus",
+          "name": "\"Gold Diggers of 1933\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Performers Unknown",
+          "name": "Performers Unknown",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Gold Diggers of 1935\" Chorines",
+          "name": "\"Gold Diggers of 1935\" Chorines",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Silent Möbius",
+          "name": "Silent Möbius",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[uncredited]",
+          "name": "[uncredited]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prism Leisure Corp.",
+          "name": "Prism Leisure Corp.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Singer",
+          "name": "Unknown Singer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Clark/moyet",
+          "name": "Clark/moyet",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Jane Anjane\" Chorus",
+          "name": "\"Jane Anjane\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "?",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "?",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scary Sounds",
+          "name": "Scary Sounds",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ορχηστρικό",
+          "name": "Ορχηστρικό",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kingsway Music",
+          "name": "Kingsway Music",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diverse koren en solisten",
+          "name": "Diverse koren en solisten",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Musafir Various",
+          "name": "Musafir Various",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orchestra, \"The Deadly Mantis\" Studio",
+          "name": "\"The Deadly Mantis\" Studio Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Outro",
+          "name": "Outro",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Capitol Records Chorus",
+          "name": "Capitol Records Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Army\" Chorus",
+          "name": "\"Army\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Li'l Abner\" Chorus",
+          "name": "\"Li'l Abner\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Fashions of 1934\" Chorines",
+          "name": "\"Fashions of 1934\" Chorines",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Ghayal\" Chorus",
+          "name": "\"Ghayal\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nezināms autors",
+          "name": "Nezināms autors",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unkown",
+          "name": "Unkown",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Anhonee\" Chorus",
+          "name": "\"Anhonee\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Total Guitar",
+          "name": "Total Guitar",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Happy Anniversary",
+          "name": "Happy Anniversary",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Coros - La Bella y la Bestia",
+          "name": "Coros - La Bella y la Bestia",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kinderlieder",
+          "name": "Kinderlieder",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Associated Board of the Royal Schools of Music",
+          "name": "The Associated Board of the Royal Schools of Music",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Twin Peaks Soundtrack",
+          "name": "Twin Peaks Soundtrack",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[Unknown Orchestra]",
+          "name": "[Unknown Orchestra]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Classical Chinese",
+          "name": "Classical Chinese",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[instrumental]",
+          "name": "[instrumental]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Minus One",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Minus One",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karavīru dz.",
+          "name": "Karavīru dz.",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "minddrops",
+          "name": "minddrops",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dong People",
+          "name": "Dong People",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Romantic Christmas",
+          "name": "Romantic Christmas",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Les Misérables Cast",
+          "name": "Les Misérables Cast",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pamplin Music",
+          "name": "Pamplin Music",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Music of the Central African Pygmies",
+          "name": "Music of the Central African Pygmies",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "unnamed artist",
+          "name": "unnamed artist",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вокальный ансамбль",
+          "name": "Вокальный ансамбль",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Happy Marriage",
+          "name": "Happy Marriage",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Jewel Thief\" Chorus",
+          "name": "\"Jewel Thief\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Best of GuitarPlayer",
+          "name": "Best of GuitarPlayer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Autors nezināms",
+          "name": "Autors nezināms",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "カラオケ",
+          "name": "カラオケ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "nhạc nước ngoại",
+          "name": "nhạc nước ngoại",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cartoni animati",
+          "name": "Cartoni animati",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[unkown]",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "[unkown]",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ukendt",
+          "name": "Ukendt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pickin' On",
+          "name": "Pickin' On",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Masters Of The Roll Compilations",
+          "name": "Masters Of The Roll Compilations",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Singer3",
+          "name": "Singer3",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prison Break",
+          "name": "Prison Break",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "14th Century Carol",
+          "name": "14th Century Carol",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[Unknow]",
+          "name": "[Unknow]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Symphony Orchestra",
+          "name": "Symphony Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Dharmatma\" Chorus",
+          "name": "\"Dharmatma\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orchestra, \"The Indian Tomb\" Studio",
+          "name": "\"The Indian Tomb\" Studio Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"The Great Gambler Train\" Chorus",
+          "name": "\"The Great Gambler Train\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Group",
+          "name": "Unknown Group",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sioni shaman & ayahuasca ritual participants",
+          "name": "Sioni shaman & ayahuasca ritual participants",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[soundtrack]",
+          "name": "[soundtrack]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chinese Orchestra",
+          "name": "Chinese Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[instr.]",
+          "name": "[instr.]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Laadla\" Chorus",
+          "name": "\"Laadla\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cinema Century",
+          "name": "Cinema Century",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "★カラオケ",
+          "name": "★カラオケ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Trio",
+          "name": "Unknown Trio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(Unlisted 3 Second Track)",
+          "name": "(Unlisted 3 Second Track)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Artist, The",
+          "name": "The Unknown Artist",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "prisoners, Unidentified",
+          "name": "Unidentified Prisoners",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Ghanaian Musicians",
+          "name": "Various Ghanaian Musicians",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mbuti Pygmies of the Ituri Rainforest",
+          "name": "Mbuti Pygmies of the Ituri Rainforest",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Not Attributed",
+          "name": "Not Attributed",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "British Broadcasting Corporation",
+          "name": "British Broadcasting Corporation",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Original Soundtrack Score",
+          "name": "Original Soundtrack Score",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "アーティスト情報なし",
+          "name": "アーティスト情報なし",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Народна Песма",
+          "name": "Народна Песма",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[east african music]",
+          "name": "[east african music]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ＴＶサントラ",
+          "name": "ＴＶサントラ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Just a Minute",
+          "name": "Just a Minute",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "BBC SFX 16 .",
+          "name": "BBC SFX 16 .",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Simply Yoga",
+          "name": "Simply Yoga",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mohawk Carol",
+          "name": "Mohawk Carol",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kofan shaman",
+          "name": "Kofan shaman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Anthologie Des Musiques De Bali",
+          "name": "Anthologie Des Musiques De Bali",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "“Horror of Dracula, The” Studio Orchestra",
+          "name": "“The Horror of Dracula” Studio Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The World Of Flamenco",
+          "name": "The World Of Flamenco",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "'Akhand Sowbhagyavati' Chorus",
+          "name": "'Akhand Sowbhagyavati' Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[Christmas music]",
+          "name": "[Christmas music]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "chorus (india)",
+          "name": "chorus (india)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "LaserLight Digital",
+          "name": "LaserLight Digital",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sierra On-Line",
+          "name": "Sierra On-Line",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus, “Disco Dancer”",
+          "name": "“Disco Dancer” Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Angrakshak\" Chorus",
+          "name": "\"Angrakshak\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(Unidentified small jazz combo)",
+          "name": "(Unidentified small jazz combo)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ningún artista",
+          "name": "Ningún artista",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Colorado man in his forties",
+          "name": "Colorado man in his forties",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Higher And Higher\" Studio Orchestra",
+          "name": "\"Higher And Higher\" Studio Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Andaz\" Chorus",
+          "name": "\"Andaz\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artist",
+          "name": "Artist",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Artist",
+          "name": "Unknown Artist",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Sanam Teri Kasam\" Chorus",
+          "name": "\"Sanam Teri Kasam\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(Instrumental)",
+          "name": "(Instrumental)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jingle",
+          "name": "Jingle",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Little Britain",
+          "name": "Little Britain",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Coros",
+          "name": "Coros",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hunter X Hunter",
+          "name": "Hunter X Hunter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tuntetamon",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Tuntetamon",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "佚名",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "佚名",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nickelodeon",
+          "name": "Nickelodeon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Guitar Techniques",
+          "name": "Guitar Techniques",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Boys and Girls Group",
+          "name": "Boys and Girls Group",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "サントラ",
+          "name": "サントラ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Happy Retirement",
+          "name": "Happy Retirement",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sublime Frequencies",
+          "name": "Sublime Frequencies",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Spiderman Theme",
+          "name": "Spiderman Theme",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Halloween Sounds",
+          "name": "Halloween Sounds",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jule musikk",
+          "name": "Jule musikk",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Dames\" Chorus",
+          "name": "\"Dames\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "grup de copii",
+          "name": "grup de copii",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bakuretsu Hunters",
+          "name": "Bakuretsu Hunters",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[field musicians]",
+          "name": "[field musicians]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Wonder Bar\" Chorus",
+          "name": "\"Wonder Bar\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Chauraha\" Chorus",
+          "name": "\"Chauraha\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karaoke",
+          "name": "Karaoke",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unlisted Artist",
+          "name": "Unlisted Artist",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Instrumental Version",
+          "name": "Instrumental Version",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unidentified Performers",
+          "name": "Unidentified Performers",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Shree 420\" Chorus",
+          "name": "\"Shree 420\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neznámý",
+          "name": "Neznámý",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "unown",
+          "name": "unown",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chorus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Instrumentaali",
+          "name": "Instrumentaali",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Musical Interlude",
+          "name": "Musical Interlude",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Olde English Carol",
+          "name": "Olde English Carol",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Rakhwala\" Chorus 2",
+          "name": "\"Rakhwala\" Chorus 2",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Latviešu tautas dziesmas",
+          "name": "Latviešu tautas dziesmas",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Concert Band",
+          "name": "Concert Band",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unblocked - Musik aus Osteuropa",
+          "name": "Unblocked - Musik aus Osteuropa",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Originaldarsteller",
+          "name": "Originaldarsteller",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "New Age Artists",
+          "name": "New Age Artists",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kurz vor Zwölf",
+          "name": "Kurz vor Zwölf",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Piano Solo",
+          "name": "Piano Solo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ID",
+          "name": "ID",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "instrumental",
+          "name": "instrumental",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "World Premiere Song",
+          "name": "World Premiere Song",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Field workers",
+          "name": "Field workers",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Yaarana\" Chorus",
+          "name": "\"Yaarana\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mystery Artist",
+          "name": "Mystery Artist",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "nez.",
+          "name": "nez.",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ireland's Finest",
+          "name": "Ireland's Finest",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pan Pipes",
+          "name": "Pan Pipes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Javanese Gamelan",
+          "name": "Javanese Gamelan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Original Soundtrack",
+          "name": "Original Soundtrack",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Bhavani Junction\" Chorus",
+          "name": "\"Bhavani Junction\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "hòa tấu",
+          "name": "hòa tấu",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Un",
+          "name": "Un",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "kor",
+          "name": "kor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[television theme songs]",
+          "name": "[television theme songs]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "avtor neizvesten",
+          "name": "автор неизвестен",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Christmas Spirit",
+          "name": "Christmas Spirit",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orchestra, \"Machine Gun Kelly\" Studio",
+          "name": "\"Machine Gun Kelly\" Studio Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[12th century French processional]",
+          "name": "[12th century French processional]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Baazi (1994)\" Chorus",
+          "name": "\"Baazi (1994)\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Avex Trax",
+          "name": "Avex Trax",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "20th Century Fox",
+          "name": "20th Century Fox",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "non connu",
+          "name": "non connu",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[tiidmäldä]",
+          "name": "[tiidmäldä]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "未知の芸術家",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "未知の芸術家",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ルーカス芸術",
+          "name": "ルーカス芸術",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chromalox",
+          "name": "Chromalox",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "OST",
+          "name": "OST",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "TV Pilot",
+          "name": "TV Pilot",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cartoon Network",
+          "name": "Cartoon Network",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[Japanese Kouta]",
+          "name": "[Japanese Kouta]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bonus",
+          "name": "Bonus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[unkn.]",
+          "name": "[unkn.]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Chaalbaaz\" Chorus",
+          "name": "\"Chaalbaaz\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[classical music]",
+          "name": "[classical music]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Julemusikk",
+          "name": "Julemusikk",
+          "locale": "nb",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Intro",
+          "name": "Intro",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Instrumental JK",
+          "name": "Instrumental JK",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Οροπέδιο\" Chorus",
+          "name": "\"Οροπέδιο\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orchestra",
+          "name": "Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Federico De Alvera",
+          "name": "Federico De Alvera",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Original Karaoke",
+          "name": "オリジナル・カラオケ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Dirlada\" Chorus",
+          "name": "\"Dirlada\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Amar\" Chorus",
+          "name": "\"Amar\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karaoke Playback",
+          "name": "Karaoke Playback",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Klassik",
+          "name": "Klassik",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown Moroccan Musicians",
+          "name": "Unknown Moroccan Musicians",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[news report]",
+          "name": "[news report]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maenner Trio",
+          "name": "Männer Trio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "{unknown]",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "{unknown]",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Card Captor Sakura",
+          "name": "Card Captor Sakura",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Public Domain (Latin Music)",
+          "name": "Public Domain",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "(unknown)",
+          "name": "(unknown)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "nez",
+          "name": "nez",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "PD",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "PD",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Various Artists Children's Choir",
+          "name": "Various Artists Children's Choir",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Buddhist Monks",
+          "name": "Buddhist Monks",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bib",
+          "name": "Bib",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Difusion",
+          "name": "Difusion",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scotland Yard (radio play)",
+          "name": "Scotland Yard (radio play)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "הלהקה, Halahaka",
+          "name": "הלהקה",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Unknown",
+          "name": "[Unknown Artist]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "未知",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "未知",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Film ST",
+          "name": "Film ST",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Spooky Sounds",
+          "name": "Spooky Sounds",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Gold Diggers of 1935\" Chorus",
+          "name": "\"Gold Diggers of 1935\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "-",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "-",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Girl Group",
+          "name": "Girl Group",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nursery Rhymes",
+          "name": "Nursery Rhymes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mu",
+          "name": "หมู่",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dubstep",
+          "name": "Dubstep",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "PLATINUMGAMES",
+          "name": "PLATINUMGAMES",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Peru",
+          "name": "(Peru)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "\"Awāra\" Chorus",
+          "name": "\"Awāra\" Chorus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Koro",
+          "name": "Koro",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "unlisted",
+          "name": "unlisted",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "વૃંદ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "વૃંદ",
+          "locale": "gu",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[nežinomas]",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "[nežinomas]",
+          "locale": "lt",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[inconnu]",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "[inconnu]",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[sconosciuto]",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "[sconosciuto]",
+          "locale": "it",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "okänd artist",
+          "name": "okänd artist",
+          "locale": "sv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[onbekend]",
+          "name": "[onbekend]",
+          "locale": "nl",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[desconegut]",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "[desconegut]",
+          "locale": "ca",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[ubekendt]",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "[ubekendt]",
+          "locale": "da",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[неизвестный]",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "[неизвестный]",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[tundmatu]",
+          "name": "[tundmatu]",
+          "locale": "et",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[desconocido]",
+          "name": "[desconocido]",
+          "locale": "es",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "（カラオケ）",
+          "name": "（カラオケ）",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[tuntematon]",
+          "name": "[tuntematon]",
+          "locale": "fi",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[unknown]",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "[unknown]",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[unbekannt]",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "[unbekannt]",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": -3,
+          "name": "soundtrack"
+        },
+        {
+          "count": -6,
+          "name": "classical"
+        },
+        {
+          "count": 23,
+          "name": "special purpose artist"
+        },
+        {
+          "count": -4,
+          "name": "fixme"
+        },
+        {
+          "count": -2,
+          "name": "ambient"
+        },
+        {
+          "count": -3,
+          "name": "bogus artist"
+        },
+        {
+          "count": -2,
+          "name": "software company as artist"
+        },
+        {
+          "count": -1,
+          "name": "meta artist"
+        },
+        {
+          "count": -2,
+          "name": "cotm"
+        },
+        {
+          "count": -2,
+          "name": "death metal"
+        },
+        {
+          "count": -2,
+          "name": "black metal"
+        },
+        {
+          "count": -2,
+          "name": "british"
+        },
+        {
+          "count": -2,
+          "name": "uk"
+        },
+        {
+          "count": -1,
+          "name": "composer"
+        },
+        {
+          "count": -3,
+          "name": "traditional"
+        },
+        {
+          "count": -2,
+          "name": "pop and chart"
+        },
+        {
+          "count": -4,
+          "name": "easy listening soundtracks and musicals"
+        },
+        {
+          "count": 5,
+          "name": "unknown"
+        },
+        {
+          "count": -2,
+          "name": "relaxation"
+        },
+        {
+          "count": -3,
+          "name": "bogus"
+        },
+        {
+          "count": -2,
+          "name": "fixme-probably not a real artist"
+        },
+        {
+          "count": -5,
+          "name": "1 10 188043 183 17153 34783 54830 72970 97673 116825 128263 157073 171433"
+        },
+        {
+          "count": -1,
+          "name": "merge me"
+        },
+        {
+          "count": -2,
+          "name": "bing crosby fank sinatra louis armstorng nat king cole doris day"
+        },
+        {
+          "count": -1,
+          "name": "nursery rhymes"
+        },
+        {
+          "count": -3,
+          "name": "merge"
+        },
+        {
+          "count": -1,
+          "name": "rhymes"
+        },
+        {
+          "count": -2,
+          "name": "mergeme"
+        },
+        {
+          "count": -6,
+          "name": "stop merging crap so my tags get fucked up"
+        },
+        {
+          "count": -3,
+          "name": "fix"
+        },
+        {
+          "count": -1,
+          "name": "nursery rhymes collection"
+        },
+        {
+          "count": -1,
+          "name": "kids hut"
+        },
+        {
+          "count": -1,
+          "name": "kids songs"
+        },
+        {
+          "count": -1,
+          "name": "nursery rhymes playlist"
+        },
+        {
+          "count": -2,
+          "name": "wheels on the bus"
+        },
+        {
+          "count": -2,
+          "name": "johny johny yes papa"
+        },
+        {
+          "count": -2,
+          "name": "cleanup"
+        },
+        {
+          "count": -2,
+          "name": "fix tags"
+        },
+        {
+          "count": -2,
+          "name": "has german audiobooks"
+        },
+        {
+          "count": -2,
+          "name": "dumping ground"
+        },
+        {
+          "count": -4,
+          "name": "don't rate the [unknown] artist"
+        },
+        {
+          "count": -3,
+          "name": "lazy asses"
+        },
+        {
+          "count": 7,
+          "name": "fixme or cleanup"
+        },
+        {
+          "count": -3,
+          "name": "merge into [anonymous] or [traditional]"
+        },
+        {
+          "count": -2,
+          "name": "fixme [spa] mess"
+        },
+        {
+          "count": -2,
+          "name": "spamess"
+        },
+        {
+          "count": -2,
+          "name": "test merging tags test"
+        },
+        {
+          "count": -2,
+          "name": "merge all the unrighteous fellows are all unpardonable!"
+        },
+        {
+          "count": 10,
+          "name": "special purpose"
+        }
+      ]
+    },
+    {
+      "id": "58bbd183-ec93-47bf-871b-b09d28a6ee7e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 81,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gustav",
+      "sort-name": "Gustav",
+      "gender": "male",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b8da69a2-e38c-4873-b0d7-a727c27d5824",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Fribourg",
+        "sort-name": "Fribourg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swiss artist",
+      "ipis": [
+        "00351499054"
+      ],
+      "isnis": [
+        "000000013376796X"
+      ],
+      "life-span": {
+        "begin": "1975-04-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Vonlanthen, Pascal Moritz",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Pascal Moritz Vonlanthen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1998",
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "mundart"
+        },
+        {
+          "count": 1,
+          "name": "switzerland"
+        }
+      ]
+    },
+    {
+      "id": "4d841c49-b9a8-4c60-8171-8e9f445c69b9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 80,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gustav Gustav",
+      "sort-name": "Gustav Gustav",
+      "gender": "male",
+      "disambiguation": "Chillhop musician, Ninetofive",
+      "ipis": [
+        "00363449643"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Oxenbøll, Gustav Them",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gustav Them Oxenbøll",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "lo-fi hip hop"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "chillwave"
+        },
+        {
+          "count": 1,
+          "name": "instrumental hip hop"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "boom bap"
+        }
+      ]
+    },
+    {
+      "id": "7801bbd5-b2e1-4864-8053-3d9189b3fac5",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 80,
+      "name": "Winkler",
+      "sort-name": "Winkler",
+      "area": {
+        "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boston",
+        "sort-name": "Boston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boston",
+        "sort-name": "Boston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Boston group",
+      "life-span": {
+        "begin": "2019",
+        "ended": null
+      }
+    }
+  ]
+}

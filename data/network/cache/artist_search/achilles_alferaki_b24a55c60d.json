@@ -1,0 +1,279 @@
+{
+  "created": "2026-05-22T16:57:15.963Z",
+  "count": 52,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "97ca1418-e5b0-415c-9a01-1cdb29484c8f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Achilles Alferaki",
+      "sort-name": "Alferaki, Achilles",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fc617bbb-6cae-4e33-ae25-bf5a6cb7d7d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kharkiv",
+        "sort-name": "Kharkiv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000061598596"
+      ],
+      "life-span": {
+        "begin": "1846-07-03",
+        "end": "1919-12-27",
+        "ended": true
+      }
+    },
+    {
+      "id": "1caba9db-4737-4e63-8fcd-352d6d25cd0e",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 39,
+      "name": "Achilles",
+      "sort-name": "Achilles",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "17203e02-355a-40db-a524-980192eb9d0f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rochester",
+        "sort-name": "Rochester",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "USA metal band",
+      "isnis": [
+        "0000000470551975"
+      ],
+      "life-span": {
+        "begin": "2003",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "achilles"
+        }
+      ]
+    },
+    {
+      "id": "514c706f-2a3d-4e56-aea5-0dc41f79c620",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "name": "Achilles",
+      "sort-name": "Achilles",
+      "area": {
+        "id": "ff21865c-ce46-4417-967c-a3d2d02d29bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tampa",
+        "sort-name": "Tampa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Florida heavy metal band",
+      "life-span": {
+        "begin": "2019",
+        "ended": null
+      }
+    },
+    {
+      "id": "3c6b2d60-6955-4f61-84aa-b33235fa21a4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Achilles",
+      "sort-name": "Achilles",
+      "gender": "male",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Australian producer Andrew Achilleos",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Achilles (OZ)",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Achilles (OZ)",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Achilleos, Andrew",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Andrew Achilleos",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1791d4f7-b983-47b3-9915-dffc560021ba",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 38,
+      "name": "Achilles",
+      "sort-name": "Achilles",
+      "area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian experimental trio",
+      "isnis": [
+        "0000000492541436"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c2ca5a24-2569-46cd-94fb-e6d960d91df4",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 38,
+      "name": "Achilles",
+      "sort-name": "Achilles",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "USA alt rock band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ebf481ac-2720-4089-bba3-744c0d647bde",
+      "score": 37,
+      "name": "Achilles",
+      "sort-name": "Achilles",
+      "disambiguation": "Southern rock / hard rock",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a26b2ca1-4284-496e-bf1f-ac9e5d78a664",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "name": "Achilles",
+      "sort-name": "Achilles",
+      "disambiguation": "electro artist Lucas Pettersson",
+      "isnis": [
+        "0000000372624595"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "566ae71c-afaf-4b82-a7b0-7ae63af40326",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 37,
+      "name": "achilles.",
+      "sort-name": "achilles.",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK instrumental jazz/rock/electro",
+      "isnis": [
+        "0000000469361277"
+      ],
+      "life-span": {
+        "begin": "2004-01",
+        "ended": null
+      }
+    },
+    {
+      "id": "3142b9cf-8b10-45a3-9bf0-80c98b2f3557",
+      "score": 37,
+      "name": "Achilles",
+      "sort-name": "Achilles",
+      "disambiguation": "Hoop Records artist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

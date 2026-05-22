@@ -1,0 +1,393 @@
+{
+  "created": "2026-05-22T17:21:15.024Z",
+  "count": 277,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "e3d84322-3f3b-4756-8023-8fef11d4d0da",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "אהוד מנור",
+      "sort-name": "Manor, Ehud",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00034737089"
+      ],
+      "isnis": [
+        "0000000117515770"
+      ],
+      "life-span": {
+        "begin": "1941-07-13",
+        "end": "2005-04-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Manor, Ehud",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ehud Manor",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "5f52ab16-e6d1-44e4-8de1-65d140410ebf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "אהוד בנאי",
+      "sort-name": "Banai, Ehud",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "402c46d5-e884-46e1-928c-a47c215f6b01",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Yerushalayim",
+        "sort-name": "Yerushalayim",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00207579946"
+      ],
+      "isnis": [
+        "0000000066953331"
+      ],
+      "life-span": {
+        "begin": "1953-03-31",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Banai, Ehud",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ehud Banai",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "d2128426-de39-45e1-8139-2f224e7a9f0b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "אודי הרפז",
+      "sort-name": "Harpaz, Udi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "production music",
+      "ipis": [
+        "00125709774"
+      ],
+      "life-span": {
+        "begin": "1952-03-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Harpaz, Udi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Udi Harpaz",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Harpaz, Ehud",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ehud Harpaz",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "bed6c0c8-6a67-4cb6-80d0-138a4c98f345",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 40,
+      "name": "Manor",
+      "sort-name": "Manor",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "945d3b69-27cd-45fa-b491-52553a63dead",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 40,
+      "name": "Joyce Manor",
+      "sort-name": "Joyce Manor",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cb6abdb8-7064-413a-9d8d-51b085fe17a9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Torrance",
+        "sort-name": "Torrance",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000471580305"
+      ],
+      "life-span": {
+        "begin": "2008-11",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "punk"
+        },
+        {
+          "count": 2,
+          "name": "punk rock"
+        },
+        {
+          "count": 4,
+          "name": "indie rock"
+        },
+        {
+          "count": 0,
+          "name": "power pop"
+        },
+        {
+          "count": 5,
+          "name": "emo"
+        },
+        {
+          "count": 1,
+          "name": "pop punk"
+        },
+        {
+          "count": 1,
+          "name": "folk punk"
+        },
+        {
+          "count": 2,
+          "name": "emo-pop"
+        }
+      ]
+    },
+    {
+      "id": "6eea2555-fb80-4b4b-bef0-bf665b4a87d2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ehud Asherie",
+      "sort-name": "Asherie, Ehud",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000399699677"
+      ],
+      "life-span": {
+        "begin": "1979-12-20",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "11b8a2bb-0fc4-4ad5-8d97-0da93d55041e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ריקי מנור",
+      "sort-name": "Manor, Riki",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000402843570"
+      ],
+      "life-span": {
+        "begin": "1950-08-03",
+        "end": "2023-09-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Manor, Ricki",
+          "name": "Ricki Manor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "66749ff5-8b15-432b-9e2d-4a91f93ccbae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "name": "Ehud Ettun",
+      "sort-name": "Ettun, Ehud",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ec25b133-4666-4256-acb9-3e9197126cc6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ehud Tamir",
+      "sort-name": "Tamir, Ehud",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bd6d1d12-8bdc-4203-b852-ff70730e2af7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "name": "Ehud Loudar",
+      "sort-name": "Loudar, Ehud",
+      "disambiguation": "piano technician",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

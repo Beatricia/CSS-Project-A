@@ -1,0 +1,428 @@
+{
+  "created": "2026-05-22T17:04:53.591Z",
+  "count": 2209,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "47308bb0-d2a5-4ea1-b89e-f4b97015def8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Егор Крид",
+      "sort-name": "Kreed, Egor",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8e0505d5-cf0a-4ea0-8e0f-c4749ad0c45e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Penza",
+        "sort-name": "Penza",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian rnb/pop/rap artist",
+      "life-span": {
+        "begin": "1994-06-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "KReeD",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "KReeD",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Крид, Егор",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Егор Крид",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bulatkin, Egor Nikolaevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Булаткин Егор Николаевич",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bulatkin, Egor",
+          "name": "Егор Булаткин",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rap"
+        }
+      ]
+    },
+    {
+      "id": "266baee1-9453-4eeb-a2db-390102d9b7bf",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 84,
+      "name": "Kreed",
+      "sort-name": "Kreed",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "USA 70s rock band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b3db1ea9-0bac-458c-bdaf-8253bc5d9e49",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kreed",
+      "sort-name": "Kreed",
+      "gender": "male",
+      "area": {
+        "id": "40d758a4-b7c2-40f3-b439-5efbd2a3b038",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bristol",
+        "sort-name": "Bristol",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Sound System Music DJ/Producer, based in Bristol, UK.",
+      "life-span": {
+        "begin": "1997-08-19",
+        "ended": null
+      }
+    },
+    {
+      "id": "e6df1890-3f19-4f5c-a17f-e4a9fea4b44c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Egor",
+      "sort-name": "Egor",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "russian singer from Germany",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Wilhelm, Egor",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Egor Wilhelm",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian music from germany"
+        }
+      ]
+    },
+    {
+      "id": "6ddd1406-3305-4295-b640-fef201297650",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 73,
+      "name": "Egor",
+      "sort-name": "Egor",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "early 70s UK psych group",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "05c9bd75-852b-4b16-9ac6-244c3e2fb845",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Egor",
+      "sort-name": "Egor",
+      "gender": "male",
+      "disambiguation": "alias for UK based DJ Eddie Gordon",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e386d1ae-8a40-4234-b5d8-0531c7076830",
+      "score": 72,
+      "name": "Apollo Kreed",
+      "sort-name": "Kreed, Apollo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "307acf49-4249-401a-8622-823c76ebdfe4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Egor Lappo",
+      "sort-name": "Lappo, Egor",
+      "gender": "male",
+      "area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "progressive metal"
+        },
+        {
+          "count": 1,
+          "name": "progressive rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "39e658e2-423e-4b7d-af45-de9601720e47",
+      "score": 67,
+      "name": "Egor Grushin",
+      "sort-name": "Grushin, Egor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cfb3d32e-d095-4d63-946d-9daf06932180",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Егор Летов",
+      "sort-name": "Letov, Egor",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "071830ed-b7ba-4c03-a805-c2d97dce6603",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Omsk",
+        "sort-name": "Omsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "071830ed-b7ba-4c03-a805-c2d97dce6603",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Omsk",
+        "sort-name": "Omsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114397131"
+      ],
+      "life-span": {
+        "begin": "1964-09-10",
+        "end": "2008-02-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Egor Letov",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Egor Letov",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Letov, Yegor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yegor Letov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Летов, Егор",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Егор Летов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Летов, Игорь Фёдорович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Игорь Фёдорович Летов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian rock"
+        },
+        {
+          "count": 0,
+          "name": "siberyan punck"
+        },
+        {
+          "count": 0,
+          "name": "post punck"
+        },
+        {
+          "count": 0,
+          "name": "russian punck"
+        },
+        {
+          "count": 1,
+          "name": "omsk"
+        },
+        {
+          "count": 1,
+          "name": "siberian punk"
+        },
+        {
+          "count": 2,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "punk rock"
+        },
+        {
+          "count": 1,
+          "name": "post-punk"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        }
+      ]
+    }
+  ]
+}

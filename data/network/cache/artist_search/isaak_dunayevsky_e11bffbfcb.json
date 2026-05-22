@@ -1,0 +1,592 @@
+{
+  "created": "2026-05-22T16:47:32.988Z",
+  "count": 58,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f03de526-c8b2-4854-b894-656d21ae7623",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Исаак Дунаевский",
+      "sort-name": "Dunayevsky, Isaak",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "9aa0186f-7e1c-4162-b100-03083f844700",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Poltavs'ka Oblast'",
+        "sort-name": "Poltavs'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00082305101"
+      ],
+      "isnis": [
+        "0000000115626047"
+      ],
+      "life-span": {
+        "begin": "1900-01-30",
+        "end": "1955-07-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Dunayevsky, Isaak",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Isaak Dunayevsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dunajevskij, Isaak Osipovitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Isaak Osipovitj Dunajevskij",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dunajevskij, Isaak",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Isaak Dunajevskij",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Dunayevksi",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Isaac Dunayevksi",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дунаевский, Исаак Осипович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Исаак Осипович Дунаевский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dunajewski, Izaak",
+          "name": "Izaak Dunajewski",
+          "locale": "pl_PL",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Izaks Dunajevskis",
+          "name": "Izaks Dunajevskis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaak Dunaevsky",
+          "name": "Isaak Dunaevsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Dunaevsky",
+          "name": "Isaac Dunaevsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaak Dunaevski",
+          "name": "Isaak Dunaevski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дунаевский, Исаак",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Исаак Дунаевский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "479497d4-e7c2-4e78-972e-56e78fac3995",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Chris Isaak",
+      "sort-name": "Isaak, Chris",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ac84aab3-62db-4e26-9651-93d3f66cf982",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stockton",
+        "sort-name": "Stockton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00126818468"
+      ],
+      "isnis": [
+        "0000000078236727"
+      ],
+      "life-span": {
+        "begin": "1956-06-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "クリス・アイザック",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "クリス・アイザック",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaak, Christopher Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Christopher Joseph Isaak",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chris Issak",
+          "name": "Chris Issak",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chris Isaac",
+          "name": "Chris Isaac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "roots rock"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        }
+      ]
+    },
+    {
+      "id": "7fa539f6-05f7-4fa6-9297-7e37c74457ed",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 59,
+      "name": "Isaak",
+      "sort-name": "Isaak",
+      "area": {
+        "id": "ce04f12a-971a-4242-be9e-c3c6f5cf58ea",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Genova",
+        "sort-name": "Genova",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian stoner rock group",
+      "life-span": {
+        "begin": "2011",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gandhi's Gunn",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Gandhi's Gunn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "stoner rock"
+        },
+        {
+          "count": 1,
+          "name": "stoner metal"
+        }
+      ]
+    },
+    {
+      "id": "53fb58d5-614d-4931-a9bf-9f5740550824",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "name": "Duved Dunayevsky",
+      "sort-name": "Dunayevsky, Duved",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2c8ef8fb-9393-4252-a3d0-df28f9b20834",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Isaak",
+      "sort-name": "Isaak",
+      "gender": "male",
+      "disambiguation": "Isaak Luque",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "98cf1933-6f9c-4ebe-b88f-6e5b2bf3901d",
+      "score": 55,
+      "name": "Isaak",
+      "sort-name": "Isaak",
+      "disambiguation": "trance act",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f061c199-98fc-40bc-adb8-e81fc5ec232a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ISAAK",
+      "sort-name": "ISAAK",
+      "gender": "male",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian singer songwriter",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "637fce5d-b24a-4d99-a966-7035bc0b74fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Максим Дунаевский",
+      "sort-name": "Dunayevsky, Maksim",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00082304989"
+      ],
+      "isnis": [
+        "0000000383353946"
+      ],
+      "life-span": {
+        "begin": "1945-01-15",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Maksim Dunaevsky",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Maksim Dunaevsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maxim Dunaevsky",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Maxim Dunaevsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ìàêñèì Äóíàåâñêèé",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ìàêñèì Äóíàåâñêèé",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дунаевский, М.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "М. Дунаевский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дунаевский, Максим",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Максим Дунаевский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дунаевский, Максим Исаакович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Максим Исаакович Дунаевский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian"
+        }
+      ]
+    },
+    {
+      "id": "4596b187-1a43-4a96-8b0b-f7398f47e168",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jamison Isaak",
+      "sort-name": "Isaak, Jamison",
+      "gender": "male",
+      "area": {
+        "id": "0683f430-dd77-4b5a-a55b-0a0339c812d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Abbotsford",
+        "sort-name": "Abbotsford",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "aka Teen Daze, Pacific Coliseum, Little Chords, The Tremulance",
+      "ipis": [
+        "00853765600"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Isaak, Jamison Jon Baerg",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jamison Jon Baerg Isaak",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e6f85b06-56f6-4fc8-9ae2-060038a27bb7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Brandon Isaak",
+      "sort-name": "Isaak, Brandon",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "canada"
+        },
+        {
+          "count": 1,
+          "name": "blue"
+        },
+        {
+          "count": 1,
+          "name": "brandon"
+        },
+        {
+          "count": 1,
+          "name": "isaak"
+        }
+      ]
+    }
+  ]
+}

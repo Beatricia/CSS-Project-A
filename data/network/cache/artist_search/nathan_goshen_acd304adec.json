@@ -1,0 +1,402 @@
+{
+  "created": "2026-05-22T17:25:02.399Z",
+  "count": 4771,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "bf580a37-46c5-4d78-b157-a3ff81e85374",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "נתן גושן",
+      "sort-name": "Goshen, Nathan",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6f680024-6768-4673-a387-9e9e712195a8",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "HaMerkaz",
+        "sort-name": "HaMerkaz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00624692926"
+      ],
+      "isnis": [
+        "0000000369982906"
+      ],
+      "life-span": {
+        "begin": "1986-08-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Goshen, Nathan",
+          "name": "Nathan Goshen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6c959a76-808e-4a5c-b479-e076ff0d7ae7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Nathan",
+      "sort-name": "Nathan, David",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German voice actor and reciter",
+      "isnis": [
+        "0000000017122603"
+      ],
+      "life-span": {
+        "begin": "1971-03-16",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "6a12d968-3d30-4476-9381-8e92403aef9b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "Goshen",
+      "sort-name": "Goshen",
+      "area": {
+        "id": "ce8f33df-0bff-4a3e-af9d-0008a770f5b4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Corona",
+        "sort-name": "Corona",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7471bdae-73b2-480b-b619-24edf584ca20",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Goshen Sai",
+      "sort-name": "Sai, Goshen",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ae717316-f08d-4cf1-9a65-6edb028d6fc1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nathan Barr",
+      "sort-name": "Barr, Nathan",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American score composer",
+      "isnis": [
+        "0000000071016422"
+      ],
+      "life-span": {
+        "begin": "1973-02-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Barr",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Barr",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nathan Bar",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Nathan Bar",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Natan Barr",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Natan Barr",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Natan Bar",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Natan Bar",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nate Barr",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Nate Barr",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nate Bar",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Nate Bar",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Barr, Nathan",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nathan Barr",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1973-02-09",
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "film composer"
+        },
+        {
+          "count": 1,
+          "name": "television composer"
+        }
+      ]
+    },
+    {
+      "id": "6501785c-b9dc-4687-981c-4679fc7b818f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nathan McCree",
+      "sort-name": "McCree, Nathan",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c2cb8e58-5c2b-4205-87bb-d82eca6b3794",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gloucester",
+        "sort-name": "Gloucester",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English music composer",
+      "ipis": [
+        "00291863338"
+      ],
+      "isnis": [
+        "0000000002438445"
+      ],
+      "life-span": {
+        "begin": "1969-01-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Nathan Maccree",
+          "name": "Nathan Maccree",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "462f6650-6e72-4a90-9495-dc344dc6a651",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 40,
+      "name": "Goshen Electric Co.",
+      "sort-name": "Goshen Electric Co.",
+      "area": {
+        "id": "c01cc010-f014-44f3-80c8-e2f60bf44be6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Goshen",
+        "sort-name": "Goshen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Tim Showalter of Strand of Oaks with surviving members of Magnolia Electric Co.",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e7622740-08e7-4a45-b626-ee99b793335e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Orel Goshen Shapira",
+      "sort-name": "Shapira, Orel Goshen",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b1481217-a5f6-431c-bb49-710f86f72638",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "עמר גשן",
+      "sort-name": "Goshen, Omer",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2000-06-07",
+        "ended": null
+      }
+    },
+    {
+      "id": "4c8abc65-de5a-4145-bbe3-8117be9da321",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "לירון גושן",
+      "sort-name": "Goshen, Liron",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

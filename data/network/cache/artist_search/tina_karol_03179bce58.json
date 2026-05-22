@@ -1,0 +1,966 @@
+{
+  "created": "2026-05-22T17:03:13.166Z",
+  "count": 4784,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "81fdd079-7d05-4ba4-8577-9500df6a8c4c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tina Karol",
+      "sort-name": "Karol, Tina",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ac717c35-5be9-4dec-9f72-c9f6fc98ee24",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Orotukan",
+        "sort-name": "Orotukan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00602301807"
+      ],
+      "isnis": [
+        "0000000406778569"
+      ],
+      "life-span": {
+        "begin": "1985-01-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Karol, Tina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tina Karol",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Либерман, Татьяна Григорьевна",
+          "name": "Татьяна Григорьевна Либерман",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Liberman, Tetiana Hryhorivna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Тетяна Григорівна Ліберман",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1985-01-25",
+          "end-date": "2005"
+        },
+        {
+          "sort-name": "Кароль, Тіна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Тiна Кароль",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "2005",
+          "end-date": null
+        },
+        {
+          "sort-name": "Кароль, Тина",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тина Кароль",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "deep house"
+        },
+        {
+          "count": 3,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "electropop"
+        },
+        {
+          "count": 2,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "neo soul"
+        },
+        {
+          "count": 2,
+          "name": "ukrainian"
+        },
+        {
+          "count": 1,
+          "name": "ukraine"
+        },
+        {
+          "count": 1,
+          "name": "pop soul"
+        },
+        {
+          "count": 2,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian pop"
+        },
+        {
+          "count": 1,
+          "name": "eurovision 2006 artists"
+        }
+      ]
+    },
+    {
+      "id": "9072df14-b61e-42e2-b4f4-6bbb7fdb5586",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tina Turner",
+      "sort-name": "Turner, Tina",
+      "gender": "female",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cb5e5d19-3b62-4040-b048-f8c23838486b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nutbush",
+        "sort-name": "Nutbush",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "ff9acd64-70e1-450b-8d53-ba7e0cd465af",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Küsnacht",
+        "sort-name": "Küsnacht",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00061980371"
+      ],
+      "isnis": [
+        "0000000120286171",
+        "0000000385528316"
+      ],
+      "life-span": {
+        "begin": "1939-11-26",
+        "end": "2023-05-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Turner, T.",
+          "name": "T.Turner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tine Turner",
+          "name": "Tine Turner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tina Tuner",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Tina Tuner",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ann, Little",
+          "name": "Little Ann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Turner, Tina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tina Turner",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ティナ・ターナー",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ティナ・ターナー",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "TinaTurner",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "TinaTurner",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Turner, Tina",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Turner, Tina",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bullock, Anna Mae",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Anna Mae Bullock",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tor, Tina",
+          "name": "Tina Tor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 4,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 5,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "rnb"
+        },
+        {
+          "count": 1,
+          "name": "adult contemporary"
+        },
+        {
+          "count": 4,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "english"
+        },
+        {
+          "count": 2,
+          "name": "box set"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 3,
+          "name": "pop soul"
+        },
+        {
+          "count": 1,
+          "name": "tina-turner"
+        },
+        {
+          "count": 0,
+          "name": "contemporary r&b"
+        }
+      ]
+    },
+    {
+      "id": "e04ef24e-b64e-4ca5-a479-b6bc79042ff5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karol Szymanowski",
+      "sort-name": "Szymanowski, Karol",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0877fc7c-eaed-4de5-9a03-0a9f977a4e94",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Cherkas'ka Oblast'",
+        "sort-name": "Cherkas'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "33f49521-f754-43cf-8d7a-d9e336fe56e6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lausanne",
+        "sort-name": "Lausanne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish composer",
+      "isnis": [
+        "0000000114429498"
+      ],
+      "life-span": {
+        "begin": "1882-10-06",
+        "end": "1937-03-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Szymanowski",
+          "name": "Szymanowski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karol Maciej Szymanowski",
+          "name": "Karol Maciej Szymanowski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karol Maciej Korwin-Szymanowski",
+          "name": "Karol Maciej Korwin-Szymanowski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Szymanowsky",
+          "name": "Szymanowsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karol Szymanowsky",
+          "name": "Karol Szymanowsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "polish"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "classic"
+        },
+        {
+          "count": 1,
+          "name": "modern classical"
+        },
+        {
+          "count": 1,
+          "name": "impressionism"
+        },
+        {
+          "count": 1,
+          "name": "polish composer"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "3207a596-387d-47af-9d37-0200735c64a5",
+      "type": "Other",
+      "type-id": "ac897045-5043-3294-969b-187360e45d86",
+      "score": 47,
+      "name": "Bibi & Tina",
+      "sort-name": "Bibi & Tina",
+      "disambiguation": "fictitious artist",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bibi & Tina",
+          "name": "Bibi & Tina",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "fictitious-artist"
+        },
+        {
+          "count": 1,
+          "name": "fictitious artist"
+        },
+        {
+          "count": 2,
+          "name": "fuzzy artist - series"
+        },
+        {
+          "count": 3,
+          "name": "series title as artist"
+        },
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        },
+        {
+          "count": 1,
+          "name": "hörspiel"
+        },
+        {
+          "count": 0,
+          "name": "bogus artist"
+        },
+        {
+          "count": 1,
+          "name": "audio drama"
+        }
+      ]
+    },
+    {
+      "id": "46a24207-69a5-4fb6-a6ad-6fffc0e84aea",
+      "type": "Other",
+      "type-id": "ac897045-5043-3294-969b-187360e45d86",
+      "score": 46,
+      "name": "Дім Звукозапису",
+      "sort-name": "Dim Zvukozapusy",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Musical project created by Tina Karol",
+      "life-span": {
+        "begin": "2024",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "ukraine"
+        }
+      ]
+    },
+    {
+      "id": "1c7b3786-b99a-40ab-81e4-f3056da19e13",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Ike & Tina Turner",
+      "sort-name": "Turner, Ike & Tina",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "01542335-8394-4e9f-89a5-8a04f5276d35",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "East St. Louis",
+        "sort-name": "East St. Louis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US rock & soul duo",
+      "isnis": [
+        "000000012149364X"
+      ],
+      "life-span": {
+        "begin": "1960",
+        "end": "1976",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Turner, Ike + Tina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ike + Tina Turner",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ike and Tina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ike and Tina",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ike & Tina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ike & Tina",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ike & Tine Turner",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ike & Tine Turner",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Turner, Ike and Turner, Tina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ike Turner and Tina Turner",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Turner, Ike and Tina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ike and Tina Turner",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "blues"
+        },
+        {
+          "count": 3,
+          "name": "funk"
+        },
+        {
+          "count": 6,
+          "name": "soul"
+        },
+        {
+          "count": 4,
+          "name": "pop soul"
+        },
+        {
+          "count": 0,
+          "name": "brill building"
+        },
+        {
+          "count": -1,
+          "name": "r&b"
+        },
+        {
+          "count": 3,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 0,
+          "name": "classic r&b"
+        }
+      ]
+    },
+    {
+      "id": "c1ccc784-9f18-4369-96b1-38106419b5ad",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tina Arena",
+      "sort-name": "Arena, Tina",
+      "gender": "female",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b4e9352c-8edf-4911-8fa3-e852afa30501",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Melbourne",
+        "sort-name": "Melbourne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00495854005"
+      ],
+      "isnis": [
+        "0000000078400873"
+      ],
+      "life-span": {
+        "begin": "1967-11-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Arena, Filippina Lydia",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Filippina Lydia Arena",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "aln-sh"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        }
+      ]
+    },
+    {
+      "id": "93117a67-55b4-4b18-94c4-35c8a75fefc2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tina Charles",
+      "sort-name": "Charles, Tina",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4882cb62-4ffe-4206-8a18-5c53cc560560",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Whitechapel",
+        "sort-name": "Whitechapel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055152205"
+      ],
+      "life-span": {
+        "begin": "1954-03-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ティナ・チャールズ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ティナ・チャールズ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "disco"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 0,
+          "name": "british"
+        }
+      ]
+    },
+    {
+      "id": "de22adae-f8ac-414f-b653-b0162611bd60",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "KAROL G",
+      "sort-name": "KAROL G",
+      "gender": "female",
+      "country": "CO",
+      "area": {
+        "id": "02b60d8d-7164-339d-868d-22d147d9f74a",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Colombia",
+        "sort-name": "Colombia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9d093595-9e75-44f7-8900-3bfaa6da8e3c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Medellín",
+        "sort-name": "Medellín",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Colombian singer",
+      "ipis": [
+        "00807632636"
+      ],
+      "isnis": [
+        "0000000466913996"
+      ],
+      "life-span": {
+        "begin": "1991-02-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Giraldo Navarro, Carolina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Carolina Giraldo Navarro",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "spanish"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 3,
+          "name": "reggaeton"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 2,
+          "name": "latin urban"
+        }
+      ]
+    },
+    {
+      "id": "d8bab62a-09b8-4aa1-b65a-a4877dba6179",
+      "score": 42,
+      "name": "Karol",
+      "sort-name": "Karol",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

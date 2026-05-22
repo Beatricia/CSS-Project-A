@@ -1,0 +1,866 @@
+{
+  "created": "2026-05-22T18:12:07.458Z",
+  "count": 12,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "bf8caa89-8e7e-438c-945d-e2c33b2c31f9",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "На Марсе Классно",
+      "length": 182003,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-07-12",
+      "releases": [
+        {
+          "id": "bbc9ccaf-c998-4d25-a48d-cb2cce4de270",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Акустика ''Свет и Музыка''",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "4a840a31-0437-4b02-8f3a-84181c8a6d2e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Акустика ''Свет и Музыка''",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2011-07-12",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2011-07-12",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "eecaa83f-251c-3eae-99b1-f1bba4cdf14f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "36a23fda-8c09-4c86-b613-f1ddd80166fe",
+                  "number": "4",
+                  "title": "На Марсе Классно",
+                  "length": 182003
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "70e7ba7d-c38d-4479-a2e1-8189a9eecf65",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "На Марсе классно",
+      "length": 253575,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012",
+      "releases": [
+        {
+          "id": "b4908312-b022-461c-bb6b-a9de870f2696",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Афиша. Живой звук. Телеканал 'Москва 24'",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "1612735d-502f-4493-8b34-cd2071ac2e1e",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Афиша. Живой звук. Телеканал 'Москва 24'",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2012",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2012",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 5,
+          "media": [
+            {
+              "id": "e9a63248-02ee-3c44-8a48-f22c42f8c76f",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "60a7728e-23e1-4573-ac53-05e9128875eb",
+                  "number": "5",
+                  "title": "На Марсе классно",
+                  "length": 253575
+                }
+              ],
+              "track-count": 5,
+              "track-offset": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62976222-8ec4-4f31-b409-65bb0ca73331",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "На Марсе классно",
+      "length": 251324,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-11-10",
+      "releases": [
+        {
+          "id": "b021dab0-1dd7-4180-a403-f4eb60c2768b",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Акустика ''Цвет Ночи''",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "01701499-da5a-4b96-b6fc-16ed06fc2385",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Акустика ''Цвет Ночи''",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-11-10",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-11-10",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 39,
+          "media": [
+            {
+              "id": "d1c6a9ca-4e5b-3db6-bf11-106abd030a59",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e6ce4b55-6098-41fc-93b3-843c15411e01",
+                  "number": "18",
+                  "title": "На Марсе классно",
+                  "length": 251324
+                }
+              ],
+              "track-count": 39,
+              "track-offset": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "055ca93f-c862-4bd2-8431-2a8f34de363a",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "На Марсе классно",
+      "length": 247000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-11-09",
+      "releases": [
+        {
+          "id": "6dd9bfd5-7fb6-4737-8138-730fabeb3acb",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "С оркестром классно",
+          "status": "Official",
+          "disambiguation": "Crocus City Hall",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "fe8b076d-f521-4de4-a7f3-8a2f3a3aa019",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "С оркестром классно",
+            "disambiguation": "Crocus City Hall",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2019-11-09",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-11-09",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 27,
+          "media": [
+            {
+              "id": "c4defdb0-b0fe-3b7c-8ed4-a0756f5b52cb",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "efb48c46-617e-4e95-a520-41d8ad3f16ee",
+                  "number": "6",
+                  "title": "На Марсе классно",
+                  "length": 247000
+                }
+              ],
+              "track-count": 27,
+              "track-offset": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a932b3f-07b8-4898-8ca7-b8a63a8b9b39",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "На Марсе классно",
+      "length": 178656,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-12-05",
+      "releases": [
+        {
+          "id": "b5aaac31-69ac-4864-ac6e-9f5e934090c0",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Вот и всё! Ну и что?",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9c96411d-6bc0-4f58-84ae-ba1cd30fdbf0",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Вот и всё! Ну и что?",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-12-05",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-12-05",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "1be22185-8b59-391c-8d41-69de8ba6691c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e9e1d004-164b-4f6c-b945-3189a18aa2ae",
+                  "number": "19",
+                  "title": "На Марсе классно",
+                  "length": 178656
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "79d4c3bc-2b04-470e-9088-2e9249c62c33",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "На Марсе классно",
+      "length": 270059,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-09-17",
+      "releases": [
+        {
+          "id": "2677b8b5-9871-4ea0-a7f8-3bdbfe117268",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Концерт в клубе «Реактор» (Минск)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bb46ff43-2c96-4168-a59c-4089637b55ea",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Концерт в клубе «Реактор» (Минск)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-09-17",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-09-17",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 39,
+          "media": [
+            {
+              "id": "5fe97e81-d67c-3ddd-8932-e9b3c04fb13e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a68e1404-87a2-45e3-a434-2a1ab1f2f2e9",
+                  "number": "26",
+                  "title": "На Марсе классно",
+                  "length": 270059
+                }
+              ],
+              "track-count": 39,
+              "track-offset": 25
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f56b44c-fabc-4cc1-8be4-c295ae4114e5",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "На Марсе Классно",
+      "length": 258069,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-10-16",
+      "releases": [
+        {
+          "id": "19e61961-5ec3-49a0-af48-3dae7eacb12e",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Live @ Bingo Club (Киев)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "96431377-5402-4187-b9c3-4d5b73bb5675",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live @ Bingo Club (Киев)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2011-10-16",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2011-10-16",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "95050b29-a789-3448-9e8e-2818e05fd777",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ce06acd2-9275-48ea-a055-245df649cbae",
+                  "number": "27",
+                  "title": "На Марсе Классно",
+                  "length": 258069
+                }
+              ],
+              "track-count": 41,
+              "track-offset": 26
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52f96f05-d4a0-4da4-aeac-f83e29d45308",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "На Марсе классно",
+      "length": 214839,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-04-29",
+      "releases": [
+        {
+          "id": "a6781ae1-fcf4-475c-b428-aa8d5aacb570",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Квартирник в музее Булгакова",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b6b4c6db-34bd-46ff-92e8-fc0a4672078a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Квартирник в музее Булгакова",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-04-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-04-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "e7f5092f-aa54-3743-a278-da3cd2bcbee1",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9032cec1-8e52-4393-9be0-036d3616ac57",
+                  "number": "19",
+                  "title": "На Марсе классно",
+                  "length": 214839
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 18
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Noize MC\" AND recording:\"На Марсе классно\""
+}

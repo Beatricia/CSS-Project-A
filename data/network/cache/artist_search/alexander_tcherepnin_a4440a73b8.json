@@ -1,0 +1,816 @@
+{
+  "created": "2026-05-22T17:09:58.625Z",
+  "count": 5129,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "aae12a3d-8f00-410a-a87b-f19f8d7fd24e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Александр Николаевич Черепнин",
+      "sort-name": "Tcherepnin, Alexander Nikolayevich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00030310257"
+      ],
+      "isnis": [
+        "000000010911087X"
+      ],
+      "life-span": {
+        "begin": "1899-01-21",
+        "end": "1977-09-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Txerepnín, Aleksandr",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksandr Txerepnín",
+          "locale": "ca",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tjerepnin, Aleksandr",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksandr Tjerepnin",
+          "locale": "da",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tscherepnin, Alexander",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexander Tscherepnin",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tscherepnin, Alexander Nikolajewitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alexander Nikolajewitsch Tscherepnin",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Черепнин, Александр",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Александр Черепнин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Черепнин, Александр Николаевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Александр Николаевич Черепнин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tcherepnin, Alexander",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexander Tcherepnin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tcherepnine, Alexander",
+          "name": "Alexander Tcherepnine",
+          "locale": "es",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cherepnín, Aleksandr Nikoláyevich",
+          "name": "Aleksandr Nikoláyevich Cherepnín",
+          "locale": "es",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexandre Tcherepnine",
+          "name": "Alexandre Tcherepnine",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        }
+      ]
+    },
+    {
+      "id": "1f27d918-b658-4918-aa18-80897433e14b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Peter Alexander",
+      "sort-name": "Alexander, Peter",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian singer, actor, entertainer and showmaster",
+      "ipis": [
+        "00040464801",
+        "00040465014"
+      ],
+      "isnis": [
+        "0000000114712330"
+      ],
+      "life-span": {
+        "begin": "1926-06-30",
+        "end": "2011-02-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Neuenhauser, Alexander",
+          "name": "Alexander Neuenhauser",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neumayer, Peter Alexander Ferdinand Maximilian",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Peter Alexander Ferdinand Maximilian Neumayer",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neumayer, Peter Alexander",
+          "name": "Peter Alexander Neumayer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "actor"
+        },
+        {
+          "count": 3,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "austrian"
+        }
+      ]
+    },
+    {
+      "id": "3d4aa486-f525-4cc2-be4e-5eeb8d0d16a4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ivan Tcherepnin",
+      "sort-name": "Tcherepnin, Ivan",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "91352ce8-befa-41be-a0ef-e51cd99152ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Issy-les-Moulineaux",
+        "sort-name": "Issy-les-Moulineaux",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boston",
+        "sort-name": "Boston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000080991078"
+      ],
+      "life-span": {
+        "begin": "1943-02-05",
+        "end": "1998-04-11",
+        "ended": true
+      }
+    },
+    {
+      "id": "71850638-5bfa-43f6-8450-510e00dfa806",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stefan Tcherepnin",
+      "sort-name": "Tcherepnin, Stefan",
+      "gender": "male",
+      "life-span": {
+        "begin": "1977",
+        "ended": null
+      }
+    },
+    {
+      "id": "bee47f2c-3231-4248-91ee-52bc8031e9d5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Serge Tcherepnin",
+      "sort-name": "Tcherepnin, Serge",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "91352ce8-befa-41be-a0ef-e51cd99152ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Issy-les-Moulineaux",
+        "sort-name": "Issy-les-Moulineaux",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1941-02-02",
+        "ended": null
+      }
+    },
+    {
+      "id": "c7565b86-4658-45f3-9e29-e24d5178fd01",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sergei Tcherepnin",
+      "sort-name": "Tcherepnin, Sergei",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1981",
+        "ended": null
+      }
+    },
+    {
+      "id": "e85a23c7-0334-4ef5-9fd9-9b681e50c646",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 64,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Daniel Alexander",
+      "sort-name": "Alexander, Daniel",
+      "gender": "male",
+      "country": "ID",
+      "area": {
+        "id": "d3a68bd0-7419-3f99-a5bd-204d6e057089",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Indonesia",
+        "sort-name": "Indonesia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e1e73e34-e6b3-4fce-aac0-9a3d1d1d8e69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Surabaya",
+        "sort-name": "Surabaya",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Pendidik Pembidik",
+      "life-span": {
+        "begin": "1956-03-22",
+        "ended": null
+      }
+    },
+    {
+      "id": "473653cf-16fc-446c-a07f-96ac43d27dca",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 63,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Scourby",
+      "sort-name": "Scourby, Alexander",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1913-11-13",
+        "end": "1985-02-22",
+        "ended": true
+      }
+    },
+    {
+      "id": "a4eba7b5-aceb-4acf-b297-3c0a3cd42757",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Александр Николаевич Скрябин",
+      "sort-name": "Scriabin, Alexander Nikolayevich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist and composer",
+      "isnis": [
+        "0000000122817132"
+      ],
+      "life-span": {
+        "begin": "1872-01-06",
+        "end": "1915-04-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Skrjabin, Aleksandr Nikolajevitj",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksandr Nikolajevitj Skrjabin",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Skrjabin, Aleksandr",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksandr Skrjabin",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Скрябин, Александр Николаевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Александр Николаевич Скрябин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Skrjabin, Aleksandr",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksandr Skrjabin",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scriabin, Alexander",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexander Scriabin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scriabine",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Scriabine",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Skryabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Skryabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "すくりやひん あれくさんとる",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "アレクサンドル・スクリャービン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Nikolayevich Scriabin",
+          "name": "Alexander Nikolayevich Scriabin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aleksandr Nikoláyevich Skriabin",
+          "name": "Aleksandr Nikoláyevich Skriabin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Skrjabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Skrjabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scriabine, Alexandre",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexandre Scriabine",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Skrjabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alexander Skrjabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Nikolajewitsch Skrjabin",
+          "name": "Alexander Nikolajewitsch Skrjabin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A. Scriabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "A. Scriabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scriabin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Scriabin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Skryabin",
+          "name": "Alexander Skryabin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "6775554d-38f8-4771-a036-a779c88c582a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Николай Николаевич Черепнин",
+      "sort-name": "Tcherepnin, Nikolai Nikolayevich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00030310355"
+      ],
+      "isnis": [
+        "0000000080888951"
+      ],
+      "life-span": {
+        "begin": "1873-05-15",
+        "end": "1945-06-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Tscherepnin, Nikolay",
+          "name": "Nikolay Tscherepnin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tcherepnine, Nicolas Nikolaïevitch",
+          "name": "Nicolas Nikolaïevitch Tcherepnine",
+          "locale": "fr",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tcherepnin, Nikolay",
+          "name": "Nikolay Tcherepnin",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tcherepnin, Nikolai Nikolayevich",
+          "name": "Nikolai Nikolayevich Tcherepnin",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tcherepnin, Nikolai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolai Tcherepnin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    }
+  ]
+}

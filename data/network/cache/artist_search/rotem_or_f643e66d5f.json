@@ -1,0 +1,463 @@
+{
+  "created": "2026-05-22T17:32:05.271Z",
+  "count": 1476,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5b9e6e72-411d-4704-8819-ac55d4dfa0e8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "name": "Totemo",
+      "sort-name": "Totemo",
+      "area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Or, Rotem",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Rotem Or",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "52af4eca-8e90-472f-8694-4f1eebab1b8d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "רותם אור",
+      "sort-name": "Or, Rotem",
+      "gender": "female",
+      "area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Or, Rotem",
+          "name": "Rotem Or",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1e803e30-d752-4fd8-a8af-7a98c429cb13",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 49,
+      "name": "Rotem",
+      "sort-name": "Rotem",
+      "area": {
+        "id": "bfaa7704-20de-4ece-b906-a71a6082f870",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Loures",
+        "sort-name": "Loures",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Black/Death from Portugal",
+      "life-span": {
+        "begin": "2012",
+        "ended": null
+      }
+    },
+    {
+      "id": "b0169bcb-7502-42e1-9700-e11ee3f0d14d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 48,
+      "name": "ROTEM",
+      "sort-name": "ROTEM",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Dutch funk band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "31d97115-887c-4bd6-b952-f4c9005cff9c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "name": "Rotem Hecht",
+      "sort-name": "Hecht, Rotem",
+      "disambiguation": "production music",
+      "ipis": [
+        "00582135944"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7e117fbd-62f4-4c5c-bd2e-1de8fafc07d4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "רותם בר אור",
+      "sort-name": "Rotem Bar Or",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7c1738fe-f3a6-49f4-8806-ca30ad30f162",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "name": "Rotem Moav",
+      "sort-name": "Moav, Rotem",
+      "ipis": [
+        "00602039593"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "vgm"
+        },
+        {
+          "count": 1,
+          "name": "video game music"
+        },
+        {
+          "count": 1,
+          "name": "_edit"
+        }
+      ]
+    },
+    {
+      "id": "98720123-fcec-47be-9e88-29a310fb2942",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Dead or Alive",
+      "sort-name": "Dead or Alive",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Liverpool",
+        "sort-name": "Liverpool",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK new wave band",
+      "isnis": [
+        "0000000086033698"
+      ],
+      "life-span": {
+        "begin": "1980",
+        "end": "2011",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Dead or Alive - Nukleopatra",
+          "name": "Dead or Alive - Nukleopatra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dead Or Alive",
+          "name": "Dead Or Alive",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 2,
+          "name": "synth-pop"
+        },
+        {
+          "count": 2,
+          "name": "hi-nrg"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 2,
+          "name": "queer"
+        }
+      ]
+    },
+    {
+      "id": "a9140549-d6bb-4e2e-81d8-b0525e9fd83e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "name": "Or Chausha",
+      "sort-name": "Chausha, Or",
+      "disambiguation": "production music",
+      "ipis": [
+        "00640537656",
+        "00640537754",
+        "00657908302",
+        "00657908400"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Shausha, Elior",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Elior Shausha",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rasman, Yudi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yudi Rasman",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lieberman, Joel",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Joel Lieberman",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Premo, Jerry",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jerry Premo",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "28c5d97f-4321-4ef4-8ac2-d9d93b0eb16c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 44,
+      "name": "Man or Astro‐Man?",
+      "sort-name": "Man or Astro‐Man?",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fb6380c1-f9d5-4a21-bccd-0af0bd83e1f0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Auburn",
+        "sort-name": "Auburn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1992",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Man ... or Astroman?",
+          "name": "Man ... or Astroman?",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Man... or Astroman?",
+          "name": "Man... or Astroman?",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Is It ...",
+          "name": "Is It ...",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Man or Astroman?",
+          "name": "Man or Astroman?",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Man... or Astro-man?",
+          "name": "Man... or Astro-man?",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Man Or Astroman",
+          "name": "Man Or Astroman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "post-rock"
+        },
+        {
+          "count": 0,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "garage punk"
+        },
+        {
+          "count": 1,
+          "name": "experimental rock"
+        },
+        {
+          "count": 1,
+          "name": "garage rock"
+        },
+        {
+          "count": 1,
+          "name": "post-hardcore"
+        },
+        {
+          "count": 5,
+          "name": "surf rock"
+        },
+        {
+          "count": 2,
+          "name": "surf punk"
+        }
+      ]
+    }
+  ]
+}

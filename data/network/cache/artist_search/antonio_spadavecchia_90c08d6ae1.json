@@ -1,0 +1,1229 @@
+{
+  "created": "2026-05-22T17:01:29.615Z",
+  "count": 3369,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ad79836d-9849-44df-8789-180bbc823f3c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Antonio Vivaldi",
+      "sort-name": "Vivaldi, Antonio",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a6e08cd9-a712-4152-8808-9485c75e1196",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Venezia",
+        "sort-name": "Venezia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian baroque composer and violinist",
+      "ipis": [
+        "00032204634"
+      ],
+      "isnis": [
+        "0000000121299169"
+      ],
+      "life-span": {
+        "begin": "1678-03-04",
+        "end": "1741-07-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Vivaldi, A.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "A. Vivaldi",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vivaldi, Antonio",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Antonio Vivaldi (1678-1741)",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vivaldi, Antonio",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "A.Vivaldi",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vivaldi, Antonio",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vivaldi",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "维瓦尔第",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "维瓦尔第",
+          "locale": "zh_Hans",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "安东尼奥·维瓦尔第",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "安东尼奥·维瓦尔第",
+          "locale": "zh_Hans",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "비발디",
+          "name": "비발디",
+          "locale": "ko",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vivaldi, Antonio",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Antonio Vivaldi",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヴィヴァルディ",
+          "name": "ヴィヴァルディ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вивальди, А.",
+          "name": "А. Вивальди",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vivalde",
+          "name": "Vivalde",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Антонио Вивальди",
+          "name": "Антонио Вивальди",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вивальди",
+          "name": "Вивальди",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vivaldi, Antonio",
+          "name": "Vivaldi, Antonio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vivalid",
+          "name": "Vivalid",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vivaldi, Antonio Lucio",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Antonio Lucio Vivaldi",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vivaldi, Antionio",
+          "name": "Antionio Vivaldi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vivaldi, Anton",
+          "name": "Anton Vivaldi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 11,
+          "name": "classical"
+        },
+        {
+          "count": 7,
+          "name": "italian"
+        },
+        {
+          "count": -1,
+          "name": "production music"
+        },
+        {
+          "count": 3,
+          "name": "opera"
+        },
+        {
+          "count": 8,
+          "name": "composer"
+        },
+        {
+          "count": 8,
+          "name": "baroque"
+        },
+        {
+          "count": 5,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "choral"
+        },
+        {
+          "count": 1,
+          "name": "chamber music"
+        },
+        {
+          "count": 3,
+          "name": "concerto"
+        },
+        {
+          "count": 1,
+          "name": "wiener akademie"
+        },
+        {
+          "count": 0,
+          "name": "orlado furioso"
+        },
+        {
+          "count": 1,
+          "name": "western classical music"
+        },
+        {
+          "count": -1,
+          "name": "orlando furioso spinosi"
+        },
+        {
+          "count": 0,
+          "name": "l' olimpiade"
+        },
+        {
+          "count": 1,
+          "name": "sinfonia"
+        },
+        {
+          "count": 2,
+          "name": "italian composer"
+        },
+        {
+          "count": 0,
+          "name": "flute sonata"
+        },
+        {
+          "count": 1,
+          "name": "church music"
+        },
+        {
+          "count": 1,
+          "name": "i grandi concerti"
+        },
+        {
+          "count": 1,
+          "name": "musica classica"
+        }
+      ]
+    },
+    {
+      "id": "4a15abc9-0ef0-4451-859b-b8018258deb8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Антонио Эммануилович Спадавеккиа",
+      "sort-name": "Spadavecchia, Antonio Emmanuelovich",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114424777"
+      ],
+      "life-span": {
+        "begin": "1907-06-03",
+        "end": "1988-02-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Спадавеккиа, Антонио",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Антонио Спадавеккиа",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "705929ac-e1b5-415f-8e02-156391341544",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "name": "Rino Spadavecchia",
+      "sort-name": "Spadavecchia, Rino",
+      "ipis": [
+        "00432216693"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fe3e4ba9-628a-431b-bbf1-42c2a8e0a92d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alessandro Spadavecchia",
+      "sort-name": "Spadavecchia, Alessandro",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ba683849-490c-4afb-9c8d-7278b25cbdc1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Antonio Aguilar",
+      "sort-name": "Aguilar, Antonio",
+      "gender": "male",
+      "country": "MX",
+      "area": {
+        "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Mexico",
+        "sort-name": "Mexico",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8e54ffc3-23d7-4425-ac77-fdb4a4d23ca3",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Zacatecas",
+        "sort-name": "Zacatecas",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3c810219-baf2-4fff-b98c-46b425eea1f5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ciudad de México",
+        "sort-name": "Ciudad de México",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "El Charro de México",
+      "ipis": [
+        "00041778375"
+      ],
+      "life-span": {
+        "begin": "1919-05-17",
+        "end": "2007-06-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Aguilar Barraza, Antonio",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Antonio Aguilar Barraza",
+          "locale": "es",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aguilar, Antonio Sr",
+          "name": "Antonio Aguilar, Sr",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Barraza, Pascual",
+          "name": "Pascual Barraza",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Godfather of Banda Music, The",
+          "name": "The Godfather of Banda Music",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Charro de México, El",
+          "name": "El Charro de México",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aguilar, Tony",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tony Aguilar",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aguilar Márquez Barraza, José Pascual Antonio",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "José Pascual Antonio Aguilar Márquez Barraza",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "latin"
+        },
+        {
+          "count": 1,
+          "name": "mariachi"
+        },
+        {
+          "count": 1,
+          "name": "ranchera"
+        },
+        {
+          "count": 1,
+          "name": "banda"
+        },
+        {
+          "count": 1,
+          "name": "corrido"
+        }
+      ]
+    },
+    {
+      "id": "7a8dbe84-f4c0-4457-bfa3-edced1f8cde0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Antônio Carlos Jobim",
+      "sort-name": "Jobim, Antônio Carlos",
+      "gender": "male",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "007d1465-1c49-4b57-bd8f-28dbc947e523",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Tijuca",
+        "sort-name": "Tijuca",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00039686047",
+        "00070899540",
+        "00070899638"
+      ],
+      "isnis": [
+        "0000000122798998"
+      ],
+      "life-span": {
+        "begin": "1927-01-25",
+        "end": "1994-12-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "アントニオ・カルロス・ジョビン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "アントニオ・カルロス・ジョビン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jobim",
+          "name": "Jobim",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jobim, A. Carlos",
+          "name": "A. Carlos Jobim",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jobin",
+          "name": "Jobin",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jochim, A.C.",
+          "name": "A.C. Jochim",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jobin, C.",
+          "name": "C. Jobin",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jobim, Antônio Carlos Brasileiro de Almeida",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Antônio Carlos Brasileiro de Almeida Jobim",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A. C. Jobim",
+          "name": "A. C. Jobim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jobim, Antonio Carlos",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Antonio Carlos Jobim",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tom Jobim",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tom Jobim",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jobim, Antônio",
+          "name": "Antônio Jobim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "AC Jobim",
+          "name": "AC Jobim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "mpb"
+        },
+        {
+          "count": 1,
+          "name": "brazilian"
+        },
+        {
+          "count": 8,
+          "name": "bossa nova"
+        },
+        {
+          "count": 2,
+          "name": "latin"
+        },
+        {
+          "count": 4,
+          "name": "latin jazz"
+        },
+        {
+          "count": 0,
+          "name": "música popular brasileira"
+        },
+        {
+          "count": 0,
+          "name": "latin folk"
+        },
+        {
+          "count": 0,
+          "name": "brazilian jazz"
+        },
+        {
+          "count": 0,
+          "name": "composers"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 0,
+          "name": "multiple ipi"
+        }
+      ]
+    },
+    {
+      "id": "846be3c9-5f94-46ab-97b9-531335dd3658",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gioachino Rossini",
+      "sort-name": "Rossini, Gioachino",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b3c4f4b8-1a4c-48e6-93db-e278dce26270",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Pesaro",
+        "sort-name": "Pesaro",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00026793072"
+      ],
+      "isnis": [
+        "000000012127560X"
+      ],
+      "life-span": {
+        "begin": "1792-02-29",
+        "end": "1868-11-13",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Rosīni, Džoakīno",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Džoakīno Rosīni",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rossini",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Rossini",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Giacomo Rossini",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Giacomo Rossini",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gioacchino Rossini",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Gioacchino Rossini",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Giaccomo Rossini",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Giaccomo Rossini",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rossini Gioacchino Antonio",
+          "name": "Rossini Gioacchino Antonio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "로시니",
+          "name": "로시니",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ロッシーニ",
+          "name": "ロッシーニ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gioaccino Rossini",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Gioaccino Rossini",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gioachino Antonio Rossini",
+          "name": "Gioachino Antonio Rossini",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Giaocchino Rossini",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Giaocchino Rossini",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "G. Rossini",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "G. Rossini",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gioachino Antonio Rossini (1792-1868)",
+          "name": "Gioachino Antonio Rossini (1792-1868)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "italian"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "karajan"
+        },
+        {
+          "count": 1,
+          "name": "overtures"
+        },
+        {
+          "count": 1,
+          "name": "italian composer"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "fb698413-0e4f-4e78-9ac2-f085bc4a2b2d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Antonio Caldara",
+      "sort-name": "Caldara, Antonio",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a6e08cd9-a712-4152-8808-9485c75e1196",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Venezia",
+        "sort-name": "Venezia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian composer",
+      "isnis": [
+        "0000000110355444"
+      ],
+      "life-span": {
+        "begin": "1671",
+        "end": "1736-12-26",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "bb5329a8-8995-4f30-9f25-f7e7ce7b0183",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Antonio Salieri",
+      "sort-name": "Salieri, Antonio",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "29d0a1a5-2ee4-4a23-b32c-e7ea47a95f94",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Legnago",
+        "sort-name": "Legnago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian composer",
+      "isnis": [
+        "0000000110416892"
+      ],
+      "life-span": {
+        "begin": "1750-08-18",
+        "end": "1825-05-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Salieri, Antonio",
+          "name": "Salieri, Antonio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A. Salieri",
+          "name": "A. Salieri",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "classical period"
+        },
+        {
+          "count": 1,
+          "name": "italian composer"
+        }
+      ]
+    },
+    {
+      "id": "8dc575fe-7a0d-435b-8fb7-9c76ea8eb109",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pietro Antonio Locatelli",
+      "sort-name": "Locatelli, Pietro Antonio",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dcc53548-12ed-4a6d-b63b-5f17a74b0ad0",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Bergamo",
+        "sort-name": "Bergamo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Amsterdam",
+        "sort-name": "Amsterdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000121188127"
+      ],
+      "life-span": {
+        "begin": "1695-09-03",
+        "end": "1764-03-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Locatelli, Pietro",
+          "name": "Pietro Locatelli",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pietro Antonio Locartelli",
+          "name": "Pietro Antonio Locartelli",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "P. Locatelli",
+          "name": "P. Locatelli",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "italian composer"
+        },
+        {
+          "count": 1,
+          "name": "italian"
+        },
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": -1,
+          "name": "production music"
+        }
+      ]
+    }
+  ]
+}

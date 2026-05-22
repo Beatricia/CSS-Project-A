@@ -1,0 +1,98 @@
+{
+  "created": "2026-05-22T17:20:31.471Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b9b65add-f042-4a8d-bb05-4ac1317b3cd3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Kamilya Jubran",
+      "sort-name": "Jubran, Kamilya",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e5d1ed8-f2cd-46d4-baa2-00583ef32e90",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Acre",
+        "sort-name": "Acre",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1963",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kamila Jubran",
+          "name": "Kamila Jubran",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "كميليا جبران",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "كميليا جبران",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "968d5ec5-ef20-4b34-bbd4-19c067b6f690",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Khaled Jubran",
+      "sort-name": "Jubran, Khaled",
+      "gender": "male",
+      "country": "PS",
+      "area": {
+        "id": "7d24dd34-a00f-37a1-8307-f2ef1dd3dbcd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Palestine",
+        "sort-name": "Palestine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7fea3bfd-0289-458c-9e81-e1579fbc46fc",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 21,
+      "name": "Jubranco's",
+      "sort-name": "Jubranco's",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

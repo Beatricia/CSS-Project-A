@@ -1,0 +1,530 @@
+{
+  "created": "2026-05-22T17:38:11.588Z",
+  "count": 332,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "fd64e185-9973-44d5-ad09-5d5562804292",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Abdullah Ibrahim",
+      "sort-name": "Ibrahim, Abdullah",
+      "gender": "male",
+      "country": "ZA",
+      "area": {
+        "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "South Africa",
+        "sort-name": "South Africa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0f0cb63b-b675-4f9a-ad63-f24686cf2037",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cape Town",
+        "sort-name": "Cape Town",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "South African pianist and composer",
+      "ipis": [
+        "00033943583"
+      ],
+      "isnis": [
+        "0000000120299781"
+      ],
+      "life-span": {
+        "begin": "1934-10-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Brand, Dollar",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dollar Brand",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": "1968"
+        },
+        {
+          "sort-name": "Brand, Adolph Johannes",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Adolph Johannes Brand",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1934-10-09",
+          "end-date": "1968"
+        },
+        {
+          "sort-name": "Dollar Brand / Abdullah Ibrahim",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dollar Brand / Abdullah Ibrahim",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Abdullah Abrahim",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Abdullah Abrahim",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dollar Brand; Abdullah Ibrahim",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dollar Brand; Abdullah Ibrahim",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ibrahim, Abdullah",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Abdullah Ibrahim",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1968",
+          "end-date": null
+        },
+        {
+          "sort-name": "ダラー・ブランド",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ダラー・ブランド",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Abdullah Ibrahim (Dollar Brand)",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Abdullah Ibrahim (Dollar Brand)",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 2,
+          "name": "post-bop"
+        },
+        {
+          "count": 2,
+          "name": "bebop"
+        },
+        {
+          "count": 1,
+          "name": "south african jazz"
+        },
+        {
+          "count": 3,
+          "name": "cape jazz"
+        }
+      ]
+    },
+    {
+      "id": "af575726-1437-4b53-b6e6-343bc5f16817",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ibrahim Maalouf",
+      "sort-name": "Maalouf, Ibrahim",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ce620b06-647b-494d-bf5a-ae900fa9aaa4",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Beyrouth",
+        "sort-name": "Beyrouth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French-Lebanese jazz musician",
+      "ipis": [
+        "00154096865"
+      ],
+      "isnis": [
+        "0000000008817497"
+      ],
+      "life-span": {
+        "begin": "1980-11-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lollibob",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Lollibob",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 3,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "trumpet"
+        },
+        {
+          "count": 2,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 1,
+          "name": "jazz-funk"
+        },
+        {
+          "count": 1,
+          "name": "contemporary jazz"
+        },
+        {
+          "count": 1,
+          "name": "jazz pop"
+        },
+        {
+          "count": 1,
+          "name": "international"
+        },
+        {
+          "count": 1,
+          "name": "modern jazz"
+        },
+        {
+          "count": 1,
+          "name": "french jazz"
+        },
+        {
+          "count": 1,
+          "name": "jazz instrument"
+        },
+        {
+          "count": 1,
+          "name": "trumpet jazz"
+        },
+        {
+          "count": 1,
+          "name": "ethno jazz"
+        },
+        {
+          "count": 1,
+          "name": "electric jazz"
+        }
+      ]
+    },
+    {
+      "id": "67345f3f-d77f-4b75-b454-5716b19ccae7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "İbrahim Tatlıses",
+      "sort-name": "Tatlıses, İbrahim",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Türkiye",
+        "sort-name": "Türkiye",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c51e6c2e-5ee6-46f1-934f-ba876fa24f14",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Şanlıurfa",
+        "sort-name": "Şanlıurfa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000058878984"
+      ],
+      "life-span": {
+        "begin": "1952-01-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ibrahim Tatlises",
+          "name": "Ibrahim Tatlises",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "arabesk"
+        },
+        {
+          "count": 1,
+          "name": "turkish"
+        }
+      ]
+    },
+    {
+      "id": "a61930ae-dfe3-4574-bc5b-b0fa8d8efb62",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ibrahim Ferrer",
+      "sort-name": "Ferrer, Ibrahim",
+      "gender": "male",
+      "country": "CU",
+      "area": {
+        "id": "b06c4e86-97f7-3419-84a9-a23c60ea0b22",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Cuba",
+        "sort-name": "Cuba",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1eeff307-da4c-4c38-a637-b6f9abfb1f5f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San Luis",
+        "sort-name": "San Luis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e7cd5e49-0108-4f0b-b94e-7266a0a773f5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "La Habana",
+        "sort-name": "La Habana",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Cuban singer",
+      "isnis": [
+        "0000000108919482"
+      ],
+      "life-span": {
+        "begin": "1927-02-20",
+        "end": "2005-08-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ferrer, Ibrahim",
+          "name": "Ferrer, Ibrahim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "world"
+        },
+        {
+          "count": 1,
+          "name": "son cubano"
+        }
+      ]
+    },
+    {
+      "id": "0455fa93-c1dc-43bb-b1ce-fc5f9128ede5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 92,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ibrahim",
+      "sort-name": "ibrahim",
+      "gender": "male",
+      "area": {
+        "id": "2747553f-b44d-44c4-a7c3-b67412b6f10b",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Ontario",
+        "sort-name": "Ontario",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "beatmaker",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "26f524df-1a3f-478a-9835-69b2eee8582f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ibrahim",
+      "sort-name": "Ibrahim",
+      "gender": "male",
+      "country": "BG",
+      "area": {
+        "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Bulgaria",
+        "sort-name": "Bulgaria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Junior Eurovision participant",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8d9fc10b-cecd-4066-b571-58ff3678c1f9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "name": "Ibrahim",
+      "sort-name": "Ibrahim",
+      "area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "experimental electronic musician based in Toronto",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "126829bf-1436-4785-a282-4679b0a7702c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ibrahim",
+      "sort-name": "Ibrahim",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Rapper from San Antonio TX.",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7eeda4ab-246a-4456-b859-1c9bfb7ec5d4",
+      "score": 88,
+      "name": "Ibrahim",
+      "sort-name": "Ibrahim",
+      "disambiguation": "indonesian musician",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "dc903404-e4f3-4454-ac94-3745dad39f05",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ibrahim",
+      "sort-name": "Ibrahim",
+      "gender": "male",
+      "country": "SG",
+      "area": {
+        "id": "aa344640-fd57-3960-afb4-84d0d3b69d3d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Singapore",
+        "sort-name": "Singapore",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Singaporean drummer",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

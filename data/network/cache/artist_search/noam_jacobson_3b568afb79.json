@@ -1,0 +1,264 @@
+{
+  "created": "2026-05-22T17:27:03.918Z",
+  "count": 308,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "bd030511-78de-4cac-b41a-1a99d9a22bc4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "נעם יעקובסון",
+      "sort-name": "Jacobson, Noam",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00582141070"
+      ],
+      "life-span": {
+        "begin": "1975",
+        "ended": null
+      }
+    },
+    {
+      "id": "7d83b9be-b7a4-40f3-b682-a83934a0e8ab",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Noam Chomsky",
+      "sort-name": "Chomsky, Noam",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Philadelphia",
+        "sort-name": "Philadelphia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00204944775"
+      ],
+      "isnis": [
+        "0000000381493996"
+      ],
+      "life-span": {
+        "begin": "1928-12-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Chomsky",
+          "name": "Chomsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chomsky, Avram Noam",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Avram Noam Chomsky",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "5058f7a0-2cdf-43cd-8406-c1978c2f6740",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Noam",
+      "sort-name": "Noam",
+      "gender": "male",
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli singer and composer",
+      "isnis": [
+        "000000007972401X"
+      ],
+      "life-span": {
+        "begin": "1962-08-18",
+        "ended": null
+      }
+    },
+    {
+      "id": "35e8c42b-02b7-463d-a0b6-22745d60b40a",
+      "score": 85,
+      "name": "Noam",
+      "sort-name": "Noam",
+      "disambiguation": "electronic",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "289982b8-5691-441e-b176-9e1240372010",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "NOAM",
+      "sort-name": "NOAM",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "multi-genre producer & songwriter based in Tel Aviv",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cohen, Noam",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Noam Cohen",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1e7e31c2-e354-49df-9654-4e59ed7795b7",
+      "score": 85,
+      "name": "NOAM",
+      "sort-name": "NOAM",
+      "disambiguation": "probably US(?) artist appears on \"GET DOWN\" by Arthur Baker",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e5b37a67-70d5-43e9-9e3b-b66dcebaca5d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 85,
+      "name": "Noam",
+      "sort-name": "Noam",
+      "area": {
+        "id": "0f196ad0-f90d-4dd1-befe-88f92ebc15e3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oviedo",
+        "sort-name": "Oviedo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hardcore band from Oviedo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5a5be741-62af-49c6-9197-11747694440d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "name": "noam",
+      "sort-name": "noam",
+      "area": {
+        "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San Diego",
+        "sort-name": "San Diego",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "CARTEL",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b3f138d0-d995-4bf2-b4bf-ef102b44972c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "name": "Noam",
+      "sort-name": "Noam",
+      "area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "CA | R&B singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6b619728-652a-4aa1-93df-a2bd6aebb082",
+      "score": 85,
+      "name": "Noam",
+      "sort-name": "Noam",
+      "disambiguation": "American Hip-Hop",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

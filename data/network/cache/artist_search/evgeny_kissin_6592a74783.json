@@ -1,0 +1,417 @@
+{
+  "created": "2026-05-22T17:03:32.709Z",
+  "count": 341,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5761282a-0965-4ff6-9796-7b9ba0ed70e2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Евгений Кисин",
+      "sort-name": "Kissin, Evgeny",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian classical pianist",
+      "isnis": [
+        "0000000109938394"
+      ],
+      "life-span": {
+        "begin": "1971-10-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Кисин, Евгений",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Евгений Кисин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кисин, Евгений Игоревич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Евгений Игоревич Кисин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kissen, Evgeny",
+          "name": "Evgeny Kissen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evgeni Igorevich Kissin",
+          "name": "Evgeni Igorevich Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evgeny Igorevich Kissin",
+          "name": "Evgeny Igorevich Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yevgeni Kissin",
+          "name": "Yevgeni Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yevgeny Kissin",
+          "name": "Yevgeny Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kissin, Evgeny",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Evgeny Kissin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evgeni Kissin",
+          "name": "Evgeni Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kissin, Evgency",
+          "name": "Evgency Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 0,
+          "name": "russian pianist"
+        }
+      ]
+    },
+    {
+      "id": "93047ccd-ec26-40eb-9538-9705b18a2a2e",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 51,
+      "name": "Kissin’ Dynamite",
+      "sort-name": "Kissin’ Dynamite",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3e251d20-9cea-44f4-8792-040b5702b291",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Burladingen",
+        "sort-name": "Burladingen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000105508338"
+      ],
+      "life-span": {
+        "begin": "2006",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "heavy metal"
+        },
+        {
+          "count": 3,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "glam rock"
+        }
+      ]
+    },
+    {
+      "id": "f2457bc0-9e31-454c-87ac-8dea9fd9c392",
+      "score": 50,
+      "name": "kissin",
+      "sort-name": "kissin",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5d5d0645-3c11-4e63-b611-2c6e6f83cf74",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Kissin’ Black",
+      "sort-name": "Kissin’ Black",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swiss acoustic rock",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "acoustic rock"
+        }
+      ]
+    },
+    {
+      "id": "7eee4a80-0bdf-406b-8daa-29515a77f89c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 45,
+      "name": "Kissin Cousins",
+      "sort-name": "Kissin Cousins",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "hamburger schule"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        }
+      ]
+    },
+    {
+      "id": "95cc5207-ecf3-4681-8157-8d54eff8dc7b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 44,
+      "name": "Kissin’ Cousins",
+      "sort-name": "Kissin’ Cousins",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "12c3b82e-fcab-4219-9bd5-792089d8280e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Barcelona",
+        "sort-name": "Barcelona",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish punk band from Barcelona",
+      "life-span": {
+        "begin": "2004",
+        "end": "2006",
+        "ended": true
+      }
+    },
+    {
+      "id": "e20756e1-d6ea-46f9-9e8e-8a592900d657",
+      "score": 44,
+      "name": "Kissin' Cousins",
+      "sort-name": "Kissin' Cousins",
+      "disambiguation": "Danish? known for \"Sugar Sugar\"",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "200a8656-4e31-4772-b821-ed5b7ce316bf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yuri Kissin",
+      "sort-name": "Kissin, Yuri",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9f3f583e-c3b7-43a9-9ce5-b21027e5357b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Perm",
+        "sort-name": "Perm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1973",
+        "ended": null
+      }
+    },
+    {
+      "id": "0960f36f-b7b7-4936-a888-df66ab75024d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 44,
+      "name": "Kissin' Time",
+      "sort-name": "Kissin' Time",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7b612d6a-36ca-49b3-a321-aa0d07445e9e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kassel",
+        "sort-name": "Kassel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German Cover Band",
+      "life-span": {
+        "begin": "1993",
+        "ended": null
+      }
+    },
+    {
+      "id": "28a1c042-524e-4630-b8f0-4639aab536d4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roy Kissin",
+      "sort-name": "Kissin, Roy",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

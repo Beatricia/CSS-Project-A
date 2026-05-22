@@ -1,0 +1,434 @@
+{
+  "created": "2026-05-22T16:51:50.572Z",
+  "count": 56,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c7a1d08c-21f3-4457-a3f7-9e443884259d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ignacy Feliks Dobrzyński",
+      "sort-name": "Dobrzyński, Ignacy Feliks",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "716ce7fe-313c-485e-a219-4e87287612c6",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Zhytomyrs'ka Oblast'",
+        "sort-name": "Zhytomyrs'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000108870017"
+      ],
+      "life-span": {
+        "begin": "1807-02-15",
+        "end": "1867-10-09",
+        "ended": true
+      }
+    },
+    {
+      "id": "6d223e22-fb37-4051-a108-a1b674567b09",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "IGNACY",
+      "sort-name": "Ignacy",
+      "gender": "male",
+      "disambiguation": "\"To co mam\"",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "240f4239-b1aa-44fd-8f37-236900bddcb2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michał Dobrzyński",
+      "sort-name": "Dobrzyński, Michał",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish composer and pianist",
+      "life-span": {
+        "begin": "1980",
+        "ended": null
+      }
+    },
+    {
+      "id": "78f3c145-d1ee-4c61-847a-ea52f2f77cd6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bronisław Dobrzyński",
+      "sort-name": "Dobrzyński, Bronisław",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000113858629"
+      ],
+      "life-span": {
+        "ended": true
+      }
+    },
+    {
+      "id": "f8f65af8-4b5d-4b7a-9d34-abd51fc9c5ff",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Maciej Dobrzyński",
+      "sort-name": "Dobrzyński, Maciej",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "397c10a7-3ad7-4a04-84fc-f3ec0cf4e3ef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Feliks Nowowiejski",
+      "sort-name": "Nowowiejski, Feliks",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a6fb59da-157f-4ec6-a025-bf48c96b8d86",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Barczewo",
+        "sort-name": "Barczewo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "92e7329e-374e-4b71-a175-f61fffc30213",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Poznań",
+        "sort-name": "Poznań",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000080796037"
+      ],
+      "life-span": {
+        "begin": "1877-02-07",
+        "end": "1946-01-18",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "polish"
+        }
+      ]
+    },
+    {
+      "id": "9960842c-c605-4f53-bb12-a7f4d3707b60",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ignaz Friedman",
+      "sort-name": "Friedman, Ignaz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e82975d0-7258-4e4c-9c56-6e1deea8ad4c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kraków",
+        "sort-name": "Kraków",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3f179da4-83c6-4a28-a627-e46b4a8ff1ed",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sydney",
+        "sort-name": "Sydney",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish pianist and composer",
+      "isnis": [
+        "0000000110228779"
+      ],
+      "life-span": {
+        "begin": "1882-02-14",
+        "end": "1948-01-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ignacy Friedman",
+          "name": "Ignacy Friedman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "polish composer"
+        },
+        {
+          "count": 1,
+          "name": "polish pianist"
+        }
+      ]
+    },
+    {
+      "id": "4a2b8def-5a86-45fd-9c21-31c3356a3774",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ignacy Jan Paderewski",
+      "sort-name": "Paderewski, Ignacy Jan",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5db1e2fb-31b4-43bd-826c-b6deef2fe5dc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kuryłówka",
+        "sort-name": "Kuryłówka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish pianist and composer",
+      "isnis": [
+        "0000000109178225"
+      ],
+      "life-span": {
+        "begin": "1860-11-18",
+        "end": "1941-06-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ignace Jan Paderewski",
+          "name": "Ignace Jan Paderewski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ignaz Jan Paderewski",
+          "name": "Ignaz Jan Paderewski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Paderewski, Ignacy Jan",
+          "name": "Paderewski, Ignacy Jan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Paderwski",
+          "name": "Paderwski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Paderewski",
+          "name": "Paderewski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ignacy Jan Paderewsky",
+          "name": "Ignacy Jan Paderewsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "polish"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "politician"
+        },
+        {
+          "count": 1,
+          "name": "polish composer"
+        },
+        {
+          "count": 1,
+          "name": "polish pianist"
+        }
+      ]
+    },
+    {
+      "id": "4dae8876-c4b6-4a06-9882-03f17c9a568e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ignacy Lisiecki",
+      "sort-name": "Lisiecki, Ignacy",
+      "gender": "male",
+      "disambiguation": "Polish pianist, not Jan Lisiecki",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7d95511c-b5b0-4ff9-b0b4-daa4307265dd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 28,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ignacy Stefanowicz",
+      "sort-name": "Stefanowicz, Ignacy",
+      "gender": "male",
+      "disambiguation": "violinist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

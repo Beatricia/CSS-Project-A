@@ -1,0 +1,344 @@
+{
+  "created": "2026-05-22T16:53:32.572Z",
+  "count": 257,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "2e3515b0-b4e0-4e95-8bc8-cbf102b34289",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Alisa Kozhikina",
+      "sort-name": "Kozhikina, Alisa",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a1f0bd3b-6977-4ab2-8d5c-2464bada895d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 42,
+      "name": "Алиса",
+      "sort-name": "Alisa",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian hard rock band lead by K. Kinchev",
+      "life-span": {
+        "begin": "1983",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Alisa",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alisa",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Алиса",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Алиса",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "russian rock"
+        },
+        {
+          "count": 2,
+          "name": "russian"
+        }
+      ]
+    },
+    {
+      "id": "4a27caf1-5a9e-42f8-ac44-ac3065b7c2bb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Alisa",
+      "sort-name": "Alisa",
+      "gender": "female",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "England",
+        "sort-name": "England",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Melbourne University Arts student, singer in Japan",
+      "life-span": {
+        "begin": "1998-09-28",
+        "ended": null
+      }
+    },
+    {
+      "id": "cc3dc619-55f7-4e8e-87f0-a4c143a2026b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 38,
+      "name": "Alisa",
+      "sort-name": "Alisa",
+      "area": {
+        "id": "0e4c5a2b-b595-494d-8c3e-2968d18b6e1f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beograd",
+        "sort-name": "Beograd",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0e4c5a2b-b595-494d-8c3e-2968d18b6e1f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beograd",
+        "sort-name": "Beograd",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Serbian and former Yugoslav pop rock band from Belgrade",
+      "life-span": {
+        "begin": "1984",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        }
+      ]
+    },
+    {
+      "id": "297e85e1-271b-4dab-a683-161a9bf87d85",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Alisa",
+      "sort-name": "Alisa",
+      "gender": "female",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian born, London based songstress",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3241ff8b-4579-4659-984d-ed6343d6f0fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ALISA",
+      "sort-name": "ALISA",
+      "gender": "female",
+      "area": {
+        "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Amsterdam",
+        "sort-name": "Amsterdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Girl in the mirror",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b7f63f30-0a8e-4202-8b23-2b052754fa28",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ALISA",
+      "sort-name": "ALISA",
+      "gender": "female",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "featured by Kreayshawn on Hey Ricky",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9c3d73e8-5e31-44ef-9712-579a1b84411d",
+      "score": 37,
+      "name": "Alisa",
+      "sort-name": "Alisa",
+      "disambiguation": "Alisa Wood",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1e61a0d2-1942-4a55-ae3f-9034fb6ab932",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Alisa Jones",
+      "sort-name": "Jones, Alisa",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US hammered dulcimer player",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Wall, Alisa Jones",
+          "name": "Alisa Jones Wall",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8a58dd14-e4c2-4401-a6ff-750511d31d5c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Alisa",
+      "sort-name": "Alisa",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Alisa Troshenkova",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

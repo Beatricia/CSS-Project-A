@@ -1,0 +1,419 @@
+{
+  "created": "2026-05-22T16:47:24.671Z",
+  "count": 158,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8b008af7-cdb9-4abe-baed-ba737622e310",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Рейнгольд Морицевич Глиэр",
+      "sort-name": "Glière, Reinhold Moritzevich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "isnis": [
+        "0000000120187595"
+      ],
+      "life-span": {
+        "begin": "1875-01-11",
+        "end": "1956-06-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Glière, Reinhold",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Reinhold Glière",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Reinhold Moritzovich Glière",
+          "name": "Reinhold Moritzovich Glière",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glière, Reinhold",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Reinhold Glière",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "8272acf8-4f0d-4cbe-aaa7-4c9c0a947dfb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Reinhold Heil",
+      "sort-name": "Heil, Reinhold",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "331148f9-19cc-443f-a961-62eb51b0dd3b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Schlüchtern",
+        "sort-name": "Schlüchtern",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00037762760"
+      ],
+      "isnis": [
+        "0000000078246976"
+      ],
+      "life-span": {
+        "begin": "1954-05-18",
+        "ended": null
+      }
+    },
+    {
+      "id": "b8df4296-e736-459d-85c2-341615a81c19",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Reinhold Bilgeri",
+      "sort-name": "Bilgeri, Reinhold",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e4842e33-af35-4463-9417-f6f52317e8b0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hohenems",
+        "sort-name": "Hohenems",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00074247572"
+      ],
+      "isnis": [
+        "0000000081451196"
+      ],
+      "life-span": {
+        "begin": "1950-03-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bilgeri",
+          "name": "Bilgeri",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "austrian"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "ff3757c3-a2b5-4126-8ff7-337602784eb3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Reinhold Friedl",
+      "sort-name": "Friedl, Reinhold",
+      "gender": "male",
+      "area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d43989dc-c7b1-457c-bf33-c91c7cf20c74",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Baden-Baden",
+        "sort-name": "Baden-Baden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German pianist and composer",
+      "isnis": [
+        "0000000114941045"
+      ],
+      "life-span": {
+        "begin": "1964",
+        "ended": null
+      }
+    },
+    {
+      "id": "75e475ce-5c42-4378-bdd2-ced15d056452",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 37,
+      "name": "Glière String Quartet",
+      "sort-name": "Glière String Quartet",
+      "life-span": {
+        "begin": "2017",
+        "ended": null
+      }
+    },
+    {
+      "id": "f058f991-9a11-47ba-9a9a-568481108601",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Reinhold Andert",
+      "sort-name": "Andert, Reinhold",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "baca1b98-b54f-4210-ab98-f79f1884153f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Teplice",
+        "sort-name": "Teplice",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081792898"
+      ],
+      "life-span": {
+        "begin": "1944-03-26",
+        "end": "2025-11-23",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "liedermacher"
+        }
+      ]
+    },
+    {
+      "id": "3b46b776-2b82-4e9c-bd10-71d37ca33b28",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "name": "Riley Reinhold",
+      "sort-name": "Reinhold, Riley",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a79cba00-73e2-42d2-b683-9d9f59ae98b8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Reinhold Friedrich",
+      "sort-name": "Friedrich, Reinhold",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "trumpet player",
+      "isnis": [
+        "0000000114515564"
+      ],
+      "life-span": {
+        "begin": "1958-07-14",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "trumpet"
+        }
+      ]
+    },
+    {
+      "id": "29914d7f-b44c-461d-b62a-fd1164e8eeb5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anna Reinhold",
+      "sort-name": "Reinhold, Anna",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "mezzo-soprano",
+      "isnis": [
+        "0000000448915701"
+      ],
+      "life-span": {
+        "begin": "1984",
+        "ended": null
+      }
+    },
+    {
+      "id": "68ab9f6d-6875-46dd-af15-800434cf40f0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Reinhold Weber",
+      "sort-name": "Weber, Reinhold",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bdfef083-f06c-44fe-b2a6-1d4da9d15ae6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Giessen",
+        "sort-name": "Giessen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1927-07-18",
+        "end": "2013-03-25",
+        "ended": true
+      }
+    }
+  ]
+}

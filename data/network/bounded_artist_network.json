@@ -1,0 +1,66 @@
+{
+  "nodes": [
+    {
+      "id": "Bashar Murad",
+      "artist_name": "Bashar Murad",
+      "artist_mbid": "5a289a16-e872-4058-ba3d-4e108e46ff5c",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Playyard",
+      "artist_name": "Playyard",
+      "artist_mbid": "40b8dcf2-fdec-4563-8954-cdc7ee7f1ace",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Sabreen",
+      "artist_name": "Sabreen",
+      "artist_mbid": "bdadce04-f83c-4b53-8179-9b0d2a3f33f7",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Saint Levant",
+      "artist_name": "Saint Levant",
+      "artist_mbid": "015c8b7d-015b-4603-9792-18bb440178ac",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "Bashar Murad",
+      "target": "Sabreen",
+      "weight": 1,
+      "recordings": [
+        "Stone"
+      ],
+      "recording_titles": [
+        "Stone (2024)"
+      ],
+      "recording_years": [
+        "2024"
+      ]
+    },
+    {
+      "source": "Playyard",
+      "target": "Saint Levant",
+      "weight": 1,
+      "recordings": [
+        "I Guess"
+      ],
+      "recording_titles": [
+        "I Guess (2022)"
+      ],
+      "recording_years": [
+        "2022"
+      ]
+    }
+  ]
+}

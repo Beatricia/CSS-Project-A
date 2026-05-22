@@ -1,0 +1,492 @@
+{
+  "created": "2026-05-22T17:15:39.380Z",
+  "count": 77,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "aa66a602-2d39-4177-9e00-c766a6c52f3a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Георгий Катуар",
+      "sort-name": "Catoire, Georgy",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "isnis": [
+        "0000000120266920"
+      ],
+      "life-span": {
+        "begin": "1861-04-27",
+        "end": "1926-05-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Catoire, Georgy",
+          "name": "Georgy Catoire",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Катуар, Георгий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Георгий Катуар",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Катуар, Георгий Львович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Георгий Львович Катуар",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Katuar, Georgij",
+          "name": "Georgij Katuar",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Catoire, Georges",
+          "name": "Georges Catoire",
+          "locale": "fr",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "422cdc34-0316-4bb9-93c1-66d46a97df9d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jean Catoire",
+      "sort-name": "Catoire, Jean",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French composer",
+      "isnis": [
+        "0000000084133433"
+      ],
+      "life-span": {
+        "begin": "1923-04-01",
+        "end": "2005-11-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Catoire",
+          "name": "Catoire",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a29309ae-8eb4-48fc-8119-6bcc94a49b1e",
+      "score": 54,
+      "name": "Georgy",
+      "sort-name": "Georgy",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b8c82b6b-f9be-47e0-9279-ea68fa545206",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "GEORGY",
+      "sort-name": "GEORGY",
+      "gender": "female",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "electro producer & artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9b2e1395-6194-41b0-a508-a07efd1cebdf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Philippe Catoire",
+      "sort-name": "Catoire, Philippe",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "951fff6e-8d67-4b9e-8ecc-88904c9b5ec4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Aubervilliers",
+        "sort-name": "Aubervilliers",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000071178421"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1283781d-5af2-49ec-ac3b-27adaf87b578",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Agathe Catoire",
+      "sort-name": "Catoire, Agathe",
+      "gender": "female",
+      "area": {
+        "id": "0abacf96-801b-4720-9ad0-6a3c7a90ba1a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lille",
+        "sort-name": "Lille",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French singer, flutist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "65158ac6-a611-49d2-a08c-962722d10e5e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Georgy Om",
+      "sort-name": "Om, Georgy",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "79f0101f-581d-4f05-bc4d-eba03a1aa80d",
+      "score": 48,
+      "name": "Georgy Whistler",
+      "sort-name": "Whistler, Georgy",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "aed24a61-1c5c-402e-9e89-7cf4d7e4d95b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Георгий Свиридов",
+      "sort-name": "Sviridov, Georgy",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ee4bdae6-3df9-4fb7-8dff-e5a1107607a4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Fatezh",
+        "sort-name": "Fatezh",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "isnis": [
+        "0000000110693187"
+      ],
+      "life-span": {
+        "begin": "1915-12-16",
+        "end": "1998-01-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sviridov, Georgy Vasilevich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Georgy Vasilevich Sviridov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sviridov, Georgy Vasilyevich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Georgy Vasilyevich Sviridov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sviridov, Georgy",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Georgy Sviridov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Свиридов, Георгий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Георгий Свиридов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Свиридов, Георгий Васильевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Георгий Васильевич Свиридов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Deogry Sviridov",
+          "name": "Deogry Sviridov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georgii Sviridov",
+          "name": "Georgii Sviridov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georgi Sviridov",
+          "name": "Georgi Sviridov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georgiy Sviridov",
+          "name": "Georgiy Sviridov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georgij Sviridov",
+          "name": "Georgij Sviridov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sviridovs, G.",
+          "name": "G. Sviridovs",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "ae46215d-6d4a-4bec-a85f-5f37900bcdbc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Georgy Minyaev",
+      "sort-name": "Minyaev, Georgy",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

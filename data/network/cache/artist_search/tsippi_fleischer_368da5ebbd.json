@@ -1,0 +1,335 @@
+{
+  "created": "2026-05-22T17:29:52.955Z",
+  "count": 70,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "642d8c18-5038-4f0d-b018-0865511b15da",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ציפי פליישר",
+      "sort-name": "Fleischer, Tzipi",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4da37f20-218d-4406-8d29-7d30a32978bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Haifa",
+        "sort-name": "Haifa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli composer",
+      "isnis": [
+        "0000000084130451"
+      ],
+      "life-span": {
+        "begin": "1946-05-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "פליישר",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "ציפי פליישר",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fleischer, Tsippi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tsippi Fleischer",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "64712fab-3cf2-459d-909d-be6f6aab2180",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 47,
+      "name": "Fleischer",
+      "sort-name": "Fleischer",
+      "disambiguation": "Death/Thrash Metal from Lübeck",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "30f0d2a7-e3aa-4e28-a9d9-d00c005d510c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Allison Fleischer",
+      "sort-name": "Fleischer, Allison",
+      "gender": "female",
+      "area": {
+        "id": "8add057f-95ab-4ab0-b379-04f8025cfffd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Maple Valley",
+        "sort-name": "Maple Valley",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "dc0d49cd-8afe-470f-936d-204ade81d537",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leon Fleisher",
+      "sort-name": "Fleisher, Leon",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "83f22bb6-4631-443c-bace-9fae8540362a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San Francisco",
+        "sort-name": "San Francisco",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2fb5445d-3987-49fe-957a-f730a7acc4a2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Baltimore",
+        "sort-name": "Baltimore",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist and conductor",
+      "isnis": [
+        "0000000078257093"
+      ],
+      "life-span": {
+        "begin": "1928-07-23",
+        "end": "2020-08-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Leon Fleischer",
+          "name": "Leon Fleischer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "piano"
+        }
+      ]
+    },
+    {
+      "id": "3ba70319-01c0-4918-beeb-015d083e33f3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zool Fleischer",
+      "sort-name": "Fleischer, Zool",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "248d4d8c-53b8-4378-9000-39cd95a4840f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boulogne-Billancourt",
+        "sort-name": "Boulogne-Billancourt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000001469450"
+      ],
+      "life-span": {
+        "begin": "1958",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "12f8d691-7a66-4ac5-b7c0-6dfed9f53c77",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alek Fleischer",
+      "sort-name": "Fleischer, Alek",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Fleischer, Aleksander",
+          "name": "Aleksander Fleischer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "2279ca45-3144-48ee-8022-4527522b57f6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Fleischer",
+      "sort-name": "Fleischer, Alexander",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "be468ead-bf73-414b-afe5-8f89282aad65",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Margot Fleischer",
+      "sort-name": "Fleischer, Margot",
+      "gender": "female",
+      "life-span": {
+        "ended": true
+      }
+    },
+    {
+      "id": "b16c8518-48b8-442b-9a97-340674590d0b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Markus Fleischer",
+      "sort-name": "Fleischer, Markus",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b654bbfe-4c42-48c1-8c4f-6e66df7c520a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mainz",
+        "sort-name": "Mainz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1972-03-06",
+        "ended": null
+      }
+    },
+    {
+      "id": "1768c4ab-098d-4be3-be12-cfd099cc1f00",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tania Fleischer",
+      "sort-name": "Fleischer, Tania",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

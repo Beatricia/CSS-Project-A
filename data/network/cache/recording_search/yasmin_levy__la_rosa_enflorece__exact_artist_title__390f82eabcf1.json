@@ -1,0 +1,144 @@
+{
+  "created": "2026-05-22T18:33:51.754Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1f405fd3-7fca-436d-80ed-8743e82a2ff9",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "La rosa enflorece",
+      "length": 175240,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-10-08",
+      "releases": [
+        {
+          "id": "330311ba-8e9b-46b0-a931-2a6233c00dfe",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Libertad",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b10eaa95-236d-4cbd-8f73-bd081fe66349",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Libertad",
+            "primary-type": "Album"
+          },
+          "track-count": 12,
+          "media": [
+            {
+              "id": "6b827ecd-ac23-355d-965a-16bd5d88c266",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "3bb4e20f-ff27-4624-8e24-628a79d312b2",
+                  "number": "12",
+                  "title": "La rosa enflorece",
+                  "length": 175240
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "e82e7143-3f7a-4821-8047-a86b7d367715",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Libertad",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b10eaa95-236d-4cbd-8f73-bd081fe66349",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Libertad",
+            "primary-type": "Album"
+          },
+          "date": "2012-10-08",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2012-10-08",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "68f8eba2-661e-36e0-a5e8-51ba8262f516",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "8467b727-c01c-378e-b5c1-37e80dca96a0",
+                  "number": "12",
+                  "title": "La rosa enflorece",
+                  "length": 175240
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "IL4070900038"
+      ]
+    }
+  ],
+  "query": "artist:\"Yasmin Levy\" AND recording:\"La Rosa Enflorece\""
+}

@@ -1,0 +1,401 @@
+{
+  "created": "2026-05-22T17:05:36.012Z",
+  "count": 233,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "1928a9f4-7ce0-4c68-855c-85410c5d06a7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Григорий Соколов",
+      "sort-name": "Sokolov, Grigory",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000109859194"
+      ],
+      "life-span": {
+        "begin": "1950-04-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Grigory Lipmanovich Sokolov",
+          "name": "Grigory Lipmanovich Sokolov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sokolov, Grigory",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Grigory Sokolov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sokolov, Grigori",
+          "name": "Grigori Sokolov",
+          "locale": "nl",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sokolov, Grigory",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Grigory Sokolov",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian pianist"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "26c56f08-8c68-416f-b581-93fb8bb06378",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 53,
+      "name": "Sokolov",
+      "sort-name": "Sokolov",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2009",
+        "ended": null
+      }
+    },
+    {
+      "id": "e26a0b18-a540-4ddf-b2bc-9305b3facf76",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tanya Eby",
+      "sort-name": "Eby, Tanya",
+      "gender": "female",
+      "disambiguation": "narrator",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sokolov, Tatiana",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tatiana Sokolov",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "narrator"
+        },
+        {
+          "count": 1,
+          "name": "performer"
+        }
+      ]
+    },
+    {
+      "id": "cb42445b-f8d8-4eb1-9806-d70c45725fc8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Григорий Лепс",
+      "sort-name": "Leps, Grigory",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6dfc84a1-167d-46d9-ba68-6e3e57622263",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sochi",
+        "sort-name": "Sochi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000040683679X"
+      ],
+      "life-span": {
+        "begin": "1962-07-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Leps, Grigory",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Grigory Leps",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лепсверидзе, Григорий Викторович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Григорий Викторович Лепсверидзе",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лепс, Григорий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Григорий Лепс",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "5a133684-d957-452f-8ca8-ac7d143737a4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lisa Sokolov",
+      "sort-name": "Sokolov, Lisa",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "37e243ec-44ce-44d5-aafc-516a2e58c301",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Manhasset",
+        "sort-name": "Manhasset",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055215608"
+      ],
+      "life-span": {
+        "begin": "1954-09-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "d8e47088-fe62-4c1e-bc9a-60ab4dec6405",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ivan Sokolov",
+      "sort-name": "Sokolov, Ivan",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer, pianist and musicologist",
+      "life-span": {
+        "begin": "1960-08-29",
+        "ended": null
+      }
+    },
+    {
+      "id": "244f066f-4498-4c74-bb3c-6d82b96baddd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grigory Kalinovsky",
+      "sort-name": "Kalinovsky, Grigory",
+      "gender": "male",
+      "disambiguation": "violinist",
+      "isnis": [
+        "0000000055440389"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "86043920-81a3-47cc-bcd3-d0100cef1956",
+      "score": 45,
+      "name": "Faustina Sokolov",
+      "sort-name": "Sokolov, Faustina",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d000a63d-f395-45a1-8f02-ccb9ac2e7e34",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "name": "Grigory Fatyanov",
+      "sort-name": "Fatyanov, Grigory",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian house DJ",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "house"
+        }
+      ]
+    },
+    {
+      "id": "1d37c42f-21c8-4ff3-9bd8-8fd6dc3fad29",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grigory Krein",
+      "sort-name": "Krein, Grigory",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian Jewish composer",
+      "life-span": {
+        "begin": "1879",
+        "end": "1955",
+        "ended": true
+      }
+    }
+  ]
+}

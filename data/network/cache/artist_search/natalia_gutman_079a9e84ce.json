@@ -1,0 +1,472 @@
+{
+  "created": "2026-05-22T17:08:14.260Z",
+  "count": 591,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c863732d-de4e-4154-9a73-f07ef4008f63",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Наталья Гутман",
+      "sort-name": "Gutman, Natalia",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "05cd175a-0e3a-4bd6-a27e-86fad1a654f4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kazan",
+        "sort-name": "Kazan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "cellist",
+      "isnis": [
+        "0000000108602733"
+      ],
+      "life-span": {
+        "begin": "1942-11-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Natal'â Grigor'evna Gutman",
+          "name": "Natal'â Grigor'evna Gutman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Natalia Goutman",
+          "name": "Natalia Goutman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gutman, Natalia",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Natalia Gutman",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gutman, Natalja",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Natalja Gutman",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gutman, Natalja Grigorjewna",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Natalja Grigorjewna Gutman",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gutman, Natalia Grigoryevna",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Natalia Grigoryevna Gutman",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Гутман, Наталья Григорьевна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Наталья Григорьевна Гутман",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Гутман, Наталья",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Наталья Гутман",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "cellist"
+        },
+        {
+          "count": 1,
+          "name": "russian cellist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "125a6657-1ec2-48c8-a980-e9e42f3de06f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natalia",
+      "sort-name": "Natalia",
+      "gender": "female",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "eb9b595b-a5b9-4e98-8b9e-ca5712040b70",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Geel",
+        "sort-name": "Geel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian singer Natalia Druyts",
+      "isnis": [
+        "0000000064375312"
+      ],
+      "life-span": {
+        "begin": "1980-12-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Druyts, Natalia",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Natalia Druyts",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ab25b7c3-e6fa-43e9-b3af-78384520d78f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yosef Gutman",
+      "sort-name": "Gutman, Yosef",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "South Africa",
+        "sort-name": "South Africa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1979",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Yosef Gutman Levitt",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yosef Gutman Levitt",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "3b6753fb-9d6b-48a9-b3e6-9a971ecf1658",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natalia Natalia",
+      "sort-name": "Natalia, Natalia",
+      "gender": "female",
+      "country": "CO",
+      "area": {
+        "id": "02b60d8d-7164-339d-868d-22d147d9f74a",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Colombia",
+        "sort-name": "Colombia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6f85c2b6-4250-468b-9bd8-300fd8b451ad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bogotá",
+        "sort-name": "Bogotá",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Colombian actress, songwriter, singer",
+      "life-span": {
+        "begin": "1996-08-14",
+        "ended": null
+      }
+    },
+    {
+      "id": "a900f340-3ebf-4b4f-89b9-b59a6e9d5337",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natalia",
+      "sort-name": "Natalia",
+      "gender": "female",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3e3fac1a-f17f-4b74-ab24-f36768f1c0d4",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Sanlúcar de Barrameda",
+        "sort-name": "Sanlúcar de Barrameda",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish singer Natalia Rodríguez",
+      "life-span": {
+        "begin": "1982-12-11",
+        "ended": null
+      }
+    },
+    {
+      "id": "2ceb4e66-4eaa-4dba-ad3a-30df3b742557",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Natalia Lafourcade",
+      "sort-name": "Lafourcade, Natalia",
+      "gender": "female",
+      "country": "MX",
+      "area": {
+        "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Mexico",
+        "sort-name": "Mexico",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e3969150-97c8-40ac-975d-92ec23e06bf5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Coatepec",
+        "sort-name": "Coatepec",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00447621353"
+      ],
+      "isnis": [
+        "0000000118477446"
+      ],
+      "life-span": {
+        "begin": "1984-02-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lafourcade Silva, María Natalia",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "María Natalia Lafourcade Silva",
+          "locale": "es_MX",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "female vocals"
+        },
+        {
+          "count": 0,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "latin pop"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        },
+        {
+          "count": 2,
+          "name": "folk pop"
+        },
+        {
+          "count": 1,
+          "name": "latin american"
+        }
+      ]
+    },
+    {
+      "id": "52c83b42-c485-4cc1-b371-ad164b700193",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Monica Gutman",
+      "sort-name": "Gutman, Monica",
+      "gender": "female",
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000055188670"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c978f549-771b-424e-9410-ef8edd7f66a9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Michal Gutman",
+      "sort-name": "Gutman, Michal",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7560f2cf-7815-49d7-9348-adc27b2c2631",
+      "score": 53,
+      "name": "Jeff Gutman",
+      "sort-name": "Gutman, Jeff",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "85893b9b-4be6-4782-a6ea-2a6a5695fb90",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "Gutman Trio",
+      "sort-name": "Gutman Trio",
+      "isnis": [
+        "0000000469935947"
+      ],
+      "life-span": {
+        "begin": "2000",
+        "ended": null
+      }
+    }
+  ]
+}

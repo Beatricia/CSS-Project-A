@@ -1,0 +1,796 @@
+{
+  "created": "2026-05-22T17:14:00.300Z",
+  "count": 2213,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "2a2d33bb-acc2-4ff0-bf80-87fb37477eb8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arthur Friedheim",
+      "sort-name": "Friedheim, Arthur",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian-born pianist, 1859-1932",
+      "isnis": [
+        "0000000083745702"
+      ],
+      "life-span": {
+        "begin": "1859-10-26",
+        "end": "1932-10-19",
+        "ended": true
+      }
+    },
+    {
+      "id": "0568c60f-9852-4708-82ab-1afb8bb1342f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sir Arthur Conan Doyle",
+      "sort-name": "Doyle, Arthur Conan, Sir",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6658f787-692d-417f-852c-dcca728d5849",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Edinburgh",
+        "sort-name": "Edinburgh",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000122810491"
+      ],
+      "life-span": {
+        "begin": "1859-05-22",
+        "end": "1930-07-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Doyle, Arthur Conan",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Arthur Conan Doyle",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Doyle, Arthur Ignatius Conan",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Arthur Ignatius Conan Doyle",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Conan Doyle, Arthur, Sir",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sir Arthur Conan Doyle",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "_edit"
+        },
+        {
+          "count": 1,
+          "name": "author"
+        },
+        {
+          "count": 1,
+          "name": "united kingdom"
+        },
+        {
+          "count": 1,
+          "name": "drama"
+        },
+        {
+          "count": 1,
+          "name": "crime"
+        },
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        },
+        {
+          "count": 1,
+          "name": "audio drama"
+        },
+        {
+          "count": 1,
+          "name": "audiobook"
+        },
+        {
+          "count": 1,
+          "name": "_consistency"
+        },
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "4b466f5e-4620-4084-8841-3fe4ea38e689",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arthur Sullivan",
+      "sort-name": "Sullivan, Arthur",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6f34ea39-ca6c-4982-9731-3a5c7a0edf36",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Lambeth",
+        "sort-name": "Lambeth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00029879823"
+      ],
+      "isnis": [
+        "0000000081679107"
+      ],
+      "life-span": {
+        "begin": "1842-05-13",
+        "end": "1900-11-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sullivan",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sullivan",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sullivan, Arthur Seymour, Sir",
+          "name": "Sir Arthur Seymour Sullivan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": "1883-05-22",
+          "end-date": null
+        },
+        {
+          "sort-name": "Sullivan, Arthur, Sir",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sir Arthur Sullivan",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": "1883-05-22",
+          "end-date": null
+        },
+        {
+          "sort-name": "Sullivan, Arthur Seymour",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Arthur Seymour Sullivan",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arthur Sullivan",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Arthur Sullivan",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "british composer"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "ccea18d9-240f-4c04-a02b-2e9bf9446383",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Heinrich Friedheim",
+      "sort-name": "Friedheim, Heinrich",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7cc89d05-3db5-4d08-bea0-9c328aa56c39",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arthur Rubinstein",
+      "sort-name": "Rubinstein, Arthur",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "71ce186a-285d-4c01-b863-6e46bf10e249",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Łódź",
+        "sort-name": "Łódź",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "28d44913-d1b1-4cc8-8c51-bf80a2a210cf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Genève",
+        "sort-name": "Genève",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000120285187"
+      ],
+      "life-span": {
+        "begin": "1887-01-28",
+        "end": "1982-12-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Artur Rubinstein",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Artur Rubinstein",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arthur Rubenstein",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Arthur Rubenstein",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arthur Rubinsteing",
+          "name": "Arthur Rubinsteing",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Artur Rubenstein",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Artur Rubenstein",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 4,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 2,
+          "name": "performer"
+        },
+        {
+          "count": 0,
+          "name": "chopin"
+        },
+        {
+          "count": 1,
+          "name": "american pianist"
+        }
+      ]
+    },
+    {
+      "id": "7c0ae486-bab5-410f-9ece-255c11f4876d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arthur Fiedler",
+      "sort-name": "Fiedler, Arthur",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boston",
+        "sort-name": "Boston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0ba113bf-35f7-422b-bc15-1cb103cd109b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Brookline",
+        "sort-name": "Brookline",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000109041077"
+      ],
+      "life-span": {
+        "begin": "1894-12-17",
+        "end": "1979-07-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Arthur Fielder",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Arthur Fielder",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": -1,
+          "name": "death by heart attack"
+        }
+      ]
+    },
+    {
+      "id": "0dba1485-2e95-42e7-a7cd-2b473095001c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arthur C. Clarke",
+      "sort-name": "Clarke, Arthur C.",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "28ec90e4-80b5-487e-b32f-fb15871bab08",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Minehead",
+        "sort-name": "Minehead",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e1b5a7e3-31fd-4ed9-bff8-96cfc044c824",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Colombo",
+        "sort-name": "Colombo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121251034"
+      ],
+      "life-span": {
+        "begin": "1917-12-16",
+        "end": "2008-03-19",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "british"
+        },
+        {
+          "count": 2,
+          "name": "uk"
+        },
+        {
+          "count": 2,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "author"
+        }
+      ]
+    },
+    {
+      "id": "7bcfc64a-ce4a-4065-947c-d037bca1e230",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arthur Honegger",
+      "sort-name": "Honegger, Arthur",
+      "gender": "male",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a776ba2-6ce4-4e01-9845-c0d2fa1dc3e3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Le Havre",
+        "sort-name": "Le Havre",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00014352715"
+      ],
+      "isnis": [
+        "0000000121326892"
+      ],
+      "life-span": {
+        "begin": "1892-03-10",
+        "end": "1955-11-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Arthur Honneger",
+          "name": "Arthur Honneger",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Honegger, Arthur",
+          "name": "Honegger, Arthur",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Honegger",
+          "name": "Honegger",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 0,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "swiss"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "modern classical"
+        },
+        {
+          "count": 1,
+          "name": "swiss composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "6d7bbe9c-e9de-4057-8d69-bbc09e365ebb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arthur Prysock",
+      "sort-name": "Prysock, Arthur",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "50dd961d-c011-4c1b-829b-f706768e516d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Spartanburg",
+        "sort-name": "Spartanburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1e36e2c0-af6b-4d7c-a4d1-bd46df9260da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamilton",
+        "sort-name": "Hamilton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000118038427"
+      ],
+      "life-span": {
+        "begin": "1929-01-02",
+        "end": "1997-06-14",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "aln-sh"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "d87e7a30-0b43-46ab-9909-dbcd536f05b6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Robert Arthur",
+      "sort-name": "Arthur, Robert",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "20fc5520-d634-4202-b057-03412d73414b",
+        "type": "Island",
+        "type-id": "3f8e7b66-058b-369b-9834-ffa5fcba5641",
+        "name": "Corregidor",
+        "sort-name": "Corregidor",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Philadelphia",
+        "sort-name": "Philadelphia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American mystery and speculative fiction writer",
+      "isnis": [
+        "0000000115569177"
+      ],
+      "life-span": {
+        "begin": "1909-11-10",
+        "end": "1969-05-02",
+        "ended": true
+      }
+    }
+  ]
+}

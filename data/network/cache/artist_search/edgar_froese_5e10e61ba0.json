@@ -1,0 +1,651 @@
+{
+  "created": "2026-05-22T17:04:36.838Z",
+  "count": 842,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "610a62e8-541b-42e4-a3fe-8dd595be93a8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Edgar Froese",
+      "sort-name": "Froese, Edgar",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00040131935"
+      ],
+      "isnis": [
+        "0000000081891554"
+      ],
+      "life-span": {
+        "begin": "1944-06-06",
+        "end": "2015-01-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Froese, Edgar W.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Edgar W. Froese",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Froese, Edgar Willmar",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edgar Willmar Froese",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "krautrock"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 3,
+          "name": "progressive electronic"
+        },
+        {
+          "count": 3,
+          "name": "berlin school"
+        }
+      ]
+    },
+    {
+      "id": "11fa0099-3e17-4dc4-be73-321f2fd2900b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ed Jefro",
+      "sort-name": "Jefro, Ed",
+      "gender": "male",
+      "disambiguation": "Edgar & Jerome Froese; recording engineer and engineer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Froese, Edgar & Jerome",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edgar & Jerome Froese",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "14f6120f-d770-4e3c-a9b6-dc12ade09452",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerome Froese",
+      "sort-name": "Froese, Jerome",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000058596426"
+      ],
+      "life-span": {
+        "begin": "1970-11-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "TDJ Rome",
+          "name": "TDJ Rome",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ed Jefro",
+          "name": "Ed Jefro",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "23d8426c-18c7-46e6-a51d-7395bd43c641",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 43,
+      "name": "Tangerine Dream",
+      "sort-name": "Tangerine Dream",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000122708091"
+      ],
+      "life-span": {
+        "begin": "1967-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Franke, Froese, Schmoelling",
+          "name": "Franke, Froese, Schmoelling",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tangeine Dream",
+          "name": "Tangeine Dream",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tangerine Dream with Kathleen Turner",
+          "name": "Tangerine Dream with Kathleen Turner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "rock"
+        },
+        {
+          "count": 15,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "progressive rock"
+        },
+        {
+          "count": 6,
+          "name": "krautrock"
+        },
+        {
+          "count": 13,
+          "name": "ambient"
+        },
+        {
+          "count": 5,
+          "name": "german"
+        },
+        {
+          "count": 3,
+          "name": "new age"
+        },
+        {
+          "count": 2,
+          "name": "film score"
+        },
+        {
+          "count": 0,
+          "name": "european"
+        },
+        {
+          "count": 6,
+          "name": "progressive electronic"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 0,
+          "name": "synthesizer"
+        },
+        {
+          "count": 8,
+          "name": "berlin school"
+        },
+        {
+          "count": 0,
+          "name": "lily"
+        },
+        {
+          "count": 1,
+          "name": "kosmische"
+        },
+        {
+          "count": 1,
+          "name": "new-age"
+        },
+        {
+          "count": 2,
+          "name": "kosmische musik"
+        },
+        {
+          "count": 0,
+          "name": "iswcs pending"
+        }
+      ]
+    },
+    {
+      "id": "d64fef00-5f3f-41cf-bb80-1254debc5c8b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ellen Froese",
+      "sort-name": "Froese, Ellen",
+      "gender": "female",
+      "area": {
+        "id": "69d732db-6750-46f3-aa30-3d712c562ef5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Saskatoon",
+        "sort-name": "Saskatoon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00744023175"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Froese-Kooijenga, Ellen",
+          "name": "Ellen Froese-Kooijenga",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c927b0e2-072c-4dbd-aaf5-d92aa57841dc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Edgar Winter",
+      "sort-name": "Winter, Edgar",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3e75bd2f-3891-4e28-a7c3-dee590a8a3fb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beaumont",
+        "sort-name": "Beaumont",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00055213503"
+      ],
+      "isnis": [
+        "0000000114505200"
+      ],
+      "life-span": {
+        "begin": "1946-12-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Winter, Edgar",
+          "name": "Winter, Edgar",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Winter, Edgar Holland",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edgar Holland Winter",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 1,
+          "name": "blue-eyed soul"
+        },
+        {
+          "count": 1,
+          "name": "boogie rock"
+        },
+        {
+          "count": 1,
+          "name": "scientology"
+        }
+      ]
+    },
+    {
+      "id": "1cf07722-56ab-4b3e-82e2-d311742a2cb0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "name": "Robyn Froese",
+      "sort-name": "Froese, Robyn",
+      "area": {
+        "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vancouver",
+        "sort-name": "Vancouver",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1993-05-01",
+        "ended": null
+      }
+    },
+    {
+      "id": "901caa09-383e-4dbc-95f2-a75ec7863b6a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Edgar Meyer",
+      "sort-name": "Meyer, Edgar",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0f9bdd98-dcb9-4afe-80be-f0c5cdb1078e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oak Ridge",
+        "sort-name": "Oak Ridge",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "contemporary bassist and composer",
+      "ipis": [
+        "00201237330"
+      ],
+      "isnis": [
+        "0000000031827087"
+      ],
+      "life-span": {
+        "begin": "1960-11-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Meyer",
+          "name": "Meyer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "multi-instrumentalist"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "american composer"
+        },
+        {
+          "count": 1,
+          "name": "bassist"
+        },
+        {
+          "count": 1,
+          "name": "american bassist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "14c0430c-9f92-4e52-a654-87fdc4abbf1e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "name": "Bill Froese",
+      "sort-name": "Froese, Bill",
+      "disambiguation": "Vocalist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8c332797-2784-45a7-9b5c-3b86f07a03de",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Afroman",
+      "sort-name": "Afroman",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American rapper, singer and songwriter",
+      "life-span": {
+        "begin": "1974-07-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Foreman, Joseph Edgar",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Joseph Edgar Foreman",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Foreman, Joseph",
+          "name": "Joseph Foreman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Afro Man",
+          "name": "Afro Man",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Afro-man",
+          "name": "Afro-man",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 0,
+          "name": "hip hop rnb and dance hall"
+        },
+        {
+          "count": 1,
+          "name": "alternative hip hop"
+        },
+        {
+          "count": 1,
+          "name": "west coast hip hop"
+        },
+        {
+          "count": 1,
+          "name": "comedy rap"
+        }
+      ]
+    }
+  ]
+}

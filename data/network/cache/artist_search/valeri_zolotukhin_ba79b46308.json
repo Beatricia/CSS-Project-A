@@ -1,0 +1,293 @@
+{
+  "created": "2026-05-22T17:11:00.393Z",
+  "count": 1111,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "4cfd56d7-23ab-4ee7-a10d-e60eacf5d06a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Валерий Золотухин",
+      "sort-name": "Zolotukhin, Valeri",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "7228e432-b2eb-42c3-8b12-063c63038c54",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Altayskiy kray",
+        "sort-name": "Altayskiy kray",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000010855652X"
+      ],
+      "life-span": {
+        "begin": "1941-06-21",
+        "end": "2013-03-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Золотухин, Валерий Сергеевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Валерий Сергеевич Золотухин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Золотухин, Валерий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Валерий Золотухин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f1962527-6917-47e4-8b54-3e520bdce4a1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "name": "Alyosha Zolotukhin",
+      "sort-name": "Zolotukhin, Alyosha",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "60413565-282a-4aeb-becb-0888f3982afd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Valeri Alikov",
+      "sort-name": "Alikov, Valeri",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "50c27e18-e4fa-4efb-bf50-8f679e4890c4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "name": "Valeri Dimchev",
+      "sort-name": "Dimchev, Valeri",
+      "country": "BG",
+      "area": {
+        "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Bulgaria",
+        "sort-name": "Bulgaria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a656aa45-4e35-457e-bd8c-11bd7f806cab",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gaetano Valeri",
+      "sort-name": "Valeri, Gaetano",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0d69aa1f-bda4-4e03-a5a6-effb89b860be",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Padova",
+        "sort-name": "Padova",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0d69aa1f-bda4-4e03-a5a6-effb89b860be",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Padova",
+        "sort-name": "Padova",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000116326767"
+      ],
+      "life-span": {
+        "begin": "1760-09-21",
+        "end": "1822-04-13",
+        "ended": true
+      }
+    },
+    {
+      "id": "fc676ec1-6364-4982-862b-1ca78c426aab",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "name": "Andrea Valeri",
+      "sort-name": "Valeri, Andrea",
+      "begin-area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1991",
+        "ended": null
+      }
+    },
+    {
+      "id": "35e79d36-a99a-476c-a471-51dbb144aeb3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marco Valeri",
+      "sort-name": "Valeri, Marco",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "93a2c900-11a4-409f-a887-93110b03df40",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Valeri Lipets",
+      "sort-name": "Lipets, Valeri",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli Bass Player",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9fe033da-ece8-4958-905c-028d5385bab0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Valeri Rubacha",
+      "sort-name": "Rubacha, Valeri",
+      "gender": "male",
+      "country": "NO",
+      "area": {
+        "id": "6743d351-6f37-3049-9724-5041161fff4d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Norway",
+        "sort-name": "Norway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "47323b71-af21-42f7-ae02-380b31ee1b94",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Minsk",
+        "sort-name": "Minsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1954",
+        "ended": null
+      }
+    },
+    {
+      "id": "0d6680c2-0142-46c4-96c1-397634001a16",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "name": "Valeri Lopez",
+      "sort-name": "Lopez, Valeri",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

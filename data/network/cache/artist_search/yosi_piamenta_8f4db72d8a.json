@@ -1,0 +1,322 @@
+{
+  "created": "2026-05-22T17:27:26.592Z",
+  "count": 83,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "4c90a769-9dd8-4a92-b352-aa375bab6267",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yosi Piamenta",
+      "sort-name": "Piamenta, Yosi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1951-11-29",
+        "end": "2015-08-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Yossi Piamenta",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Yossi Piamenta",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "פיאמנטה, יוסי",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "יוסי פיאמנטה",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "24324961-bbeb-4222-b6b0-22655b14934a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 43,
+      "name": "Piamenta",
+      "sort-name": "Piamenta",
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000096879785"
+      ],
+      "life-span": {
+        "begin": "1974",
+        "end": "2005",
+        "ended": true
+      }
+    },
+    {
+      "id": "d16c396b-d0d4-43b6-b860-e50bfa0b0f2e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "name": "YoSi*",
+      "sort-name": "YoSi*",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b8340898-9c3e-4167-afb2-bcaa53b3d4a4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yosi",
+      "sort-name": "Yosi",
+      "gender": "male",
+      "country": "KR",
+      "area": {
+        "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "South Korea",
+        "sort-name": "South Korea",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Korean producer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e5b167b2-4b44-42f5-9c0d-b23067faed45",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "YOSI",
+      "sort-name": "요시",
+      "gender": "male",
+      "country": "KR",
+      "area": {
+        "id": "b9f7d640-46e8-313e-b158-ded6d18593b3",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "South Korea",
+        "sort-name": "South Korea",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c8a88ba5-5d4e-4cbf-b8ab-dd0e6d99a940",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Busan",
+        "sort-name": "Busan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "SIKKOO",
+      "life-span": {
+        "begin": "2004-05-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "황제헌",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hwang Je-heon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f47738ed-5aba-441f-bae0-8f6c02312286",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yosi Horikawa",
+      "sort-name": "Horikawa, Yosi",
+      "gender": "male",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "884d4a48-c134-4311-830e-38e7ee4100a5",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Osaka",
+        "sort-name": "Osaka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "beats"
+        },
+        {
+          "count": 1,
+          "name": "experimental electronic"
+        }
+      ]
+    },
+    {
+      "id": "a26f5203-bf7b-4a5d-803e-209b8185aa7b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mendy Piamenta",
+      "sort-name": "Piamenta, Mendy",
+      "gender": "male",
+      "life-span": {
+        "begin": "1994-01-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "פיאמנטה, מנדי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "מנדי פיאמנטה",
+          "locale": "he_IL",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "90ef703a-4e2b-4d61-9625-a89e6eb6b0e9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "name": "Orr Piamenta",
+      "sort-name": "Piamenta, Orr",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "047a6f0b-9d5c-4a17-b07e-30f5317b2c72",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yosi Levy",
+      "sort-name": "Levy, Yosi",
+      "gender": "male",
+      "area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1cabee84-c033-4d69-87af-de32204abb70",
+      "score": 34,
+      "name": "Yosi Elephant",
+      "sort-name": "Elephant, Yosi",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

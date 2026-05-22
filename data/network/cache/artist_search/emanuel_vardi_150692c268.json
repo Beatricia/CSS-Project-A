@@ -1,0 +1,589 @@
+{
+  "created": "2026-05-22T17:32:38.223Z",
+  "count": 680,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "427c3aad-1c2e-4c86-840f-69eec3c4c549",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Emanuel Vardi",
+      "sort-name": "Vardi, Emanuel",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "4f81056f-bb6a-4d50-b5c6-5fbc939890f0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "North Bend",
+        "sort-name": "North Bend",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000374630948"
+      ],
+      "life-span": {
+        "begin": "1915-04-21",
+        "end": "2011-04-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Manny Vardi",
+          "name": "Manny Vardi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "cc139e28-036a-4e38-9048-2843607ff8a6",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 71,
+      "name": "Emanuel Vardi and His Orchestra",
+      "sort-name": "Vardi, Emanuel, and His Orchestra",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Vardi et son orchestre",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vardi et son orchestre",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vardi, Emanuel, y su orquesta",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Emanuel Vardi y su orquesta",
+          "locale": "es",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "309cc8f6-953c-44ea-97f8-8b4f3ecbf2ec",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "VARDI",
+      "sort-name": "VARDI",
+      "gender": "male",
+      "area": {
+        "id": "6fa1c7da-6689-4cec-85f9-680f853e8a08",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Scotland",
+        "sort-name": "Scotland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "DJ/producer from Glasgow, Scotland",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Vardi, Ben",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ben Vardi",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f6486fc7-90ef-48ad-8ca3-905af1354afe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Carl Philipp Emanuel Bach",
+      "sort-name": "Bach, Carl Philipp Emanuel",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c7644e45-dec4-43fd-aad6-35036b8e911d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Weimar",
+        "sort-name": "Weimar",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German classical composer",
+      "isnis": [
+        "0000000110198135"
+      ],
+      "life-span": {
+        "begin": "1714-03-08",
+        "end": "1788-12-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bach C.P.E.",
+          "name": "Bach C.P.E.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "カール・フィリップ・エマヌエル・バッハ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "カール・フィリップ・エマヌエル・バッハ",
+          "locale": "ja_JP",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karl Philipp Emanuel Bach",
+          "name": "Karl Philipp Emanuel Bach",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "C.P.E. Bach",
+          "name": "C.P.E. Bach",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "C.P.E. バッハ",
+          "name": "C.P.E. バッハ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Carlos Phillipp Emanuel Bach",
+          "name": "Carlos Phillipp Emanuel Bach",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Carl Philip Emanuel Bach",
+          "name": "Carl Philip Emanuel Bach",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "CPE Bach",
+          "name": "CPE Bach",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "C.P.E.Bach",
+          "name": "C.P.E.Bach",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, Carl Philip Emanuel",
+          "name": "Bach, Carl Philip Emanuel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "german composer"
+        },
+        {
+          "count": -1,
+          "name": "production music"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "baroque"
+        },
+        {
+          "count": 2,
+          "name": "classical period"
+        }
+      ]
+    },
+    {
+      "id": "ae26b737-a119-4a32-af73-04cd9214be1b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arie Vardi",
+      "sort-name": "Vardi, Arie",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist/conductor",
+      "isnis": [
+        "0000000038582828"
+      ],
+      "life-span": {
+        "begin": "1937",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Vardy, Arie",
+          "name": "Arie Vardy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "7fac1c73-ed99-4ccd-9347-4bf275ab9581",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 39,
+      "name": "Emanuel",
+      "sort-name": "Emanuel",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f567b16b-cc65-4cc5-8a5b-ae50b62b346e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jeffersonville",
+        "sort-name": "Jeffersonville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "rock band",
+      "life-span": {
+        "begin": "1998",
+        "ended": null
+      }
+    },
+    {
+      "id": "14aa864b-5878-40d5-b061-28c1bf995853",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Emanuel Ax",
+      "sort-name": "Ax, Emanuel",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "000000012100384X"
+      ],
+      "life-span": {
+        "begin": "1949-06-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Emmanuel Ax",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Emmanuel Ax",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Emannuel Ax",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Emannuel Ax",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Emmannuel Ax",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Emmannuel Ax",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Emanuel Axe",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Emanuel Axe",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "grammy winner"
+        },
+        {
+          "count": 2,
+          "name": "american pianist"
+        },
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "western classical"
+        },
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 2,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "60e4444b-2c56-44c5-9021-7a74ce758173",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Emanuel",
+      "sort-name": "Emanuel",
+      "gender": "male",
+      "country": "PT",
+      "area": {
+        "id": "781b0c54-3d54-362d-a941-8a617def4992",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Portugal",
+        "sort-name": "Portugal",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Portuguese singer",
+      "life-span": {
+        "begin": "1957-03-25",
+        "ended": null
+      }
+    },
+    {
+      "id": "b6bc7f12-0310-4b5e-986e-1bbc1ef22d43",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Emanuel Kallins",
+      "sort-name": "Kallins, Emanuel",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c141b62b-76a9-4721-85d0-ecd8cdb5a39e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Emanuel",
+      "sort-name": "Emanuel",
+      "gender": "male",
+      "area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "db3634e7-5414-41dd-be0b-68ae71798dcd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Toronto soul singer/songwriter",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative r&b"
+        }
+      ]
+    }
+  ]
+}

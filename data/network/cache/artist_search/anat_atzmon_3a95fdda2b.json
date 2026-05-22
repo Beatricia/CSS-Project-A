@@ -1,0 +1,428 @@
+{
+  "created": "2026-05-22T17:25:24.308Z",
+  "count": 1452,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "df1aa7d4-317f-4d58-8c76-728634df8e17",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ענת עצמון",
+      "sort-name": "Atzmon, Anat",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078083206"
+      ],
+      "life-span": {
+        "begin": "1958-11-27",
+        "ended": null
+      }
+    },
+    {
+      "id": "296271ac-873d-4e4b-8fc1-31e0cfad8a9e",
+      "score": 83,
+      "name": "Anat",
+      "sort-name": "Anat",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5ac3b93a-2336-4072-8e46-28cfcbdb9eb7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 81,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gilad Atzmon",
+      "sort-name": "Atzmon, Gilad",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "British jazz saxophonist, novelist, political activist & writer",
+      "ipis": [
+        "00236043790"
+      ],
+      "isnis": [
+        "0000000110538822"
+      ],
+      "life-span": {
+        "begin": "1963-06-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "עצמון, גלעד",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "גלעד עצמון",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "hard bop"
+        },
+        {
+          "count": 1,
+          "name": "jazz and blues"
+        }
+      ]
+    },
+    {
+      "id": "fe935257-b7ef-47c1-a31e-ce678292c674",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anat Cohen",
+      "sort-name": "Cohen, Anat",
+      "gender": "female",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000058876903"
+      ],
+      "life-span": {
+        "begin": "1975-10-31",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "כהן, ענת",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ענת כהן",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "post-bop"
+        },
+        {
+          "count": 1,
+          "name": "contemporary jazz"
+        },
+        {
+          "count": 1,
+          "name": "clarinet"
+        },
+        {
+          "count": 1,
+          "name": "saxophon"
+        }
+      ]
+    },
+    {
+      "id": "91eb36be-87e2-45d8-b5d8-47307708b854",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 78,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Moshe Atzmon",
+      "sort-name": "Atzmon, Moshe",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hungarian-Israeli conductor",
+      "isnis": [
+        "0000000115069893"
+      ],
+      "life-span": {
+        "begin": "1931-07-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "משה עצמון",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה עצמון",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "israeli conductor"
+        }
+      ]
+    },
+    {
+      "id": "6a3cfa13-bb9d-4c72-a847-74117cf899ea",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tali Atzmon",
+      "sort-name": "Atzmon, Tali",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "עצמון, טלי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "טלי עצמון",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "קשפיצקי, טלי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "טלי קשפיצקי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "29567d1b-f5f1-478b-b9c1-032f986707ed",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anat Fort",
+      "sort-name": "Fort, Anat",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000082047558"
+      ],
+      "life-span": {
+        "begin": "1970-03-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "פורט, ענת",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ענת פורט",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ca95c668-6f97-422e-a7a6-50f1cddd0b79",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 72,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anat Damon",
+      "sort-name": "Damon, Anat",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "68436753-636e-46f6-96e9-79050ab9a7b7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 72,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anat Melamed",
+      "sort-name": "Melamed, Anat",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ענת מלמד",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ענת מלמד",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "aeb01f45-411f-4610-a9ec-e4154e23eb82",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 72,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anat Efraty",
+      "sort-name": "Efraty, Anat",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "soprano",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

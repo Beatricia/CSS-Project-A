@@ -1,0 +1,70 @@
+Selected-song collaboration network summary
+
+Usable artists considered: 551
+Artists with selected songs: 10
+Artist-song queries: 130
+Successful recording matches: 81
+Match rate: 62.3%
+Recordings with 2+ credited artists: 10
+Nodes: 16
+Edges: 15
+Matches with usable year/date: 81
+
+Lookup success by strategy:
+- exact_artist_title: attempted=130 successful=39
+- clean_artist_title: attempted=91 successful=42
+- title_only: attempted=49 successful=0
+- clean_title_only: attempted=49 successful=0
+
+Top 20 nodes by weighted degree:
+- alyona alyona | weighted_degree=6 | degree=5 | recordings=4
+- Jerry Heil | weighted_degree=6 | degree=5 | recordings=3
+- Saint Levant | weighted_degree=3 | degree=3 | recordings=3
+- Ela | weighted_degree=2 | degree=2 | recordings=1
+- Evgeny Khmara | weighted_degree=2 | degree=2 | recordings=1
+- MONATIK | weighted_degree=2 | degree=2 | recordings=1
+- Monika Liu | weighted_degree=2 | degree=2 | recordings=1
+- Alina Pash | weighted_degree=1 | degree=1 | recordings=1
+- Bashar Murad | weighted_degree=1 | degree=1 | recordings=1
+- Concha Buika | weighted_degree=1 | degree=1 | recordings=1
+- Kehlani | weighted_degree=1 | degree=1 | recordings=1
+- MC Abdul | weighted_degree=1 | degree=1 | recordings=1
+- Olexesh | weighted_degree=1 | degree=1 | recordings=1
+- Playyard | weighted_degree=1 | degree=1 | recordings=1
+- Sabreen | weighted_degree=1 | degree=1 | recordings=1
+- Yasmin Levy | weighted_degree=1 | degree=1 | recordings=1
+
+Top 20 edges by weight:
+- alyona alyona -- Jerry Heil | weight=2 | recordings=Dai Boh (2022); KUPALA (2022)
+- Alina Pash -- alyona alyona | weight=1 | recordings=Падло (2019)
+- alyona alyona -- Ela | weight=1 | recordings=KUPALA (2022)
+- alyona alyona -- Monika Liu | weight=1 | recordings=Dai Boh (2022)
+- alyona alyona -- Olexesh | weight=1 | recordings=Shalom (2021)
+- Bashar Murad -- Sabreen | weight=1 | recordings=Stone (2024)
+- Concha Buika -- Yasmin Levy | weight=1 | recordings=Olvídate de mí (2012)
+- Ela -- Jerry Heil | weight=1 | recordings=KUPALA (2022)
+- Evgeny Khmara -- Jerry Heil | weight=1 | recordings=ВИМОЛИВ (2025)
+- Evgeny Khmara -- MONATIK | weight=1 | recordings=ВИМОЛИВ (2025)
+- Jerry Heil -- MONATIK | weight=1 | recordings=ВИМОЛИВ (2025)
+- Jerry Heil -- Monika Liu | weight=1 | recordings=Dai Boh (2022)
+- Kehlani -- Saint Levant | weight=1 | recordings=Allah Yihmeeki (2024)
+- MC Abdul -- Saint Levant | weight=1 | recordings=Deira (2024)
+- Playyard -- Saint Levant | weight=1 | recordings=I Guess (2022)
+
+Sample no-match rows:
+- Alyona Alyona / Залишаю свiй дiм (Leaving my home) -> no_match
+- Alyona Alyona / Рідні мої (My relatives) -> no_match
+- George Wassouf / El Hawa Sultan - الهوى سلطان -> no_match
+- George Wassouf / Helaf El Amar - حلف القمر -> no_match
+- George Wassouf / Sayad Al Touyour - صياد الطيور -> no_match
+- George Wassouf / Kalam Ennas - كلام الناس -> no_match
+- George Wassouf / Laiel El Ashekin - ليل العاشقين -> no_match
+- George Wassouf / Ana Asef - أنا آسف -> no_match
+- George Wassouf / Tabeeb Garah - طبيب جراح -> no_match
+- George Wassouf / Kedah Kifayah - كده كفاية -> no_match
+
+Lookup CSV: C:\Users\lozag\DTU\CSS\CSS-Project-A\data\network\selected_song_recording_lookup.csv
+Edges CSV: C:\Users\lozag\DTU\CSS\CSS-Project-A\data\network\selected_song_collaboration_edges.csv
+Nodes CSV: C:\Users\lozag\DTU\CSS\CSS-Project-A\data\network\selected_song_collaboration_nodes.csv
+Graph JSON: C:\Users\lozag\DTU\CSS\CSS-Project-A\data\network\selected_song_artist_network.json
+HTML: C:\Users\lozag\DTU\CSS\CSS-Project-A\website\public\network\selected_song_artist_network.html

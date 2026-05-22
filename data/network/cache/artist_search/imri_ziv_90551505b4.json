@@ -1,0 +1,278 @@
+{
+  "created": "2026-05-22T17:18:51.946Z",
+  "count": 256,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "35e522a0-e972-410f-a66c-f794b252effd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Imri",
+      "sort-name": "Imri",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6f680024-6768-4673-a387-9e9e712195a8",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "HaMerkaz",
+        "sort-name": "HaMerkaz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "singer & voice actor from Israel",
+      "isnis": [
+        "0000000463212035"
+      ],
+      "life-span": {
+        "begin": "1991-09-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ziv, Imri",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Imri Ziv",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "זיו, אימרי",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "אימרי זיו",
+          "locale": "he_IL",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "7c2e829e-4523-4d57-a7b3-10deb8e1f680",
+      "score": 43,
+      "name": "Ziv",
+      "sort-name": "Ziv",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "921393f3-c6e3-444b-832c-a53c95b5224a",
+      "score": 43,
+      "name": "Z.I.V",
+      "sort-name": "Z.I.V",
+      "disambiguation": "appeared on Opiuo release",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c3b4edf8-1ba6-43ec-9ec1-4514b0f2912f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ziv",
+      "sort-name": "Ziv Mirror",
+      "gender": "male",
+      "area": {
+        "id": "f3256278-025e-4254-90e6-86f5cb79b07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Benicia",
+        "sort-name": "Benicia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ac84aab3-62db-4e26-9651-93d3f66cf982",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stockton",
+        "sort-name": "Stockton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Bay Area songwriter and producer",
+      "ipis": [
+        "00800509968"
+      ],
+      "isnis": [
+        "0000000516708262"
+      ],
+      "life-span": {
+        "begin": "1995-04-12",
+        "ended": null
+      }
+    },
+    {
+      "id": "5b72cfc9-87af-4dcd-951f-7fc2c692cc6a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Imri Talgam",
+      "sort-name": "Talgam, Imri",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000464608509"
+      ],
+      "life-span": {
+        "begin": "1987",
+        "ended": null
+      }
+    },
+    {
+      "id": "8320aac8-e32f-4088-ae11-0b40978a4bbe",
+      "score": 41,
+      "name": "Abdelrahman Imri",
+      "sort-name": "Abdelrahman Imri",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "06863171-6992-4878-94fb-230ffa5ebfe4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ziv Ravitz",
+      "sort-name": "Ravitz, Ziv",
+      "gender": "male",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d597aa00-6615-4bd4-9012-2c4035bd37c6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beersheba",
+        "sort-name": "Beersheba",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000115212661"
+      ],
+      "life-span": {
+        "begin": "1976",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "f9ffa0c6-d6eb-485d-809b-ad62a5059a20",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ziv Ravits",
+      "sort-name": "Ravits, Ziv",
+      "gender": "male",
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli Guitar Player",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d48e6245-cbb3-4376-bbd7-4ebc98a6cee3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "Ziv Taubenfeld",
+      "sort-name": "Taubenfeld, Ziv",
+      "disambiguation": "bass clarinetist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5f762c83-ec25-48e2-b33e-ddfbb4d1d850",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "Ziv Jacob",
+      "sort-name": "Jacob, Ziv",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Experimental artist from Israel",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

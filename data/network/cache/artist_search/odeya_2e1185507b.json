@@ -1,0 +1,226 @@
+{
+  "created": "2026-05-22T17:29:04.182Z",
+  "count": 9,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "d964a3c2-03e6-4609-89ac-4fa7ec6263a7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "אודיה",
+      "sort-name": "Odeya",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7e93a1f1-eb20-4527-abf0-d33e7d9b1b5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bat Yam",
+        "sort-name": "Bat Yam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "01022640216"
+      ],
+      "life-span": {
+        "begin": "2001-04-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "אזולאי, אודיה",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "אודיה אזולאי",
+          "locale": "he_IL",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Azulay, Odeya",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Odeya Azulay",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "28a60440-bc05-41c1-b7b6-1f48c874a3fb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Odeya Nini",
+      "sort-name": "Nini, Odeya",
+      "gender": "female",
+      "area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Vocalist and composer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8e1efe19-1c24-4cae-9487-10cafd2f59a8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Teddy Odeya",
+      "sort-name": "Odeya, Teddy",
+      "gender": "male",
+      "area": {
+        "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stockholm",
+        "sort-name": "Stockholm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f563d43e-6e9c-4eb7-be26-560a438d85b4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 63,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "DJ Sodeyama",
+      "sort-name": "Sodeyama, DJ",
+      "gender": "male",
+      "area": {
+        "id": "8dc97297-ac95-4d33-82bc-e07fab26fb5f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Tokyo",
+        "sort-name": "Tokyo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Japanese DJ & producer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "148ab87e-a05e-4995-b26e-fa8394d23456",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tamara Bodeyan",
+      "sort-name": "Bodeyan, Tamara",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b57ecf84-83d7-4e46-9cab-da79c98598d8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jayachamaraja Wodeyar",
+      "sort-name": "Wodeyar, Jayachamaraja",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cd4cb10d-f6e8-4b07-b3ac-1a7b933e0dc6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yoshifumi Sodeyama",
+      "sort-name": "Sodeyama, Yoshifumi",
+      "gender": "male",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ee6c6044-aa21-4040-af00-c8c55baa5e85",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 56,
+      "name": "ОДЕЯLOW",
+      "sort-name": "ODEYALOW",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2015",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "strange wave"
+        }
+      ]
+    },
+    {
+      "id": "e967d35d-74b3-43ae-a7ce-c01770c0b7f8",
+      "score": 56,
+      "name": "二代目 日乃出家小源丸",
+      "sort-name": "Hinodeya Kogenmaru II",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

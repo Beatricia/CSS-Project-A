@@ -1,0 +1,456 @@
+{
+  "created": "2026-05-22T17:18:33.756Z",
+  "count": 735,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yasmin Levy",
+      "sort-name": "Levy, Yasmin",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00499449777"
+      ],
+      "isnis": [
+        "0000000109283543"
+      ],
+      "life-span": {
+        "begin": "1975-12-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "יסמין לוי",
+          "name": "יסמין לוי",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "sephardi"
+        },
+        {
+          "count": 0,
+          "name": "israel"
+        },
+        {
+          "count": 1,
+          "name": "tango"
+        },
+        {
+          "count": 1,
+          "name": "world"
+        },
+        {
+          "count": 1,
+          "name": "flamenco"
+        },
+        {
+          "count": 2,
+          "name": "ladino"
+        }
+      ]
+    },
+    {
+      "id": "e3fb5bd1-0b1a-44c5-8523-da2cfef5d69f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yasmin",
+      "sort-name": "Yasmin",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "852531bf-3410-401f-b432-9c3157a386b9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Manchester",
+        "sort-name": "Manchester",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK DJ & singer Yasmin Shahmir",
+      "ipis": [
+        "00616626545"
+      ],
+      "life-span": {
+        "begin": "1988-12-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Shahmir, Yasmin",
+          "name": "Yasmin Shahmir",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shahmir, Yasmin Zarine",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yasmin Zarine Shahmir",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "dj"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "singer"
+        }
+      ]
+    },
+    {
+      "id": "8ddf3da1-dfa9-490a-93cc-7d4072319995",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Barrington Levy",
+      "sort-name": "Levy, Barrington",
+      "gender": "male",
+      "country": "JM",
+      "area": {
+        "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Jamaica",
+        "sort-name": "Jamaica",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "49412054-5de5-49ba-af06-5cab89efb48b",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Clarendon",
+        "sort-name": "Clarendon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00046699535",
+        "00400791096",
+        "00627637917"
+      ],
+      "isnis": [
+        "000000005517325X"
+      ],
+      "life-span": {
+        "begin": "1964-04-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Levy, Barrington Ainsworth",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Barrington Ainsworth Levy",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "reggae"
+        },
+        {
+          "count": 2,
+          "name": "dancehall"
+        },
+        {
+          "count": 2,
+          "name": "classic pop and rock"
+        }
+      ]
+    },
+    {
+      "id": "7aad8c3b-bf66-4814-9ba5-9d8c7273ae11",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yasmin",
+      "sort-name": "Yasmin",
+      "gender": "female",
+      "country": "DK",
+      "area": {
+        "id": "4757b525-2a60-324a-b060-578765d2c993",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Denmark",
+        "sort-name": "Denmark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Danish synth-pop vocalist Yasmin Elvira Steenholdt",
+      "isnis": [
+        "0000000382482930"
+      ],
+      "life-span": {
+        "begin": "1969-06-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Steenholdt, Yasmin Elvira",
+          "name": "Yasmin Elvira Steenholdt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6041bca6-d070-4894-8019-da9538f2c33d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yazz",
+      "sort-name": "Yazz",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK pop singer Yasmin Marie Evans",
+      "ipis": [
+        "00160009024"
+      ],
+      "life-span": {
+        "begin": "1960-05-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Yasmin Marie Evans",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yasmin Marie Evans",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evans, Yasmin",
+          "name": "Yasmin Evans",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "new romantic"
+        },
+        {
+          "count": 1,
+          "name": "new wave pop"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 1,
+          "name": "funk"
+        },
+        {
+          "count": 1,
+          "name": "christian"
+        },
+        {
+          "count": 1,
+          "name": "synthpop"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 0,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        }
+      ]
+    },
+    {
+      "id": "e3be4cc4-87be-46d2-9bfe-8905a1b95bce",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yasmin",
+      "sort-name": "Yasmin",
+      "gender": "female",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Dutch singer Yasmin van der Velden",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b0add7e0-af65-4f1a-8dfd-110158f3c775",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yasmin",
+      "sort-name": "Yasmin",
+      "gender": "female",
+      "disambiguation": "Portuguese or Brazilian(?) artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "16043a71-1e60-4730-962c-c5057f8038ec",
+      "score": 43,
+      "name": "Yasmin",
+      "sort-name": "Yasmin",
+      "country": "IR",
+      "area": {
+        "id": "a63fbc7f-af00-33c7-8616-3e86df9fc16b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Iran",
+        "sort-name": "Iran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Iranian, appears on a DJ Zhao mix",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9787ea41-b2f9-4873-98ee-cfca3063723c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yasmin",
+      "sort-name": "Yasmin",
+      "gender": "female",
+      "disambiguation": "europop, single “Wo bist du?”",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6f3cac53-0238-4d7e-8d0b-66e5ceefe23d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yasmin",
+      "sort-name": "Yasmin",
+      "gender": "female",
+      "disambiguation": "feat. on “Un jour au bord de la mer” by CS Players",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

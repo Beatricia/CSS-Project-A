@@ -1,0 +1,353 @@
+{
+  "created": "2026-05-22T17:13:43.200Z",
+  "count": 6186,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "fe5d2ada-0ea9-4788-a4ef-f7f352f63cad",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Лев Ошанин",
+      "sort-name": "Oshanin, Lev",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "2910d22d-3229-4765-8e4f-6aa08a1fc678",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rybinsk",
+        "sort-name": "Rybinsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00083571758"
+      ],
+      "isnis": [
+        "0000000082370849"
+      ],
+      "life-span": {
+        "begin": "1912-05-17",
+        "end": "1996-12-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ļevs Ošaņins",
+          "name": "Ļevs Ošaņins",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ошанин, Лев Иванович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Лев Иванович Ошанин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ошанин, Лев",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Лев Ошанин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Oshanin, Lev",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Lev Oshanin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Oshanin, Lev Ivanovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lev Ivanovich Oshanin",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f5ef92b0-fd02-435d-9587-84c40aa80083",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 49,
+      "name": "Lev",
+      "sort-name": "Lev",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian band",
+      "life-span": {
+        "begin": "2002",
+        "ended": null
+      }
+    },
+    {
+      "id": "30be0a7e-b530-4ec5-87c2-79952caa908c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "L.E.V.",
+      "sort-name": "L.E.V.",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "rapper",
+      "life-span": {
+        "begin": "1988",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rudi, Lev",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lev Rudi",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "L.E.V.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "L.€.V.",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "d942a39e-c147-4272-863a-a59af8c20624",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lev",
+      "sort-name": "Lev",
+      "gender": "male",
+      "disambiguation": "Lev Krag",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Krag, Lev",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lev Krag",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "36c151ef-e29a-4a0a-a11f-8f9811e8e601",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "LEV",
+      "sort-name": "LEV",
+      "gender": "male",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "James Levey",
+      "ipis": [
+        "00802374071",
+        "01045117889"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Levey, James",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "James Levey",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Levey, James Peter",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "James Peter Levey",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "16be9542-dc4b-49f3-a2b9-248e0a8d1219",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 49,
+      "name": "Yismach Lev",
+      "sort-name": "Yismach Lev",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "children's music"
+        },
+        {
+          "count": 1,
+          "name": "yiddish"
+        }
+      ]
+    },
+    {
+      "id": "f03dd24b-84ed-4db0-841f-deae7589d6a8",
+      "score": 49,
+      "name": "LEV",
+      "sort-name": "LEV",
+      "disambiguation": "female pop artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2b666534-a8fe-4748-be96-7227505ea20a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "LEV",
+      "sort-name": "LEV",
+      "gender": "male",
+      "disambiguation": "DJ/producer, resident of TommyLee Club",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gorodishchev, Lev",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lev Gorodishchev",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b5e9be6e-c9ff-473c-bc6e-954692d8d1a8",
+      "score": 48,
+      "name": "lev",
+      "sort-name": "lev",
+      "disambiguation": "Techcore, Associated with N3XT FUTURE RECORDS",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bdde5078-3108-49d4-8c5f-8e86764d45f9",
+      "score": 48,
+      "name": "Lev",
+      "sort-name": "Lev",
+      "disambiguation": "Nerdcore",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

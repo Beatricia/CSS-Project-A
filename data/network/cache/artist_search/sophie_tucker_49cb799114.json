@@ -1,0 +1,866 @@
+{
+  "created": "2026-05-22T16:48:09.486Z",
+  "count": 1588,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "1404fcf2-5c92-434b-8d37-7f9b0c8f986f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sophie Tucker",
+      "sort-name": "Tucker, Sophie",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "471d28f1-ae20-4637-9fc4-8a7389a1d653",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tulchyn",
+        "sort-name": "Tulchyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "singer, comedienne, actress & radio personality",
+      "isnis": [
+        "0000000083876542"
+      ],
+      "life-span": {
+        "begin": "1886-01-13",
+        "end": "1966-02-09",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 1,
+          "name": "cabaret"
+        },
+        {
+          "count": 1,
+          "name": "traditional pop"
+        },
+        {
+          "count": 1,
+          "name": "vaudeville"
+        }
+      ]
+    },
+    {
+      "id": "fd003923-c020-4c42-b4bd-a2a5e65049c1",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 95,
+      "name": "Sophie Tucker",
+      "sort-name": "Sophie Tucker",
+      "area": {
+        "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Seattle",
+        "sort-name": "Seattle",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Seattle rock trio",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4ac723f4-8be8-4a0d-a3ae-d5dda20f0a9a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 58,
+      "name": "Sofi Tukker",
+      "sort-name": "Sofi Tukker",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000047103921X"
+      ],
+      "life-span": {
+        "begin": "2014",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sophie and Tucker",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sophie and Tucker",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 2,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "edm"
+        }
+      ]
+    },
+    {
+      "id": "45677914-89de-4267-aeae-8c1661b2c859",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tanya Tucker",
+      "sort-name": "Tucker, Tanya",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a52375f6-e94c-4ca3-b866-dec300717f4a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Seminole",
+        "sort-name": "Seminole",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00042913692",
+        "00065551670",
+        "00136672955"
+      ],
+      "isnis": [
+        "000000008393030X"
+      ],
+      "life-span": {
+        "begin": "1958-10-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tucker Tanya",
+          "name": "Tucker Tanya",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tucker, Tanya Denise",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Tanya Denise Tucker",
+          "locale": "en_US",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "count": 1,
+          "name": "contemporary country"
+        },
+        {
+          "count": 1,
+          "name": "nashville sound"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "774b02d7-5056-4b0f-9d69-a82b6ae27cde",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "SOPHIE",
+      "sort-name": "SOPHIE",
+      "gender": "female",
+      "area": {
+        "id": "6fa1c7da-6689-4cec-85f9-680f853e8a08",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Scotland",
+        "sort-name": "Scotland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e1897103-22e5-4d08-9969-92794635bb81",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Northampton",
+        "sort-name": "Northampton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Athens",
+        "sort-name": "Athens",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Scottish producer, songwriter, and DJ Sophie Xeon",
+      "ipis": [
+        "00642569920",
+        "00642570061"
+      ],
+      "isnis": [
+        "0000000466086273"
+      ],
+      "life-span": {
+        "begin": "1985-09-17",
+        "end": "2021-01-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "SOPHIE",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "SOPHIE",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sophie",
+          "name": "Sophie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Xeon, Sophie",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sophie Xeon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Long, Sophie",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sophie Long",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Long, Sam",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sam Long",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Long, Samuel",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Samuel Long",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ソフィー",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ソフィー",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 13,
+          "name": "electronic"
+        },
+        {
+          "count": 8,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "dj"
+        },
+        {
+          "count": 1,
+          "name": "producer"
+        },
+        {
+          "count": 4,
+          "name": "dance-pop"
+        },
+        {
+          "count": 5,
+          "name": "queer"
+        },
+        {
+          "count": 1,
+          "name": "trans"
+        },
+        {
+          "count": 1,
+          "name": "uk bass"
+        },
+        {
+          "count": 3,
+          "name": "bubblegum bass"
+        },
+        {
+          "count": 4,
+          "name": "pc music"
+        },
+        {
+          "count": 10,
+          "name": "deconstructed club"
+        },
+        {
+          "count": 10,
+          "name": "hyperpop"
+        },
+        {
+          "count": 3,
+          "name": "lgbtq+"
+        },
+        {
+          "count": 0,
+          "name": "hyper-pop"
+        },
+        {
+          "count": 3,
+          "name": "yassification"
+        },
+        {
+          "count": 0,
+          "name": "_private tag 1"
+        }
+      ]
+    },
+    {
+      "id": "568045b3-c3cb-4100-9bc5-ef9cdcebe643",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 49,
+      "name": "The Marshall Tucker Band",
+      "sort-name": "Marshall Tucker Band, The",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "50dd961d-c011-4c1b-829b-f706768e516d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Spartanburg",
+        "sort-name": "Spartanburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000105678062"
+      ],
+      "life-span": {
+        "begin": "1972",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Marshall Tucker Band",
+          "name": "Marshall Tucker Band",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marshal Tucker Band",
+          "name": "Marshal Tucker Band",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marshall Tucker Band, The",
+          "name": "Marshall Tucker Band, The",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marshall Tucker",
+          "name": "Marshall Tucker",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "southern rock"
+        },
+        {
+          "count": 2,
+          "name": "country rock"
+        },
+        {
+          "count": 1,
+          "name": "roots rock"
+        },
+        {
+          "count": 1,
+          "name": "soft rock"
+        },
+        {
+          "count": 1,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        }
+      ]
+    },
+    {
+      "id": "5405bba0-cc27-4d93-abc7-630d65c1aaa1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sophie Aldred",
+      "sort-name": "Aldred, Sophie",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "England",
+        "sort-name": "England",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English actress and television presenter",
+      "life-span": {
+        "begin": "1962-08-20",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "voice actor"
+        }
+      ]
+    },
+    {
+      "id": "123eec02-145a-4d61-92c0-35529632c0fd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Barbara Tucker",
+      "sort-name": "Tucker, Barbara",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055170534"
+      ],
+      "life-span": {
+        "begin": "1967-03-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Barbare Tucker",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Barbare Tucker",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Barbara Trucker",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Barbara Trucker",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Barbra Tucker",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Barbra Tucker",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "fix artist credits"
+        }
+      ]
+    },
+    {
+      "id": "c4b87e45-c07a-460f-9c58-8d15328e2964",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sophie Ellis‐Bextor",
+      "sort-name": "Ellis‐Bextor, Sophie",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "95091e69-e48c-4709-90f2-6a8e6733e14e",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Hounslow",
+        "sort-name": "Hounslow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00270386072",
+        "00289722321"
+      ],
+      "isnis": [
+        "0000000048710117"
+      ],
+      "life-span": {
+        "begin": "1979-04-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ellis-Bextor, Sophie Michelle",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sophie Michelle Ellis-Bextor",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sophie-Ellis Bextor",
+          "name": "Sophie-Ellis Bextor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sophie Ellis-Bexter",
+          "name": "Sophie Ellis-Bexter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "S. Ellis-Baxter",
+          "name": "S. Ellis-Baxter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sophie Ellis Baxtor",
+          "name": "Sophie Ellis Baxtor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sophie Ellis Bexor",
+          "name": "Sophie Ellis Bexor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sophie Ellis-Baxter",
+          "name": "Sophie Ellis-Baxter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sophie Ellis Bextor",
+          "name": "Sophie Ellis Bextor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sophie Ellis Baxter",
+          "name": "Sophie Ellis Baxter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 0,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "disco"
+        },
+        {
+          "count": 1,
+          "name": "female vocals"
+        },
+        {
+          "count": 3,
+          "name": "dance-pop"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "folk pop"
+        },
+        {
+          "count": 0,
+          "name": "pop and chart"
+        }
+      ]
+    },
+    {
+      "id": "593c3988-e160-4900-8b07-5e8ccb4e0199",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Sophie",
+      "sort-name": "Sophie",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italo‐disco / Eurobeat alias at Time Records",
+      "life-span": {
+        "begin": "1986",
+        "end": "2023",
+        "ended": true
+      }
+    }
+  ]
+}

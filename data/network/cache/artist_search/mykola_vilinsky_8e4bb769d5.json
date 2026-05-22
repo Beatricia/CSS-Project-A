@@ -1,0 +1,266 @@
+{
+  "created": "2026-05-22T16:59:30.929Z",
+  "count": 42,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "e2995e49-aed4-4646-9706-48a0793d9e1a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Микола Вілінський",
+      "sort-name": "Vilinsky, Mykola",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3001cf25-4df2-4ffe-891c-87639d5e9c03",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Mykolaïvs'ka Oblast'",
+        "sort-name": "Mykolaïvs'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1888-05-02",
+        "end": "1956-09-07",
+        "ended": true
+      }
+    },
+    {
+      "id": "b444250d-1933-40c7-96dd-47785b6781ce",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mykola Suk",
+      "sort-name": "Suk, Mykola",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "life-span": {
+        "begin": "1945-12-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Suk, Mukola",
+          "name": "Mukola Suk",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Сук, Микола Петрович",
+          "name": "Микола Петрович Сук",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8c433018-422d-472e-a301-db2c2e784243",
+      "score": 69,
+      "name": "Mykola Khvylovy",
+      "sort-name": "Mykola Khvylovy",
+      "end-area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "life-span": {
+        "begin": "1893-12-13",
+        "end": "1933-05-13",
+        "ended": true
+      }
+    },
+    {
+      "id": "627fe93b-badf-4481-885a-e117a81af00b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mykola Fomenko",
+      "sort-name": "Fomenko, Mykola",
+      "gender": "male",
+      "disambiguation": "Composer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "db645076-c71f-40cb-8723-18840178723b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "name": "Mykola Lebed",
+      "sort-name": "Lebed, Mykola",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "piano",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "50dcdd87-2aec-4317-80ed-743d815733af",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mykola Grigoryan",
+      "sort-name": "Grigoryanm, Mykola",
+      "gender": "male",
+      "disambiguation": "Ukraine",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Merlin",
+          "name": "Merlin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "25c5fe75-48e6-4f18-ac28-5ca91a73e6a2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mykola Dosenko",
+      "sort-name": "Dosenko, Mykola",
+      "gender": "male",
+      "area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ce0616d0-a722-4557-8746-5a1f7e5cf1cc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mykola Previr",
+      "sort-name": "Previr, Mykola",
+      "gender": "male",
+      "disambiguation": "guitar player",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3a7a43d2-d461-4ee4-96f6-6503e0318d73",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "name": "Mykola Avramchuck",
+      "sort-name": "Avramchuck, Mykola",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "43439e89-1b1e-4940-9e64-403f7ffd7e3d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mykola Panchenko",
+      "sort-name": "Panchenko, Mykola",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Nicolajah",
+          "name": "Nicolajah",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

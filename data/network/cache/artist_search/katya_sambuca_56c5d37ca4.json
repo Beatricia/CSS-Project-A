@@ -1,0 +1,416 @@
+{
+  "created": "2026-05-22T17:11:33.591Z",
+  "count": 91,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "716b7bb6-1141-47df-975a-8685f63ad1d3",
+      "score": 100,
+      "name": "Sambuca",
+      "sort-name": "Sambuca",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bbf22a83-8734-4857-b7ab-6868d5b2f793",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "name": "Brother Sambuca",
+      "sort-name": "Brother Sambuca",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "eaa0b520-06b4-494c-84b6-52cb2a986fc9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "KATYA",
+      "sort-name": "KATYA",
+      "gender": "female",
+      "area": {
+        "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boston",
+        "sort-name": "Boston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boston",
+        "sort-name": "Boston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "drag queen",
+      "life-span": {
+        "begin": "1982-05-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "KATYA",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "KATYA",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "McCook, Brian Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Brian Joseph McCook",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zamolodchikova, Yekaterina Petrovna",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yekaterina Petrovna Zamolodchikova",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zamolodchikova, Katya",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Katya Zamolodchikova",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Замолодчикова, Екатерина Петровна",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Екатерина Петровна Замолодчикова",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Катя",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Катя",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Замолодчикова, Екатерина Петровна",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Екатерина Петровна Замолодчикова",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "McCook, Brian Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Brian Joseph McCook",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Катя",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Катя",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zamolodchikova, Yekaterina Petrovna",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yekaterina Petrovna Zamolodchikova",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Katya",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Katya",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "drag queen"
+        }
+      ]
+    },
+    {
+      "id": "7485fb58-9eed-44c2-912f-ad33b6687c50",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Katya",
+      "sort-name": "Katya",
+      "gender": "female",
+      "disambiguation": "vocalist Katya Krishnan",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "885e7233-bb03-4e33-903d-883355c7b2a0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Katya",
+      "sort-name": "Katya",
+      "gender": "female",
+      "country": "EE",
+      "area": {
+        "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Estonia",
+        "sort-name": "Estonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Estonian vocalist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5bedb1c0-1b26-4b74-a0a3-4927bbe901f8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Katya",
+      "sort-name": "Katya",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "did art & design for Bimbo Rococo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "20b6c769-447e-48b3-8fe2-e2f71657b2d6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 81,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ekaterina Shelehova",
+      "sort-name": "Shelehova, Ekaterina",
+      "gender": "female",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000507070738"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "KATYA",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "KATYA",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "38005596-c31e-4da4-9c72-2a6e8f12c181",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 80,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Катя Чехова",
+      "sort-name": "Chehova, Katya",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2005",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Katya Chehova",
+          "name": "Katya Chehova",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electropop"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "progressive vocal house"
+        }
+      ]
+    },
+    {
+      "id": "8b7e4758-834e-49c5-b529-e0d439c14d81",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Katya Yonder",
+      "sort-name": "Yonder, Katya",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e76adfb3-79cc-4e05-86dc-be257122315d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 78,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Katya Apekisheva",
+      "sort-name": "Apekisheva, Katya",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "000000007852274X"
+      ],
+      "life-span": {
+        "begin": "1975",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Apekisheva, Ekaterina",
+          "name": "Ekaterina Apekisheva",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "british pianist"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,833 @@
+{
+  "created": "2026-05-22T17:04:56.366Z",
+  "count": 5899,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "15a0fda7-75dd-472b-8c51-6e78f99ac510",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hans Pfitzner",
+      "sort-name": "Pfitzner, Hans",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f0590317-8b42-4498-a2e4-34cc5562fcf8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salzburg",
+        "sort-name": "Salzburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German composer",
+      "isnis": [
+        "0000000109110861"
+      ],
+      "life-span": {
+        "begin": "1869-05-05",
+        "end": "1949-05-22",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "german composer"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "modern classical"
+        },
+        {
+          "count": 1,
+          "name": "german conductor"
+        },
+        {
+          "count": 1,
+          "name": "post-romantic"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        },
+        {
+          "count": 1,
+          "name": "anti-modern"
+        }
+      ]
+    },
+    {
+      "id": "e6de1f3b-6484-491c-88dd-6d619f142abc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hans Zimmer",
+      "sort-name": "Zimmer, Hans",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "16560d3e-358b-4869-8a6d-727db2ee7b69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Frankfurt am Main",
+        "sort-name": "Frankfurt am Main",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German score composer",
+      "ipis": [
+        "00022486300",
+        "00339503461",
+        "00440938453"
+      ],
+      "isnis": [
+        "0000000121023816"
+      ],
+      "life-span": {
+        "begin": "1957-09-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Zimmer, Hans",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hans Zimmer",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "汉斯·季默",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "汉斯·季默",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ハンス・ジマー",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "ハンス・ジマー",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hansel Zimmer",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hansel Zimmer",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hans Zimer",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hans Zimer",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Florian Zimmer",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Florian Zimmer",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hans Florian",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hans Florian",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hanz Zimmer",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hanz Zimmer",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "H. Zimmer",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "H. Zimmer",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zimmer, Hans Florian",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hans Florian Zimmer",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1957-09-12",
+          "end-date": null
+        },
+        {
+          "sort-name": "Zimmer",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Zimmer",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 14,
+          "name": "soundtrack"
+        },
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 4,
+          "name": "german"
+        },
+        {
+          "count": 9,
+          "name": "orchestral"
+        },
+        {
+          "count": 2,
+          "name": "soundtrack composer"
+        },
+        {
+          "count": 1,
+          "name": "game"
+        },
+        {
+          "count": 0,
+          "name": "video game"
+        },
+        {
+          "count": 1,
+          "name": "score"
+        },
+        {
+          "count": 3,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "film score"
+        },
+        {
+          "count": 3,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 1,
+          "name": "film"
+        },
+        {
+          "count": 2,
+          "name": "european"
+        },
+        {
+          "count": 0,
+          "name": "vgm"
+        },
+        {
+          "count": 1,
+          "name": "video game music"
+        },
+        {
+          "count": 2,
+          "name": "film soundtrack"
+        },
+        {
+          "count": 8,
+          "name": "film composer"
+        },
+        {
+          "count": 1,
+          "name": "soundtracks"
+        },
+        {
+          "count": 9,
+          "name": "modern classical"
+        },
+        {
+          "count": 1,
+          "name": "academy award winner"
+        },
+        {
+          "count": 1,
+          "name": "television music"
+        },
+        {
+          "count": 5,
+          "name": "cinematic classical"
+        }
+      ]
+    },
+    {
+      "id": "5f4c625a-dc99-4249-8361-31277fd6305e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sandra Pfitzner",
+      "sort-name": "Pfitzner, Sandra",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cbcb7372-1b04-44c2-8fa6-2d209b14ac00",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Georg Pfitzner",
+      "sort-name": "Pfitzner, Georg",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0b7ee619-16ed-4e60-b871-6a2111c12b76",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "James Last",
+      "sort-name": "Last, James",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9c607066-ceb6-4a78-a614-4c14a2b3ec35",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bremen",
+        "sort-name": "Bremen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "7689801e-0317-4e60-9d01-89ca002a887a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "West Palm Beach",
+        "sort-name": "West Palm Beach",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German big band leader & composer, 1929–2015",
+      "ipis": [
+        "00013820126",
+        "00017369773",
+        "00017369871",
+        "00029409577"
+      ],
+      "isnis": [
+        "000000007829074X"
+      ],
+      "life-span": {
+        "begin": "1929-04-17",
+        "end": "2015-06-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Last, J.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "J. Last",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stahl, Hans",
+          "name": "Hans Stahl",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bass, Mr.",
+          "name": "Mr. Bass",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hansi",
+          "name": "Hansi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hendricks, Jean",
+          "name": "Jean Hendricks",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Last, Hans",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hans Last",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Last, D.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Д. Ласт",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "german"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "easy listening"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "acoustic porridge"
+        }
+      ]
+    },
+    {
+      "id": "1204d471-1b95-4d90-bc2f-9c6a99aa03d1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hans Korte",
+      "sort-name": "Korte, Hans",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "154ef74f-bcd3-4472-bfee-dd1dec672864",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bochum",
+        "sort-name": "Bochum",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "actor and voice actor",
+      "isnis": [
+        "000000007872072X"
+      ],
+      "life-span": {
+        "begin": "1929-04-08",
+        "end": "2016-09-25",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        },
+        {
+          "count": 1,
+          "name": "actor"
+        }
+      ]
+    },
+    {
+      "id": "e338bc71-2864-40d4-8e85-324e32515ce8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hans Moser",
+      "sort-name": "Moser, Hans",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055352151"
+      ],
+      "life-span": {
+        "begin": "1880-08-06",
+        "end": "1964-06-19",
+        "ended": true
+      }
+    },
+    {
+      "id": "6529bf81-8dae-43e3-b9af-f4ac3bbbda79",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hans Theessink",
+      "sort-name": "Theessink, Hans",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "834e9db3-0209-4ae3-bc28-e6f3a306c45c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Enschede",
+        "sort-name": "Enschede",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00022347611"
+      ],
+      "life-span": {
+        "begin": "1948-04-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hans Theesink",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hans Theesink",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hans Teesink",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hans Teesink",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "dutch"
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        }
+      ]
+    },
+    {
+      "id": "594975dc-8c10-4b1c-9bc5-ff47f3255981",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ricky King",
+      "sort-name": "King, Ricky",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c4ed5fa2-e8e6-4768-81eb-4725b8864f9a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rastatt",
+        "sort-name": "Rastatt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00059736636"
+      ],
+      "isnis": [
+        "0000000055463230"
+      ],
+      "life-span": {
+        "begin": "1946-03-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lingenfelder, Hans",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hans Lingenfelder",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "easy listening"
+        },
+        {
+          "count": 1,
+          "name": "classic schlager"
+        }
+      ]
+    },
+    {
+      "id": "ad872ade-9376-499f-8d42-96fd2b6f7edb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hans Paetsch",
+      "sort-name": "Paetsch, Hans",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "32b1378f-5fde-4388-99ce-f8e35f9e6f69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Montreux-Vieux",
+        "sort-name": "Montreux-Vieux",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000077352312"
+      ],
+      "life-span": {
+        "begin": "1909-12-07",
+        "end": "2002-02-03",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german voice actor"
+        },
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "created": "2026-05-22T16:46:13.656Z",
+  "count": 803,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "d747acf7-eb40-454b-8dac-0dcf9124dff9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Руслан Евдокименко",
+      "sort-name": "Евдокименко, Руслан",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Sofia Rotaru's son",
+      "life-span": {
+        "begin": "1970-08-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "0ac235b8-26bc-403d-8e0b-b5d8d5a284b2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "София Ротару",
+      "sort-name": "Rotaru, Sofia",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f491f92e-e657-43ed-8eb2-5bee763d0ccc",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Chernivets'ka Oblast'",
+        "sort-name": "Chernivets'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000024241926"
+      ],
+      "life-span": {
+        "begin": "1947-08-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ротару, София Михайловна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "София Михайловна Ротару",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Софія Ротару",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Софія Ротару",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ротару, София",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "София Ротару",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sofiya Rotaru",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sofiya Rotaru",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "estrada"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "f2aef7f7-5e47-4e87-8538-6d88165576c7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Alina Rotaru",
+      "sort-name": "Rotaru, Alina",
+      "gender": "female",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "București",
+        "sort-name": "București",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "harpsichordist",
+      "isnis": [
+        "0000000120013552"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "711a5c9e-a4f4-407a-89ff-0269744f3841",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Doina Rotaru",
+      "sort-name": "Rotaru, Doina",
+      "gender": "female",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "București",
+        "sort-name": "București",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Romanian composer",
+      "isnis": [
+        "0000000114701420"
+      ],
+      "life-span": {
+        "begin": "1951-09-14",
+        "ended": null
+      }
+    },
+    {
+      "id": "fca58317-8a82-4749-ad4c-1e9adf9f78a1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sofia",
+      "sort-name": "Sofia",
+      "gender": "female",
+      "country": "SG",
+      "area": {
+        "id": "aa344640-fd57-3960-afb4-84d0d3b69d3d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Singapore",
+        "sort-name": "Singapore",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "786532a5-2e36-315a-bdf2-221dc1b64b72",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Philippines",
+        "sort-name": "Philippines",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Filipina Bossa Nova singer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mozo, Sofia Josephine",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sofia Josephine Mozo",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "bossa nova"
+        }
+      ]
+    },
+    {
+      "id": "dd2ff324-d8e0-41d8-810b-dfe0c1d38994",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sorina Rotaru",
+      "sort-name": "Rotaru, Sorina",
+      "gender": "female",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Romanian jazz singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "23594fc5-cd6c-4cbe-ba25-2abe714db418",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Diana Rotaru",
+      "sort-name": "Rotaru, Diana",
+      "gender": "female",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "București",
+        "sort-name": "București",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Romanian composer",
+      "life-span": {
+        "begin": "1981-09-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "d385f3ea-eb27-4f31-b94c-603aa34ad7bc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "name": "George Rotaru",
+      "sort-name": "Rotaru, George",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4873dc04-19a8-4b7a-8de9-08ff3a939210",
+      "score": 70,
+      "name": "Vitalie Rotaru",
+      "sort-name": "Vitalie Rotaru",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6a42de35-072f-4cd6-b10c-4cd6552f8187",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sorin Rotaru",
+      "sort-name": "Rotaru, Sorin",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Romanian percussionist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "created": "2026-05-22T17:11:21.086Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "24f40066-f516-4e92-838f-2a010089aa36",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Kamaliya",
+      "sort-name": "Kamaliya",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c4b1c8e8-1876-47ce-a2a0-5c34db33568f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Zabaykal'skiy kray",
+        "sort-name": "Zabaykal'skiy kray",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1977-05-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Zakhur, Nataliya Viktorivna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ната́ля Ві́кторівна Захур",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kamaliya",
+          "name": "Камалія",
+          "locale": "uk",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

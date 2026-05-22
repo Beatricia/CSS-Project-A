@@ -1,0 +1,477 @@
+{
+  "created": "2026-05-22T17:11:18.339Z",
+  "count": 1253,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "6d97e17e-a0b0-48c3-88cb-e28f492499eb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Борис Александров",
+      "sort-name": "Alexandrov, Boris",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "00582665-9bf2-4424-91f2-95a89ad34065",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bologoye",
+        "sort-name": "Bologoye",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081116451"
+      ],
+      "life-span": {
+        "begin": "1905-07-22",
+        "end": "1994-06-17",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Александров, Борис Александрович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Борис Александрович Александров",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Александров, Борис",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Борис Александров",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aļeksandrovs, B.",
+          "name": "B. Aļeksandrovs",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "41d4e72f-8554-4c72-96ec-aa396f83c629",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Misha Alexandrovich",
+      "sort-name": "Alexandrovich, Misha",
+      "gender": "male",
+      "country": "LV",
+      "area": {
+        "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Latvia",
+        "sort-name": "Latvia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Latvia",
+        "sort-name": "Latvia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000006687369X"
+      ],
+      "life-span": {
+        "begin": "1914-07-23",
+        "end": "2002-07-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mikhail Davidovich Alexandrovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mikhail Davidovich Alexandrovich",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "34e569f7-e5b7-4c93-8c0d-c4d614d7b981",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sergei Alexandrovich",
+      "sort-name": "Alexandrovich, Sergei",
+      "gender": "male",
+      "disambiguation": "Violin player",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0a0affb8-ebb9-47e2-b475-d076c45f82ea",
+      "score": 96,
+      "name": "Ivan Alexandrovich",
+      "sort-name": "Ivan Alexandrovich",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "57652bf8-cfe8-42e7-b9a7-5572a7080d8d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 91,
+      "name": "Boris",
+      "sort-name": "Boris",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8dc97297-ac95-4d33-82bc-e07fab26fb5f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Tokyo",
+        "sort-name": "Tokyo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Japanese experimental doom/sludge/drone/psych/metal band",
+      "isnis": [
+        "0000000104487563"
+      ],
+      "life-span": {
+        "begin": "1992",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Boris",
+          "name": "Boris",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ボリス",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ボリス",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "post-rock"
+        },
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 5,
+          "name": "noise"
+        },
+        {
+          "count": 2,
+          "name": "shoegaze"
+        },
+        {
+          "count": 2,
+          "name": "ambient"
+        },
+        {
+          "count": 0,
+          "name": "punk"
+        },
+        {
+          "count": 0,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "japanese"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 8,
+          "name": "doom metal"
+        },
+        {
+          "count": 4,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 2,
+          "name": "stoner metal"
+        },
+        {
+          "count": 0,
+          "name": "j-rock"
+        },
+        {
+          "count": 11,
+          "name": "drone"
+        },
+        {
+          "count": 2,
+          "name": "noise rock"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 6,
+          "name": "sludge metal"
+        },
+        {
+          "count": 1,
+          "name": "post-metal"
+        },
+        {
+          "count": 0,
+          "name": "sludge"
+        },
+        {
+          "count": 1,
+          "name": "japan"
+        },
+        {
+          "count": 4,
+          "name": "drone metal"
+        },
+        {
+          "count": 1,
+          "name": "repetitive"
+        },
+        {
+          "count": 1,
+          "name": "raw"
+        },
+        {
+          "count": 1,
+          "name": "dissonant"
+        },
+        {
+          "count": 1,
+          "name": "_private tag 1"
+        }
+      ]
+    },
+    {
+      "id": "d6dd099d-8da4-4dea-b1e0-3f1154d6f063",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "name": "Alexander Alexandrovich Khlopkov",
+      "sort-name": "Khlopkov, Alexander Alexandrovich",
+      "ipis": [
+        "00382691433",
+        "00382691531"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Frost, Alex",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alex Frost",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b58dcbdf-240f-4540-9cf1-00349eaadcb5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "name": "Vladimir Alexandrovich Lakodin",
+      "sort-name": "Lakodin, Vladimir Alexandrovich",
+      "ipis": [
+        "00848475394"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8ae8b59b-34b8-4e09-8699-7e55cc681364",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Konstantin Alexandrovich Jakobson",
+      "sort-name": "Jakobson, Konstantin Alexandrovich",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "03e0c1d3-0d8b-4ff8-89fb-4ac2ccd70c48",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vladimir Chervov Alexandrovich",
+      "sort-name": "Alexandrovich, Vladimir Chervov",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ae0d1794-c9d3-4436-94fc-ceff6130da2c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Boris Brejcha",
+      "sort-name": "Brejcha, Boris",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3f73445c-fec7-4178-8e30-15d7ccb0ec36",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ludwigshafen",
+        "sort-name": "Ludwigshafen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00498873769"
+      ],
+      "isnis": [
+        "0000000372796848"
+      ],
+      "life-span": {
+        "begin": "1981-11-26",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "trance"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 2,
+          "name": "techno"
+        },
+        {
+          "count": 6,
+          "name": "minimal techno"
+        },
+        {
+          "count": 3,
+          "name": "tech house"
+        },
+        {
+          "count": 1,
+          "name": "progressive house"
+        },
+        {
+          "count": 1,
+          "name": "melodic techno"
+        }
+      ]
+    }
+  ]
+}

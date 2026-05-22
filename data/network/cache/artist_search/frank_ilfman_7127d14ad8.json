@@ -1,0 +1,955 @@
+{
+  "created": "2026-05-22T17:30:07.228Z",
+  "count": 7777,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8ef9485e-b5f7-4b21-be67-4a725ed4049d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Ilfman",
+      "sort-name": "Ilfman, Frank",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000439819910"
+      ],
+      "life-span": {
+        "begin": "1970-03-18",
+        "ended": null
+      }
+    },
+    {
+      "id": "197450cd-0124-4164-b723-3c22dd16494d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Sinatra",
+      "sort-name": "Sinatra, Frank",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a61386e-15df-4a38-a1f6-d751e133a1a9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hoboken",
+        "sort-name": "Hoboken",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American singer and actor, “Ol’ Blue Eyes”",
+      "ipis": [
+        "00028814966"
+      ],
+      "isnis": [
+        "0000000108823528"
+      ],
+      "life-span": {
+        "begin": "1915-12-12",
+        "end": "1998-05-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sinatra",
+          "name": "Sinatra",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinatra, Francis Albert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Francis Albert Sinatra",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frankie Satin",
+          "name": "Frankie Satin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "フランク・シナトラ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "フランク・シナトラ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinatra Frank",
+          "name": "Sinatra Frank",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frank Sinartra",
+          "name": "Frank Sinartra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 10,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "easy listening"
+        },
+        {
+          "count": 1,
+          "name": "vocal"
+        },
+        {
+          "count": 1,
+          "name": "lounge"
+        },
+        {
+          "count": 0,
+          "name": "baroque pop"
+        },
+        {
+          "count": 1,
+          "name": "christmas"
+        },
+        {
+          "count": 8,
+          "name": "swing"
+        },
+        {
+          "count": 3,
+          "name": "big band"
+        },
+        {
+          "count": 7,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 0,
+          "name": "columbia"
+        },
+        {
+          "count": 0,
+          "name": "easy listening soundtracks and musicals"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 3,
+          "name": "standards"
+        },
+        {
+          "count": 7,
+          "name": "traditional pop"
+        },
+        {
+          "count": 1,
+          "name": "acting"
+        },
+        {
+          "count": 1,
+          "name": "ultimate"
+        },
+        {
+          "count": 1,
+          "name": "singing"
+        },
+        {
+          "count": 3,
+          "name": "christmas music"
+        },
+        {
+          "count": 1,
+          "name": "actors"
+        },
+        {
+          "count": -1,
+          "name": "garland"
+        },
+        {
+          "count": -1,
+          "name": "chrismas"
+        },
+        {
+          "count": 0,
+          "name": "duets"
+        },
+        {
+          "count": -1,
+          "name": "swing; jazz; big band; christmas"
+        },
+        {
+          "count": -1,
+          "name": "my way"
+        },
+        {
+          "count": 1,
+          "name": "motion pictures--production and direction"
+        },
+        {
+          "count": 1,
+          "name": "motion picture producers and directors"
+        }
+      ]
+    },
+    {
+      "id": "e20747e7-55a4-452e-8766-7b985585082d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Zappa",
+      "sort-name": "Zappa, Frank",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2fb5445d-3987-49fe-957a-f730a7acc4a2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Baltimore",
+        "sort-name": "Baltimore",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US musician, composer, activist & filmmaker",
+      "ipis": [
+        "00033522513",
+        "00070189383",
+        "00077638143"
+      ],
+      "isnis": [
+        "0000000110792302"
+      ],
+      "life-span": {
+        "begin": "1940-12-21",
+        "end": "1993-12-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Stucco Holmes",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Stucco Holmes",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bruister, LaMarr",
+          "name": "LaMarr Bruister",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frank Vincent Zappa",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Frank Vincent Zappa",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frank Zappa & Ensemble Modern",
+          "name": "Frank Zappa & Ensemble Modern",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zappa",
+          "name": "Zappa",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "フランク・ザッパ",
+          "name": "フランク・ザッパ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zappa, Frank",
+          "name": "Zappa, Frank",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 11,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 13,
+          "name": "progressive rock"
+        },
+        {
+          "count": 4,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 2,
+          "name": "orchestral"
+        },
+        {
+          "count": 4,
+          "name": "experimental"
+        },
+        {
+          "count": 5,
+          "name": "jazz rock"
+        },
+        {
+          "count": 0,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 1,
+          "name": "blues rock"
+        },
+        {
+          "count": 2,
+          "name": "jam band"
+        },
+        {
+          "count": 11,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "spoken word"
+        },
+        {
+          "count": 10,
+          "name": "experimental rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 9,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 2,
+          "name": "big band"
+        },
+        {
+          "count": 4,
+          "name": "comedy rock"
+        },
+        {
+          "count": 2,
+          "name": "avant-garde"
+        },
+        {
+          "count": 6,
+          "name": "jazz-rock"
+        },
+        {
+          "count": 1,
+          "name": "rock opera"
+        },
+        {
+          "count": 0,
+          "name": "field recordings"
+        },
+        {
+          "count": 1,
+          "name": "satire"
+        },
+        {
+          "count": 1,
+          "name": "sound collage"
+        },
+        {
+          "count": 1,
+          "name": "film soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 4,
+          "name": "modern classical"
+        },
+        {
+          "count": 3,
+          "name": "musique concrète"
+        },
+        {
+          "count": 3,
+          "name": "avant-prog"
+        },
+        {
+          "count": 2,
+          "name": "doo-wop"
+        },
+        {
+          "count": -1,
+          "name": "death by prostate cancer"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        },
+        {
+          "count": 0,
+          "name": "speeches"
+        },
+        {
+          "count": 1,
+          "name": "rhino"
+        },
+        {
+          "count": 0,
+          "name": "synclavier music"
+        },
+        {
+          "count": 0,
+          "name": "server name"
+        },
+        {
+          "count": 0,
+          "name": "weird america"
+        },
+        {
+          "count": 1,
+          "name": "vyrzukhisuc-artiest"
+        }
+      ]
+    },
+    {
+      "id": "3886ea66-c0ae-4acc-8cd0-d70b5676efcf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Arnold",
+      "sort-name": "Arnold, Frank",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German director, actor, and voice actor",
+      "isnis": [
+        "0000000072833360"
+      ],
+      "life-span": {
+        "begin": "1957",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "61ab2306-3f9b-431d-97b1-39868b1b351b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Herbert",
+      "sort-name": "Herbert, Frank",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ced2611f-cfac-438a-95d0-02d6f5fb4f84",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tacoma",
+        "sort-name": "Tacoma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "188ae04a-63e2-423a-bc3d-f725f1214a69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Madison",
+        "sort-name": "Madison",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US science fiction author, “Dune”",
+      "isnis": [
+        "0000000121347853"
+      ],
+      "life-span": {
+        "begin": "1920-10-08",
+        "end": "1986-02-11",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "science fiction"
+        },
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "4269886d-55b6-4a43-80a7-edb3ac8939a2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Schätzing",
+      "sort-name": "Schätzing, Frank",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b8a2776a-eedf-48ea-a6f3-1a9070f0b823",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Köln",
+        "sort-name": "Köln",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German novelist",
+      "isnis": [
+        "0000000358571204"
+      ],
+      "life-span": {
+        "begin": "1957-05-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Frank Schaetzing",
+          "name": "Frank Schaetzing",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        },
+        {
+          "count": 1,
+          "name": "audiobook"
+        },
+        {
+          "count": 1,
+          "name": "audio drama"
+        },
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        }
+      ]
+    },
+    {
+      "id": "f2e0ad6a-10a7-4b9e-b9ce-f35494ff93db",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Robert Frank",
+      "sort-name": "Frank, Robert",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German voice actor",
+      "life-span": {
+        "begin": "1973-05-16",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "audio drama"
+        },
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "2173039f-d078-47f6-939b-a1f8fd899320",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Schöbel",
+      "sort-name": "Schöbel, Frank",
+      "gender": "male",
+      "country": "XG",
+      "area": {
+        "id": "d907b0ac-2956-386f-a246-62d55779aae1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "East Germany",
+        "sort-name": "East Germany",
+        "life-span": {
+          "begin": "1949",
+          "end": "1990",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "20619e36-fca8-4499-bcc8-be01a3ea3e41",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Leipzig",
+        "sort-name": "Leipzig",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00028009502"
+      ],
+      "isnis": [
+        "0000000114946874"
+      ],
+      "life-span": {
+        "begin": "1942-12-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Schöbel, Frank-Lothar",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Frank-Lothar Schöbel",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "ostschlager"
+        }
+      ]
+    },
+    {
+      "id": "caa9eafe-adf2-4353-a65b-281a89e7ae85",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andreas Winkelmann",
+      "sort-name": "Winkelmann, Andreas",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ddcf5a85-6422-479f-ba80-02d61fa90f16",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Liebenau",
+        "sort-name": "Liebenau",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German writer",
+      "life-span": {
+        "begin": "1968-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Winter, Hendrik",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hendrik Winter",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kodiak, Frank",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Frank Kodiak",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "714e1e85-77cb-433a-af60-6544db2d18f3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Stieren",
+      "sort-name": "Stieren, Frank",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4db682bb-8541-488a-a5d1-ad0f51fef0dd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oelde",
+        "sort-name": "Oelde",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German actor",
+      "isnis": [
+        "0000000372090896"
+      ],
+      "life-span": {
+        "begin": "1966-02-10",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    }
+  ]
+}

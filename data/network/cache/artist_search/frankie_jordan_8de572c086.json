@@ -1,0 +1,935 @@
+{
+  "created": "2026-05-22T17:39:17.164Z",
+  "count": 3129,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5aca0816-c048-4b04-90e0-2091e4279632",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frankie Jordan",
+      "sort-name": "Jordan, Frankie",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "792b1496-3f80-4ad0-92c2-2c2154a9b642",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oran",
+        "sort-name": "Oran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f5f1d03e-cc93-4429-8578-39e68266e277",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Neuilly-sur-Seine",
+        "sort-name": "Neuilly-sur-Seine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French 1960s rock singer Claude Benzaquen",
+      "ipis": [
+        "00002751325",
+        "00015522613"
+      ],
+      "isnis": [
+        "0000000001153085"
+      ],
+      "life-span": {
+        "begin": "1941-07-19",
+        "end": "2025-06-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Benzaquen, Claude",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Claude Benzaquen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "yé-yé"
+        }
+      ]
+    },
+    {
+      "id": "12194fbb-df75-47e8-bdf8-7be38348ce6a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Frankie Jordan",
+      "sort-name": "Jordan, Frankie",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "female US singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bb56bf3b-053d-470a-945e-fb6943c03214",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frankie Laine",
+      "sort-name": "Laine, Frankie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "84078c12-bd60-448f-a88f-87448f451353",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Near West Side",
+        "sort-name": "Near West Side",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San Diego",
+        "sort-name": "San Diego",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00017089094"
+      ],
+      "isnis": [
+        "0000000081802267"
+      ],
+      "life-span": {
+        "begin": "1913-03-30",
+        "end": "2007-02-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "LoVecchio, Francesco Paolo",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Francesco Paolo LoVecchio",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Laine, Frankie",
+          "name": "Laine, Frankie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frankie Lane",
+          "name": "Frankie Lane",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Laine,Frankie",
+          "name": "Laine,Frankie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "western"
+        },
+        {
+          "count": 1,
+          "name": "traditional pop"
+        },
+        {
+          "count": -1,
+          "name": "death by heart failure"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "197450cd-0124-4164-b723-3c22dd16494d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Sinatra",
+      "sort-name": "Sinatra, Frank",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a61386e-15df-4a38-a1f6-d751e133a1a9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hoboken",
+        "sort-name": "Hoboken",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American singer and actor, “Ol’ Blue Eyes”",
+      "ipis": [
+        "00028814966"
+      ],
+      "isnis": [
+        "0000000108823528"
+      ],
+      "life-span": {
+        "begin": "1915-12-12",
+        "end": "1998-05-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sinatra",
+          "name": "Sinatra",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinatra, Francis Albert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Francis Albert Sinatra",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frankie Satin",
+          "name": "Frankie Satin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "フランク・シナトラ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "フランク・シナトラ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinatra Frank",
+          "name": "Sinatra Frank",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frank Sinartra",
+          "name": "Frank Sinartra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 10,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "easy listening"
+        },
+        {
+          "count": 1,
+          "name": "vocal"
+        },
+        {
+          "count": 1,
+          "name": "lounge"
+        },
+        {
+          "count": 0,
+          "name": "baroque pop"
+        },
+        {
+          "count": 1,
+          "name": "christmas"
+        },
+        {
+          "count": 8,
+          "name": "swing"
+        },
+        {
+          "count": 3,
+          "name": "big band"
+        },
+        {
+          "count": 7,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 0,
+          "name": "columbia"
+        },
+        {
+          "count": 0,
+          "name": "easy listening soundtracks and musicals"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 3,
+          "name": "standards"
+        },
+        {
+          "count": 7,
+          "name": "traditional pop"
+        },
+        {
+          "count": 1,
+          "name": "acting"
+        },
+        {
+          "count": 1,
+          "name": "ultimate"
+        },
+        {
+          "count": 1,
+          "name": "singing"
+        },
+        {
+          "count": 3,
+          "name": "christmas music"
+        },
+        {
+          "count": 1,
+          "name": "actors"
+        },
+        {
+          "count": -1,
+          "name": "garland"
+        },
+        {
+          "count": -1,
+          "name": "chrismas"
+        },
+        {
+          "count": 0,
+          "name": "duets"
+        },
+        {
+          "count": -1,
+          "name": "swing; jazz; big band; christmas"
+        },
+        {
+          "count": -1,
+          "name": "my way"
+        },
+        {
+          "count": 1,
+          "name": "motion pictures--production and direction"
+        },
+        {
+          "count": 1,
+          "name": "motion picture producers and directors"
+        }
+      ]
+    },
+    {
+      "id": "3c714102-94d8-42f4-9005-fb8a75c2766d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frankie Valli",
+      "sort-name": "Valli, Frankie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "85c7cd5f-6fe2-4195-a44d-69fa390bd6ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Newark",
+        "sort-name": "Newark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American singer and actor, best known as the frontman of The Four Seasons",
+      "isnis": [
+        "0000000078389969"
+      ],
+      "life-span": {
+        "begin": "1934-05-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Frankie Vally",
+          "name": "Frankie Vally",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Francis Castelluccio",
+          "name": "Francis Castelluccio",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "aln-sh"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        }
+      ]
+    },
+    {
+      "id": "0032a067-7eae-4060-af4b-6bd47e04a32a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frankie Bones",
+      "sort-name": "Bones, Frankie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US house/techno DJ",
+      "life-span": {
+        "begin": "1966",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "DJ Frankie Bones",
+          "name": "DJ Frankie Bones",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bonesbreaks",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bonesbreaks",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "rave"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 1,
+          "name": "acid techno"
+        }
+      ]
+    },
+    {
+      "id": "a21c1636-c622-48b7-bf6a-d9032645aa55",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frankie Avalon",
+      "sort-name": "Avalon, Frankie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Philadelphia",
+        "sort-name": "Philadelphia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American actor, singer",
+      "isnis": [
+        "0000000114762338",
+        "0000000406528340"
+      ],
+      "life-span": {
+        "begin": "1940-09-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "フランキー・アヴァロン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "フランキー・アヴァロン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "F. Avalon",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "F. Avalon",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Franike Avalon",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Franike Avalon",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "swing"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ]
+    },
+    {
+      "id": "0096b09f-b79f-4a1e-aeb0-c5fbb7a2a2dd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Robert Jordan",
+      "sort-name": "Jordan, Robert",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b037dd05-f5d1-4033-afa7-22ba9d228223",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Charleston",
+        "sort-name": "Charleston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b037dd05-f5d1-4033-afa7-22ba9d228223",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Charleston",
+        "sort-name": "Charleston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "author",
+      "isnis": [
+        "0000000122822548"
+      ],
+      "life-span": {
+        "begin": "1948-10-17",
+        "end": "2007-09-16",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "author"
+        }
+      ]
+    },
+    {
+      "id": "b8b30699-7814-4fd1-ab75-6f22f5da0fac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Louis Jordan",
+      "sort-name": "Jordan, Louis",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0fb31fea-5775-4019-803c-369b70068e06",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Brinkley",
+        "sort-name": "Brinkley",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US jazz, blues and r&b musician and songwriter",
+      "ipis": [
+        "00077343267",
+        "00141750889",
+        "00144313700"
+      ],
+      "isnis": [
+        "0000000119317946"
+      ],
+      "life-span": {
+        "begin": "1908-07-08",
+        "end": "1975-02-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Jordan, Louis Thomas",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Louis Thomas Jordan",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis and the Boys",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Louis and the Boys",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jordan, Louis",
+          "name": "Jordan, Louis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Jordon",
+          "name": "Louis Jordon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "swing"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "new orleans r&b"
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 2,
+          "name": "jump-blues"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "291ec398-9ad9-4db9-949f-b99a880d18b3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frankie Paul",
+      "sort-name": "Paul, Frankie",
+      "gender": "male",
+      "country": "JM",
+      "area": {
+        "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Jamaica",
+        "sort-name": "Jamaica",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "23e0d135-9fe7-48cb-b2c4-93addd3d1e37",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Kingston",
+        "sort-name": "Kingston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "23e0d135-9fe7-48cb-b2c4-93addd3d1e37",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Kingston",
+        "sort-name": "Kingston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00024189000"
+      ],
+      "isnis": [
+        "0000000071444929"
+      ],
+      "life-span": {
+        "begin": "1965-10-19",
+        "end": "2017-05-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Blake, Paul",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Paul Blake",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "reggae"
+        },
+        {
+          "count": 1,
+          "name": "dancehall"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+{
+  "created": "2026-05-22T16:54:01.360Z",
+  "count": 310,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b76c1fe9-1f8d-4a3c-9790-7f0bc6d42737",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonid Nikolayev",
+      "sort-name": "Nikolayev, Leonid",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f47b98e5-71bc-4ca0-aa4b-f62d37fa96e1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toshkent",
+        "sort-name": "Toshkent",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist, conductor, composer",
+      "isnis": [
+        "0000000026059925"
+      ],
+      "life-span": {
+        "begin": "1878-08-13",
+        "end": "1942-10-11",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "ba5a2063-d231-46e7-be5a-1cf1de35f374",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 40,
+      "name": "Nikolayev Kapeliah",
+      "sort-name": "Nikolayev Kapeliah",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d07214f8-a75a-4c63-8cad-61f57dcdf564",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "name": "Andrey Nikolayev",
+      "sort-name": "Nikolayev, Andrey",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "74432beb-36f7-4b33-bb24-329c309c6ef2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonid",
+      "sort-name": "Leonid",
+      "gender": "male",
+      "disambiguation": "Paul Smith",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Smith, Paul",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Paul Smith",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "af45d552-00b1-49c5-a8b1-53af177fd173",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "Leonid",
+      "sort-name": "Leonid",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Richard Leonhard?",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "70fe729d-772f-4c0d-afe0-d62d6c590063",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Игорь Николаев",
+      "sort-name": "Nikolayev, Igor",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian singer Igor Nikolayev",
+      "ipis": [
+        "00145022707"
+      ],
+      "life-span": {
+        "begin": "1960-01-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Igor Nikolaev",
+          "name": "Igor Nikolaev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Igor Nikolayev",
+          "name": "Igor Nikolayev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Igor Nikolajev",
+          "name": "Igor Nikolajev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Николаев, Игорь",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Игорь Николаев",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Николаев, Игорь Юрьевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Игорь Юрьевич Николаев",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolayev, I.",
+          "name": "И. Николаев",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "russian"
+        }
+      ]
+    },
+    {
+      "id": "90ea34d4-84b7-45a1-90fb-5c007d8521e1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Леонид Агутин",
+      "sort-name": "Agutin, Leonid",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00224468276"
+      ],
+      "isnis": [
+        "0000000114412493"
+      ],
+      "life-span": {
+        "begin": "1968-07-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Agoutine, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agoutine",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "fi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "es",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "it",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "et",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agoetin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agoetin",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "sq",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ankoútin, Leonínt",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Λεονίντ Αγκούτιν",
+          "locale": "el",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leonid Agutin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Agutin, Leonid Nikolayevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Леонид Николаевич Агутин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        }
+      ]
+    },
+    {
+      "id": "dcfb10c1-025f-44ef-96e7-136567905b5f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 36,
+      "name": "Léonid",
+      "sort-name": "Léonid",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French duo",
+      "life-span": {
+        "begin": "2013",
+        "ended": null
+      }
+    },
+    {
+      "id": "51d523e4-8ea5-4d78-aa64-b99d4cc0a780",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonid Rudenko",
+      "sort-name": "Rudenko, Leonid",
+      "gender": "male",
+      "area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rudenko, Leonid",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Леонид Руденко",
+          "locale": "ru_RU",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rudenko",
+          "name": "Rudenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "55158771-61fd-45a8-b75e-12f2b5d69d2f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonid Soybelman",
+      "sort-name": "Soybelman, Leonid",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "82fc96f7-22d8-4f39-9288-cf30e1f70c63",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Bălţi",
+        "sort-name": "Bălţi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00236054195"
+      ],
+      "isnis": [
+        "0000000057818728",
+        "0000000118167018"
+      ],
+      "life-span": {
+        "begin": "1966-07-20",
+        "ended": null
+      }
+    }
+  ]
+}

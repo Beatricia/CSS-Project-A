@@ -1,0 +1,611 @@
+{
+  "created": "2026-05-22T16:53:00.170Z",
+  "count": 7779,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "69925e0c-2a09-4445-b8d7-6b0aa85aa10a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Мария Николаевна Кузнецова",
+      "sort-name": "Кузнецова, Мария Николаевна",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "soprano Maria Kuznetsova",
+      "isnis": [
+        "0000000108236446"
+      ],
+      "life-span": {
+        "begin": "1880-07-22",
+        "end": "1966-04-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kuznetsova, Maria Nikolaevna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Maria Nikolaevna Kuznetsova",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кузнєцова, Марія Миколаївна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Марія Миколаївна Кузнєцова",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kuznetsova, Maria",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Maria Kuznetsova",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kuznetsova-Benois, Maria",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Maria Kuznetsova-Benois",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кузнецова, Мария Николаевна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Мария Николаевна Кузнецова",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кузнецова, Мария",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Мария Кузнецова",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kousnezoff, Maria",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Maria Kousnezoff",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "884f606d-9e67-4adb-a152-c730652508e9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 63,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Galina Kuznetsova",
+      "sort-name": "Kuznetsova, Galina",
+      "gender": "female",
+      "disambiguation": "mezzo-soprano",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b3998c06-04e6-4b1d-bd2a-d5b83572ae7b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Maria Bethânia",
+      "sort-name": "Bethânia, Maria",
+      "gender": "female",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9be60abf-aef5-4964-8a1c-4616e623c37d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Santo Amaro",
+        "sort-name": "Santo Amaro",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00008813983"
+      ],
+      "isnis": [
+        "0000000079850809"
+      ],
+      "life-span": {
+        "begin": "1946-06-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Maria Bethãnia",
+          "name": "Maria Bethãnia",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maria Bethania",
+          "name": "Maria Bethania",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beth, Maria",
+          "name": "Maria Beth",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Veloso, Maria Bethânia Vianna Telles",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Maria Bethânia Vianna Telles Veloso",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maria Bethânia",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Maria Bethânia",
+          "locale": "pt",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "mpb"
+        },
+        {
+          "count": 1,
+          "name": "promessa"
+        }
+      ]
+    },
+    {
+      "id": "9dee40b2-25ad-404c-9c9a-139feffd4b57",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Maria Callas",
+      "sort-name": "Callas, Maria",
+      "gender": "female",
+      "country": "GR",
+      "area": {
+        "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Greece",
+        "sort-name": "Greece",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Manhattan",
+        "sort-name": "Manhattan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "soprano",
+      "isnis": [
+        "0000000121305469",
+        "0000000368641106"
+      ],
+      "life-span": {
+        "begin": "1923-12-02",
+        "end": "1977-09-16",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Μαρία Κάλλας",
+          "name": "Μαρία Κάλλας",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Callas, Maria Meneghini",
+          "name": "Maria Meneghini Callas",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": "1949",
+          "end-date": "1959"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 4,
+          "name": "greek"
+        },
+        {
+          "count": 3,
+          "name": "opera"
+        },
+        {
+          "count": 0,
+          "name": "american soprano"
+        },
+        {
+          "count": 4,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "operatic"
+        },
+        {
+          "count": 3,
+          "name": "soprano"
+        }
+      ]
+    },
+    {
+      "id": "3bafa22b-bbdb-442f-a742-63b7dde43b7f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Christoph Maria Herbst",
+      "sort-name": "Herbst, Christoph Maria",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5f226492-2ff6-4ea3-8c04-e8d9c4de2a49",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wuppertal",
+        "sort-name": "Wuppertal",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000119299557"
+      ],
+      "life-span": {
+        "begin": "1966-02-09",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "actor"
+        },
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "5f6650d3-4d53-4c67-a94c-d5979fc1c906",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Людмила Васильевна Кузнецова",
+      "sort-name": "Kuznetsova, Ludmila Vasilyevna",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ludmila Kuznetsova, mezzo-soprano",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kuznetsova, Ludmila",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ludmila Kuznetsova",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "d8de9ce5-eaf7-4bd9-a857-071d66a74515",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Folkturia",
+      "sort-name": "Folkturia",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kuznetsova, Yekaterina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yekaterina Kuznetsova",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "9c609dbc-37cc-4708-9311-9cc40c4023b6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Maria Dries",
+      "sort-name": "Dries, Maria",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8fa82d58-f57e-4c18-b720-13192afe9a8a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Erlangen",
+        "sort-name": "Erlangen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German writer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3aeb9e89-4fc3-46f4-a5a8-cf6c1b7e66a0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Maria Muldaur",
+      "sort-name": "Muldaur, Maria",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bdcfe2e1-5647-4fa6-b978-f7c08ab3eddd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Greenwich Village",
+        "sort-name": "Greenwich Village",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00349038060"
+      ],
+      "isnis": [
+        "000000011436345X"
+      ],
+      "life-span": {
+        "begin": "1943-09-12",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        }
+      ]
+    },
+    {
+      "id": "4a41fdca-b932-4f83-8473-bcbae71f0dd6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Gamazda",
+      "sort-name": "Gamazda",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1994-04-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Кузнецова, Александра",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Александра Кузнецова",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kuznetsova, Alexandra",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alexandra Kuznetsova",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    }
+  ]
+}

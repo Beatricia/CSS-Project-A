@@ -1,0 +1,842 @@
+{
+  "created": "2026-05-22T16:49:14.265Z",
+  "count": 2365,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8654cbba-c7eb-4d6e-8526-63d176147223",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dmitry Gordon",
+      "sort-name": "Dmitry Gordon",
+      "gender": "male",
+      "area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1967-10-21",
+        "ended": null
+      }
+    },
+    {
+      "id": "7944ed53-2a58-4035-9b93-140a71e41c34",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sting",
+      "sort-name": "Sting",
+      "gender": "male",
+      "area": {
+        "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "England",
+        "sort-name": "England",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a8b0d858-090f-466a-934c-1228cf6a862b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wallsend",
+        "sort-name": "Wallsend",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "singer, songwriter & member of The Police",
+      "ipis": [
+        "00046741280",
+        "00047070790"
+      ],
+      "isnis": [
+        "0000000109181571",
+        "0000000368557676"
+      ],
+      "life-span": {
+        "begin": "1951-10-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sumner, Gordon",
+          "name": "Gordon Sumner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gordon Matthew Summer",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Gordon Matthew Summer",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sumner, G.M.",
+          "name": "G.M. Sumner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sumner, Gordon Matthew",
+          "name": "Gordon Matthew Sumner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "スティング",
+          "name": "スティング",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sumner, Gordon Matthew Thomas",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gordon Matthew Thomas Sumner",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 9,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "british"
+        },
+        {
+          "count": 3,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 3,
+          "name": "new wave"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 0,
+          "name": "duo"
+        },
+        {
+          "count": 2,
+          "name": "soft rock"
+        },
+        {
+          "count": 2,
+          "name": "adult contemporary"
+        },
+        {
+          "count": 9,
+          "name": "pop rock"
+        },
+        {
+          "count": 5,
+          "name": "jazz pop"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 2,
+          "name": "reggae-pop"
+        },
+        {
+          "count": 2,
+          "name": "sophisti-pop"
+        },
+        {
+          "count": 0,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 3,
+          "name": "dance-rock"
+        },
+        {
+          "count": -1,
+          "name": "*england→north east→wallsend"
+        },
+        {
+          "count": 0,
+          "name": "2008 universal fire victim"
+        },
+        {
+          "count": 0,
+          "name": "nuno"
+        }
+      ]
+    },
+    {
+      "id": "cc1588e1-5ba3-45a6-b80c-b31035c89339",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dexter Gordon",
+      "sort-name": "Gordon, Dexter",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0eeb01c2-6e31-46ad-96b8-319749f731d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Philadelphia",
+        "sort-name": "Philadelphia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00012357908"
+      ],
+      "isnis": [
+        "0000000119486061"
+      ],
+      "life-span": {
+        "begin": "1923-02-27",
+        "end": "1990-04-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Long Tall Dexter",
+          "name": "Long Tall Dexter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dexter Keith Gordon",
+          "name": "Dexter Keith Gordon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "デクスター・ゴードン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "デクスター・ゴードン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 2,
+          "name": "swing"
+        },
+        {
+          "count": 4,
+          "name": "hard bop"
+        },
+        {
+          "count": 3,
+          "name": "bebop"
+        },
+        {
+          "count": 1,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 2,
+          "name": "bop"
+        },
+        {
+          "count": 0,
+          "name": "easy listening soundtracks and musicals"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "9d97b077-b28d-4ba8-a3d9-c71926e3b2b6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gordon Lightfoot",
+      "sort-name": "Lightfoot, Gordon",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7351bb26-c458-495a-b9fb-869b60aa8870",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Orillia",
+        "sort-name": "Orillia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00018094197"
+      ],
+      "isnis": [
+        "0000000078393327"
+      ],
+      "life-span": {
+        "begin": "1938-11-17",
+        "end": "2023-05-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Lightfoot, Gordon",
+          "name": "Lightfoot, Gordon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lightfoot, Gordon Meredith",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gordon Meredith Lightfoot",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "folk"
+        },
+        {
+          "count": 2,
+          "name": "canadian"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        }
+      ]
+    },
+    {
+      "id": "f66a4419-7682-42ca-acf8-8b3ae720a836",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gordon",
+      "sort-name": "Gordon",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Dutch singer",
+      "life-span": {
+        "begin": "1968-07-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Heuckeroth, Cornelis Willem",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Cornelis Willem Heuckeroth",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "nederpop"
+        },
+        {
+          "count": 1,
+          "name": "levenslied"
+        },
+        {
+          "count": 1,
+          "name": "netherlands"
+        }
+      ]
+    },
+    {
+      "id": "259a8d5f-d323-4b1c-897a-35ffdd7922c5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Robert Gordon",
+      "sort-name": "Gordon, Robert",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "64ba9ddd-8143-4cf5-bd4b-390e758de77d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bethesda",
+        "sort-name": "Bethesda",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2c20ec7d-d913-4374-9b52-5d0127145c14",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Lenox Hill",
+        "sort-name": "Lenox Hill",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US rockabilly singer",
+      "ipis": [
+        "00061513211",
+        "00062876846"
+      ],
+      "isnis": [
+        "0000000055143982"
+      ],
+      "life-span": {
+        "begin": "1947-03-29",
+        "end": "2022-10-18",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Gordon, Robert I.",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Robert I. Gordon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "blues"
+        },
+        {
+          "count": 0,
+          "name": "punk rock"
+        },
+        {
+          "count": 2,
+          "name": "rockabilly"
+        },
+        {
+          "count": 0,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        }
+      ]
+    },
+    {
+      "id": "36ec3cbf-fe4f-419f-840a-aed9afdf0250",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Slim Dusty",
+      "sort-name": "Dusty, Slim",
+      "gender": "male",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2de30436-df3a-4a53-858f-ff0988cf62ac",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kempsey",
+        "sort-name": "Kempsey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3f179da4-83c6-4a28-a627-e46b4a8ff1ed",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sydney",
+        "sort-name": "Sydney",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00016279780",
+        "00055785349"
+      ],
+      "isnis": [
+        "000000006311425X"
+      ],
+      "life-span": {
+        "begin": "1927-06-13",
+        "end": "2003-09-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kirkpatrick, David Gordon",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "David Gordon Kirkpatrick",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "aln-sh"
+        }
+      ]
+    },
+    {
+      "id": "2b62cc78-fb8a-40ce-a4b1-0a2830576dae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gordon Giltrap",
+      "sort-name": "Giltrap, Gordon",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055936376"
+      ],
+      "life-span": {
+        "begin": "1948-04-06",
+        "ended": null
+      }
+    },
+    {
+      "id": "40bcb815-b241-4c83-90ea-92fc195fcdb8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Peter Davison",
+      "sort-name": "Davison, Peter",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0e7c2a34-9121-4886-b8a4-d7eef38c5853",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Streatham",
+        "sort-name": "Streatham",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English actor",
+      "isnis": [
+        "0000000063098966"
+      ],
+      "life-span": {
+        "begin": "1951-04-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Peter Malcolm Gordon Moffett",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Peter Malcolm Gordon Moffett",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "doctor who"
+        },
+        {
+          "count": 1,
+          "name": "voice actor"
+        }
+      ]
+    },
+    {
+      "id": "01a36baf-fa2d-4659-8bc2-dbfb5ffed791",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mick Gordon",
+      "sort-name": "Gordon, Mick",
+      "gender": "male",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2c1aa3a4-55fd-4758-a31c-336dcdcdb9ac",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mackay",
+        "sort-name": "Mackay",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "video game composer and sound designer",
+      "life-span": {
+        "begin": "1985-07-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gordon, Michael John",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Michael John Gordon",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "N-JekteD",
+          "name": "N-JekteD",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "video game music"
+        },
+        {
+          "count": 0,
+          "name": "australia"
+        },
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "djent"
+        },
+        {
+          "count": 5,
+          "name": "industrial metal"
+        },
+        {
+          "count": 3,
+          "name": "vgm"
+        }
+      ]
+    }
+  ]
+}

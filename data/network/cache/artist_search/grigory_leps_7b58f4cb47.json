@@ -1,0 +1,304 @@
+{
+  "created": "2026-05-22T17:04:31.221Z",
+  "count": 241,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "cb42445b-f8d8-4eb1-9806-d70c45725fc8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Григорий Лепс",
+      "sort-name": "Leps, Grigory",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6dfc84a1-167d-46d9-ba68-6e3e57622263",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sochi",
+        "sort-name": "Sochi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000040683679X"
+      ],
+      "life-span": {
+        "begin": "1962-07-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Leps, Grigory",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Grigory Leps",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лепсверидзе, Григорий Викторович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Григорий Викторович Лепсверидзе",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Лепс, Григорий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Григорий Лепс",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "1fc3823f-f666-4cdd-a78e-7198ad7fd1cd",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 42,
+      "name": "Baldwin And Leps",
+      "sort-name": "Baldwin And Leps",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "244f066f-4498-4c74-bb3c-6d82b96baddd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grigory Kalinovsky",
+      "sort-name": "Kalinovsky, Grigory",
+      "gender": "male",
+      "disambiguation": "violinist",
+      "isnis": [
+        "0000000055440389"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d000a63d-f395-45a1-8f02-ccb9ac2e7e34",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "name": "Grigory Fatyanov",
+      "sort-name": "Fatyanov, Grigory",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian house DJ",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "house"
+        }
+      ]
+    },
+    {
+      "id": "1d37c42f-21c8-4ff3-9bd8-8fd6dc3fad29",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grigory Krein",
+      "sort-name": "Krein, Grigory",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian Jewish composer",
+      "life-span": {
+        "begin": "1879",
+        "end": "1955",
+        "ended": true
+      }
+    },
+    {
+      "id": "0f9677c3-ed5d-4ac1-960c-7af27006fa5e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grigory Smirnov",
+      "sort-name": "Smirnov, Grigory",
+      "gender": "male",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "22c10271-daf7-4cb3-8056-5c6bc2786fd2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Novosibirsk",
+        "sort-name": "Novosibirsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer / pianist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2e9aadb9-40ac-42b1-9b40-2e796953f4dd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grigory Teplov",
+      "sort-name": "Teplov, Grigory",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8d9d0076-c54c-46b6-950b-8b4d0d46af03",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Pskov",
+        "sort-name": "Pskov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000083682748"
+      ],
+      "life-span": {
+        "begin": "1717-11-20",
+        "end": "1779-03-30",
+        "ended": true
+      }
+    },
+    {
+      "id": "7c992b97-a720-40f6-b198-d80c17af964a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grigory Gritziuk",
+      "sort-name": "Gritziuk, Grigory",
+      "gender": "male",
+      "disambiguation": "operatic bass",
+      "isnis": [
+        "000000011318074X"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8a42ee4a-2dd8-4a77-ace2-485d47ec4914",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grigory Avrorin",
+      "sort-name": "Avrorin, Grigory",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f53a43cf-0a72-4831-a439-5124f14ba6bc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grigory Kovalevsky",
+      "sort-name": "Kovalevsky, Grigory",
+      "gender": "male",
+      "disambiguation": "Double-bass",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

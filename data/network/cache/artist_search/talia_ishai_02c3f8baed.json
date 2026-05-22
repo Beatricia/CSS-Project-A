@@ -1,0 +1,374 @@
+{
+  "created": "2026-05-22T17:32:45.149Z",
+  "count": 961,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "618d1d3c-9b55-484a-a929-1e4cf4db03ad",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "טליה ישי",
+      "sort-name": "Ishai, Talia",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1994",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ishai, Talia",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Talia Ishai",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ישי, טליה",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "טליה ישי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "68e3f02b-e00e-4b3e-9d3b-b3659c8cc7f4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "TALIA",
+      "sort-name": "TALIA",
+      "gender": "female",
+      "disambiguation": "Singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "201f09f1-d1f3-414a-9152-ccf71c9c3ba0",
+      "type": "Character",
+      "type-id": "5c1375b0-f18d-3db7-a164-a49d7a63773f",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Talia",
+      "sort-name": "Talia",
+      "gender": "female",
+      "disambiguation": "eversoul character",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9ac12d84-a8d9-462d-903a-4ed79f39391d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Talia",
+      "sort-name": "Talia",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00672137545",
+        "00734082259"
+      ],
+      "life-span": {
+        "begin": "1988-05-12",
+        "ended": null
+      }
+    },
+    {
+      "id": "dabd61b5-c550-4858-adf2-8a183242677f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ishai Masada",
+      "sort-name": "Ishai Masada",
+      "gender": "male",
+      "area": {
+        "id": "453f5392-25d8-408e-b648-321b904e3439",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Burlington",
+        "sort-name": "Burlington",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "583e7cf5-aed9-442a-a171-03219660f157",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "name": "Ishai Barnoy",
+      "sort-name": "Ishai Barnoy",
+      "area": {
+        "id": "2fb5445d-3987-49fe-957a-f730a7acc4a2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Baltimore",
+        "sort-name": "Baltimore",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2130dffb-2b70-4012-89dc-33983560b502",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ישי אדר",
+      "sort-name": "Adar, Ishai",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "402c46d5-e884-46e1-928c-a47c215f6b01",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Yerushalayim",
+        "sort-name": "Yerushalayim",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000073199445"
+      ],
+      "life-span": {
+        "begin": "1970-07-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Adar, Ishai",
+          "name": "Ishai Adar",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "43d9e87c-9cd6-4cf5-a04c-532f04e31878",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Jenny Talia",
+      "sort-name": "Talia, Jenny,",
+      "gender": "female",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "T. J. Dennis",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "T. J. Dennis",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "TJ Dennis",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "TJ Dennis",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jenny Talia",
+          "name": "Jenny Talia",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3f193d20-0f98-48f5-9216-8c2616f6e0f7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Talia Aoude",
+      "sort-name": "Aoude, Talia",
+      "gender": "female",
+      "area": {
+        "id": "bbc88d72-1f32-4936-8dc6-b62b3318e1c4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ottawa",
+        "sort-name": "Ottawa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "TALIA",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "TALIA",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "43e083e1-660b-4d0e-bc52-9f7d5ab3d75f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Talia Mar",
+      "sort-name": "Mar, Talia",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000503486461"
+      ],
+      "life-span": {
+        "begin": "1996-11-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Haddock, Natalia Margaret",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Natalia Margaret Haddock",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

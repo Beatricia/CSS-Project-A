@@ -1,0 +1,438 @@
+{
+  "created": "2026-05-22T16:59:59.151Z",
+  "count": 2318,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "63a154f1-ebb0-4962-9252-3863f8f43e0a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ruth Rubin",
+      "sort-name": "Rubin, Ruth",
+      "gender": "female",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f491f92e-e657-43ed-8eb2-5bee763d0ccc",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Chernivets'ka Oblast'",
+        "sort-name": "Chernivets'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "75e398a3-5f3f-4224-9cd8-0fe44715bc95",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1906",
+        "end": "2000",
+        "ended": true
+      }
+    },
+    {
+      "id": "948137e5-783e-4386-bd7c-a56c2666d1e2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ruth Brown",
+      "sort-name": "Brown, Ruth",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a79f5154-31b7-4070-82e4-657ed0695c52",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Portsmouth",
+        "sort-name": "Portsmouth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3762526b-3ccd-410f-a5a8-bd58986a56b1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Henderson",
+        "sort-name": "Henderson",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000080083782"
+      ],
+      "life-span": {
+        "begin": "1928-01-30",
+        "end": "2006-11-17",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Brown, Ruth",
+          "name": "Brown, Ruth",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weston, Ruth Alston",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ruth Alston Weston",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "vocal jazz"
+        },
+        {
+          "count": -1,
+          "name": "death by stroke"
+        },
+        {
+          "count": -1,
+          "name": "death by heart attack"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 1,
+          "name": "jump-blues"
+        }
+      ]
+    },
+    {
+      "id": "1eb81458-10d5-4083-8722-0a26d57adaf9",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 47,
+      "name": "Ruth Ruth",
+      "sort-name": "Ruth Ruth",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000106749678"
+      ],
+      "life-span": {
+        "begin": "1993",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": 2,
+          "name": "grunge"
+        },
+        {
+          "count": 2,
+          "name": "power pop"
+        },
+        {
+          "count": 2,
+          "name": "post-grunge"
+        },
+        {
+          "count": 2,
+          "name": "pop punk"
+        }
+      ]
+    },
+    {
+      "id": "5f267af7-1431-4ed4-b384-ae95c65e0875",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "name": "Rubin",
+      "sort-name": "Rubin",
+      "country": "AR",
+      "area": {
+        "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Argentina",
+        "sort-name": "Argentina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Argentina",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cb882ad7-c2de-485e-9986-0a1462a2e254",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rubin Steiner",
+      "sort-name": "Steiner, Rubin",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dea069af-67b5-422c-a19a-a6915b9fe592",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tours",
+        "sort-name": "Tours",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000367977900"
+      ],
+      "life-span": {
+        "begin": "1974-10-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rubin Stiener",
+          "name": "Rubin Stiener",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ruben Steiner",
+          "name": "Ruben Steiner",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "932a65e3-df0b-4eb9-b6f9-e47b06248998",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rubin",
+      "sort-name": "Rubin",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Mike Rubin, with Rockstroh",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6c3f1c7d-6903-433d-a863-61d026a58107",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "name": "Rubin",
+      "sort-name": "Rubin",
+      "disambiguation": "released Let It Out",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3ccd5944-a1aa-4f8e-b0f9-73694dbc95dc",
+      "score": 46,
+      "name": "Rubin",
+      "sort-name": "Rubin",
+      "disambiguation": "released You've Been Away",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "92f8b5cf-4e6f-413d-ae89-c6c78b8f2350",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ruther Marie Alterado Lingat",
+      "sort-name": "Alterado Lingat, Ruther Marie",
+      "gender": "female",
+      "country": "PH",
+      "area": {
+        "id": "786532a5-2e36-315a-bdf2-221dc1b64b72",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Philippines",
+        "sort-name": "Philippines",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3d9f74bd-edeb-49a2-aaad-f97ff6e3e854",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Imus",
+        "sort-name": "Imus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1998-10-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ruth",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ruth",
+          "locale": "fil",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "related-akb48"
+        }
+      ]
+    },
+    {
+      "id": "04515954-2811-45bc-bc47-7fadd37089cc",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 45,
+      "name": "Rubin",
+      "sort-name": "Rubin",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "45125c6a-db29-4300-bd26-9ff9ed24a3e7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ghent",
+        "sort-name": "Ghent",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian 'pop noir' trio",
+      "life-span": {
+        "begin": "2015",
+        "ended": null
+      }
+    }
+  ]
+}

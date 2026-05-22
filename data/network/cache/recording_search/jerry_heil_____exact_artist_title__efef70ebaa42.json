@@ -1,0 +1,103 @@
+{
+  "created": "2026-05-22T18:29:32.352Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "5848e785-9bdb-4166-87c8-c840157dbd0b",
+      "score": 100,
+      "artist-credit-id": "34a8c989-2c57-312f-8113-1a7363e132f3",
+      "title": "Додай гучності (12 points)",
+      "length": 172320,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Jerry Heil",
+          "artist": {
+            "id": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+            "name": "Jerry Heil",
+            "sort-name": "Heil, Jerry",
+            "disambiguation": "Ukrainian singer, participant of Eurovision 2024 (Ukraine)",
+            "aliases": [
+              {
+                "sort-name": "Shemaieva, Yana",
+                "name": "Яна Шемаєва",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-08-28",
+      "releases": [
+        {
+          "id": "c2f83cd3-a74a-40e0-8004-cb9e6fc2427f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "34a8c989-2c57-312f-8113-1a7363e132f3",
+          "count": 1,
+          "title": "Додай гучності (12 points)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Jerry Heil",
+              "artist": {
+                "id": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+                "name": "Jerry Heil",
+                "sort-name": "Heil, Jerry",
+                "disambiguation": "Ukrainian singer, participant of Eurovision 2024 (Ukraine)"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "87419c25-970b-41cb-aea5-2c595d75c942",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Додай гучності (12 points)",
+            "primary-type": "Single"
+          },
+          "date": "2025-08-28",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2025-08-28",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "c8dd686b-62ac-4bf2-8881-1db1a1b10ae3",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "24e3c70d-c9a6-4241-a034-8efbda43670e",
+                  "number": "1",
+                  "title": "Додай гучності (12 points)",
+                  "length": 172320
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMDA72543237"
+      ]
+    }
+  ],
+  "query": "artist:\"Jerry Heil\" AND recording:\"Додай гучності (12 points)\""
+}

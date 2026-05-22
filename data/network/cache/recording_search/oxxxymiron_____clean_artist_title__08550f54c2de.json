@@ -1,0 +1,306 @@
+{
+  "created": "2026-05-22T18:30:53.289Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "368284e2-9947-4272-8d76-4b9187e34072",
+      "score": 100,
+      "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+      "title": "В книге все было по-другому",
+      "length": 352088,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Oxxxymiron",
+          "artist": {
+            "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+            "name": "Oxxxymiron",
+            "sort-name": "Oxxxymiron",
+            "disambiguation": "Russian rapper",
+            "aliases": [
+              {
+                "sort-name": "Оксимирон",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Оксимирон",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Фёдоров, Мирон Янович",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Мирон Янович Фёдоров",
+                "locale": "ru",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Окси",
+                "name": "Окси",
+                "locale": "ru",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-11-12",
+      "releases": [
+        {
+          "id": "21a2a7e5-9769-4eca-9485-97deb720b106",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+          "count": 1,
+          "title": "miXXXtape III: Смутное время",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Oxxxymiron",
+              "artist": {
+                "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+                "name": "Oxxxymiron",
+                "sort-name": "Oxxxymiron",
+                "disambiguation": "Russian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "003ad093-9663-44e1-82f2-b81a0c87c00c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "miXXXtape III: Смутное время",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2021-11-12",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-11-12",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "id": "1ce7d03f-c6fd-32ba-9eda-d856d4844bc8",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "3742f409-b95c-4615-b45f-32bbc7ede483",
+                  "number": "27",
+                  "title": "В книге все было по-другому",
+                  "length": 352088
+                }
+              ],
+              "track-count": 36,
+              "track-offset": 26
+            }
+          ]
+        },
+        {
+          "id": "9ad1eab8-dbe1-4cd2-9103-99ae8f801436",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+          "count": 1,
+          "title": "miXXXtape III: Смутное время",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Oxxxymiron",
+              "artist": {
+                "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+                "name": "Oxxxymiron",
+                "sort-name": "Oxxxymiron",
+                "disambiguation": "Russian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "003ad093-9663-44e1-82f2-b81a0c87c00c",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "miXXXtape III: Смутное время",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Mixtape/Street"
+            ],
+            "secondary-type-ids": [
+              "15c1b1f5-d893-3375-a1db-e180c5ae15ed"
+            ]
+          },
+          "date": "2021-11-12",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-11-12",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 36,
+          "media": [
+            {
+              "id": "af0a106f-7cbe-3113-982b-1b24056fa678",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "51fbddb1-9a35-472e-ae5f-33d82c99ab96",
+                  "number": "27",
+                  "title": "В книге все было по-другому",
+                  "length": 352088
+                }
+              ],
+              "track-count": 36,
+              "track-offset": 26
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMDA72145613"
+      ]
+    },
+    {
+      "id": "09f63f6e-2636-4828-9297-1e563f04b904",
+      "score": 83,
+      "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+      "title": "В книге всё было по-другому (4 Раунд, 17ib)",
+      "length": 355531,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Oxxxymiron",
+          "artist": {
+            "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+            "name": "Oxxxymiron",
+            "sort-name": "Oxxxymiron",
+            "disambiguation": "Russian rapper",
+            "aliases": [
+              {
+                "sort-name": "Оксимирон",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Оксимирон",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Фёдоров, Мирон Янович",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Мирон Янович Фёдоров",
+                "locale": "ru",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Окси",
+                "name": "Окси",
+                "locale": "ru",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2020-02-03",
+      "releases": [
+        {
+          "id": "e73958b1-1761-4934-85b7-96aabcf10266",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+          "count": 1,
+          "title": "В книге всё было по-другому (4 раунд, 17ib)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Oxxxymiron",
+              "artist": {
+                "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+                "name": "Oxxxymiron",
+                "sort-name": "Oxxxymiron",
+                "disambiguation": "Russian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "de61a5df-eb6f-45b1-9a9e-ad2cbd476d34",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "В книге всё было по-другому (4 раунд, 17ib)",
+            "primary-type": "Single"
+          },
+          "date": "2020-02-03",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2020-02-03",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "72275bbc-b2bf-37ae-8394-6b7ff2ddbf7c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "462dfaba-2a7b-4bba-8f57-659076cae53b",
+                  "number": "1",
+                  "title": "В книге всё было по-другому (4 Раунд, 17ib)",
+                  "length": 355531
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Oxxxymiron\" AND recording:\"В книге всё было по другому\""
+}

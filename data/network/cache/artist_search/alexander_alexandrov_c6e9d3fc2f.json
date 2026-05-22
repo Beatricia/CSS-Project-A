@@ -1,0 +1,408 @@
+{
+  "created": "2026-05-22T17:03:20.088Z",
+  "count": 5168,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ed3ba141-b10c-45f2-a375-d362b511813e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Alexandrov",
+      "sort-name": "Alexandrov, Alexander",
+      "gender": "male",
+      "disambiguation": "bassoon",
+      "life-span": {
+        "begin": "1957",
+        "ended": null
+      }
+    },
+    {
+      "id": "de2b0787-bcd8-4bc9-899f-0af0a07a3394",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Alexandrov",
+      "sort-name": "Alexandrov, Alexander",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "psytrance artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2414132d-2df1-4505-92e7-89f6cf09f5a3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Александр Александров",
+      "sort-name": "Alexandrov, Alexander",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "77f29fe5-eca2-4266-99f8-2ba8297df713",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ryazan",
+        "sort-name": "Ryazan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Soviet composer and choir conductor 1883-1946",
+      "life-span": {
+        "begin": "1883-04-13",
+        "end": "1946-07-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "A.V. Aleksandrov",
+          "name": "A.V. Aleksandrov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexandrov, Alexander",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexander Alexandrov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Александров, Александр Васильевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Александр Васильевич Александров",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Александров, Александр",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Александр Александров",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Vasil'yevich Alexandrov",
+          "name": "Alexander Vasil'yevich Alexandrov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexandrow, Alexander",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexander Alexandrow",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexandrow, Alexander Wassiljewitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alexander Wassiljewitsch Alexandrow",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexandrov, Alexander Vasilyevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alexander Vasilyevich Alexandrov",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Александр Васильевич Коптелев",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Александр Васильевич Коптелев",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1f27d918-b658-4918-aa18-80897433e14b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Peter Alexander",
+      "sort-name": "Alexander, Peter",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian singer, actor, entertainer and showmaster",
+      "ipis": [
+        "00040464801",
+        "00040465014"
+      ],
+      "isnis": [
+        "0000000114712330"
+      ],
+      "life-span": {
+        "begin": "1926-06-30",
+        "end": "2011-02-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Neuenhauser, Alexander",
+          "name": "Alexander Neuenhauser",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neumayer, Peter Alexander Ferdinand Maximilian",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Peter Alexander Ferdinand Maximilian Neumayer",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neumayer, Peter Alexander",
+          "name": "Peter Alexander Neumayer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "actor"
+        },
+        {
+          "count": 3,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "austrian"
+        }
+      ]
+    },
+    {
+      "id": "c17fc469-da74-41b9-99b4-978cf900a3b1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lubo Alexandrov",
+      "sort-name": "Alexandrov, Lubo",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Bulgaria",
+        "sort-name": "Bulgaria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lubo & Kaba Horo",
+          "name": "Lubo & Kaba Horo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "4ff2ffae-3018-45f2-8c92-4a865ec7dcf0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "name": "Gyorgy Alexandrov",
+      "sort-name": "Alexandrov, Gyorgy",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "47dccfec-8a9e-48d6-87ea-61f6666d67cd",
+      "score": 44,
+      "name": "Dmitry Alexandrov",
+      "sort-name": "Alexandrov, Dmitry",
+      "disambiguation": "EDM",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "476a3bdf-6e69-4f1c-9c16-9289fc21d0a1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Martin Alexandrov",
+      "sort-name": "Alexandrov, Martin",
+      "gender": "male",
+      "country": "BG",
+      "area": {
+        "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Bulgaria",
+        "sort-name": "Bulgaria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5624e53b-785d-43b4-80d6-ccf16c50add2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yaroslav Alexandrov",
+      "sort-name": "Alexandrov, Yaroslav",
+      "gender": "male",
+      "begin-area": {
+        "id": "0fd9836b-26b5-4f1e-9678-f2d44a0acbda",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Gəncə",
+        "sort-name": "Gəncə",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1927-02-27",
+        "ended": null
+      }
+    },
+    {
+      "id": "79c0a904-3792-485b-b0fe-b3c16a26160e",
+      "score": 44,
+      "name": "Kristian Alexandrov",
+      "sort-name": "Alexandrov, Kristian",
+      "disambiguation": "Played on Tegan and Sara's under feet like ours",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

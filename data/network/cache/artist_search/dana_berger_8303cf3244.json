@@ -1,0 +1,602 @@
+{
+  "created": "2026-05-22T17:24:50.894Z",
+  "count": 2972,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "58258fdf-ffa8-4a36-bdcd-2930fc205621",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "דנה ברגר",
+      "sort-name": "Berger, Dana",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4da37f20-218d-4406-8d29-7d30a32978bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Haifa",
+        "sort-name": "Haifa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00247067365"
+      ],
+      "isnis": [
+        "0000000070777035"
+      ],
+      "life-span": {
+        "begin": "1970-11-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Dana Berger",
+          "name": "Dana Berger",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "3c3f2d7e-95aa-4e3f-b431-0d9c3fb572cb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michel Berger",
+      "sort-name": "Berger, Michel",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f5f1d03e-cc93-4429-8578-39e68266e277",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Neuilly-sur-Seine",
+        "sort-name": "Neuilly-sur-Seine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3543563d-0071-4ae8-b568-ef53f5ba9723",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ramatuelle",
+        "sort-name": "Ramatuelle",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00002807028",
+        "00013283711",
+        "00464060472"
+      ],
+      "isnis": [
+        "0000000080920085"
+      ],
+      "life-span": {
+        "begin": "1947-11-28",
+        "end": "1992-08-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Hursel, M.",
+          "name": "M. Hursel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hamburger, Mike",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mike Hamburger",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hamburger, Michel Jean",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Michel Jean Hamburger",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hursel, Michel",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Michel Hursel",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "chanson française"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "piano rock"
+        },
+        {
+          "count": 1,
+          "name": "french pop"
+        },
+        {
+          "count": 1,
+          "name": "french pianist"
+        },
+        {
+          "count": 1,
+          "name": "french composer"
+        },
+        {
+          "count": 1,
+          "name": "french singer"
+        },
+        {
+          "count": 1,
+          "name": "starmania"
+        }
+      ]
+    },
+    {
+      "id": "bc4fd693-8647-4c1d-b978-1d9322ad1bdb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Wolfram Berger",
+      "sort-name": "Berger, Wolfram",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e8ad73e9-9e7f-41c4-a395-6e29260ff1df",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Graz",
+        "sort-name": "Graz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian actor",
+      "isnis": [
+        "0000000120235104"
+      ],
+      "life-span": {
+        "begin": "1945-10-12",
+        "ended": null
+      }
+    },
+    {
+      "id": "e0d70573-a721-489f-8ccb-824fcee4fb51",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dana",
+      "sort-name": "Dana",
+      "gender": "female",
+      "country": "IE",
+      "area": {
+        "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ireland",
+        "sort-name": "Ireland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e3b25e1c-0adf-4773-820e-533b4f245d01",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Islington",
+        "sort-name": "Islington",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "70s Irish female singer",
+      "ipis": [
+        "00047096078"
+      ],
+      "isnis": [
+        "0000000055394108"
+      ],
+      "life-span": {
+        "begin": "1951-08-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Dana",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Дана",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scallon, Dana Rosemary",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Dana Rosemary Scallon",
+          "locale": "en_IE",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1978-10-05",
+          "end-date": null
+        },
+        {
+          "sort-name": "Brown, Rosemary",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Rosemary Brown",
+          "locale": "en_IE",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "northern irish"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "irish"
+        },
+        {
+          "count": 1,
+          "name": "eurovision"
+        }
+      ]
+    },
+    {
+      "id": "81424a71-12ec-4dc3-9392-a798bc285b32",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Olaf Berger",
+      "sort-name": "Berger, Olaf",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "624f2956-bfdb-43a9-8924-9aadb812ee04",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dresden",
+        "sort-name": "Dresden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00201807312"
+      ],
+      "isnis": [
+        "0000000056770961"
+      ],
+      "life-span": {
+        "begin": "1963-12-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Berger, Olag",
+          "name": "Olag Berger",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "ostschlager"
+        }
+      ]
+    },
+    {
+      "id": "c136759e-c98e-4dc0-b5d2-1922943da8a2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dana Winner",
+      "sort-name": "Winner, Dana",
+      "gender": "female",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "56beda2e-dcd5-47e8-ac57-dbe72cf0fbb4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hasselt",
+        "sort-name": "Hasselt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000056709685"
+      ],
+      "life-span": {
+        "begin": "1965-02-10",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        }
+      ]
+    },
+    {
+      "id": "347387e3-a87b-4ab2-b67c-df16f30f946c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "name": "Steffen Jürgens",
+      "sort-name": "Jürgens, Steffen",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1968-02-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bernd Berger",
+          "name": "Bernd Berger",
+          "locale": "de",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6e2c544b-7987-4e32-97c4-035930167b3e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dana Gillespie",
+      "sort-name": "Gillespie, Dana",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a6baeb59-8829-4926-82b1-09803dd7bba2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Woking",
+        "sort-name": "Woking",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00011891401"
+      ],
+      "life-span": {
+        "begin": "1949-03-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gillespie, Richenda Antoinette de Winterstein",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Richenda Antoinette de Winterstein Gillespie",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "teen pop"
+        }
+      ]
+    },
+    {
+      "id": "2ef9abd5-8a24-4d08-8a57-13006c958c70",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Berger",
+      "sort-name": "Berger",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Sascha Berger",
+      "life-span": {
+        "begin": "1976",
+        "ended": null
+      }
+    },
+    {
+      "id": "b949d68c-8a0c-45cb-be75-db12d21ad7bf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "דנה דובדבן-ברגר",
+      "sort-name": "Duvdevan-Berger, Dana",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00826159918"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

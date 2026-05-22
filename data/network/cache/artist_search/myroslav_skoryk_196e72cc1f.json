@@ -1,0 +1,281 @@
+{
+  "created": "2026-05-22T16:48:01.967Z",
+  "count": 7,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "cb4f47e5-6a09-4ece-98ba-5d35f16ea85a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Мирослав Скорик",
+      "sort-name": "Skoryk, Myroslav",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian composer",
+      "ipis": [
+        "00725708729"
+      ],
+      "isnis": [
+        "0000000081268439"
+      ],
+      "life-span": {
+        "begin": "1938-07-13",
+        "end": "2020-06-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Skoryk, Myroslav",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Myroslav Skoryk",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "ukrainian composer"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "teacher"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "fa8efcfd-ec37-464d-8043-c89c9f4fe630",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 76,
+      "name": "Myroslav Skoryk Lviv National Philharmonic",
+      "sort-name": "Myroslav Skoryk Lviv National Philharmonic",
+      "area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1902-09-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lviv National Philharmonic Symphony Orchestra",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Lviv National Philharmonic Symphony Orchestra",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Academic Symphony Orchestra of the Lviv National Philharmonic",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Академічний симфонічний оркестр Львівської національної філармонії",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Myroslav Skoryk Lviv National Philharmonic",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Myroslav Skoryk Lviv National Philharmonic",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2020-09",
+          "end-date": null
+        },
+        {
+          "sort-name": "Academic Symphony Orchestra of the Lviv National Philharmonic",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Academic Symphony Orchestra of the Lviv National Philharmonic",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2006",
+          "end-date": "2017"
+        },
+        {
+          "sort-name": "Lviv National Philharmonic",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Lviv National Philharmonic",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2017",
+          "end-date": "2020"
+        },
+        {
+          "sort-name": "Myroslav Skoryk Lviv National Philharmonic",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Львівська національна філармонія імені Мирослава Скорика",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ef6e02e0-6b03-4c56-8d42-ff9654acfd0e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Myroslav Mykhalevych",
+      "sort-name": "Mykhalevych, Myroslav",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0be8cb7c-8683-4dd8-84f9-5adfac2cd4bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stryi",
+        "sort-name": "Stryi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1959",
+        "ended": null
+      }
+    },
+    {
+      "id": "3670387c-a6c6-4180-904e-cb54b1fc5235",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "name": "Myroslav Borys-Smith",
+      "sort-name": "Borys-Smith, Myroslav",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5f95d768-0600-498d-a0b3-9a0bcb8ab172",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Мирослав Воньо",
+      "sort-name": "Vonʹo, Myroslav",
+      "gender": "male",
+      "life-span": {
+        "begin": "1948-12-20",
+        "ended": null
+      }
+    },
+    {
+      "id": "606dad41-9814-45b8-a560-3f7d14711c24",
+      "score": 24,
+      "name": "Myroslava Kuts",
+      "sort-name": "Kuts, Myroslava",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "63da73e6-738b-45cd-8d98-7d28c54633b8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 24,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Myroslava Ivanchenko",
+      "sort-name": "Ivanchenko, Myroslava",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000045806690"
+      ],
+      "life-span": {
+        "begin": "1978-10-06",
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "created": "2026-05-22T16:59:41.975Z",
+  "count": 31,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "84e84352-68a6-4280-a9e9-d62e8d7fec8a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "name": "Yevhen Bubon",
+      "sort-name": "Bubon, Yevhen",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "43c07799-c5c4-465d-ad1f-a061a9125b36",
+      "score": 99,
+      "name": "Yevhen Varela",
+      "sort-name": "Varela, Yevhen",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "76568b92-6adc-4a13-935d-4d21a8cc639f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yevhen Riechkalov",
+      "sort-name": "Riechkalov, Yevhen",
+      "gender": "male",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0ba2c207-f495-439a-b29e-46ea09405b80",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yevhen Svatovsky",
+      "sort-name": "Yevhen Svatovsky",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "466bc3e8-4c92-4264-903f-8d4715100c36",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Женя Галич",
+      "sort-name": "Halych, Zhenia",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a94493c3-7e30-4dcf-9b3b-cbe4ec227a81",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Евгений Савчук",
+      "sort-name": "Savchuk, Yevhen",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Savchuk, Yevhen",
+          "name": "Yevhen Savchuk",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "06afe98c-741c-4db8-9a0c-6b3cbfd55541",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Євген Філатов",
+      "sort-name": "Filatov, Yevhen",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "de29dec4-ed70-498a-881e-e3774a54091d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Donetsk",
+        "sort-name": "Donetsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1983-05-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Filatov, Yevhen",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yevhen Filatov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Евгений Major Филатов",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Евгений Major Филатов",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Filatov, Eugene",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Eugene Filatov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Филатов, Евгений",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Евгений Филатов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Філатов, Євген Володимирович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Євген Володимирович Філатов",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "ukraine"
+        }
+      ]
+    },
+    {
+      "id": "fed6e4b3-73be-401b-8d0e-31294129cfd8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Євген Станкович",
+      "sort-name": "Stankovych, Yevhen",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "contemporary Ukrainian composer",
+      "isnis": [
+        "0000000118784665"
+      ],
+      "life-span": {
+        "begin": "1942-09-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Stankovych, Yevhen",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yevhen Stankovych",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stankovych, Yevhen Fedorovych",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yevhen Fedorovych Stankovych",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Станкович, Євген Федорович",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Євген Станкович",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Станкович, Евгений",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Евгений Станкович",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Станкович, Евгений Фёдорович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Евгений Фёдорович Станкович",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian"
+        }
+      ]
+    },
+    {
+      "id": "fa38f712-2c57-48f8-ac4a-c3f9b82c59c4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Євген Тимчик",
+      "sort-name": "Tymchyk, Yevhen",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tymchyk, Eugene",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Eugene Tymchyk",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6b2b2dbe-017d-4ac7-8f86-12bede39c0d9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Євген Ходош",
+      "sort-name": "Hodosh, Yevhen",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fc617bbb-6cae-4e33-ae25-bf5a6cb7d7d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kharkiv",
+        "sort-name": "Kharkiv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian composer, multi-instrumentalist, and vocalist",
+      "isnis": [
+        "0000000491425695"
+      ],
+      "life-span": {
+        "begin": "1972-12-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hodosh, Evgen",
+          "name": "Evgen Hodosh",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

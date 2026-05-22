@@ -1,0 +1,123 @@
+{
+  "created": "2026-05-22T18:31:22.364Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "fce35423-406a-439a-92d8-de7f4d98416f",
+      "score": 100,
+      "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+      "title": "КТО УБИЛ МАРКА?",
+      "length": 567001,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Oxxxymiron",
+          "artist": {
+            "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+            "name": "Oxxxymiron",
+            "sort-name": "Oxxxymiron",
+            "disambiguation": "Russian rapper",
+            "aliases": [
+              {
+                "sort-name": "Оксимирон",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Оксимирон",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Фёдоров, Мирон Янович",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Мирон Янович Фёдоров",
+                "locale": "ru",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Окси",
+                "name": "Окси",
+                "locale": "ru",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-11-02",
+      "releases": [
+        {
+          "id": "a47f3f08-a836-4d62-a817-b4f6dbc9bc13",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+          "count": 1,
+          "title": "КТО УБИЛ МАРКА?",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Oxxxymiron",
+              "artist": {
+                "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+                "name": "Oxxxymiron",
+                "sort-name": "Oxxxymiron",
+                "disambiguation": "Russian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f2d9d431-3a4e-4ceb-adb7-cf0c06264d4e",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "КТО УБИЛ МАРКА?",
+            "primary-type": "Single"
+          },
+          "date": "2021-11-02",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-11-02",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "9792e3ac-fc7e-387d-adba-ec146985f033",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ea6690d6-aa30-4e0e-864d-cb863862ea62",
+                  "number": "1",
+                  "title": "КТО УБИЛ МАРКА?",
+                  "length": 567001
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMDA72127275"
+      ]
+    }
+  ],
+  "query": "artist:\"Oxxxymiron\" AND recording:\"КТО УБИЛ МАРКА?\""
+}

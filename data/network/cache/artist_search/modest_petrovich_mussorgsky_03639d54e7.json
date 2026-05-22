@@ -1,0 +1,627 @@
+{
+  "created": "2026-05-22T17:02:31.546Z",
+  "count": 172,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c1380b12-3909-47d8-a5fd-d20e76123310",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Модест Петрович Мусоргский",
+      "sort-name": "Mussorgsky, Modest Petrovich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9f045a89-3731-4122-b27d-65aec2e8705b",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Pskovskaya oblast'",
+        "sort-name": "Pskovskaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00021890694"
+      ],
+      "isnis": [
+        "0000000120180000"
+      ],
+      "life-span": {
+        "begin": "1839-03-21",
+        "end": "1881-03-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Мусоргский, Модест Петрович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Модест Петрович Мусоргский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussogorsky",
+          "name": "Mussogorsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "M Mussorgsky",
+          "name": "M Mussorgsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moessorgski, Modest",
+          "name": "Modest Moessorgski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Modest Musorgsky",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Modest Musorgsky",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussorgsky Modeste Petrovich",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mussorgsky Modeste Petrovich",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moussorgsky, Modest",
+          "name": "Modest Moussorgsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussorgski, Modest Petrowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Modest Petrowitsch Mussorgski",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ムソルグスキー",
+          "name": "ムソルグスキー",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Modeste Moussogorski",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Modeste Moussogorski",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussorgsky, Modest P.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Modest P. Mussorgsky",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussorgsky, Modest Petrovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Modest Petrovich Mussorgsky",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussorgsky, Modeste",
+          "name": "Modeste Mussorgsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussogrsky",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mussogrsky",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussorgski",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mussorgski",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Modest Mussogorsky",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Modest Mussogorsky",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moussorgsky",
+          "name": "Moussorgsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moussorgski, Modeste",
+          "name": "Modeste Moussorgski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussorgsky",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mussorgsky",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Musorgskij, Modest Petrovitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Modest Petrovitj Musorgskij",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Musorgskij, Modest",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Modest Musorgskij",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussorgski, Modest",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Modest Mussorgski",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Мусоргский, Модест",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Модест Мусоргский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussorsky, Modest",
+          "name": "Modest Mussorsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Musogorski",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Musogorski",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moessorgski, Modest",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Modest Moessorgski",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mussorgsky, Modest",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Modest Mussorgsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moussorgsky, Modeste",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Modeste Moussorgsky",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": -1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 0,
+          "name": "orchestral"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 0,
+          "name": "opera"
+        },
+        {
+          "count": 0,
+          "name": "piano"
+        },
+        {
+          "count": -1,
+          "name": "score"
+        },
+        {
+          "count": 3,
+          "name": "composer"
+        },
+        {
+          "count": 0,
+          "name": "symphony"
+        },
+        {
+          "count": 0,
+          "name": "ballet"
+        },
+        {
+          "count": 2,
+          "name": "russian composer"
+        },
+        {
+          "count": 2,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "a96ac800-bfcb-412a-8a63-0a98df600700",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "Modest Mouse",
+      "sort-name": "Modest Mouse",
+      "area": {
+        "id": "2b748d6e-bc1c-4434-9f7b-ecd6332bc557",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Portland",
+        "sort-name": "Portland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "46c2d15d-7cba-4831-88b5-42f70cb5deba",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Issaquah",
+        "sort-name": "Issaquah",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000106642635"
+      ],
+      "life-span": {
+        "begin": "1993",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 0,
+          "name": "rock"
+        },
+        {
+          "count": 4,
+          "name": "alternative rock"
+        },
+        {
+          "count": 2,
+          "name": "american"
+        },
+        {
+          "count": 9,
+          "name": "indie rock"
+        },
+        {
+          "count": -1,
+          "name": "indie"
+        },
+        {
+          "count": 1,
+          "name": "art rock"
+        },
+        {
+          "count": 0,
+          "name": "indie pop"
+        },
+        {
+          "count": 0,
+          "name": "indie folk"
+        },
+        {
+          "count": 0,
+          "name": "noise pop"
+        },
+        {
+          "count": 0,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "post-hardcore"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 2,
+          "name": "lo-fi indie"
+        },
+        {
+          "count": 1,
+          "name": "slacker rock"
+        }
+      ]
+    },
+    {
+      "id": "6811ba16-4b5b-40ab-9b14-000cb3b76a36",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Petrovich",
+      "sort-name": "Petrovich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4c13267c-6995-4c02-8aa4-c11b5f4f52e7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rostov-on-Don",
+        "sort-name": "Rostov-on-Don",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3b0a3f98-c89e-48a4-99e5-4588c78e3b93",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Modest",
+      "sort-name": "Modest",
+      "gender": "male",
+      "disambiguation": "Zach Pozsgai",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a1e1cca8-bcac-4e27-b525-1d1cef1f5536",
+      "score": 46,
+      "name": "Modest",
+      "sort-name": "Modest",
+      "disambiguation": "Rap Fr",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1668965f-edb1-45e7-abe7-982575d127dd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Modest",
+      "sort-name": "Modest",
+      "gender": "male",
+      "disambiguation": "Rwandan Gospel Singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "196ae2ce-780e-43f1-9233-42ab044ba94b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "name": "Modest",
+      "sort-name": "Modest",
+      "disambiguation": "Tom Godwin",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0ddf6632-c1ba-4d92-bd4d-bed8385b59d8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "name": "modest by default",
+      "sort-name": "modest by default",
+      "area": {
+        "id": "a6e0a033-8f5d-438b-a99c-2d956f7a9661",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Buenos Aires",
+        "sort-name": "Buenos Aires",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "chillout"
+        },
+        {
+          "count": 1,
+          "name": "vaporwave"
+        },
+        {
+          "count": 1,
+          "name": "barber beats"
+        }
+      ]
+    },
+    {
+      "id": "af65d147-79ab-4985-9298-3a56399bd321",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 45,
+      "name": "Pavel Petrovich",
+      "sort-name": "Pavel Petrovich",
+      "area": {
+        "id": "0918dfa2-f667-4dbe-bac9-644d81a06612",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Yekaterinburg",
+        "sort-name": "Yekaterinburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2014-04-20",
+        "ended": null
+      }
+    },
+    {
+      "id": "127665f7-7b80-4c0a-9750-69ffb9458e22",
+      "score": 44,
+      "name": "Michael Petrovich",
+      "sort-name": "Petrovich, Michael",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

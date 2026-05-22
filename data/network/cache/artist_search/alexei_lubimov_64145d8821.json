@@ -1,0 +1,450 @@
+{
+  "created": "2026-05-22T17:12:21.739Z",
+  "count": 196,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "385cb39b-f06c-4635-84fd-ecc8fff56c97",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Алексей Любимов",
+      "sort-name": "Lubimov, Alexei",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian pianist, fortepianist and harpsichordist",
+      "isnis": [
+        "0000000084126188"
+      ],
+      "life-span": {
+        "begin": "1944-09-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lubimov, Alexei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexei Lubimov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexeï Lubimov",
+          "name": "Alexeï Lubimov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lyubimov, Alexei",
+          "name": "Alexei Lyubimov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Любимов, Алексей Борисович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Алексей Борисович Любимов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Любимов, Алексей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Алексей Любимов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lubimov, Alexej",
+          "name": "Alexej Lubimov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "6fb76b27-7c77-4b8c-b027-49353520d4fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Saul Lubimov",
+      "sort-name": "Lubimov, Saul",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f84f7129-a513-4c9a-b752-c80e83abe36e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexsey Lubimov",
+      "sort-name": "Lubimov, Alexsey",
+      "gender": "male",
+      "disambiguation": "19th Century composer",
+      "life-span": {
+        "begin": "1845",
+        "end": "1897",
+        "ended": true
+      }
+    },
+    {
+      "id": "f44797dd-1267-4ba8-9766-7bad0f1ab55f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nikolaï Lubimov",
+      "sort-name": "Lubimov, Nikolaï",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fb3e4632-5d30-4387-b2e1-fd82cc0a791b",
+      "score": 48,
+      "name": "Alexei",
+      "sort-name": "Alexei",
+      "country": "JM",
+      "area": {
+        "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Jamaica",
+        "sort-name": "Jamaica",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Jamaican singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cfca9a21-1549-47dd-95b9-240ff42a9078",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexei Zakharov",
+      "sort-name": "Zakharov, Alexei",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1984-09-05",
+        "ended": null
+      }
+    },
+    {
+      "id": "615fdd0c-076f-4787-a8f5-7d15b13f691a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexei",
+      "sort-name": "Alexei",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ba9a0304-ea17-4fbe-a9c4-35b5aef3ac44",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexei Sayle",
+      "sort-name": "Sayle, Alexei",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Liverpool",
+        "sort-name": "Liverpool",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000366732151"
+      ],
+      "life-span": {
+        "begin": "1952-08-07",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "comedy"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "standup comedy"
+        }
+      ]
+    },
+    {
+      "id": "75825c19-ba15-43b7-bb03-a72ed50f90a9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Markus Alexei",
+      "sort-name": "Alexei, Markus",
+      "gender": "male",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stockholm",
+        "sort-name": "Stockholm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Stage name of Markus Persson",
+      "life-span": {
+        "begin": "1979-06-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Notch",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Notch",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Persson, Markus Alexej",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Markus Alexej Persson",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronica"
+        },
+        {
+          "count": 1,
+          "name": "idm"
+        }
+      ]
+    },
+    {
+      "id": "fc195624-56d9-4677-95e5-73c5eb5e7d4a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Алексей Айги",
+      "sort-name": "Aigui, Alexei",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000122638417"
+      ],
+      "life-span": {
+        "begin": "1971-07-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Alexej Ajgi",
+          "name": "Alexej Ajgi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aïgui, Alexeï",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexeï Aïgui",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aygi, Aleksey",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksey Aygi",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aigui, Alexei",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alexei Aigui",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": "1971-07-11",
+          "end-date": null
+        },
+        {
+          "sort-name": "Айги, Алексей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Алексей Айги",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Айги, Алексей Геннадьевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Алексей Геннадьевич Айги",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

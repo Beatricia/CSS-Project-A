@@ -1,0 +1,841 @@
+{
+  "created": "2026-05-22T17:23:17.049Z",
+  "count": 2449,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "fe018ccc-1943-4287-ac8b-2681e259e0f5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yaron Herman",
+      "sort-name": "Herman, Yaron",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "ipis": [
+        "00454814251"
+      ],
+      "isnis": [
+        "0000000055212319",
+        "0000000372995257"
+      ],
+      "life-span": {
+        "begin": "1981-07-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ירון הרמן",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ירון הרמן",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "alma"
+        }
+      ]
+    },
+    {
+      "id": "50bb373d-78c6-42a6-b40f-e5fb4b2c5535",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 85,
+      "name": "Yaron Herman Trio",
+      "sort-name": "Yaron Herman Trio",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "73bb2ece-7ef7-4ee9-b3a0-bffe0b481bb0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Woody Herman",
+      "sort-name": "Herman, Woody",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4dc3fa97-cf9b-43f0-bec9-fcc52d6215d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Milwaukee",
+        "sort-name": "Milwaukee",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3d628b22-a76b-4f15-9af1-0d6d6964dbe8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "West Hollywood",
+        "sort-name": "West Hollywood",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000073596870"
+      ],
+      "life-span": {
+        "begin": "1913-05-16",
+        "end": "1987-10-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Woody Hermann",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Woody Hermann",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Woddy Herman",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Woddy Herman",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "fc9ec2b3-b44a-4dad-8bc3-ff3738ee02ae",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Herman’s Hermits",
+      "sort-name": "Herman’s Hermits",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "852531bf-3410-401f-b432-9c3157a386b9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Manchester",
+        "sort-name": "Manchester",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English beat rock band, formed in Manchester in 1964",
+      "isnis": [
+        "0000000123535700"
+      ],
+      "life-span": {
+        "begin": "1963",
+        "end": "1971",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Herman and Hermits, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Herman and the Hermits",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": "1964-04"
+        },
+        {
+          "sort-name": "Peter Noone's Herman's Hermits",
+          "name": "Peter Noone's Herman's Hermits",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hermin's Hermits",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hermin's Hermits",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Herman Hermits",
+          "name": "Herman Hermits",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hermans's Hermits",
+          "name": "Hermans's Hermits",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hermans's Mermits",
+          "name": "Hermans's Mermits",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hermans Hermits",
+          "name": "Hermans Hermits",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Herman's Hermit",
+          "name": "Herman's Hermit",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hermans Hemits",
+          "name": "Hermans Hemits",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "rock and indie"
+        }
+      ]
+    },
+    {
+      "id": "3db5e88d-ea25-4344-a9fd-cefb1ae64630",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Herman Melville",
+      "sort-name": "Melville, Herman",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000012125135X"
+      ],
+      "life-span": {
+        "begin": "1819-08-01",
+        "end": "1891-09-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "メルヴィル, ハーマン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ハーマン・メルヴィル",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        },
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        }
+      ]
+    },
+    {
+      "id": "d4826092-a96d-4505-93ee-605137105ae4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Herman van Veen",
+      "sort-name": "Veen, van, Herman",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a727c39a-8d76-4a1a-9033-696ada9bedda",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Utrecht",
+        "sort-name": "Utrecht",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00035495570"
+      ],
+      "isnis": [
+        "0000000120272888"
+      ],
+      "life-span": {
+        "begin": "1945-03-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Venn, Herman van",
+          "name": "Herman van Venn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Veen, Hermann van",
+          "name": "Hermann van Veen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Veen, Hermannus J Herman van",
+          "name": "Hermannus J Herman van Veen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Veen, Herman van",
+          "name": "Herman van Veen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Veen, Hermannus Jantinus van",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hermannus Jantinus van Veen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "kleinkunst"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 3,
+          "name": "dutch"
+        },
+        {
+          "count": 1,
+          "name": "liedermacher"
+        },
+        {
+          "count": 1,
+          "name": "the netherlands"
+        },
+        {
+          "count": 1,
+          "name": "chanson"
+        },
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        },
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        },
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        }
+      ]
+    },
+    {
+      "id": "2fe56c50-7511-43aa-bde8-cda1550512fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yaron Gershovsky",
+      "sort-name": "Gershovsky, Yaron",
+      "gender": "male",
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00070244112"
+      ],
+      "isnis": [
+        "0000000108250766"
+      ],
+      "life-span": {
+        "begin": "1950-06-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "גרשובסקי, ירון",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ירון גרשובסקי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "74cad662-0eb6-4044-908e-04680457957a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bernard Herrmann",
+      "sort-name": "Herrmann, Bernard",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00013997075"
+      ],
+      "isnis": [
+        "0000000121210662"
+      ],
+      "life-span": {
+        "begin": "1911-06-29",
+        "end": "1975-12-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bernard Herrman",
+          "name": "Bernard Herrman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bernard Herman",
+          "name": "Bernard Herman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bernard Hermann",
+          "name": "Bernard Hermann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "easy listening soundtracks and musicals"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        },
+        {
+          "count": 1,
+          "name": "cinematic classical"
+        }
+      ]
+    },
+    {
+      "id": "d5a7104a-aad6-4827-8ef5-680041ae80a8",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 41,
+      "name": "Herman Dune",
+      "sort-name": "Herman Dune",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000106733270",
+        "000000047055819X"
+      ],
+      "life-span": {
+        "begin": "1999",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Herman Dune",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Herman Dune",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2005",
+          "end-date": null
+        },
+        {
+          "sort-name": "Herman Düne",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Herman Düne",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1999",
+          "end-date": "2006"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "anti-folk"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        }
+      ]
+    },
+    {
+      "id": "dfbd1d7b-bd17-48a2-b1b6-b09d62b57832",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerry Herman",
+      "sort-name": "Herman, Jerry",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "4a9aeb42-3763-4234-8fb8-1167ac1dfdfe",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Miami",
+        "sort-name": "Miami",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00013922507"
+      ],
+      "isnis": [
+        "0000000119919285"
+      ],
+      "life-span": {
+        "begin": "1931-07-10",
+        "end": "2019-12-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Hermans, Dž.",
+          "name": "Dž.Hermans",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Herman, Gerald Sheldon",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gerald Sheldon Herman",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Herman",
+          "name": "Herman",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hermanis, Dž.",
+          "name": "Dž.Hermanis",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Herman, J.",
+          "name": "J. Herman",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Герман, Дж.",
+          "name": "Дж. Герман",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "musical"
+        }
+      ]
+    }
+  ]
+}

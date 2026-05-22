@@ -1,0 +1,430 @@
+{
+  "created": "2026-05-22T16:54:54.843Z",
+  "count": 638,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "38a2d94b-69e6-4700-879a-ade66459d0f6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Миша Альперин",
+      "sort-name": "Alperin, Misha",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f80d529e-f242-46ef-a090-d193ed23075f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oslo",
+        "sort-name": "Oslo",
+        "life-span": {
+          "begin": "1925-01-01",
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000079894166"
+      ],
+      "life-span": {
+        "begin": "1956-11-07",
+        "end": "2018-05-11",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Alperin, Misha",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Misha Alperin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alperin, Mischa",
+          "name": "Mischa Alperin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alperin, Michail Jefimowitsch",
+          "name": "Michail Jefimowitsch Alperin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Михайло Альперін",
+          "name": "Михайло Альперін",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michael Alperin",
+          "name": "Michael Alperin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikhail Alperin",
+          "name": "Mikhail Alperin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikhail \"Misha\" Alperin",
+          "name": "Mikhail \"Misha\" Alperin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michail Alperin",
+          "name": "Michail Alperin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "90c0e426-ba76-4a71-b596-06ae59a4c1bc",
+      "score": 66,
+      "name": "Ron Alperin",
+      "sort-name": "Alperin, Ron",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bed6c17e-04c0-43a0-9028-9d45f8a211b5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jeff Alperin",
+      "sort-name": "Alperin, Jeff",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0fcb4ff5-6384-4497-b796-9d545583c8bd",
+      "score": 61,
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "disambiguation": "Mikhail Karikis",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4d34bc82-52c0-4ad5-be19-d353da3255a9",
+      "type": "Choir",
+      "type-id": "6124967d-7e3a-3eba-b642-c9a2ffb44d94",
+      "score": 60,
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b9e3274f-3a41-45fb-ba69-fe8ee68db6ad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hyattsville",
+        "sort-name": "Hyattsville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US metal band",
+      "life-span": {
+        "begin": "2004",
+        "ended": null
+      }
+    },
+    {
+      "id": "72dfc90d-65a5-4817-a745-81c4310f8f5d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "gender": "male",
+      "country": "BG",
+      "area": {
+        "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Bulgaria",
+        "sort-name": "Bulgaria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Bulgarian hip-hop artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f1286c69-fdda-4dda-86af-8e06a779821f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "gender": "male",
+      "disambiguation": "Mikhail Lyutovaty; mastering and mixing engineer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "340f6b94-9903-4975-a8a4-60312f7a3b99",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "gender": "male",
+      "disambiguation": "Russian drummer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Михаил",
+          "name": "Михаил",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fc61007e-4e8c-46e2-8637-f7fa89b330a3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gavin Mikhail",
+      "sort-name": "Mikhail, Gavin",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cc55c78b-15c9-45dd-8ff4-4a212c54eff3",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Indiana",
+        "sort-name": "Indiana",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1975-03-26",
+        "ended": null
+      }
+    },
+    {
+      "id": "c3f0d6a4-a413-4c40-9103-1638c4eb41ee",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Плетнёв",
+      "sort-name": "Pletnev, Mikhail",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "044809ca-6024-4142-be50-61936a60d918",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Arkhangelsk",
+        "sort-name": "Arkhangelsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist & conductor",
+      "isnis": [
+        "0000000110592001"
+      ],
+      "life-span": {
+        "begin": "1957-04-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Плетнёв, Михаил",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Михаил Плетнёв",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pletnev, Mikhail Vasilevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mikhail Vasilevich Pletnev",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Плетнёв, Михаил Васильевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Михаил Васильевич Плетнёв",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pletnev, Mikhaïl",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mikhaïl Pletnev",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikhail Vasil'evič Pletnëv",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mikhail Vasil'evič Pletnëv",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pletnev, Mikhail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mikhail Pletnev",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikhail Pletnyov",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mikhail Pletnyov",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 2,
+          "name": "classical"
+        }
+      ]
+    }
+  ]
+}

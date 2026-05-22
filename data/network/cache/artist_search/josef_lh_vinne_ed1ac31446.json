@@ -1,0 +1,1037 @@
+{
+  "created": "2026-05-22T17:10:49.248Z",
+  "count": 1203,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "cf2fc622-4455-4e4a-b711-d3d0f439dc71",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Josef Lhévinne",
+      "sort-name": "Lhévinne, Josef",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b517af7e-c6ac-4ae9-aa4a-97bfc471a4a5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oryol",
+        "sort-name": "Oryol",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000110616130"
+      ],
+      "life-span": {
+        "begin": "1874-12-13",
+        "end": "1944-12-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Левин, Иосиф Аркаадьевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Иосиф Аркаадьевич Левин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "teacher"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        }
+      ]
+    },
+    {
+      "id": "9942ef92-91a2-46f7-aff4-32389df33c9e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Josef Strauss",
+      "sort-name": "Strauss, Josef",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian composer",
+      "ipis": [
+        "00029752857"
+      ],
+      "isnis": [
+        "0000000120314611"
+      ],
+      "life-span": {
+        "begin": "1827-08-20",
+        "end": "1870-07-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Joseph Strauss",
+          "name": "Joseph Strauss",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Josef",
+          "name": "Strauss, Josef",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Josef Strauß",
+          "name": "Josef Strauß",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": -1,
+          "name": "production music"
+        },
+        {
+          "count": 1,
+          "name": "austrian"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "austrian composer"
+        }
+      ]
+    },
+    {
+      "id": "5b3357b8-c903-4d17-98a8-e19e2824845a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Josef Suk",
+      "sort-name": "Suk, Josef",
+      "gender": "male",
+      "country": "XC",
+      "area": {
+        "id": "88f49821-05a3-3bbc-a24b-bbd6b918c07b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechoslovakia",
+        "sort-name": "Czechoslovakia",
+        "life-span": {
+          "begin": "1918-10-28",
+          "end": "1992-12-31",
+          "ended": true
+        }
+      },
+      "end-area": {
+        "id": "482c58cd-a99a-4915-a5ac-75dacfede646",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Benešov",
+        "sort-name": "Benešov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Czech composer, 1874–1935",
+      "ipis": [
+        "00029874740"
+      ],
+      "isnis": [
+        "0000000108839108"
+      ],
+      "life-span": {
+        "begin": "1874-01-04",
+        "end": "1935-05-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Joseph Suk",
+          "name": "Joseph Suk",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Suk, Joseph",
+          "name": "Suk, Joseph",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": -1,
+          "name": "production music"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "czech composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "26ba0775-2322-42d3-9256-97e5f1850f47",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Rosina Bessie Lhévinne",
+      "sort-name": "Lhévinne, Rosina Bessie",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "6db2e45d-d7f3-43da-ac0b-7ba5ca627373",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Glendale",
+        "sort-name": "Glendale",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000081024987"
+      ],
+      "life-span": {
+        "begin": "1880-03-29",
+        "end": "1976-11-09",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "teacher"
+        }
+      ]
+    },
+    {
+      "id": "e0fefe0b-74c1-4af8-989e-5efd17655c4e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Josef Peters",
+      "sort-name": "Peters, Josef",
+      "gender": "male",
+      "ipis": [
+        "00218677248",
+        "00244567554"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Peters, Joey",
+          "name": "Joey Peters",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b9c00256-d27a-4f3b-bb0e-c5132483f4ec",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Josef Mysliveček",
+      "sort-name": "Mysliveček, Josef",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dccd77b2-bd3d-49eb-a98f-fd58e87f481e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Roma",
+        "sort-name": "Roma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00021923901"
+      ],
+      "isnis": [
+        "0000000110197853"
+      ],
+      "life-span": {
+        "begin": "1737-03-09",
+        "end": "1781-02-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mysliveček, Josef",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Josef Mysliveček",
+          "locale": "cs",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mysliveček, Joseph",
+          "name": "Joseph Mysliveček",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mysliveček, Josef",
+          "name": "Йозеф Мысливечек",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        },
+        {
+          "count": 2,
+          "name": "czech composer"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "c130b0fb-5dce-449d-9f40-1437f889f7fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Joseph Haydn",
+      "sort-name": "Haydn, Joseph",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cca887f7-eb85-4bf4-9e7d-8faea705082c",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Rohrau",
+        "sort-name": "Rohrau",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00451594840"
+      ],
+      "isnis": [
+        "0000000121441049"
+      ],
+      "life-span": {
+        "begin": "1732-03-31",
+        "end": "1809-05-31",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Йозеф Гайдн",
+          "name": "Йозеф Гайдн",
+          "locale": "ru",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Haydn (Attributed to Leopold Hoffman)",
+          "name": "Joseph Haydn (Attributed to Leopold Hoffman)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Haydon",
+          "name": "Joseph Haydon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ハイドン",
+          "name": "ハイドン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, F. J.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "F. J. Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Josef",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Franz Josef Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Hayden",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph Hayden",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J. Haydn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J. Haydn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haynd",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Haynd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Franz Haydn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Franz Haydn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Josepf",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Franz Josepf Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, F J",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Haydn, F J",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Haydn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Hadyn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joseph Hadyn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Joseph (1732-1809 )",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Haydn, Franz Joseph (1732-1809 )",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn Franz-Joseph",
+          "name": "Franz-Joseph Haydn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "フランツ・ヨーゼフ・ハイドン",
+          "name": "フランツ・ヨーゼフ・ハイドン",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Joseph",
+          "name": "Haydn, Joseph",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hayd",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hayd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haydn, Franz Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Franz Joseph Haydn",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "하이든",
+          "name": "하이든",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 9,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 5,
+          "name": "austrian"
+        },
+        {
+          "count": 5,
+          "name": "composer"
+        },
+        {
+          "count": 3,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "classical music"
+        },
+        {
+          "count": 2,
+          "name": "symphony"
+        },
+        {
+          "count": -1,
+          "name": "grieg"
+        },
+        {
+          "count": 1,
+          "name": "mass"
+        },
+        {
+          "count": 1,
+          "name": "concerto"
+        },
+        {
+          "count": 4,
+          "name": "classical period"
+        },
+        {
+          "count": 0,
+          "name": "sonata"
+        },
+        {
+          "count": 2,
+          "name": "schöpfung"
+        },
+        {
+          "count": 1,
+          "name": "austrian composer"
+        },
+        {
+          "count": -2,
+          "name": "bernstein"
+        },
+        {
+          "count": 2,
+          "name": "150 cd"
+        },
+        {
+          "count": 0,
+          "name": "haydn: seven last words"
+        }
+      ]
+    },
+    {
+      "id": "73e7d4e2-02c6-46b3-b816-4245450a4747",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Franz Josef Degenhardt",
+      "sort-name": "Degenhardt, Franz Josef",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6b0cfb4a-5c44-4357-8461-c18c011818d0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Schwelm",
+        "sort-name": "Schwelm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "cfdc597c-ff94-46ca-9d99-e78676898e38",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Quickborn",
+        "sort-name": "Quickborn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Liedermacher",
+      "isnis": [
+        "0000000110647762"
+      ],
+      "life-span": {
+        "begin": "1931-12-03",
+        "end": "2011-11-14",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german"
+        }
+      ]
+    },
+    {
+      "id": "286b0e0a-0d34-4624-8536-034ed01ac722",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Josef Suk",
+      "sort-name": "Suk, Josef",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist/conductor, 1929–2011",
+      "isnis": [
+        "0000000109391675"
+      ],
+      "life-span": {
+        "begin": "1929-08-08",
+        "end": "2011-07-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "ヨゼフ・スーク",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ヨゼフ・スーク",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "violinist"
+        },
+        {
+          "count": 1,
+          "name": "violist"
+        },
+        {
+          "count": 1,
+          "name": "czech conductor"
+        },
+        {
+          "count": 1,
+          "name": "czech violinist"
+        },
+        {
+          "count": 1,
+          "name": "czech violist"
+        }
+      ]
+    },
+    {
+      "id": "ab5f1b53-dabe-444a-a8fe-116cde87f709",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 36,
+      "name": "Josef K",
+      "sort-name": "Josef K",
+      "area": {
+        "id": "6658f787-692d-417f-852c-dcca728d5849",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Edinburgh",
+        "sort-name": "Edinburgh",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6658f787-692d-417f-852c-dcca728d5849",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Edinburgh",
+        "sort-name": "Edinburgh",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c279f805-01f8-46f5-99cf-51f165a1adad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Glasgow",
+        "sort-name": "Glasgow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Scottish post-punk band",
+      "isnis": [
+        "0000000086419929"
+      ],
+      "life-span": {
+        "begin": "1979",
+        "end": "1981-08-23",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "scottish"
+        },
+        {
+          "count": 2,
+          "name": "british"
+        },
+        {
+          "count": 2,
+          "name": "post-punk"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 0,
+          "name": "scotland"
+        },
+        {
+          "count": 1,
+          "name": "indie pop"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "c81"
+        },
+        {
+          "count": 1,
+          "name": "postcard records"
+        }
+      ]
+    }
+  ]
+}

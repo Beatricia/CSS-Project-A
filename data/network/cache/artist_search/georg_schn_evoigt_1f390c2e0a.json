@@ -1,0 +1,1538 @@
+{
+  "created": "2026-05-22T17:11:56.795Z",
+  "count": 7525,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "13755a51-a59d-47fb-8d00-a34a01ce508a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Georg Schnéevoigt",
+      "sort-name": "Schnéevoigt, Georg",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d8573f7a-4ee4-4a98-ba74-f639d0a9d7b1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vyborg",
+        "sort-name": "Vyborg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "cfca0d67-018c-4c5e-b9f6-2e098ef9a226",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Malmö",
+        "sort-name": "Malmö",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor, cellist",
+      "isnis": [
+        "0000000080944300"
+      ],
+      "life-span": {
+        "begin": "1872-11-08",
+        "end": "1947-11-28",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "finnish conductor"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "27870d47-bb98-42d1-bf2b-c7e972e6befc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "George Frideric Handel",
+      "sort-name": "Handel, George Frideric",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1c432aeb-3b75-4442-ad6b-deaf555ad07e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Halle (Saale)",
+        "sort-name": "Halle (Saale)",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German‐British baroque composer",
+      "ipis": [
+        "00013146331",
+        "00239948320"
+      ],
+      "isnis": [
+        "0000000122759702"
+      ],
+      "life-span": {
+        "begin": "1685-02-23",
+        "end": "1759-04-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Händel, Georg Friedrich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Georg Friedrich Händel",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1685-02-23",
+          "end-date": "1727-01-22"
+        },
+        {
+          "sort-name": "Hendelis, G. F.",
+          "name": "G. F. Hendelis",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Handel",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Handel",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Frederich Handel",
+          "name": "George Frederich Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "G. F. Haendel",
+          "name": "G. F. Haendel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "hendel",
+          "name": "hendel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georg Friedrich Haendel",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Georg Friedrich Haendel",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Handel and Messiah",
+          "name": "Handel and Messiah",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georg F. Händel",
+          "name": "Georg F. Händel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Friederich Handel",
+          "name": "George Friederich Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Handel, George Friedrich (1685 - 1759)",
+          "name": "Handel, George Friedrich (1685 - 1759)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haendel, George Friedrich",
+          "name": "George Friedrich Haendel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "G.F. Handel",
+          "name": "G.F. Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "GF Haendel",
+          "name": "GF Haendel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Friederic Haendel",
+          "name": "George Friederic Haendel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Friedrich Handel",
+          "name": "George Friedrich Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヘンデル",
+          "name": "ヘンデル",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "G. F. Händel",
+          "name": "G. F. Händel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Frederic Handel",
+          "name": "George Frederic Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georg Friedrich Haendel",
+          "name": "Georg Friedrich Haendel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Handel, George Frideric",
+          "name": "Handel, George Frideric",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georg Fredrich Handel",
+          "name": "Georg Fredrich Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haendel",
+          "name": "Haendel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Handel, George Frideric (1685-1759)",
+          "name": "Handel, George Frideric (1685-1759)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Handel, G. F.",
+          "name": "Handel, G. F.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Frideric Haendel",
+          "name": "George Frideric Haendel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "G.F. Haendel",
+          "name": "G.F. Haendel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Friedric Handel",
+          "name": "George Friedric Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Frederich Haendel",
+          "name": "George Frederich Haendel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George F. Handel",
+          "name": "George F. Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Händel, Georg Friederich",
+          "name": "Georg Friederich Händel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Händel",
+          "name": "Händel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Händel, Georg Friedrich",
+          "name": "Georg Friedrich Händel",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Frideric Händel",
+          "name": "George Frideric Händel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georg Friedrich Handel",
+          "name": "Georg Friedrich Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hændel",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Hændel",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hendelis, Georgs Frīdrihs",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Georgs Frīdrihs Hendelis",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Frederick Handel",
+          "name": "George Frederick Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Friedrich Händel",
+          "name": "George Friedrich Händel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "G. F. Handel",
+          "name": "G. F. Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Händel, Georg Friedrich",
+          "name": "Händel, Georg Friedrich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Fredrick Handel",
+          "name": "George Fredrick Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ゲオルク・フリードリヒ・ヘンデル",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ゲオルク・フリードリヒ・ヘンデル",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Haendel, Georg",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Georg Haendel",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georg-Friedrich Händel",
+          "name": "Georg-Friedrich Händel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "헨델",
+          "name": "헨델",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Handel",
+          "name": "George Handel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Handel, Georg Friedrich",
+          "name": "Handel, Georg Friedrich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Handel, George Frideric",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "George Frideric Handel",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": "1727-01-22",
+          "end-date": null
+        },
+        {
+          "sort-name": "Händel, Georg Friedrich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Georg Friedrich Händel",
+          "locale": "da_DK",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 5,
+          "name": "german"
+        },
+        {
+          "count": 0,
+          "name": "orchestral"
+        },
+        {
+          "count": 2,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "opera"
+        },
+        {
+          "count": 3,
+          "name": "composer"
+        },
+        {
+          "count": 0,
+          "name": "keyboard"
+        },
+        {
+          "count": 3,
+          "name": "baroque"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 2,
+          "name": "oratorio"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 0,
+          "name": "choral"
+        },
+        {
+          "count": 0,
+          "name": "aria"
+        },
+        {
+          "count": -1,
+          "name": "utrecht"
+        },
+        {
+          "count": 0,
+          "name": "1976"
+        },
+        {
+          "count": 0,
+          "name": "baroque music"
+        },
+        {
+          "count": 0,
+          "name": "king's college"
+        },
+        {
+          "count": 0,
+          "name": "menuhin"
+        },
+        {
+          "count": 2,
+          "name": "british composer"
+        },
+        {
+          "count": 0,
+          "name": "cantata"
+        },
+        {
+          "count": 0,
+          "name": "opera seria"
+        }
+      ]
+    },
+    {
+      "id": "8f831f50-e409-47c3-8598-71a61bc8cfb3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Georg Philipp Telemann",
+      "sort-name": "Telemann, Georg Philipp",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d433ec3e-b140-47a8-b7da-3062e69749a8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Magdeburg",
+        "sort-name": "Magdeburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00030348907"
+      ],
+      "isnis": [
+        "0000000109144172"
+      ],
+      "life-span": {
+        "begin": "1681-03-14",
+        "end": "1767-06-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "G.Ph.Telemann",
+          "name": "G.Ph.Telemann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georg Phillip Telemann",
+          "name": "Georg Phillip Telemann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georg Philip Telemann",
+          "name": "Georg Philip Telemann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georg Telemann",
+          "name": "Georg Telemann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Telemann",
+          "name": "Telemann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "G.p.telemann",
+          "name": "G.p.telemann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georg Phillipp Telemann",
+          "name": "Georg Phillipp Telemann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Telemann, Georg Phillpp (1681-1767)",
+          "name": "Telemann, Georg Phillpp (1681-1767)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Telemann, Georg P.",
+          "name": "Telemann, Georg P.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Georg Philipp Teleman",
+          "name": "Georg Philipp Teleman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "german composer"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 3,
+          "name": "baroque"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "telemann suites orchestra"
+        }
+      ]
+    },
+    {
+      "id": "6a65cfbe-d198-4f24-aff0-e0ce1d500863",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Georg Danzer",
+      "sort-name": "Danzer, Georg",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "ba1ce2b7-7041-423a-96f8-a328759dba02",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Asperhofen",
+        "sort-name": "Asperhofen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00034122331",
+        "00057475650",
+        "00061244701"
+      ],
+      "isnis": [
+        "0000000055402606"
+      ],
+      "life-span": {
+        "begin": "1946-10-07",
+        "end": "2007-06-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Pinewood Garden",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Pinewood Garden",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "O'Leary, George",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "George O'Leary",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pscholka, Alois",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alois Pscholka",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jappl, Poidl \"Tschik\"",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Poidl \"Tschik\" Jappl",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jappl, Josefine",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Josefine Jappl",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Danzer, Georg Franz",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Georg Franz Danzer",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "liedermacher"
+        },
+        {
+          "count": 1,
+          "name": "austrian"
+        }
+      ]
+    },
+    {
+      "id": "e928d534-ce5b-436f-9186-598f9e7baa1f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heino",
+      "sort-name": "Heino",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03e75281-c3a3-454a-8d78-c85a5415c49e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Düsseldorf",
+        "sort-name": "Düsseldorf",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German Schlager and Volksmusik singer",
+      "isnis": [
+        "0000000055367564"
+      ],
+      "life-span": {
+        "begin": "1938-12-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bilk, Gio",
+          "name": "Gio Bilk",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kramm, Heinz Georg",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Heinz Georg Kramm",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "german"
+        },
+        {
+          "count": 2,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "volkstümliche musik"
+        }
+      ]
+    },
+    {
+      "id": "41259fa5-5f9b-445c-8bba-ec28bbb7f2e5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sir Georg Solti",
+      "sort-name": "Solti, Georg, Sir",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d8c8f702-8e5f-4744-8b2c-c4e662ec4ec4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Antibes",
+        "sort-name": "Antibes",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000121204297"
+      ],
+      "life-span": {
+        "begin": "1912-10-21",
+        "end": "1997-09-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "サー・ゲオルグ・ショルティ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "サー・ゲオルグ・ショルティ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ゲオルク・ショルティ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ゲオルク・ショルティ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Solti, Georg",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Georg Solti",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Solti, Georg, Sir",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sir Georg Solti",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": "1972",
+          "end-date": null
+        },
+        {
+          "sort-name": "Solti, Georg, Sir",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sir George Solti",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Solti",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Solti",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stern, György",
+          "name": "Stern György",
+          "locale": "hu",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stern, György",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "György Stern",
+          "locale": "hu",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Solti",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "George Solti",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "hungarian"
+        },
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "grammy winner"
+        }
+      ]
+    },
+    {
+      "id": "53dd8212-8586-439e-b8ed-29461a4a3a5d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Georg Kreisler",
+      "sort-name": "Kreisler, Georg",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f0590317-8b42-4498-a2e4-34cc5562fcf8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salzburg",
+        "sort-name": "Salzburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00016723989"
+      ],
+      "isnis": [
+        "0000000108994538"
+      ],
+      "life-span": {
+        "begin": "1922-07-18",
+        "end": "2011-11-22",
+        "ended": true
+      }
+    },
+    {
+      "id": "815e1969-9d94-4a0b-a295-4830bec7028f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hagen Schneevoigt",
+      "sort-name": "Schneevoigt, Hagen",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Germany",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4cb43d82-824e-4034-b03d-1a98f36f6e16",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Richard Strauss",
+      "sort-name": "Strauss, Richard",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "10cad04e-d4b9-4988-a0fa-90dca88b72d3",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Garmisch-Partenkirchen",
+        "sort-name": "Garmisch-Partenkirchen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German composer",
+      "ipis": [
+        "00029753756"
+      ],
+      "isnis": [
+        "0000000120999614"
+      ],
+      "life-span": {
+        "begin": "1864-06-11",
+        "end": "1949-09-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "リヒャルト・シュトラウス",
+          "name": "リヒャルト・シュトラウス",
+          "locale": "ja",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "R. Strauss",
+          "name": "R. Strauss",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richard Straus",
+          "name": "Richard Straus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richard Georg Strauss",
+          "name": "Richard Georg Strauss",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "슈트라우스, 리하르트",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "리하르트 슈트라우스",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Richard",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Richard Strauss",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "R.シュトラウス",
+          "name": "R.シュトラウス",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Richard",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Richard Strauss",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "western classical"
+        },
+        {
+          "count": 1,
+          "name": "lied"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 0,
+          "name": "josephslegende"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "german composer"
+        }
+      ]
+    },
+    {
+      "id": "bb7e704c-bba8-4abe-8098-5070952e7cae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sigrid Sundgren-Schnéevoigt",
+      "sort-name": "Sundgren-Schnéevoigt, Sigrid",
+      "gender": "female",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "39d62198-1e76-4de4-b079-e86e3a393bbc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Helsinki",
+        "sort-name": "Helsinki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stockholm",
+        "sort-name": "Stockholm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000382845252"
+      ],
+      "life-span": {
+        "begin": "1878-06-17",
+        "end": "1953-09-14",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "finnish pianist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "created": "2026-05-22T17:17:52.196Z",
+  "count": 2120,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f92469be-f755-433a-be19-8bd0c9040e5a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dana International",
+      "sort-name": "Dana International",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00581980611"
+      ],
+      "isnis": [
+        "0000000059587804"
+      ],
+      "life-span": {
+        "begin": "1969-02-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cohen, Yaron",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yaron Cohen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1969",
+          "end-date": "1993"
+        },
+        {
+          "sort-name": "כהן, ירון",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "ירון כהן",
+          "locale": "he_IL",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1969",
+          "end-date": "1993"
+        },
+        {
+          "sort-name": "Cohen, Sharon",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sharon Cohen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1993",
+          "end-date": null
+        },
+        {
+          "sort-name": "כהן, שרון",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "שרון כהן",
+          "locale": "he_IL",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1993",
+          "end-date": null
+        },
+        {
+          "sort-name": "דנה אינטרנשיונל",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "דנה אינטרנשיונל",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Danna International",
+          "name": "Danna International",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "europop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "eurovision"
+        },
+        {
+          "count": 1,
+          "name": "israeli"
+        },
+        {
+          "count": 1,
+          "name": "diva ha'osef"
+        }
+      ]
+    },
+    {
+      "id": "e0d70573-a721-489f-8ccb-824fcee4fb51",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dana",
+      "sort-name": "Dana",
+      "gender": "female",
+      "country": "IE",
+      "area": {
+        "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ireland",
+        "sort-name": "Ireland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e3b25e1c-0adf-4773-820e-533b4f245d01",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Islington",
+        "sort-name": "Islington",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "70s Irish female singer",
+      "ipis": [
+        "00047096078"
+      ],
+      "isnis": [
+        "0000000055394108"
+      ],
+      "life-span": {
+        "begin": "1951-08-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Dana",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Дана",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scallon, Dana Rosemary",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Dana Rosemary Scallon",
+          "locale": "en_IE",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1978-10-05",
+          "end-date": null
+        },
+        {
+          "sort-name": "Brown, Rosemary",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Rosemary Brown",
+          "locale": "en_IE",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "northern irish"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "irish"
+        },
+        {
+          "count": 1,
+          "name": "eurovision"
+        }
+      ]
+    },
+    {
+      "id": "c136759e-c98e-4dc0-b5d2-1922943da8a2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dana Winner",
+      "sort-name": "Winner, Dana",
+      "gender": "female",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "56beda2e-dcd5-47e8-ac57-dbe72cf0fbb4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hasselt",
+        "sort-name": "Hasselt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000056709685"
+      ],
+      "life-span": {
+        "begin": "1965-02-10",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        }
+      ]
+    },
+    {
+      "id": "cb65b11d-d0fd-4653-b35f-22de579f34a6",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Иванушки International",
+      "sort-name": "Ivanushki International",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000470391342"
+      ],
+      "life-span": {
+        "begin": "1995",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Иванушки International",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иванушки International",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivanushki International",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ivanushki International",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Иванушки Int.",
+          "name": "Иванушки Int.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "europop"
+        },
+        {
+          "count": 2,
+          "name": "boy band"
+        }
+      ]
+    },
+    {
+      "id": "6e2c544b-7987-4e32-97c4-035930167b3e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dana Gillespie",
+      "sort-name": "Gillespie, Dana",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a6baeb59-8829-4926-82b1-09803dd7bba2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Woking",
+        "sort-name": "Woking",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00011891401"
+      ],
+      "life-span": {
+        "begin": "1949-03-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gillespie, Richenda Antoinette de Winterstein",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Richenda Antoinette de Winterstein Gillespie",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "teen pop"
+        }
+      ]
+    },
+    {
+      "id": "b2107705-5100-4136-a903-19cd2fb359ab",
+      "type": "Other",
+      "type-id": "ac897045-5043-3294-969b-187360e45d86",
+      "score": 45,
+      "name": "New International Version",
+      "sort-name": "New International Version",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7c684afd-78d7-40f6-afb1-96e36c66c3f3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dana Geissler",
+      "sort-name": "Geissler, Dana",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German actor",
+      "isnis": [
+        "000000002800184X"
+      ],
+      "life-span": {
+        "begin": "1963-07-08",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "8fbdeb2b-1e5f-4439-9e1e-5168e63154da",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 44,
+      "name": "International Harvesters",
+      "sort-name": "International Harvesters",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ed5cd4a2-0eb1-4e3b-a9b5-73547a6447da",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "AES Dana",
+      "sort-name": "Aes Dana",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "26d7f775-1bae-4551-9412-1ab9c61c4314",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lyon",
+        "sort-name": "Lyon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French electronic/ambient/downtempo project",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Villuis, Vincent",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Vincent Villuis",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "trance"
+        },
+        {
+          "count": 0,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 1,
+          "name": "chillout"
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "electronica"
+        },
+        {
+          "count": 1,
+          "name": "psybient"
+        }
+      ]
+    },
+    {
+      "id": "b4571172-e715-4bf7-b5fa-d9fc729068cf",
+      "score": 44,
+      "name": "International Telecom",
+      "sort-name": "International Telecom",
+      "area": {
+        "id": "f27fe2b0-3ccf-4c61-a9be-627a9dc4ce95",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Yuzhno-Sakhalinsk",
+        "sort-name": "Yuzhno-Sakhalinsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

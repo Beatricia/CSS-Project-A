@@ -1,0 +1,684 @@
+{
+  "created": "2026-05-22T16:58:14.231Z",
+  "count": 490,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f5d2cb40-abed-49f6-b50a-19410fa3e35e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Тутта Ларсен",
+      "sort-name": "Larsen, Tutta",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5e4eac87-4d8e-49ab-a83f-91ede8789a3c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Makiivka",
+        "sort-name": "Makiivka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1974-07-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ларсен, Тутта",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тутта Ларсен",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Романенко, Татьяна Анатольевна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Татьяна Анатольевна Романенко",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tutta Larsen",
+          "name": "Tutta Larsen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "2adbcf9e-1328-46bc-a38e-1e0c2e6db585",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 55,
+      "name": "Trio Tutta",
+      "sort-name": "Tutta, Trio",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "70dad625-ffcc-4199-b8f2-9fe4fa888b90",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tutta Rolf",
+      "sort-name": "Rolf, Tutta",
+      "gender": "female",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1907-10-07",
+        "end": "1994-10-26",
+        "ended": true
+      }
+    },
+    {
+      "id": "b420591a-66ec-4b1f-8e86-73e1dbe615d4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tutta Jew",
+      "sort-name": "Jew, Tutta",
+      "gender": "female",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1935-12-27",
+        "ended": null
+      }
+    },
+    {
+      "id": "7dae8591-cb6b-4c31-97a3-41db2415b403",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jani Tutta",
+      "sort-name": "Tutta, Jani",
+      "gender": "male",
+      "country": "SI",
+      "area": {
+        "id": "5b0b6225-584c-3942-b69d-5efceb9989af",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Slovenia",
+        "sort-name": "Slovenia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "73dc19f4-de6b-4b8b-a8dc-4835ba3849b8",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 53,
+      "name": "Larsen",
+      "sort-name": "Larsen",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8522a441-2c8b-46fd-8dd6-fd5bbecb38fa",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Torino",
+        "sort-name": "Torino",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian experimental band",
+      "life-span": {
+        "begin": "1993",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "LRSN",
+          "name": "LRSN",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Larsen and Friends",
+          "name": "Larsen and Friends",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6c21b4b7-5c8e-47f0-be46-d49df0ba1633",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Larsen",
+      "sort-name": "Larsen",
+      "gender": "male",
+      "area": {
+        "id": "c85ae9ad-cdb5-4165-ad50-07eac741c1db",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tremblay-en-France",
+        "sort-name": "Tremblay-en-France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Paris Suburbs 93 French rapper / K2C",
+      "ipis": [
+        "00420394191",
+        "00420394485"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lars",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Lars",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Houadji, Hacène",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hacène Houadji",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "7d81cd10-5586-48ad-99cd-d4ff92124b48",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "Gasolin'",
+      "sort-name": "Gasolin",
+      "country": "DK",
+      "area": {
+        "id": "4757b525-2a60-324a-b060-578765d2c993",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Denmark",
+        "sort-name": "Denmark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cb0a18d5-f28d-44d7-ac65-d627487e343f",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Christianshavn",
+        "sort-name": "Christianshavn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Danish blues rock band",
+      "life-span": {
+        "begin": "1969-04-01",
+        "end": "1978-08-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kim Larsen & Gasolin'",
+          "name": "Kim Larsen & Gasolin'",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen (gasolin)",
+          "name": "Kim Larsen (gasolin)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gasolin' & Kim Larsen",
+          "name": "Gasolin' & Kim Larsen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "kim larsen/gasolin",
+          "name": "kim larsen/gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gasolin-Kim Larsen",
+          "name": "Gasolin-Kim Larsen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gasolin & Kim Larsen",
+          "name": "Gasolin & Kim Larsen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gasolin Kim Larsen",
+          "name": "Gasolin Kim Larsen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen&Gasolin",
+          "name": "Kim Larsen&Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsson/Gasolin",
+          "name": "Kim Larsson/Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gasolin Live",
+          "name": "Gasolin Live",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen - Gasolin",
+          "name": "Kim Larsen - Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gasolin - Kim Larsen",
+          "name": "Gasolin - Kim Larsen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen-Gasolin",
+          "name": "Kim Larsen-Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen And Gasolin'",
+          "name": "Kim Larsen And Gasolin'",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen Gasolin",
+          "name": "Kim Larsen Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen/Gasolin'",
+          "name": "Kim Larsen/Gasolin'",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gasolin",
+          "name": "Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen og Gasolin",
+          "name": "Kim Larsen og Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen / Gasolin",
+          "name": "Kim Larsen / Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen - Gasolin'",
+          "name": "Kim Larsen - Gasolin'",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen - Gasolin 3",
+          "name": "Kim Larsen - Gasolin 3",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gasolin' (Kim Larsen)",
+          "name": "Gasolin' (Kim Larsen)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gasolin/Kim Larsen",
+          "name": "Gasolin/Kim Larsen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gasolin´",
+          "name": "Gasolin´",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen, Gasolin",
+          "name": "Kim Larsen, Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen and Gasolin",
+          "name": "Kim Larsen and Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen-Gasolin'",
+          "name": "Kim Larsen-Gasolin'",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen & Gasolin",
+          "name": "Kim Larsen & Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kim Larsen med Gasolin",
+          "name": "Kim Larsen med Gasolin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "danish"
+        }
+      ]
+    },
+    {
+      "id": "0a648853-66bb-4b18-bd52-0315b14fbb82",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kim Larsen",
+      "sort-name": "Larsen, Kim",
+      "gender": "male",
+      "country": "DK",
+      "area": {
+        "id": "4757b525-2a60-324a-b060-578765d2c993",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Denmark",
+        "sort-name": "Denmark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e0e3c82a-aea8-48d3-beda-9e587db0b969",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Copenhagen",
+        "sort-name": "Copenhagen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "4033e068-1d57-4aa3-87b5-0f3bfe8a8167",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odense",
+        "sort-name": "Odense",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Danish rock musician",
+      "isnis": [
+        "0000000081553643"
+      ],
+      "life-span": {
+        "begin": "1945-10-23",
+        "end": "2018-09-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Larsen, Kim Melius Flyvholm",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Kim Melius Flyvholm Larsen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "danish"
+        }
+      ]
+    },
+    {
+      "id": "312326de-dd55-49ed-9ac5-853f5e3420f1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grey Larsen",
+      "sort-name": "Larsen, Grey",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1955",
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,972 @@
+{
+  "created": "2026-05-22T17:21:32.922Z",
+  "count": 3452,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "d0c56799-2d14-4618-b18a-7985b82571fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eddie Butler",
+      "sort-name": "Butler, Eddie",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ead3ff87-fda1-4456-b850-8c1fcb1c5ea8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dimona",
+        "sort-name": "Dimona",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000402276553"
+      ],
+      "life-span": {
+        "begin": "1971-10-02",
+        "ended": null
+      }
+    },
+    {
+      "id": "17995d1c-5b3c-4ee9-98f5-105ee3b4ada1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eddie Cochran",
+      "sort-name": "Cochran, Eddie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6738e735-d123-4555-a312-73e39206cc47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Albert Lea",
+        "sort-name": "Albert Lea",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b19c588e-5452-4877-96ef-d0e17aa23eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chippenham",
+        "sort-name": "Chippenham",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US rock and roll musician active in 1950s",
+      "ipis": [
+        "00006414225"
+      ],
+      "isnis": [
+        "0000000115641466"
+      ],
+      "life-span": {
+        "begin": "1938-10-03",
+        "end": "1960-04-17",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Cochran, Edward",
+          "name": "Edward Cochran",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddie Cocharn",
+          "name": "Eddie Cocharn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddie Cockran",
+          "name": "Eddie Cockran",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddie Cochrane",
+          "name": "Eddie Cochrane",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "エディ・コクラン",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "エディ・コクラン",
+          "locale": "ja",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cochran, Edward Raymond",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edward Raymond Cochran",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddy Cochran",
+          "name": "Eddy Cochran",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 3,
+          "name": "rockabilly"
+        },
+        {
+          "count": 0,
+          "name": "rock and roll"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": -1,
+          "name": "death by automobile"
+        },
+        {
+          "count": 2,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        }
+      ]
+    },
+    {
+      "id": "fec55784-ff5c-4992-83dd-1f7c4b10c6bf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerry Butler",
+      "sort-name": "Butler, Jerry",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c8236991-5b2e-45ac-b321-23658c425ef2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sunflower",
+        "sort-name": "Sunflower",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "soul singer",
+      "ipis": [
+        "00004694198"
+      ],
+      "isnis": [
+        "0000000114507396"
+      ],
+      "life-span": {
+        "begin": "1939-12-08",
+        "end": "2025-02-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Butler, J.",
+          "name": "J. Butler",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        }
+      ]
+    },
+    {
+      "id": "e1eff221-4e60-4104-a30b-11949b782337",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eddie Meduza",
+      "sort-name": "Meduza, Eddie",
+      "gender": "male",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8f6c316e-9924-48ea-967b-16757dd82399",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gothenburg",
+        "sort-name": "Gothenburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b688c1af-6218-4aac-9d6b-8661537770c8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Växjö",
+        "sort-name": "Växjö",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000129612922"
+      ],
+      "life-span": {
+        "begin": "1948-06-17",
+        "end": "2002-01-16",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Norstedt, Errol",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Errol Norstedt",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddie Medusa",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Eddie Medusa",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "rockabilly"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        }
+      ]
+    },
+    {
+      "id": "68b8199b-eff2-45fb-be86-da8138d97067",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jonathan Butler",
+      "sort-name": "Butler, Jonathan",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "89e10b1e-f06b-4944-b929-5ec5b30c05c9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Athlone",
+        "sort-name": "Athlone",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "South African singer-songwriter and guitarist",
+      "ipis": [
+        "00131026726"
+      ],
+      "isnis": [
+        "0000000059369639"
+      ],
+      "life-span": {
+        "begin": "1961-10-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Butler, Jonathan Kenneth",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jonathan Kenneth Butler",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "smooth jazz"
+        },
+        {
+          "count": 1,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "contemporary jazz"
+        },
+        {
+          "count": 1,
+          "name": "quiet storm"
+        },
+        {
+          "count": 3,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "south african"
+        }
+      ]
+    },
+    {
+      "id": "1a60d6dd-9d3e-40fc-a66d-3184f9ee0d61",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eddie Vedder",
+      "sort-name": "Vedder, Eddie",
+      "gender": "male",
+      "area": {
+        "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Seattle",
+        "sort-name": "Seattle",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "860a21bd-92a4-462f-a000-3eefc57ed793",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Evanston",
+        "sort-name": "Evanston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00334084089"
+      ],
+      "isnis": [
+        "0000000114710124"
+      ],
+      "life-span": {
+        "begin": "1964-12-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Vedder, Eddie Jerome",
+          "name": "Eddie Jerome Vedder",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ed Vedder",
+          "name": "Ed Vedder",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Edward Vedder",
+          "name": "Edward Vedder",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Seversen, Edward Louis, III",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edward Louis Seversen III",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 3,
+          "name": "folk rock"
+        },
+        {
+          "count": 4,
+          "name": "acoustic rock"
+        },
+        {
+          "count": 2,
+          "name": "film soundtrack"
+        }
+      ]
+    },
+    {
+      "id": "3088612f-a12d-4929-9c97-c15da18788b3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eddie Taylor",
+      "sort-name": "Taylor, Eddie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6fddb177-f3fc-4c30-9d49-9c7e949fe0bc",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Mississippi",
+        "sort-name": "Mississippi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "electric blues guitarist and singer",
+      "isnis": [
+        "0000000055134031"
+      ],
+      "life-span": {
+        "begin": "1923-01-29",
+        "end": "1985-12-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Taylor, Eddie",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Eddie Taylor",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Taylor, Edward",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edward Taylor",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddie 'Playboy' Taylor",
+          "name": "Eddie 'Playboy' Taylor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "chicago blues"
+        },
+        {
+          "count": 1,
+          "name": "electric blues"
+        }
+      ]
+    },
+    {
+      "id": "0e990816-cb3e-4930-a2eb-77909e42cd66",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eddie Money",
+      "sort-name": "Money, Eddie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00036480681"
+      ],
+      "isnis": [
+        "0000000073639914"
+      ],
+      "life-span": {
+        "begin": "1949-03-21",
+        "end": "2019-09-13",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Eddy Money",
+          "name": "Eddy Money",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Money, Eddie",
+          "name": "Money, Eddie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mahoney, Edward Joseph",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edward Joseph Mahoney",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 5,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "classic rock"
+        },
+        {
+          "count": 1,
+          "name": "soft rock"
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        }
+      ]
+    },
+    {
+      "id": "defbbe54-02dd-4df1-a5b7-31724ff02133",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eddie “Lockjaw” Davis",
+      "sort-name": "Davis, Eddie \"Lockjaw\"",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "ae0110b6-13d4-4998-9116-5b926287aa23",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "California",
+        "sort-name": "California",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "jazz saxophonist",
+      "isnis": [
+        "0000000120272802"
+      ],
+      "life-span": {
+        "begin": "1922-03-02",
+        "end": "1986-11-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "''Lockjaw'' Davis Eddie",
+          "name": "''Lockjaw'' Davis Eddie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddie 'Lockjaw' Davies",
+          "name": "Eddie 'Lockjaw' Davies",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddie Davis",
+          "name": "Eddie Davis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddie \"Lockjaw\" Dawis",
+          "name": "Eddie \"Lockjaw\" Dawis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddie Lockjaw David",
+          "name": "Eddie Lockjaw David",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "swing"
+        },
+        {
+          "count": 2,
+          "name": "hard bop"
+        },
+        {
+          "count": 1,
+          "name": "bebop"
+        },
+        {
+          "count": 1,
+          "name": "soul jazz"
+        },
+        {
+          "count": 1,
+          "name": "jazz and blues"
+        }
+      ]
+    },
+    {
+      "id": "484e8d72-ad54-43cf-bceb-283529ac2b62",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eddie Floyd",
+      "sort-name": "Floyd, Eddie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2054b43f-446c-45fd-b53e-f8bf23656dd1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Montgomery",
+        "sort-name": "Montgomery",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00040815997"
+      ],
+      "isnis": [
+        "000000011878768X"
+      ],
+      "life-span": {
+        "begin": "1937-06-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Floyd, Eddie",
+          "name": "Floyd, Eddie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "E. Floyd",
+          "name": "E. Floyd",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Eddy Floyd",
+          "name": "Eddy Floyd",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Floyd, Edward Lee",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Edward Lee Floyd",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Floyd",
+          "name": "Floyd",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "southern soul"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        }
+      ]
+    }
+  ]
+}

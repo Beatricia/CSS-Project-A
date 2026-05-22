@@ -1,0 +1,563 @@
+{
+  "created": "2026-05-22T17:07:29.101Z",
+  "count": 632,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "cd7ff109-3001-4ee1-936b-797ba8c14f3e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Рудольф Баршай",
+      "sort-name": "Barshai, Rudolf",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "f06b32e8-89a8-4372-909c-bf592cbc9bb0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Labinsk",
+        "sort-name": "Labinsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "264779d6-59a8-4fb6-8c43-5f39ce67ccd1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Basel",
+        "sort-name": "Basel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "viola player and conductor",
+      "isnis": [
+        "0000000110849380"
+      ],
+      "life-span": {
+        "begin": "1924-09-28",
+        "end": "2010-11-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Баршай, Рудольф Борисович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Рудольф Борисович Баршай",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Баршай, Рудольф",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Рудольф Баршай",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Barshai, Rudolf",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Rudolf Barshai",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        }
+      ]
+    },
+    {
+      "id": "a765b86d-34ae-4943-956f-8e5caa6797b4",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 52,
+      "name": "Симфонический оркестр п/у Рудольфа Баршая",
+      "sort-name": "Barshai, Rudolf, Orchestra",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e97db788-b6bf-4a04-ba86-b519ade1c677",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Elena Barshai",
+      "sort-name": "Barshai, Elena",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e7237a41-715f-4ed3-aadc-0baa0ff3ecd3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nina Barshai",
+      "sort-name": "Barshai, Nina",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3058822f-8e58-4427-820a-8f7a279887c1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heinz Rudolf Kunze",
+      "sort-name": "Kunze, Heinz Rudolf",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "93b9777b-e2f7-411d-aeb6-8690ae8790af",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Espelkamp",
+        "sort-name": "Espelkamp",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00048982631"
+      ],
+      "isnis": [
+        "0000000078637301"
+      ],
+      "life-span": {
+        "begin": "1956-11-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "H. R. Kunze",
+          "name": "H. R. Kunze",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "germany"
+        },
+        {
+          "count": 2,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "neue deutsche welle"
+        },
+        {
+          "count": 1,
+          "name": "hannover"
+        },
+        {
+          "count": 1,
+          "name": "ndw"
+        },
+        {
+          "count": 1,
+          "name": "hanover"
+        }
+      ]
+    },
+    {
+      "id": "26ec09ce-7eae-42ab-839f-998522ab6889",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rudolf Kempe",
+      "sort-name": "Kempe, Rudolf",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "624f2956-bfdb-43a9-8924-9aadb812ee04",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dresden",
+        "sort-name": "Dresden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e2bd38a1-c5ad-4dd4-b9a4-0632ff3be7ae",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zurich",
+        "sort-name": "Zurich",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000116588695"
+      ],
+      "life-span": {
+        "begin": "1910-06-14",
+        "end": "1976-05-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Rudolph Kempe",
+          "name": "Rudolph Kempe",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kempke, Rudolf",
+          "name": "Rudolf Kempke",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kemp, Rudolf",
+          "name": "Rudolf Kemp",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "german conductor"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "190801a9-c762-41df-96fa-a34536a33d08",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rudolf Buchbinder",
+      "sort-name": "Buchbinder, Rudolf",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "13f12f26-a86e-4a7f-b141-42f05efd6aa1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Litoměřice",
+        "sort-name": "Litoměřice",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian classical pianist",
+      "isnis": [
+        "0000000114683947"
+      ],
+      "life-span": {
+        "begin": "1946-12-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rudolph Buchbinder",
+          "name": "Rudolph Buchbinder",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "005da96d-67fb-4723-ad78-b0571b6ce076",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rudolf Serkin",
+      "sort-name": "Serkin, Rudolf",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "80f11581-7d63-4354-8377-cc28f8da11bd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Eger",
+        "sort-name": "Eger",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8293230c-9a41-404f-b9ed-53d624045447",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Guilford",
+        "sort-name": "Guilford",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000108726058"
+      ],
+      "life-span": {
+        "begin": "1903-03-28",
+        "end": "1991-05-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "ルドルフ・ゼルキン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ルドルフ・ゼルキン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "performer"
+        },
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "piano"
+        }
+      ]
+    },
+    {
+      "id": "b163a384-d0f4-4175-bc23-c6a468ecda4a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rudolf Jansen",
+      "sort-name": "Jansen, Rudolf",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1e1edc0e-9e89-4612-b629-28b4eccb6914",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Arnhem",
+        "sort-name": "Arnhem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f3f501c0-88b9-436e-9e3d-b2a6475db56a",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Laren",
+        "sort-name": "Laren",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000081836651"
+      ],
+      "life-span": {
+        "begin": "1940-01-19",
+        "end": "2024-02-12",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        }
+      ]
+    },
+    {
+      "id": "e3c68f1c-d9f3-4217-a802-a1d9e9912040",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rudolf Eb.er",
+      "sort-name": "Eb.er, Rudolf",
+      "gender": "male",
+      "area": {
+        "id": "30bcaa92-9870-4798-be1a-4e0036755316",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Osaka",
+        "sort-name": "Osaka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000406949743",
+        "0000000459669382"
+      ],
+      "life-span": {
+        "begin": "1968",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "avant-garde"
+        },
+        {
+          "count": 1,
+          "name": "drone"
+        }
+      ]
+    }
+  ]
+}

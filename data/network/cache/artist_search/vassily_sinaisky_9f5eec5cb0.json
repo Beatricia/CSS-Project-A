@@ -1,0 +1,337 @@
+{
+  "created": "2026-05-22T17:13:10.168Z",
+  "count": 22,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "70c64d9d-8ad9-4ba1-ab99-ffdb806a5051",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Василий Синайский",
+      "sort-name": "Sinaisky, Vassily",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7fc7ef7e-ee42-40d3-bdd7-e993171cba13",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Respublika Komi",
+        "sort-name": "Respublika Komi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000114391864"
+      ],
+      "life-span": {
+        "begin": "1947-04-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sinaisky, Vassily Serafimovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Vassily Serafimovich Sinaisky",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Синайский, Василий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Василий Синайский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Синайский, Василий Серафимович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Василий Серафимович Синайский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinajski, Vasili",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vasili Sinajski",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinaisky, Vassily",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vassily Sinaisky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinaïsky, Vassily",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Vassily Sinaïsky",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinaiski, Wassili",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Wassili Sinaiski",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        }
+      ]
+    },
+    {
+      "id": "0f2f868d-69cb-4df0-92e1-e541da651428",
+      "score": 49,
+      "name": "Vassily",
+      "sort-name": "Vassily",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "311c5ab1-bb4b-4da5-9f48-eb218563523e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vassily Primakov",
+      "sort-name": "Primakov, Vassily",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "000000005124572X"
+      ],
+      "life-span": {
+        "begin": "1979",
+        "ended": null
+      }
+    },
+    {
+      "id": "0ad7d441-a92b-43bb-8cf8-3463abea3cf6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vassily Mitrecey",
+      "sort-name": "Mitrecey, Vassily",
+      "gender": "male",
+      "area": {
+        "id": "eedd8c4c-2d89-4cc1-bc3f-07b316c0ea59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nantes",
+        "sort-name": "Nantes",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a96e0058-cb83-4145-b79a-093d1eaf733d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Vassily Stenarov",
+      "sort-name": "Stenarov, Vassily",
+      "disambiguation": "conductor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e7ddd923-b653-4775-9b1f-0ccd4040ae16",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vassily Brandt",
+      "sort-name": "Brandt, Vassily",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c8b4ae14-795b-48b6-8e1e-539859081db3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Coburg",
+        "sort-name": "Coburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "9a1332a4-81ba-466a-8bbc-650f2072f19f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Saratov",
+        "sort-name": "Saratov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1869",
+        "end": "1923-02-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Brandt, Willi",
+          "name": "Willi Brandt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3b655c05-d84e-48da-ac37-8cca7a2ba9fb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Vassily Zinoviev",
+      "sort-name": "Zinoviev, Vassily",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "aa622d8a-17c7-45f1-bf4d-31487269658d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vassily Pigounides",
+      "sort-name": "Vassily Pigounides",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0aa44c35-ca7a-4e77-b7fb-66e2cc4c1f60",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vassily Solodkyy",
+      "sort-name": "Solodkyy, Vassily",
+      "gender": "male",
+      "begin-area": {
+        "id": "b875a439-cc00-4b72-bba9-511f873dec9f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Ternopil's'ka Oblast'",
+        "sort-name": "Ternopil's'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian tenor",
+      "life-span": {
+        "begin": "1991",
+        "ended": null
+      }
+    },
+    {
+      "id": "63ce2add-c2df-4958-b114-9833531ef913",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Vassily Dück",
+      "sort-name": "Dück, Vassily",
+      "life-span": {
+        "begin": "1967",
+        "ended": null
+      }
+    }
+  ]
+}

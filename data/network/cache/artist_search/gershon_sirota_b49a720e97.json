@@ -1,0 +1,350 @@
+{
+  "created": "2026-05-22T17:00:51.941Z",
+  "count": 64,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5cff05c7-7577-45e3-9e18-402f78a6e68f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gershon Sirota",
+      "sort-name": "Sirota, Gershon",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7019d960-5ca7-4c41-9b9a-054b22ac8327",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Podolsk",
+        "sort-name": "Podolsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081438311"
+      ],
+      "life-span": {
+        "begin": "1874",
+        "end": "1943-04-19",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "chazzanut"
+        }
+      ]
+    },
+    {
+      "id": "79837901-1e7a-4dad-80e9-3faf0668e09e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gershon Kingsley",
+      "sort-name": "Kingsley, Gershon",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "154ef74f-bcd3-4472-bfee-dd1dec672864",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bochum",
+        "sort-name": "Bochum",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00070589265"
+      ],
+      "isnis": [
+        "0000000116920504",
+        "000000012141151X"
+      ],
+      "life-span": {
+        "begin": "1922-10-28",
+        "end": "2019-12-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Götz Gustav Ksinski",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Götz Gustav Ksinski",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 3,
+          "name": "moogsploitation"
+        }
+      ]
+    },
+    {
+      "id": "654a94d1-508c-4b86-8146-c75897ee3fba",
+      "score": 41,
+      "name": "Sirota",
+      "sort-name": "Sirota",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "85c1f674-aa60-4bcd-8231-3b4c9097b940",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gershon Veroba",
+      "sort-name": "Veroba, Gershon",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1958",
+        "ended": null
+      }
+    },
+    {
+      "id": "02ffea02-48ea-4048-a30a-7d1a47f4b087",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gershon Jackson",
+      "sort-name": "Jackson, Gershon",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "313367fe-1f76-4e87-ae35-c142f9451805",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nadia Sirota",
+      "sort-name": "Sirota, Nadia",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000104517697"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "973d1ed7-f9fe-4e82-a3b1-11418c84ef91",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grant Gershon",
+      "sort-name": "Gershon, Grant",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1960-11-10",
+        "ended": null
+      }
+    },
+    {
+      "id": "ffa6d165-1102-4c9e-99ab-1b0d8f07460f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ruslan Sirota",
+      "sort-name": "Sirota, Ruslan",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055998083"
+      ],
+      "life-span": {
+        "begin": "1980-11-04",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "01b8ed30-c63b-4c44-b01b-24039b6dc787",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ted Sirota",
+      "sort-name": "Sirota, Ted",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "14e7a419-ac00-4569-a2e9-c74f9ed47ff2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Champaign",
+        "sort-name": "Champaign",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US jazz/reggae drummer",
+      "isnis": [
+        "0000000119132511"
+      ],
+      "life-span": {
+        "begin": "1969-05-03",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "8f763591-7d78-4dcb-97dd-bdc8b3abbb0f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Gina Gershon",
+      "sort-name": "Gershon, Gina",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1962-06-10",
+        "ended": null
+      }
+    }
+  ]
+}

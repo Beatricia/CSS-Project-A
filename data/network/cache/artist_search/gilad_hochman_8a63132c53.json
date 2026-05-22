@@ -1,0 +1,355 @@
+{
+  "created": "2026-05-22T17:27:47.462Z",
+  "count": 97,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8026240c-2202-43b2-80a2-f4bd8542976f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gilad Hochman",
+      "sort-name": "Hochman, Gilad",
+      "gender": "male",
+      "area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000068871495"
+      ],
+      "life-span": {
+        "begin": "1982-07-26",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "contemporary"
+        },
+        {
+          "count": 1,
+          "name": "israel"
+        },
+        {
+          "count": 1,
+          "name": "germany"
+        }
+      ]
+    },
+    {
+      "id": "f8b1a054-e3f3-4e06-ade1-456bb519b066",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Larry Hochman",
+      "sort-name": "Hochman, Larry",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fc48401a-52bc-4a20-b756-dcf79aae2591",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paterson",
+        "sort-name": "Paterson",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1953-11-21",
+        "ended": null
+      }
+    },
+    {
+      "id": "28f2e163-efb3-44fa-9daa-db2a48a8d508",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gilad",
+      "sort-name": "Gilad Weiss",
+      "gender": "male",
+      "disambiguation": "Psy-Trance",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Weiss, Gilad",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gilad Weiss",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "וייס גלעד",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "גלעד וייס",
+          "locale": "he_IL",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "09e78276-1747-46ea-9f94-59dcb2e41662",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "name": "Gilad",
+      "sort-name": "Gilad",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "606518a1-475d-4dc9-8f5c-8e0ebe499a41",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gilad Hekselman",
+      "sort-name": "Hekselman, Gilad",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ba379e0f-7300-496c-9939-3a452db7e131",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kfar Saba",
+        "sort-name": "Kfar Saba",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "jazz guitarist",
+      "isnis": [
+        "0000000374486288"
+      ],
+      "life-span": {
+        "begin": "1983-02-03",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "post-bop"
+        }
+      ]
+    },
+    {
+      "id": "5ac3b93a-2336-4072-8e46-28cfcbdb9eb7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gilad Atzmon",
+      "sort-name": "Atzmon, Gilad",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "British jazz saxophonist, novelist, political activist & writer",
+      "ipis": [
+        "00236043790"
+      ],
+      "isnis": [
+        "0000000110538822"
+      ],
+      "life-span": {
+        "begin": "1963-06-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "עצמון, גלעד",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "גלעד עצמון",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "hard bop"
+        },
+        {
+          "count": 1,
+          "name": "jazz and blues"
+        }
+      ]
+    },
+    {
+      "id": "16e4c1b1-90bf-474b-bffa-383a7081363c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Benjamin Hochman",
+      "sort-name": "Hochman, Benjamin",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "b6b93bb1-91fd-4933-9d2d-cc958d9f6c2a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "I.J. Hochman",
+      "sort-name": "Hochman, I.J.",
+      "disambiguation": "Conductor, Klezmer",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "klezmer"
+        }
+      ]
+    },
+    {
+      "id": "bad10370-8b0c-4116-8920-1e3e36df6c09",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ira Hochman",
+      "sort-name": "Hochman, Ira",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "beb05ba3-2d40-40fc-a0db-6084f8f888f9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Julie Hochman",
+      "sort-name": "Hochman, Julie",
+      "gender": "female",
+      "disambiguation": "Cellist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

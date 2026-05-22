@@ -1,0 +1,686 @@
+{
+  "created": "2026-05-22T17:35:06.408Z",
+  "count": 576,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "1e0de31c-4957-4649-9aa3-7b0f1d9d2c84",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Étienne Daho",
+      "sort-name": "Daho, Étienne",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "792b1496-3f80-4ad0-92c2-2c2154a9b642",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oran",
+        "sort-name": "Oran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00052521116",
+        "00150195100"
+      ],
+      "isnis": [
+        "0000000055148177"
+      ],
+      "life-span": {
+        "begin": "1956-01-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Daho, Étienne Warren",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Étienne Warren Daho",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ettiene Daho",
+          "name": "Ettiene Daho",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 0,
+          "name": "todo-works"
+        }
+      ]
+    },
+    {
+      "id": "0f4d81c6-76e3-45be-827c-f89c5a74e02c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 76,
+      "name": "St. Etienne Daho",
+      "sort-name": "Saint Etienne Daho",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Saint Etienne Daho",
+          "name": "Saint Etienne Daho",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3997d4a6-c2bd-4191-8406-eb07f0abb5d2",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 38,
+      "name": "Saint Etienne",
+      "sort-name": "Saint Etienne",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "77bd9218-74c6-4881-9495-457be4ba62e7",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Croydon",
+        "sort-name": "Croydon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114991077"
+      ],
+      "life-span": {
+        "begin": "1990",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "St. Entienne",
+          "name": "St. Entienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "St. Ettiene",
+          "name": "St. Ettiene",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint Ettienne",
+          "name": "Saint Ettienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "St. Etienne",
+          "name": "St. Etienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "St. Ettienne",
+          "name": "St. Ettienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint-Etienne",
+          "name": "Saint-Etienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint Ettiene",
+          "name": "Saint Ettiene",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "St.etienne",
+          "name": "St.etienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saint Étienne",
+          "name": "Saint Étienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "St Etienne",
+          "name": "St Etienne",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 2,
+          "name": "synthpop"
+        },
+        {
+          "count": 0,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": -1,
+          "name": "london"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 2,
+          "name": "indie pop"
+        },
+        {
+          "count": 2,
+          "name": "dance-pop"
+        },
+        {
+          "count": 2,
+          "name": "dream pop"
+        },
+        {
+          "count": 3,
+          "name": "alternative dance"
+        },
+        {
+          "count": 1,
+          "name": "indie dance"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": -1,
+          "name": "england"
+        },
+        {
+          "count": 2,
+          "name": "indietronica"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        }
+      ]
+    },
+    {
+      "id": "436742b2-eb19-484e-86f3-a83dfa817f76",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "name": "Robert Johnson",
+      "sort-name": "Johnson, Robert",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK guitarist support french artist (Cali, Etienne Daho, Miossec)",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "guitariste"
+        },
+        {
+          "count": 1,
+          "name": "britannique"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "guitarist"
+        }
+      ]
+    },
+    {
+      "id": "43cfe3a1-5de4-4538-98ee-3203843d9803",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Étienne Nicolas Méhul",
+      "sort-name": "Méhul, Étienne Nicolas",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6decc63f-52c6-4b00-a8e6-1f76958c8994",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Givet",
+        "sort-name": "Givet",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000011027955X"
+      ],
+      "life-span": {
+        "begin": "1763-06-22",
+        "end": "1817-10-18",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Méhul, Étienne",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Étienne Méhul",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mehul, Etienne Henri",
+          "name": "Etienne Henri Mehul",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "french composer"
+        }
+      ]
+    },
+    {
+      "id": "4da341f8-9946-428f-80eb-b48638543361",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 35,
+      "name": "Etienne Dahoi",
+      "sort-name": "Etienne Dahoi",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4ca86f0e-53f7-4a98-903c-d54af2f23420",
+      "score": 34,
+      "name": "Étienne",
+      "sort-name": "Étienne",
+      "disambiguation": "techno",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a6765975-4763-4aad-a492-3e978fe3b751",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Étienne",
+      "sort-name": "Étienne",
+      "gender": "male",
+      "area": {
+        "id": "31eea06c-a794-4138-879d-e633336275a2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Clermont-Ferrand",
+        "sort-name": "Clermont-Ferrand",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Member of Signal²",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Étienne Carré",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Étienne Carré",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Étienne Carr3",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Étienne Carr3",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f174152d-da33-46bd-8cb4-c8d24b834bf7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Étienne de Crécy",
+      "sort-name": "Crécy, Étienne de",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "26d7f775-1bae-4551-9412-1ab9c61c4314",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lyon",
+        "sort-name": "Lyon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00150565291"
+      ],
+      "isnis": [
+        "0000000055188507"
+      ],
+      "life-span": {
+        "begin": "1969-02-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ettiene De Crecy",
+          "name": "Ettiene De Crecy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "EDC",
+          "name": "EDC",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Etienne de Crecy",
+          "name": "Etienne de Crecy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cressy, Étienne",
+          "name": "Étienne Cressy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "french house"
+        },
+        {
+          "count": 1,
+          "name": "electro house"
+        },
+        {
+          "count": 0,
+          "name": "dance and electronica"
+        }
+      ]
+    },
+    {
+      "id": "7cc95fd8-93f7-4029-9673-ec85c915c687",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Étienne Perruchon",
+      "sort-name": "Perruchon, Étienne",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e7b9eb69-fb3a-4d7d-85b5-444bb5ae0d71",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Suresnes",
+        "sort-name": "Suresnes",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "eedd8c4c-2d89-4cc1-bc3f-07b316c0ea59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nantes",
+        "sort-name": "Nantes",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00073549067"
+      ],
+      "isnis": [
+        "0000000121006792"
+      ],
+      "life-span": {
+        "begin": "1958-10-23",
+        "end": "2019-05-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Perruchon",
+          "name": "E. Perruchon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "film composer"
+        }
+      ]
+    }
+  ]
+}

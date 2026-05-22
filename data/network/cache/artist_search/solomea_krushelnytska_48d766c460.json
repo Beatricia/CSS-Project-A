@@ -1,0 +1,77 @@
+{
+  "created": "2026-05-22T16:47:50.883Z",
+  "count": 2,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "88941d94-2540-463e-85f5-9eb69f9def75",
+      "score": 100,
+      "name": "Anna Krushelnytska",
+      "sort-name": "Krushelnytska, Anna",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "734b390a-fb4e-43fb-af3c-f3dd4e2d86bb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Соломія Крушельницька",
+      "sort-name": "Krushelnytska, Solomiya",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b875a439-cc00-4b72-bba9-511f873dec9f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Ternopil's'ka Oblast'",
+        "sort-name": "Ternopil's'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian soprano",
+      "isnis": [
+        "0000000020570669"
+      ],
+      "life-span": {
+        "begin": "1872-09-23",
+        "end": "1952-11-16",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kruszelnicka, Salomea",
+          "name": "Salomea Kruszelnicka",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

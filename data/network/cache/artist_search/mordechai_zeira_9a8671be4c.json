@@ -1,0 +1,389 @@
+{
+  "created": "2026-05-22T17:01:35.208Z",
+  "count": 66,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "94d26a3f-658b-43b2-9677-eee55e0203a8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "מרדכי זעירא",
+      "sort-name": "Zeira, Mordechai",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00033568874"
+      ],
+      "isnis": [
+        "0000000067008884"
+      ],
+      "life-span": {
+        "begin": "1905-07-06",
+        "end": "1968-08-01",
+        "ended": true
+      }
+    },
+    {
+      "id": "a361e929-2cec-4480-a976-2af85c522e24",
+      "score": 80,
+      "name": "Mordechai",
+      "sort-name": "Mordechai",
+      "disambiguation": "house released \"Esctasy\"",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1ce4381e-039b-451d-a5a0-ab12020a987c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 78,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mordechai Ben David",
+      "sort-name": "Ben David, Mordechai",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "King of Jewish Music",
+      "ipis": [
+        "00536152858"
+      ],
+      "isnis": [
+        "0000000398993399"
+      ],
+      "life-span": {
+        "begin": "1951-04-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "MBD",
+          "name": "MBD",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "מרדכי בן דוד",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "מרדכי בן דוד",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Werdyger, Mordechai",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mordechai Werdyger",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mark Werdyger",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mark Werdyger",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "orthodox pop"
+        }
+      ]
+    },
+    {
+      "id": "ac1ec66e-13ac-40ae-9c62-4c80bdb3b44f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mordechai Shapiro",
+      "sort-name": "Shapiro, Mordechai",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4073b978-dfec-4345-b568-eeb2f2057af2",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Monsey",
+        "sort-name": "Monsey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "01062842273"
+      ],
+      "life-span": {
+        "begin": "1989",
+        "ended": null
+      }
+    },
+    {
+      "id": "8b82dd72-2d8e-4a25-b2de-104ccc2b9e2e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 72,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mordechai Brodsky",
+      "sort-name": "Brodsky, Mordechai",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1960-12-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "מרדכי ברוצקי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "מרדכי ברוצקי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "5567a184-f635-4019-b86d-b166d470648e",
+      "score": 70,
+      "name": "Shemer Mordechai",
+      "sort-name": "Mordechai, Shemer",
+      "area": {
+        "id": "1462269e-911b-4db3-be41-434393484e34",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Missouri",
+        "sort-name": "Missouri",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "26316deb-3ce1-46ca-90ea-7a6c8000b784",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mordechai Hershman",
+      "sort-name": "Hershman, Mordechai",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a9c9e71e-43f6-4aad-a470-de3f3aec6d40",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Chernihivs'ka Oblast'",
+        "sort-name": "Chernihivs'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000066857737"
+      ],
+      "life-span": {
+        "begin": "1888",
+        "end": "1940-01-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mordechay Hershman",
+          "name": "Mordechay Hershman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "chazzanut"
+        }
+      ]
+    },
+    {
+      "id": "07505557-105a-4270-b282-06490531fe26",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mordechai Kohn",
+      "sort-name": "Kohn, Mordechai",
+      "gender": "male",
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "מרדכי קאהן",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "מרדכי קאהן",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hasidic singer"
+        },
+        {
+          "count": 1,
+          "name": "kumzitz singer"
+        },
+        {
+          "count": 1,
+          "name": "jewish singer"
+        }
+      ]
+    },
+    {
+      "id": "cf102508-f87d-48a0-aa81-701eed331079",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 70,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mordechai Gifter",
+      "sort-name": "Gifter, Mordechai",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6c14fa3d-2b67-45b3-b271-8b155b4fe9e8",
+      "score": 70,
+      "name": "Mad Mordechai",
+      "sort-name": "Mordechai, Mad",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

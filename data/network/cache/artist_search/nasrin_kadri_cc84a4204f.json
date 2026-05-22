@@ -1,0 +1,432 @@
+{
+  "created": "2026-05-22T17:21:39.117Z",
+  "count": 75,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f124b70a-1db2-4cef-ab68-d5dd3bdda4ac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "נסרין קדרי",
+      "sort-name": "Kadri, Nasrin",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4da37f20-218d-4406-8d29-7d30a32978bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Haifa",
+        "sort-name": "Haifa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000492755581"
+      ],
+      "life-span": {
+        "begin": "1986-09-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "نسرين قادري",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "نسرين قادري",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "341c6afd-2f90-462f-be19-ee3f308cac6c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nasrin",
+      "sort-name": "Nasrin",
+      "gender": "female",
+      "country": "IR",
+      "area": {
+        "id": "a63fbc7f-af00-33c7-8616-3e86df9fc16b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Iran",
+        "sort-name": "Iran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "aaa5899f-f0b7-4bc1-bae4-aba7f6770402",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tehran",
+        "sort-name": "Tehran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Persian Singer",
+      "life-span": {
+        "begin": "1949",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Keyvanfar, Nasrin",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nasrin Keyvanfar",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nasrin",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nasrin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "نسرین",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "نسرین",
+          "locale": "fa",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "کیوانفر, نسرین",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "نسرین کیوانفر",
+          "locale": "fa",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "bf6321f4-d185-4750-a5c3-e70c4da4d817",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nasrin Hashemi",
+      "sort-name": "Hashemi, Nasrin",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a45622d2-35c3-49ea-8727-0c837dd8df46",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Kadri Savva",
+      "sort-name": "Savva, Kadri",
+      "gender": "female",
+      "country": "EE",
+      "area": {
+        "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Estonia",
+        "sort-name": "Estonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1985-07-19",
+        "ended": null
+      }
+    },
+    {
+      "id": "3c785e5f-dc24-4a23-ab72-7c2931583ab2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kadri Gopalnath",
+      "sort-name": "Gopalnath, Kadri",
+      "gender": "male",
+      "country": "IN",
+      "area": {
+        "id": "d31a9a15-537f-3669-ad53-25753ddd2772",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "India",
+        "sort-name": "India",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0ca39eb5-3e8a-4447-8ac9-f3f1e83f97c9",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Karnataka",
+        "sort-name": "Karnataka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0ca39eb5-3e8a-4447-8ac9-f3f1e83f97c9",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Karnataka",
+        "sort-name": "Karnataka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078482258"
+      ],
+      "life-span": {
+        "begin": "1949-12-06",
+        "end": "2019-10-11",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "carnatic classical"
+        }
+      ]
+    },
+    {
+      "id": "757dddbe-2d19-4cf4-90c1-e80d4c99abeb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Bedless Bones",
+      "sort-name": "Bedless Bones",
+      "gender": "female",
+      "country": "EE",
+      "area": {
+        "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Estonia",
+        "sort-name": "Estonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sammel, Kadri",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Kadri Sammel",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "coldwave"
+        },
+        {
+          "count": 1,
+          "name": "dark"
+        },
+        {
+          "count": 1,
+          "name": "female vocals"
+        },
+        {
+          "count": 1,
+          "name": "gothic"
+        },
+        {
+          "count": 1,
+          "name": "post-punk"
+        },
+        {
+          "count": 1,
+          "name": "synth"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 1,
+          "name": "darkwave"
+        },
+        {
+          "count": 1,
+          "name": "ebm"
+        },
+        {
+          "count": 1,
+          "name": "electro-industrial"
+        },
+        {
+          "count": 1,
+          "name": "post-industrial"
+        }
+      ]
+    },
+    {
+      "id": "557d69f1-5f02-4695-a01c-05ee9483ceb5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Kadri Voorand",
+      "sort-name": "Voorand, Kadri",
+      "gender": "female",
+      "country": "EE",
+      "area": {
+        "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Estonia",
+        "sort-name": "Estonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bb4c2904-f0dd-48b2-a419-a8f980dc7648",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Haljala",
+        "sort-name": "Haljala",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00567318231"
+      ],
+      "isnis": [
+        "0000000131322828"
+      ],
+      "life-span": {
+        "begin": "1986-11-18",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer"
+        },
+        {
+          "count": 1,
+          "name": "jazz vocalist"
+        }
+      ]
+    },
+    {
+      "id": "4ab7fff3-514d-4042-a0e6-712b78e0cd85",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Kadri Hunt",
+      "sort-name": "Hunt, Kadri",
+      "gender": "female",
+      "country": "EE",
+      "area": {
+        "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Estonia",
+        "sort-name": "Estonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Estonian singer and conductor",
+      "life-span": {
+        "begin": "1964-11-15",
+        "ended": null
+      }
+    },
+    {
+      "id": "39292bce-29df-459c-9591-4df0b4638af1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Shafiqua Nasrin Mimi",
+      "sort-name": "mimi",
+      "gender": "female",
+      "country": "BD",
+      "area": {
+        "id": "20395c3e-610c-34fd-9995-6b6f299121f2",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Bangladesh",
+        "sort-name": "Bangladesh",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b14123b9-1a54-480b-ae7b-d542ca2b9757",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "name": "Kadri Abazi",
+      "sort-name": "Abazi, Kadri",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

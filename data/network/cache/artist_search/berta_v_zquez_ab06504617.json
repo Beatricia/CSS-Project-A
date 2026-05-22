@@ -1,0 +1,433 @@
+{
+  "created": "2026-05-22T16:52:14.659Z",
+  "count": 738,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5a945027-735d-4008-b4d3-b3d82c90ecac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Berta",
+      "sort-name": "Berta",
+      "gender": "female",
+      "area": {
+        "id": "92e2d2d3-63b0-4b5a-adca-0e31c367eca2",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Catalunya",
+        "sort-name": "Catalunya",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8cfddbcc-b38a-4da2-a990-6317cd92892a",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Barcelona",
+        "sort-name": "Barcelona",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1981",
+        "ended": null
+      }
+    },
+    {
+      "id": "49130616-e3bb-4e18-9dda-b33fe8ff743a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Berta",
+      "sort-name": "Berta",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Berta (ITA)",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "398eb0f9-7ca7-4925-aa9f-959a50ed543c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "name": "Vázquez",
+      "sort-name": "Vázquez",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish punk [Intolerance]",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "35200f83-289b-4e51-94c8-792cfdf6fe08",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alberto Vázquez",
+      "sort-name": "Vázquez, Alberto",
+      "gender": "male",
+      "country": "MX",
+      "area": {
+        "id": "3e08b2cd-69f3-317c-b1e4-e71be581839e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Mexico",
+        "sort-name": "Mexico",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f64811d5-16cb-4c9f-a2a1-4a64db3da845",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Guaymas",
+        "sort-name": "Guaymas",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Mexican singer and actor",
+      "life-span": {
+        "begin": "1940-04-20",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "bolero"
+        },
+        {
+          "count": 1,
+          "name": "ranchera"
+        },
+        {
+          "count": 1,
+          "name": "corrido"
+        },
+        {
+          "count": 1,
+          "name": "latin ballad"
+        }
+      ]
+    },
+    {
+      "id": "7f41b109-4556-4c5f-b72e-39bc2e369cc4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Berta Rojas",
+      "sort-name": "Rojas, Berta",
+      "gender": "female",
+      "country": "PY",
+      "area": {
+        "id": "0a750c98-a7a5-3d55-bd52-f6e9011b1537",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Paraguay",
+        "sort-name": "Paraguay",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1d8d4e7-e72a-4782-a350-f60a3e5b69b6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Asunción",
+        "sort-name": "Asunción",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055449439"
+      ],
+      "life-span": {
+        "begin": "1966-09-23",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "paraguay"
+        },
+        {
+          "count": 1,
+          "name": "classical guitar"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "7b66238e-37a7-4398-9718-f3f6f301cbd1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Francesco Berta",
+      "sort-name": "Berta, Francesco",
+      "gender": "male",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "piano"
+        }
+      ]
+    },
+    {
+      "id": "1fa2c3e5-4525-48c7-910e-162a18138481",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Berta Ambrož",
+      "sort-name": "Ambrož, Berta",
+      "gender": "female",
+      "country": "SI",
+      "area": {
+        "id": "5b0b6225-584c-3942-b69d-5efceb9989af",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Slovenia",
+        "sort-name": "Slovenia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "02468f95-6cf6-4a2b-98a0-6e15551f35c7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kranj",
+        "sort-name": "Kranj",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d384ec5f-9831-4890-ac40-648a71aec054",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ljubljana",
+        "sort-name": "Ljubljana",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000467254777"
+      ],
+      "life-span": {
+        "begin": "1944-10-29",
+        "end": "2003-07-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Berta Ambroz",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Berta Ambroz",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e0645eef-e489-4c07-bbff-d27f2abbc77b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Berta Cardoso",
+      "sort-name": "Cardoso, Berta",
+      "gender": "female",
+      "country": "PT",
+      "area": {
+        "id": "781b0c54-3d54-362d-a941-8a617def4992",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Portugal",
+        "sort-name": "Portugal",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9aee8c1a-c7d5-4713-af71-c022bccf50b4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lisboa",
+        "sort-name": "Lisboa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "9aee8c1a-c7d5-4713-af71-c022bccf50b4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lisboa",
+        "sort-name": "Lisboa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000041479557"
+      ],
+      "life-span": {
+        "begin": "1911-10-21",
+        "end": "1997-07-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Santos Cardoso, Berta dos",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Berta dos Santos Cardoso",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "fado"
+        }
+      ]
+    },
+    {
+      "id": "2bc95018-f1fa-463f-8dee-709e88d7df29",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 85,
+      "name": "Berta Epple",
+      "sort-name": "Berta Epple",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7268261e-135d-42d2-ad6c-b5aa1d30c828",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 85,
+      "name": "Tlustá Berta",
+      "sort-name": "Tlusta Berta",
+      "area": {
+        "id": "3297a477-cbb1-4c1b-b932-ab9ad29960ab",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Jindřichův Hradec",
+        "sort-name": "Jindřichův Hradec",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3297a477-cbb1-4c1b-b932-ab9ad29960ab",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Jindřichův Hradec",
+        "sort-name": "Jindřichův Hradec",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Czech metal / rock",
+      "life-span": {
+        "begin": "1992",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    }
+  ]
+}

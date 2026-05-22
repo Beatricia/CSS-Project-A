@@ -1,0 +1,427 @@
+{
+  "created": "2026-05-22T17:27:05.283Z",
+  "count": 21,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "6ee2b4d1-febd-44c4-89d2-aeb38e9c8d59",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fromental Halévy",
+      "sort-name": "Halévy, Fromental",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "49856c85-1b7c-4f46-a078-b01261a058ad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nice",
+        "sort-name": "Nice",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French composer",
+      "isnis": [
+        "0000000121031963"
+      ],
+      "life-span": {
+        "begin": "1799-05-27",
+        "end": "1862-03-17",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Jacques-Francois Halevy",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jacques-Francois Halevy",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Halévy, Jacques-François-Fromental-Élie",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jacques-François-Fromental-Élie Halévy",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "french composer"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "4f145f4f-7604-47a3-8607-a9e4067f86fd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 98,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bar Halevy",
+      "sort-name": "Halevy, Bar",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "guitarist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ec655b24-c359-48b1-a09f-68d597539232",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 98,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Hadar Halevy",
+      "sort-name": "Halevy, Hadar",
+      "gender": "female",
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "mezzo-soprano",
+      "isnis": [
+        "0000000354840809"
+      ],
+      "life-span": {
+        "begin": "1966",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Halevi-De Vito, Hadar",
+          "name": "Hadar Halevi-De Vito",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "5940495b-531a-4cad-9f7c-5c94535314f6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 98,
+      "name": "Lahav Halevy",
+      "sort-name": "Halevy, Lahav",
+      "disambiguation": "cover art",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "79bafce0-7756-4e31-8136-ebd4a2ea509c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 98,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yoni Halevy",
+      "sort-name": "Halevy, Yoni",
+      "gender": "male",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4da37f20-218d-4406-8d29-7d30a32978bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Haifa",
+        "sort-name": "Haifa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli Drummer",
+      "life-span": {
+        "begin": "1981",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "הלוי, יונדב",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "יונדב הלוי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Halevy, Yonadav",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yonadav Halevy",
+          "locale": "he_IL",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e4156d04-eeaf-490b-abee-f83942bdee8f",
+      "score": 98,
+      "name": "Eliran Halevy",
+      "sort-name": "Halevy, Eliran",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ccb4cd1a-6db8-419d-b371-1e1b039b27d0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "צחי קליין",
+      "sort-name": "Klein, Tzachi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "01058383250"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "יצחק קליין",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "יצחק קליין",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "94828a25-2b05-41cb-a978-ca25a2991553",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ludovic Halévy",
+      "sort-name": "Halévy, Ludovic",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French librettist",
+      "isnis": [
+        "0000000120962731"
+      ],
+      "life-span": {
+        "begin": "1834-01-01",
+        "end": "1908-05-07",
+        "ended": true
+      }
+    },
+    {
+      "id": "a8cbac1f-eee0-475b-b28e-e3d30f9e3d0a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Élie Halévy",
+      "sort-name": "Halévy, Élie",
+      "gender": "male",
+      "begin-area": {
+        "id": "593244e5-a86c-4ec9-b746-7a1ef8ddf98b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Fürth",
+        "sort-name": "Fürth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French Hebrew poet & author",
+      "isnis": [
+        "0000000066519551"
+      ],
+      "life-span": {
+        "begin": "1760",
+        "end": "1826-11-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Chalfan, Élie",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Élie Chalfan",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Halévy, Élie",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Élie Halévy",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Halfon-Halévy, Élie",
+          "name": "Élie Halfon-Halévy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Élie Halévy (Ḥalfan/Chalfan)",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Élie Halévy (Ḥalfan/Chalfan)",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "976261f9-9368-40c0-a479-98c4df06d9a3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Léon Halévy",
+      "sort-name": "Halévy, Léon",
+      "gender": "male",
+      "life-span": {
+        "begin": "1802",
+        "end": "1883",
+        "ended": true
+      }
+    }
+  ]
+}

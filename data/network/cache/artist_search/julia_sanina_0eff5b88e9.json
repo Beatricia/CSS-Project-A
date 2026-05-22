@@ -1,0 +1,628 @@
+{
+  "created": "2026-05-22T16:46:39.104Z",
+  "count": 3668,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f5c9401a-2fbb-4c85-a8f1-6a2c56276769",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Юлія Саніна",
+      "sort-name": "Sanina, Julia",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1990-10-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bebko, Yuliia Oleksandrivna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Юлія Олександрівна Бебко",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sanina, Julia",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Julia Sanina",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "ukraine"
+        }
+      ]
+    },
+    {
+      "id": "3b233373-1701-45f2-87e0-91096106fe36",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Julia Fischer",
+      "sort-name": "Fischer, Julia",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "voice actress",
+      "isnis": [
+        "0000000119448444"
+      ],
+      "life-span": {
+        "begin": "1966-07-29",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "d18fd116-dfcd-433e-896a-5b720b06f1d9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Julia Nachtmann",
+      "sort-name": "Nachtmann, Julia",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0ad25df4-d937-4891-88f0-76406e97f465",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Filderstadt",
+        "sort-name": "Filderstadt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078757127"
+      ],
+      "life-span": {
+        "begin": "1981",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "4cedbd59-60f8-4a0e-9b81-346220311123",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Julia Fordham",
+      "sort-name": "Fordham, Julia",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7b6383fb-468f-4a2b-916f-b4cbbfb5253e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Portsmouth",
+        "sort-name": "Portsmouth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00122138908"
+      ],
+      "isnis": [
+        "0000000133803924",
+        "0000000055162606"
+      ],
+      "life-span": {
+        "begin": "1962-08-10",
+        "ended": null
+      }
+    },
+    {
+      "id": "e91bdc9c-64f3-47ef-8b2f-ee4dde07eb7a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Julia Boehme",
+      "sort-name": "Boehme, Julia",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9c607066-ceb6-4a78-a614-4c14a2b3ec35",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bremen",
+        "sort-name": "Bremen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "author of \"(Meine Freundin) Conni\"",
+      "life-span": {
+        "begin": "1966",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Conni",
+          "name": "Conni",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Meine Freundin Conni",
+          "name": "Meine Freundin Conni",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Julia Böhme",
+          "name": "Julia Böhme",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        },
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        },
+        {
+          "count": 1,
+          "name": "audio drama"
+        },
+        {
+          "count": 1,
+          "name": "_consistency"
+        },
+        {
+          "count": 1,
+          "name": "audiobook"
+        }
+      ]
+    },
+    {
+      "id": "b5fd3736-e59c-4e0f-ac3c-e0cfd39bfb28",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 41,
+      "name": "Julia",
+      "sort-name": "Julia",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian band",
+      "life-span": {
+        "begin": "2000",
+        "end": "2009-12-20",
+        "ended": true
+      }
+    },
+    {
+      "id": "4757df70-6c3e-46b8-99c0-a68644595c9a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Julia Michaels",
+      "sort-name": "Michaels, Julia",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4ae2a1d1-8769-47c9-819f-27c7e59c405b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Davenport",
+        "sort-name": "Davenport",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00608882812",
+        "00608882910"
+      ],
+      "isnis": [
+        "0000000464610174"
+      ],
+      "life-span": {
+        "begin": "1993-11-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cavazos, Julia Carin",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Julia Carin Cavazos",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Julian Michaels",
+          "name": "Julian Micheals",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "female vocals"
+        }
+      ]
+    },
+    {
+      "id": "45610c1f-41a4-44f1-9da6-227510073ffc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Julia Holter",
+      "sort-name": "Holter, Julia",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000408693403"
+      ],
+      "life-span": {
+        "begin": "1984-12-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Holter, Julia Shammas",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Julia Shammas Holter",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Holter, Julia",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Julia Holter",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "alternative rock"
+        },
+        {
+          "count": 2,
+          "name": "ambient"
+        },
+        {
+          "count": 2,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "avant-garde"
+        },
+        {
+          "count": 1,
+          "name": "indietronica"
+        },
+        {
+          "count": 1,
+          "name": "modern creative"
+        },
+        {
+          "count": 1,
+          "name": "modern classical"
+        },
+        {
+          "count": 1,
+          "name": "new weird america"
+        },
+        {
+          "count": 0,
+          "name": "dreampop"
+        },
+        {
+          "count": 1,
+          "name": "experimental electronic"
+        },
+        {
+          "count": 1,
+          "name": "progressive pop"
+        },
+        {
+          "count": 2,
+          "name": "ambient pop"
+        },
+        {
+          "count": 3,
+          "name": "art pop"
+        },
+        {
+          "count": 1,
+          "name": "avant-garde pop"
+        }
+      ]
+    },
+    {
+      "id": "9d95e121-76be-4abf-9727-314b5470d718",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "name": "Julia, Julia",
+      "sort-name": "Julia, Julia",
+      "area": {
+        "id": "e183ffae-1d35-4c78-b552-957535e40af1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Long Beach",
+        "sort-name": "Long Beach",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "solo project of the Coathangers' Julia Kugel",
+      "isnis": [
+        "0000000516949381"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7bda2ee0-b0bc-4a1e-acb0-154a8e80f747",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Julia Lee",
+      "sort-name": "Lee, Julia",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "73a83478-45e4-4f40-85bf-974129ff7fbc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boonville",
+        "sort-name": "Boonville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "82f3a697-ba65-404d-a1ed-360147af7d10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San Diego",
+        "sort-name": "San Diego",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055142090"
+      ],
+      "life-span": {
+        "begin": "1902-10-31",
+        "end": "1958-12-08",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": -1,
+          "name": "death by heart attack"
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    }
+  ]
+}

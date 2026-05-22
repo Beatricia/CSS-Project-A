@@ -1,0 +1,246 @@
+{
+  "created": "2026-05-22T17:11:43.224Z",
+  "count": 7,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "af2430db-4efe-474b-8b3c-b8e8ba81bfed",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Туган Сохиев",
+      "sort-name": "Sokhiev, Tugan",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1d58b0ce-6765-468f-aecd-84ff432ed4ba",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vladikavkaz",
+        "sort-name": "Vladikavkaz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000121489798"
+      ],
+      "life-span": {
+        "begin": "1977-10-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sokhiev, Tugan",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tugan Sokhiev",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Сохиев, Туган Таймуразович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Туган Таймуразович Сохиев",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "ossetian conductor"
+        }
+      ]
+    },
+    {
+      "id": "de471ef7-07d2-4991-8c5b-6bb19188612e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tugan",
+      "sort-name": "Tugan",
+      "gender": "male",
+      "area": {
+        "id": "78889222-8f08-40b6-92b1-73f4a98fc533",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Thessaloniki",
+        "sort-name": "Thessaloniki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Greek Rapper",
+      "ipis": [
+        "01234181288"
+      ],
+      "life-span": {
+        "begin": "1996-07-14",
+        "ended": null
+      }
+    },
+    {
+      "id": "23e888e5-a620-4a64-a954-a1abee1385e6",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 29,
+      "name": "Tugana",
+      "sort-name": "Tugana",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "see also www.tugana.de",
+      "life-span": {
+        "begin": "2007-12-12",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        }
+      ]
+    },
+    {
+      "id": "b7e1e897-53bc-4258-8c04-6e1b9f57939a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 29,
+      "name": "Tortuganónima",
+      "sort-name": "Tortuganónima",
+      "area": {
+        "id": "8270a6f3-3e8d-482d-8cb6-649912ac5a63",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Región Metropolitana de Santiago",
+        "sort-name": "Región Metropolitana de Santiago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8270a6f3-3e8d-482d-8cb6-649912ac5a63",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Región Metropolitana de Santiago",
+        "sort-name": "Región Metropolitana de Santiago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Chilean instrumental math rock band from Santiago",
+      "life-span": {
+        "begin": "2012",
+        "ended": null
+      }
+    },
+    {
+      "id": "c51820cf-6a77-4930-88ad-800414f1816d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 27,
+      "name": "Svarta Stugan",
+      "sort-name": "Svarta Stugan",
+      "area": {
+        "id": "8f6c316e-9924-48ea-967b-16757dd82399",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gothenburg",
+        "sort-name": "Gothenburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ff8a312a-40fa-4a6f-bb83-a6949cc0b477",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 27,
+      "name": "Sjukstugan",
+      "sort-name": "Sjukstugan",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swedish hip hop",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fe281ffa-3dce-4845-8b16-cccd772771c7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 26,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "MatuGandini",
+      "sort-name": "Matías Gandini Bongiorno",
+      "gender": "male",
+      "begin-area": {
+        "id": "c5603a36-e653-4000-8d0d-f000389acc7e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Olavarría",
+        "sort-name": "Olavarría",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "artista indie folk",
+      "life-span": {
+        "begin": "2005-10-05",
+        "ended": null
+      }
+    }
+  ]
+}

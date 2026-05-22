@@ -1,0 +1,550 @@
+{
+  "created": "2026-05-22T16:56:08.811Z",
+  "count": 598,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "93491614-83e7-4977-8cdd-c3e3a7b6822e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Матусовский",
+      "sort-name": "Matusovsky, Mikhail",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "3890e088-4cdc-4d03-ae73-4fefb0076b15",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Luhans'ka Oblast'",
+        "sort-name": "Luhans'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00084190865"
+      ],
+      "isnis": [
+        "0000000118788447"
+      ],
+      "life-span": {
+        "begin": "1915-07-23",
+        "end": "1990-07-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Матусовский, М.",
+          "name": "М. Матусовский",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "M. Matousovski",
+          "name": "M. Matousovski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikhail Matusovsky",
+          "name": "Mikhail Matusovsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "M. Matusovsky",
+          "name": "M. Matusovsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Матусовский, Михаил Львович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Михаил Львович Матусовский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Матусовский, Михаил",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Михаил Матусовский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Matusovskis, M.",
+          "name": "M. Matusovskis",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0fcb4ff5-6384-4497-b796-9d545583c8bd",
+      "score": 59,
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "disambiguation": "Mikhail Karikis",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4d34bc82-52c0-4ad5-be19-d353da3255a9",
+      "type": "Choir",
+      "type-id": "6124967d-7e3a-3eba-b642-c9a2ffb44d94",
+      "score": 59,
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b9e3274f-3a41-45fb-ba69-fe8ee68db6ad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hyattsville",
+        "sort-name": "Hyattsville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US metal band",
+      "life-span": {
+        "begin": "2004",
+        "ended": null
+      }
+    },
+    {
+      "id": "72dfc90d-65a5-4817-a745-81c4310f8f5d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "gender": "male",
+      "country": "BG",
+      "area": {
+        "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Bulgaria",
+        "sort-name": "Bulgaria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Bulgarian hip-hop artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "340f6b94-9903-4975-a8a4-60312f7a3b99",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "gender": "male",
+      "disambiguation": "Russian drummer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Михаил",
+          "name": "Михаил",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f1286c69-fdda-4dda-86af-8e06a779821f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "gender": "male",
+      "disambiguation": "Mikhail Lyutovaty; mastering and mixing engineer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fc61007e-4e8c-46e2-8637-f7fa89b330a3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gavin Mikhail",
+      "sort-name": "Mikhail, Gavin",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cc55c78b-15c9-45dd-8ff4-4a212c54eff3",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Indiana",
+        "sort-name": "Indiana",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1975-03-26",
+        "ended": null
+      }
+    },
+    {
+      "id": "c3f0d6a4-a413-4c40-9103-1638c4eb41ee",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Плетнёв",
+      "sort-name": "Pletnev, Mikhail",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "044809ca-6024-4142-be50-61936a60d918",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Arkhangelsk",
+        "sort-name": "Arkhangelsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist & conductor",
+      "isnis": [
+        "0000000110592001"
+      ],
+      "life-span": {
+        "begin": "1957-04-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Плетнёв, Михаил",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Михаил Плетнёв",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pletnev, Mikhail Vasilevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mikhail Vasilevich Pletnev",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Плетнёв, Михаил Васильевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Михаил Васильевич Плетнёв",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pletnev, Mikhaïl",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mikhaïl Pletnev",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikhail Vasil'evič Pletnëv",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mikhail Vasil'evič Pletnëv",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pletnev, Mikhail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mikhail Pletnev",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikhail Pletnyov",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mikhail Pletnyov",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 2,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "946c6379-66eb-43f1-9e13-d79d9a04935b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Щербаков",
+      "sort-name": "Scherbakov, Mikhail",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "58b018d7-5150-41da-93cc-1b26a180d9a5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Obninsk",
+        "sort-name": "Obninsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000005736448X"
+      ],
+      "life-span": {
+        "begin": "1963-03-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "М.Щербаков",
+          "name": "М.Щербаков",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikhail Scherbakov",
+          "name": "Mikhail Scherbakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikhail Sherbakov",
+          "name": "Mikhail Sherbakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikhail Cherbakov",
+          "name": "Mikhail Cherbakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "М.К.Щербаков",
+          "name": "М.К.Щербаков",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Щербаков, Михаил Константинович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Михаил Константинович Щербаков",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Щербаков, Михаил",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Михаил Щербаков",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shcherbakov, Mikhail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mikhail Shcherbakov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "avtorskaya pesnya"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        }
+      ]
+    },
+    {
+      "id": "08873ac0-a74b-49c6-8a97-52ba89e81d0a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mikhail Shvachko",
+      "sort-name": "Shvachko, Mikhail",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

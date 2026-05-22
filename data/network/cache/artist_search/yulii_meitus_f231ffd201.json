@@ -1,0 +1,196 @@
+{
+  "created": "2026-05-22T16:56:35.818Z",
+  "count": 8,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a2f8c663-e72f-4341-8bf9-3985c21622e2",
+      "score": 100,
+      "name": "Robert Meitus",
+      "sort-name": "Meitus, Robert",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5d47b4f0-d7df-487c-8719-b77c915a43ac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Юлій Мейтус",
+      "sort-name": "Meytuss, Julius",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a90737e3-34a7-4df2-b858-027fa204ee61",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kropyvnytskyi",
+        "sort-name": "Kropyvnytskyi",
+        "life-span": {
+          "begin": "2016-07",
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000080871877"
+      ],
+      "life-span": {
+        "begin": "1903-01-15",
+        "end": "1997-04-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Meitus, Yuliy",
+          "name": "Yuliy Meitus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "98c9df13-e8dc-4fe1-a487-aa11db717792",
+      "score": 74,
+      "name": "Robert Shanon Meitus and the Dorkestra",
+      "sort-name": "Robert Shanon Meitus and the Dorkestra",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f1298699-c4ee-47d7-9ad6-b282c4f47db8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "name": "Yuliia Danyliv",
+      "sort-name": "Danyliv, Yuliia",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "613d8b92-7a99-4ff7-806f-0fba981dfd5c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yuliia Van",
+      "sort-name": "Van, Yuliia",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0435b9d9-5df7-4366-838b-4f3dcf98cfb1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yuliia Dunaieva",
+      "sort-name": "Dunaieva, Yuliia",
+      "gender": "female",
+      "disambiguation": "soprano",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5eb86552-e1ac-4920-a079-b35146055638",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Yuliia Zasimova",
+      "sort-name": "Zasimova, Yuliia",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "soprano",
+      "life-span": {
+        "begin": "1992-01-18",
+        "ended": null
+      }
+    },
+    {
+      "id": "0c02f34d-df76-46ca-ac30-691a322647af",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Юлія Забродська",
+      "sort-name": "Zabrodska, Yuliia",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

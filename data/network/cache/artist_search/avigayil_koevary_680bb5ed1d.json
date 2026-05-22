@@ -1,0 +1,57 @@
+{
+  "created": "2026-05-22T17:40:25.378Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "1e4454ae-f263-4343-9717-6c644fed1e4d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "קובארי",
+      "sort-name": "Koevary",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "402c46d5-e884-46e1-928c-a47c215f6b01",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Yerushalayim",
+        "sort-name": "Yerushalayim",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00801396161"
+      ],
+      "life-span": {
+        "begin": "1987-07-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "אביגיל קובארי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "אביגיל קובארי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,613 @@
+{
+  "created": "2026-05-22T17:19:33.195Z",
+  "count": 501,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8408d6b8-f124-46f4-9cb5-c37e03a6e08a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "אסתר עופרים",
+      "sort-name": "Ofarim, Esther",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0f01a27e-09f9-46f6-a987-030cf5c565e0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nazareth",
+        "sort-name": "Nazareth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00022768485"
+      ],
+      "isnis": [
+        "0000000118725657"
+      ],
+      "life-span": {
+        "begin": "1941-06-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Esther Ofarims",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Esther Ofarims",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ofarim, Esther",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Esther Ofarim",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": "1961",
+          "end-date": null
+        },
+        {
+          "sort-name": "עופרים, אסתר",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "אסתר עופרים",
+          "locale": "he_IL",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Reichstat, Esther",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Esther Reichstat",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1961",
+          "end-date": "1970"
+        },
+        {
+          "sort-name": "Zaied, Esther",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Esther Zaied",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1941",
+          "end-date": "1961"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "folk pop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "7252a389-6feb-4616-9052-11cf47d3daaf",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 60,
+      "name": "Esther & Abi Ofarim",
+      "sort-name": "Esther & Abi Ofarim",
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1959",
+        "end": "1970",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ester & Abi Ofarim",
+          "name": "Ester & Abi Ofarim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "העופרים",
+          "name": "העופרים",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "צמד העופרים",
+          "name": "צמד העופרים",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        }
+      ]
+    },
+    {
+      "id": "b1ede617-c571-4c90-8a64-85a92ab1c472",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gil Ofarim",
+      "sort-name": "Ofarim, Gil",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000120214856"
+      ],
+      "life-span": {
+        "begin": "1982-08-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gil",
+          "name": "Gil",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gil Doron Reichstadt Ofarim",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gil Doron Reichstadt Ofarim",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e261c42a-cbd7-4b97-8b72-218801bdc5b9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Esther Phillips",
+      "sort-name": "Phillips, Esther",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e0b89606-1999-4a43-b32a-17c2541194ff",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Galveston",
+        "sort-name": "Galveston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "29a62a1e-2583-4d1d-b4b6-2e399c2c3b5a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Carson",
+        "sort-name": "Carson",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Little Esther",
+      "isnis": [
+        "0000000073657506"
+      ],
+      "life-span": {
+        "begin": "1935-12-23",
+        "end": "1984-08-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Washington, Esther Mae",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Esther Mae Washington",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Washington, Esther Mae",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Esther Mae Washington",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Esther Philipps",
+          "name": "Esther Philipps",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Little Esther",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Little Esther",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Esther Philips",
+          "name": "Esther Philips",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Little Esther Phillips",
+          "name": "Little Esther Phillips",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ester Phillips",
+          "name": "Ester Phillips",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Esther",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Esther",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ester Philips",
+          "name": "Ester Philips",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "funk"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "disco"
+        },
+        {
+          "count": 1,
+          "name": "vocal jazz"
+        },
+        {
+          "count": -1,
+          "name": "death by kidney failure"
+        },
+        {
+          "count": -1,
+          "name": "death by liver failure"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "country soul"
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 1,
+          "name": "try me"
+        },
+        {
+          "count": 1,
+          "name": "aln-sh"
+        }
+      ]
+    },
+    {
+      "id": "52034fde-b89c-44e1-ba68-d93df3a56aac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Abi Ofarim",
+      "sort-name": "Ofarim, Abi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "53319d8e-41c9-4182-86f1-e94e51eb16a4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Safed",
+        "sort-name": "Safed",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00022768387"
+      ],
+      "isnis": [
+        "0000000120215808"
+      ],
+      "life-span": {
+        "begin": "1937-10-05",
+        "end": "2018-05-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Reichstadt, Avraham",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Avraham Reichstadt",
+          "locale": "en_IL",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Reichstadt, Abraham",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Abraham Reichstadt",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "41cd19bc-18fd-4a2f-bf35-34cbd55de16b",
+      "score": 44,
+      "name": "The Ofarim",
+      "sort-name": "The Ofarim",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fa4a843a-aaea-4cca-97e3-c94e86dbba30",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tal Ofarim",
+      "sort-name": "Ofarim, Tal",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b1ad95b9-aa3a-400e-a805-d0e0751d847a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Esther Schweins",
+      "sort-name": "Schweins, Esther",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "eb1ff5ca-ce4f-44ee-b915-21976abc9ddf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oberhausen",
+        "sort-name": "Oberhausen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000371916801"
+      ],
+      "life-span": {
+        "begin": "1970-04-18",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "a2f00ee3-0fde-41e9-8f48-6b58c6e8efae",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 40,
+      "name": "Esther",
+      "sort-name": "Esther",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swedish indie pop",
+      "life-span": {
+        "begin": "2000",
+        "ended": null
+      }
+    },
+    {
+      "id": "c2de59f5-b1b0-4cfe-b74d-f6ed5b985cea",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Esther",
+      "sort-name": "Esther",
+      "gender": "female",
+      "disambiguation": "vocalist, appears on Walk With Me by JetLag",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

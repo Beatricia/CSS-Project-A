@@ -1,0 +1,504 @@
+{
+  "created": "2026-05-22T17:00:58.804Z",
+  "count": 2972,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5286b91c-5d42-4cab-933a-77e30eb74ddc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roman Flügel",
+      "sort-name": "Flügel, Roman",
+      "gender": "male",
+      "area": {
+        "id": "16560d3e-358b-4869-8a6d-727db2ee7b69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Frankfurt am Main",
+        "sort-name": "Frankfurt am Main",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2e7d0064-1603-45ac-be83-2559fb991d04",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Darmstadt",
+        "sort-name": "Darmstadt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00246778721"
+      ],
+      "isnis": [
+        "0000000079680483"
+      ],
+      "life-span": {
+        "begin": "1970-05-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Roman Fluegel",
+          "name": "Roman Fluegel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roman Flüg-el",
+          "name": "Roman Flüg-el",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roman Flugel",
+          "name": "Roman Flugel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        }
+      ]
+    },
+    {
+      "id": "3ac59c53-a679-49c0-9904-ef9df0e4e93b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "羅文",
+      "sort-name": "Tam, Roman",
+      "gender": "male",
+      "country": "HK",
+      "area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "18051a1a-8694-46f8-b6ed-57d9c6fbd284",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Baise",
+        "sort-name": "Baise",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000080404152"
+      ],
+      "life-span": {
+        "begin": "1945-02-12",
+        "end": "2002-10-18",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Tam, Roman",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Roman Tam",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Luo, Wen",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "罗文",
+          "locale": "zh_Hans",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tam, Pak Sin",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "譚百先",
+          "locale": "zh_Hant",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "1980s"
+        },
+        {
+          "count": 1,
+          "name": "1990s"
+        },
+        {
+          "count": 1,
+          "name": "1970s"
+        },
+        {
+          "count": 1,
+          "name": "2000s"
+        },
+        {
+          "count": 1,
+          "name": "mandopop"
+        },
+        {
+          "count": 2,
+          "name": "cantopop"
+        },
+        {
+          "count": 1,
+          "name": "1970s hong kong debut"
+        },
+        {
+          "count": 1,
+          "name": "hong kong cultural icon"
+        },
+        {
+          "count": 1,
+          "name": "appear on hong kong postage stamps"
+        }
+      ]
+    },
+    {
+      "id": "f1edfbed-9315-4550-859c-599cc3fdee57",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 96,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Willie Colón",
+      "sort-name": "Colón, Willie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "eb4a386e-1178-4e3a-a371-30418dd6fd2e",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "The Bronx",
+        "sort-name": "The Bronx",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00063333792",
+        "00063333890"
+      ],
+      "isnis": [
+        "0000000079735990"
+      ],
+      "life-span": {
+        "begin": "1950-04-28",
+        "end": "2026-02-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Colón Román, William Anthony",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "William Anthony Colón Román",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 7,
+          "name": "salsa"
+        },
+        {
+          "count": 4,
+          "name": "latin"
+        },
+        {
+          "count": 1,
+          "name": "latin jazz"
+        },
+        {
+          "count": 1,
+          "name": "merengue"
+        },
+        {
+          "count": 1,
+          "name": "tropical"
+        },
+        {
+          "count": 4,
+          "name": "bolero"
+        },
+        {
+          "count": 1,
+          "name": "boogaloo"
+        },
+        {
+          "count": 1,
+          "name": "latin soul"
+        },
+        {
+          "count": 1,
+          "name": "son cubano"
+        },
+        {
+          "count": 1,
+          "name": "música tropical"
+        },
+        {
+          "count": 1,
+          "name": "global jazz"
+        },
+        {
+          "count": 1,
+          "name": "new york salsa"
+        },
+        {
+          "count": 1,
+          "name": "puerto rican traditions"
+        }
+      ]
+    },
+    {
+      "id": "61137c72-12d8-4271-823c-1118dae8ef40",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roman Pokorný",
+      "sort-name": "Pokorný, Roman",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1966",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Pokorny Roman",
+          "name": "Pokorny Roman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roman Pokorny",
+          "name": "Roman Pokorny",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "65506185-04d1-4dbf-b243-c892ea48c6e0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "name": "Roman",
+      "sort-name": "Roman",
+      "disambiguation": "Roman Podeszwa",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Podeszwa, Roman",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Roman Podeszwa",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fef3813c-63cb-4c7f-ade4-b7657f1d284d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roman",
+      "sort-name": "Roman",
+      "gender": "male",
+      "disambiguation": "Roman Campolo",
+      "ipis": [
+        "00733965611"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Campolo, Roman Anthony",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Roman Anthony Campolo",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a53cf922-7299-47dc-8f77-71eaafba9ee9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roman",
+      "sort-name": "Roman",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "indie rock Portland, OR-based singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c6e5c2f2-5422-4337-bd9f-35f7322aaa68",
+      "type": "Character",
+      "type-id": "5c1375b0-f18d-3db7-a164-a49d7a63773f",
+      "score": 93,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roman",
+      "sort-name": "Roman",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Bertram Ernst, German pop act",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ae2907eb-7c0b-4822-85cd-8d8523e25c1f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "name": "Roman Weinstein",
+      "sort-name": "Weinstein, Roman",
+      "disambiguation": "production music",
+      "ipis": [
+        "00551554554"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9a31b7d1-c3ab-42c0-8cd0-9b9f964d73db",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Roman",
+      "sort-name": "Roman",
+      "gender": "female",
+      "disambiguation": "Gloria Robakowski",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "created": "2026-05-22T17:01:08.679Z",
+  "count": 2,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "9b685bb1-aba7-43e9-b690-832585f2ce1e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Руся",
+      "sort-name": "Rusya",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "українська поп-співачка",
+      "life-span": {
+        "begin": "1968-06-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Russya",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Russya",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Poryvai, Irina Volodymyrivna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ірина Володимирівна Поривай",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ossaoulenko, Irina Volodymyrivna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ірина Володимирівна Осауленко",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fd510f6a-f538-4c2b-9591-8c949685cbe1",
+      "score": 87,
+      "name": "Prussya",
+      "sort-name": "Prussya",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

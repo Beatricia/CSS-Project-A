@@ -1,0 +1,351 @@
+{
+  "created": "2026-05-22T17:34:25.864Z",
+  "count": 43,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "62efbf13-8f4d-4ad2-a2ac-33ddf3caad70",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "فرقة صباح فخري",
+      "sort-name": "Sabah Fakhri Group",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sabah Fakhri Group",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sabah Fakhri Group",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c563f74a-ebde-4c22-a8a1-b82108738046",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 98,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "صباح فخري",
+      "sort-name": "Fakhrī, Ṣabāḥ",
+      "gender": "male",
+      "country": "SY",
+      "area": {
+        "id": "18086faa-7f75-3ca3-a5bb-a77a83d4b200",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Syria",
+        "sort-name": "Syria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "490ee39f-c553-4821-941d-3230fdbd3615",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Aleppo",
+        "sort-name": "Aleppo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "725210c4-3f89-4f49-a508-794e92f700ef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Damascus",
+        "sort-name": "Damascus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000045934908",
+        "0000000372733687"
+      ],
+      "life-span": {
+        "begin": "1933-05-02",
+        "end": "2021-11-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Fakhri, Sabah",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sabah Fakhri",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "فخري, صباح",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "صباح فخري",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "73c593f1-bdec-4625-830e-b65399db4111",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sabah",
+      "sort-name": "Sabah",
+      "gender": "female",
+      "country": "EG",
+      "area": {
+        "id": "8e0551f2-95c2-3cc0-a0a9-f2d344f10667",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Egypt",
+        "sort-name": "Egypt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Egyptian artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7b306696-5a01-4693-9dda-456a21469393",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fakhri Jarrar",
+      "sort-name": "Jarrar, Fakhri",
+      "gender": "male",
+      "country": "JO",
+      "area": {
+        "id": "2e40127e-0b8a-3a01-bfbc-58c7fcdba532",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Jordan",
+        "sort-name": "Jordan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cb3b6ec7-aae1-4e91-a65f-2d07a8192dd0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Amman",
+        "sort-name": "Amman",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1998-09-08",
+        "ended": null
+      }
+    },
+    {
+      "id": "75f51459-d2a3-4778-946a-a424d71ab068",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "صباح",
+      "sort-name": "Sabah",
+      "gender": "female",
+      "country": "LB",
+      "area": {
+        "id": "8138206e-5786-3f86-a53b-19a7303e7419",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Lebanon",
+        "sort-name": "Lebanon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1d9b2b8d-824b-406f-b6c0-02a9ccd312b8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beirut",
+        "sort-name": "Beirut",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1927-11-10",
+        "end": "2014-11-26",
+        "ended": true
+      }
+    },
+    {
+      "id": "1bfed8ec-4633-467c-95f6-fe39faebb040",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nargis Fakhri",
+      "sort-name": "Fakhri, Nargis",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bc7c35f5-1f6a-4b5a-a55b-51f8eb0d712d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Coşkun Sabah",
+      "sort-name": "Sabah, Coşkun",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Türkiye",
+        "sort-name": "Türkiye",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d706a744-5c2d-4df6-b5e5-8017aa8aecd1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Diyarbakır",
+        "sort-name": "Diyarbakır",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000462681980"
+      ],
+      "life-span": {
+        "begin": "1952-10-16",
+        "ended": null
+      }
+    },
+    {
+      "id": "9e5110a7-be87-4dcb-ac12-cc190bb21c53",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Karla Sabah",
+      "sort-name": "Sabah, Karla",
+      "gender": "female",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rio de Janeiro",
+        "sort-name": "Rio de Janeiro",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1962-01-22",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Karla de Jesus do Nascimento Saba",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Karla de Jesus do Nascimento Saba",
+          "locale": "pt",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a6385b93-4dd7-49e0-b8f1-e5b2470752eb",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 41,
+      "name": "Black Sabah",
+      "sort-name": "Black Sabah",
+      "area": {
+        "id": "8474c97f-3d52-4359-aecf-a9e59a177611",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Federacija Bosna i Hercegovina",
+        "sort-name": "Federacija Bosna i Hercegovina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dbc96853-9192-4adc-8d82-9e832963b03d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sarajevo",
+        "sort-name": "Sarajevo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1993",
+        "ended": true
+      }
+    },
+    {
+      "id": "d1da1d5a-1353-49ca-9227-82e96bef69ec",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sabah Kenway",
+      "sort-name": "Kenway, Sabah",
+      "gender": "female",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,985 @@
+{
+  "created": "2026-05-22T17:27:22.196Z",
+  "count": 267,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "55b1ce43-13eb-4a00-acbb-16329003463b",
+      "score": 100,
+      "name": "Avner Strauss",
+      "sort-name": "Strauss, Avner",
+      "life-span": {
+        "begin": "1987",
+        "ended": null
+      }
+    },
+    {
+      "id": "4cb43d82-824e-4034-b03d-1a98f36f6e16",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Richard Strauss",
+      "sort-name": "Strauss, Richard",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "10cad04e-d4b9-4988-a0fa-90dca88b72d3",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Garmisch-Partenkirchen",
+        "sort-name": "Garmisch-Partenkirchen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German composer",
+      "ipis": [
+        "00029753756"
+      ],
+      "isnis": [
+        "0000000120999614"
+      ],
+      "life-span": {
+        "begin": "1864-06-11",
+        "end": "1949-09-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "リヒャルト・シュトラウス",
+          "name": "リヒャルト・シュトラウス",
+          "locale": "ja",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "R. Strauss",
+          "name": "R. Strauss",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richard Straus",
+          "name": "Richard Straus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richard Georg Strauss",
+          "name": "Richard Georg Strauss",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "슈트라우스, 리하르트",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "리하르트 슈트라우스",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Richard",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Richard Strauss",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "R.シュトラウス",
+          "name": "R.シュトラウス",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Richard",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Richard Strauss",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "western classical"
+        },
+        {
+          "count": 1,
+          "name": "lied"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 0,
+          "name": "josephslegende"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "german composer"
+        }
+      ]
+    },
+    {
+      "id": "b49b0519-2474-4c44-8356-a697e99621eb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "אבנר שטראוס",
+      "sort-name": "Strauss, Avner",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00007157700"
+      ],
+      "isnis": [
+        "0000000066950165"
+      ],
+      "life-span": {
+        "begin": "1954-11-06",
+        "ended": null
+      }
+    },
+    {
+      "id": "8255db36-4902-4cf6-8612-0f2b4288bc9a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Johann Strauss",
+      "sort-name": "Strauss, Johann",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9cfef528-fd3f-432e-920d-6d896343587f",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Neubau",
+        "sort-name": "Neubau",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austro-German composer, „Walzerkönig“, Johann Strauss II, Sohn, Jr., the Younger, the Son",
+      "ipis": [
+        "00029752465"
+      ],
+      "isnis": [
+        "0000000121174622"
+      ],
+      "life-span": {
+        "begin": "1825-10-25",
+        "end": "1899-06-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Strauss",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Strauss",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann Baptist II",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Johann Baptist Strauss II",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, (II)",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Strauss (II)",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Штраус, Иоганн, (сын)",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иоганн Штраус (сын)",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, (fils)",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Strauss (fils)",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, (Son)",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Strauss (Son)",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, (Sohn)",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Strauss (Sohn)",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, II",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Strauss II",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann Sebastian",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Sebastian Strauss",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, Younger, the",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Strauss the Younger",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, Jr.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Strauss, Jr.",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヨハン・シュトラウス",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ヨハン・シュトラウス",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヨハン・シュトラウス2世",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ヨハン・シュトラウス2世",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Štrauss, Johans",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johans Štrauss",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauß, Johann",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Strauß",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.シュトラウスII",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "J.シュトラウスII",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "스트라우스",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "스트라우스",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joh",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Joh",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.シュトラウス II",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "J.シュトラウス II",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johan",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johan",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Staruss",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Staruss",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Straus",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Straus",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Straussii",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Straussii",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauß, Johann, Jr.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Strauß Jr.",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Štrauss, J.",
+          "name": "J.Štrauss",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 3,
+          "name": "austrian"
+        },
+        {
+          "count": 4,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "label"
+        },
+        {
+          "count": 3,
+          "name": "european"
+        },
+        {
+          "count": 3,
+          "name": "austrian composer"
+        }
+      ]
+    },
+    {
+      "id": "6272a1c1-3608-49ac-8254-8d6dc5085d12",
+      "score": 45,
+      "name": "Avner",
+      "sort-name": "Avner",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9942ef92-91a2-46f7-aff4-32389df33c9e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Josef Strauss",
+      "sort-name": "Strauss, Josef",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian composer",
+      "ipis": [
+        "00029752857"
+      ],
+      "isnis": [
+        "0000000120314611"
+      ],
+      "life-span": {
+        "begin": "1827-08-20",
+        "end": "1870-07-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Joseph Strauss",
+          "name": "Joseph Strauss",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Josef",
+          "name": "Strauss, Josef",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Josef Strauß",
+          "name": "Josef Strauß",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": -1,
+          "name": "production music"
+        },
+        {
+          "count": 1,
+          "name": "austrian"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "austrian composer"
+        }
+      ]
+    },
+    {
+      "id": "725fb443-0a26-42f8-b4b7-5257b3a61eb5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Johann Strauss",
+      "sort-name": "Strauss, Johann",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Baptist, Vater, Johann Strauss I, Sr., the Elder, the Father",
+      "ipis": [
+        "00029752563"
+      ],
+      "isnis": [
+        "0000000120251200"
+      ],
+      "life-span": {
+        "begin": "1804-03-14",
+        "end": "1849-09-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Strauss",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Strauss",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauß, Johann",
+          "name": "Johann Strauß",
+          "locale": "de",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, Snr.",
+          "name": "Johann Strauss Snr.",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, I",
+          "name": "Johann Strauss I",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, Sr.",
+          "name": "Johann Strauss Sr.",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, J., I",
+          "name": "J. Strauss I",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, pére",
+          "name": "Johann Strauss pére",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, Vater",
+          "name": "Johann Strauss Vater",
+          "locale": "de",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss, Johann, (Vater)",
+          "name": "Johann Strauss (Vater)",
+          "locale": "de",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.シュトラウスI",
+          "name": "J.シュトラウスI",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.シュトラウス",
+          "name": "J.シュトラウス",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Straus Sr.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Straus Sr.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johan Strauss, Sr.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johan Strauss, Sr.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strauss I",
+          "name": "Strauss I",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "austrian"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "austrian composer"
+        }
+      ]
+    },
+    {
+      "id": "e457a318-b659-4467-ac08-544b8faa85f3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Avner Dorman",
+      "sort-name": "Dorman, Avner",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114434385"
+      ],
+      "life-span": {
+        "begin": "1975-04-14",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "d7cad706-e2e6-4974-8766-8143bb848eed",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "אבנר קנר",
+      "sort-name": "Kenner, Avner",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00053464975"
+      ],
+      "isnis": [
+        "0000000108300129"
+      ],
+      "life-span": {
+        "begin": "1952-01-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kenner, Avner",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Avner Kenner",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "dfb86c5e-6a7f-45ff-9b19-f3135c9cd118",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jory Avner",
+      "sort-name": "Avner, Jory",
+      "gender": "male",
+      "area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

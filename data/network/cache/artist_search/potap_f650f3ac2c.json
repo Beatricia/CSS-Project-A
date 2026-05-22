@@ -1,0 +1,349 @@
+{
+  "created": "2026-05-22T16:50:54.052Z",
+  "count": 16,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ea8134e3-6168-4856-8fc8-b13e15538631",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Потап",
+      "sort-name": "Potap",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1981-05-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ПТП",
+          "name": "ПТП",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Slavic Balagan",
+          "name": "Slavic Balagan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Potapenko, Alexei Andreevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Олексій Андрійович Потапенко",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Potapenko, Alexei Andreevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Алексей Андреевич Потапенко",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Патап",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Патап",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "7dd5b87b-eb25-4cdc-b85f-9612f1f15ee0",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 84,
+      "name": "Потап и Настя",
+      "sort-name": "Potap & Nastya",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2006",
+        "end": "2020",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Потап и Настя Каменских",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Потап и Настя Каменских",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "ukraine"
+        }
+      ]
+    },
+    {
+      "id": "bfc4323b-039d-4677-8a21-a40694b029ba",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Eric Potapenko",
+      "sort-name": "Potapenko, Eric",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "member of Gravity [band from Cleveland, OH]",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f9b1486c-94b2-4be3-a616-b383278a1fde",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Aleksey Potapov",
+      "sort-name": "Potapov, Aleksey",
+      "gender": "male",
+      "disambiguation": "guitarist; performs with Anthony Braxton",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "649f2ebb-7ca0-4326-a2f6-d393447526e1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vyacheslav Potapov",
+      "sort-name": "Potapov, Vyacheslav",
+      "gender": "male",
+      "begin-area": {
+        "id": "8ca93644-c3a4-41f4-aba4-39bd13736393",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Almaty",
+        "sort-name": "Almaty",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Vyacheslav Alexandrovich Potapov",
+      "life-span": {
+        "begin": "1974-08-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Potapov, Vyacheslav Alexandrovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Vyacheslav Alexandrovich Potapov",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "42fcb890-a7aa-4dd9-ab7b-293e87a301dd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "name": "Hieromonk Vonifati Potapov",
+      "sort-name": "Potapov, Vonifati, Hieromonk",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1bbcba95-bc6e-47cb-810a-5e187d555b1c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 55,
+      "name": "Pota Potaje",
+      "sort-name": "Potapotaje",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a1fa1000-52e5-48ad-9394-b974a51cb362",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "А. Потапенко",
+      "sort-name": "Potapenko, A.",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "46697434-e636-4bd9-851a-81cbe2e2f8a8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "みぽたぽた",
+      "sort-name": "Mipotapota",
+      "gender": "female",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2000-05-11",
+        "ended": null
+      }
+    },
+    {
+      "id": "3b4b8d78-c151-48da-a71b-af3ebd793cc1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Альберт Потапкин",
+      "sort-name": "Potapkin, Albert",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "32937c3a-0c68-4a38-b302-557cf8c1545f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Artyomovsky",
+        "sort-name": "Artyomovsky",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1968-01-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Potapkin, Albert Anatolievich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Albert Anatolievich Potapkin",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Потапкин, Альберт Анатольевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Альберт Анатольевич Потапкин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

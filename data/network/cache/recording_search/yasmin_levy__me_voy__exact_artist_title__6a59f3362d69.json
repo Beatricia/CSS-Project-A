@@ -1,0 +1,591 @@
+{
+  "created": "2026-05-22T18:34:02.955Z",
+  "count": 5,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "f1a85378-b324-465f-a2ad-af91e809be07",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Me voy",
+      "length": 256000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "8770a041-42f1-3476-9351-b063bf834b09",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "La Judería",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c1f38-e725-30a0-bda6-41bc8f5f320a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La judería",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "317f7561-8228-3ce6-9cce-5f299f3be866",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "cd20b3ee-3d7e-35fd-95f8-0009c9314519",
+                  "number": "2",
+                  "title": "Me voy",
+                  "length": 256253
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "73876006-7253-4e5c-9f66-ad3ed9efac9a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "La Juderia",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c1f38-e725-30a0-bda6-41bc8f5f320a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La judería",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "GB",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "iso-3166-1-codes": [
+                  "GB"
+                ]
+              }
+            }
+          ],
+          "track-count": 9,
+          "media": [
+            {
+              "id": "b67b8d5e-793b-36df-9cd0-3a68f68306ce",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "00c8ecbc-288c-3eec-b915-3e575bc904ef",
+                  "number": "2",
+                  "title": "Me voy",
+                  "length": 253120
+                }
+              ],
+              "track-count": 9,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "19b7de26-e0cf-4ea9-957e-8a0d5aecb4ea",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "La judería",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c1f38-e725-30a0-bda6-41bc8f5f320a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La judería",
+            "primary-type": "Album"
+          },
+          "date": "2005",
+          "country": "US",
+          "release-events": [
+            {
+              "date": "2005",
+              "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "name": "United States",
+                "sort-name": "United States",
+                "iso-3166-1-codes": [
+                  "US"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "ede1394a-4a20-3f7e-a7a2-0004498bbde6",
+              "position": 1,
+              "track": [
+                {
+                  "id": "3e6d98da-a082-33c0-a43d-aef6f4484c2e",
+                  "number": "2",
+                  "title": "Me voy",
+                  "length": 256000
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 1
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "spanish"
+        },
+        {
+          "count": 1,
+          "name": "flamenco"
+        },
+        {
+          "count": 1,
+          "name": "traditional"
+        },
+        {
+          "count": 2,
+          "name": "latin"
+        }
+      ]
+    },
+    {
+      "id": "3ffe4b6c-ec75-4050-be09-e879f726d3c4",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Me Voy",
+      "length": 273000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2023",
+      "releases": [
+        {
+          "id": "31a71386-4e6d-4c31-a002-7916295025c8",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Live At The Tower Of David, Jerusalem",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "0c12ecfa-6a65-4368-86ff-51b72e1c7c3f",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live At The Tower Of David, Jerusalem",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2023",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2023",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 10,
+          "media": [
+            {
+              "id": "3ee037be-e19e-3549-87e3-839d47329b44",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "7baa17b4-85ef-44bc-907b-5445527920b4",
+                  "number": "9",
+                  "title": "Me Voy",
+                  "length": 273000
+                }
+              ],
+              "track-count": 10,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "54e4e984-0fd6-4c25-802e-4ef9a40b4cfd",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Me Voy",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-01-27",
+      "releases": [
+        {
+          "id": "3a77d132-60b0-4f75-aff5-9154fe2b7f57",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 1,
+          "title": "Womadelaide: Sounds of the Planet 2007",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f559eeb5-664b-4772-90cf-2c0fc179276e",
+            "title": "Womadelaide: Sounds of the Planet 2007",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2007-01-27",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2007-01-27",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "e6ac88d9-0e71-3f39-8696-4f7f42190867",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "994db33e-601e-4a49-9d55-c7d60be0d972",
+                  "number": "13",
+                  "title": "Me Voy"
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c8a909a-b5cc-47c4-a4be-cac13ffda29d",
+      "score": 90,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Me voy (I’m Leaving)",
+      "length": 253000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2012-11",
+      "releases": [
+        {
+          "id": "6977cd96-4b1e-4195-886f-97172f87748f",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "The Bright Side of the Road",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "068c72da-b8b9-4af9-885a-865123b3aecb",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "The Bright Side of the Road",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2012-11",
+          "country": "GR",
+          "release-events": [
+            {
+              "date": "2012-11",
+              "area": {
+                "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+                "name": "Greece",
+                "sort-name": "Greece",
+                "iso-3166-1-codes": [
+                  "GR"
+                ]
+              }
+            }
+          ],
+          "track-count": 35,
+          "media": [
+            {
+              "id": "d19e4026-d9d2-3b1a-a830-11a474a8bfab",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b6db4b49-8db5-4f31-9e50-1de17291cad1",
+                  "number": "18",
+                  "title": "Me voy (I’m Leaving)",
+                  "length": 253000
+                }
+              ],
+              "track-count": 18,
+              "track-offset": 17
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ceab9531-db97-41ad-a4cd-9f0aadc9fb96",
+      "score": 87,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Me voy [I Am Leaving]",
+      "length": 256000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2005",
+      "releases": [
+        {
+          "id": "6a3452f5-6d9f-4f74-971a-0bb0f4c560b9",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "La Juderia",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f44c1f38-e725-30a0-bda6-41bc8f5f320a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "La judería",
+            "primary-type": "Album"
+          },
+          "track-count": 15,
+          "media": [
+            {
+              "id": "c7008113-9f85-3b6e-99ba-bfcf443abf1f",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "43230e71-0b63-4c6e-8acb-04a150d72808",
+                  "number": "2",
+                  "title": "Me voy [I Am Leaving]",
+                  "length": 256000
+                }
+              ],
+              "track-count": 15,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Yasmin Levy\" AND recording:\"Me Voy\""
+}

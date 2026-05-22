@@ -1,0 +1,743 @@
+{
+  "created": "2026-05-22T16:47:46.071Z",
+  "count": 643,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "2b075237-6e90-4e78-a4f8-a66170c682fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Генрих Нейгауз",
+      "sort-name": "Neuhaus, Heinrich",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "a90737e3-34a7-4df2-b858-027fa204ee61",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kropyvnytskyi",
+        "sort-name": "Kropyvnytskyi",
+        "life-span": {
+          "begin": "2016-07",
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000115731306"
+      ],
+      "life-span": {
+        "begin": "1888-04-12",
+        "end": "1964-10-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Neuhaus, Harry",
+          "name": "Harry Neuhaus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neuhaus, Heinrich Gustavovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Heinrich Gustavovich Neuhaus",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Нейгауз, Генрих Густавович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Генрих Густавович Нейгауз",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neihaus, Henrich",
+          "name": "Henrich Neihaus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Neuhaus, Heinrich",
+          "name": "Heinrich Neuhaus",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f1f2cb07-7808-4201-b0ec-f6cfe9222efc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Nele Neuhaus",
+      "sort-name": "Neuhaus, Nele",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "38693e55-f5d3-4dc5-99af-debd2a8c1c87",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Münster",
+        "sort-name": "Münster",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German writer",
+      "life-span": {
+        "begin": "1967-06-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Löwenberg, Cornelia",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Cornelia Löwenberg",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Löwenberg, Nele",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nele Löwenberg",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "cbdcee87-59a0-4f05-929b-86a3d91b6dfa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heinrich Schütz",
+      "sort-name": "Schütz, Heinrich",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "13729d23-183d-41a1-bcd6-6af1fb2b63cd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bad Köstritz",
+        "sort-name": "Bad Köstritz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "624f2956-bfdb-43a9-8924-9aadb812ee04",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dresden",
+        "sort-name": "Dresden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000122806150"
+      ],
+      "life-span": {
+        "begin": "1585-10-18",
+        "end": "1672-11-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "H. Schütz",
+          "name": "H. Schütz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Heinrich Schutz",
+          "name": "Heinrich Schutz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sch tz, Heinrich",
+          "name": "Sch tz, Heinrich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Heinrich Schuetz",
+          "name": "Heinrich Schuetz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schütz, Heinrich",
+          "name": "Schütz, Heinrich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "baroque"
+        },
+        {
+          "count": 1,
+          "name": "religious"
+        }
+      ]
+    },
+    {
+      "id": "c1b7296b-0084-481c-8264-4d6f66393838",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "name": "Neuhaus",
+      "sort-name": "Neuhaus",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9d0828bc-702d-4c89-b66f-4954958b8e11",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bert Kaempfert",
+      "sort-name": "Kaempfert, Bert",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ccb257c9-ccb7-45c3-99c9-6a38cb4cc25d",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Barmbek",
+        "sort-name": "Barmbek",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "6696b7a4-693d-4392-81b4-60916aeac21c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Palma",
+        "sort-name": "Palma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German orchestra leader, producer and songwriter",
+      "ipis": [
+        "00015741304",
+        "00076253764"
+      ],
+      "isnis": [
+        "000000011452417X"
+      ],
+      "life-span": {
+        "begin": "1923-10-16",
+        "end": "1980-06-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kämpfert, Berthold Heinrich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Berthold Heinrich Kämpfert",
+          "locale": "de_DE",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "easy listening"
+        },
+        {
+          "count": 0,
+          "name": "sweet and gentle"
+        },
+        {
+          "count": -1,
+          "name": "death by stroke"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "ccb0f744-07c3-456e-a02c-3d3424084fdf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Klaus Neuhaus",
+      "sort-name": "Neuhaus, Klaus",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "29467317-70a8-4cc6-a20c-3b750bb1cb8c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tim Neuhaus",
+      "sort-name": "Neuhaus, Tim",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6b0cfb4a-5c44-4357-8461-c18c011818d0",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Schwelm",
+        "sort-name": "Schwelm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00461361864"
+      ],
+      "life-span": {
+        "begin": "1979-03-07",
+        "ended": null
+      }
+    },
+    {
+      "id": "66197dbc-c16b-4c95-9e1b-cc617783cb8c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heinrich Ignaz Franz von Biber",
+      "sort-name": "Biber, Heinrich Ignaz Franz von",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ed50d1ac-18f9-443c-a2c6-0fb34656e822",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Česká Lípa",
+        "sort-name": "Česká Lípa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f0590317-8b42-4498-a2e4-34cc5562fcf8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salzburg",
+        "sort-name": "Salzburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000120263578"
+      ],
+      "life-span": {
+        "begin": "1644-08-12",
+        "end": "1704-05-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Heinrich Ignaz Franz Biber",
+          "name": "Heinrich Ignaz Franz Biber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Heinrich Ignaz von Biber",
+          "name": "Heinrich Ignaz von Biber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Biber",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Biber",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "H.I.F. Biber",
+          "name": "H.I.F. Biber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henrich Biber",
+          "name": "Henrich Biber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "5953d60c-fd98-47ed-908e-87788b8da47f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heinrich Isaac",
+      "sort-name": "Isaac, Heinrich",
+      "gender": "male",
+      "area": {
+        "id": "2ea52ae1-00ee-406e-a8f1-50fb88554d24",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Flanders",
+        "sort-name": "Flanders",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2ea52ae1-00ee-406e-a8f1-50fb88554d24",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Flanders",
+        "sort-name": "Flanders",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2b397313-0d04-4167-b9a8-914f16935d4a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Firenze",
+        "sort-name": "Firenze",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Flemish Renaissance composer",
+      "ipis": [
+        "00064624478"
+      ],
+      "isnis": [
+        "0000000121005714"
+      ],
+      "life-span": {
+        "begin": "1450",
+        "end": "1517-03-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Heinricus Isaac",
+          "name": "Heinricus Isaac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henricus Isaac",
+          "name": "Henricus Isaac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac, Hendrik",
+          "name": "Hendrik Isaac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaak, Heinrich",
+          "name": "Heinrich Isaak",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "renaissance"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "dutch composer"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "d5efb3bf-4d84-4c70-a461-d8e3cdb4b755",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heinrich Heine",
+      "sort-name": "Heine, Heinrich",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03e75281-c3a3-454a-8d78-c85a5415c49e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Düsseldorf",
+        "sort-name": "Düsseldorf",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German poet",
+      "ipis": [
+        "00013721618"
+      ],
+      "isnis": [
+        "0000000121272257"
+      ],
+      "life-span": {
+        "begin": "1797-12-13",
+        "end": "1856-02-17",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Heinrihs Heine",
+          "name": "Heinrihs Heine",
+          "locale": "lv",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Geine, Genrikh",
+          "name": "Генрих Гейне",
+          "locale": "ru",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Heinriks Heine",
+          "name": "Heinriks Heine",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henri Heine",
+          "name": "Henri Heine",
+          "locale": "fr",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    }
+  ]
+}

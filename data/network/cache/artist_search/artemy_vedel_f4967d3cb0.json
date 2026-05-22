@@ -1,0 +1,305 @@
+{
+  "created": "2026-05-22T16:51:38.269Z",
+  "count": 25,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b05771a9-3e8d-4c37-aed6-5dc289a1500f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Артемий Лукьянович Ведель",
+      "sort-name": "Vedel, Artemy Lukyanovich",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000073277810"
+      ],
+      "life-span": {
+        "begin": "1767",
+        "end": "1808-07-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Artemy Lukyanovich Vedel",
+          "name": "Artemy Lukyanovich Vedel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vedel, Artemy",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Artemy Vedel",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "c204da44-58d5-4238-9512-e707e8b22ae2",
+      "score": 39,
+      "name": "Artemy Cheros",
+      "sort-name": "Cheros, Artemy",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "54c74b5c-779f-4eb4-b770-ef84fd420dc9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Artemy Menshikov",
+      "sort-name": "Menshikov, Artemy",
+      "gender": "male",
+      "disambiguation": "Tenor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "84ab20ea-3c6f-4ef3-b158-f8db7a694ee9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Artemy Shulgin",
+      "sort-name": "Shulgin, Artemy",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "45c04e05-86fc-43e1-9ce4-069065d5ddc2",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 38,
+      "name": "Vedel Leib",
+      "sort-name": "Vedel Leib",
+      "country": "EE",
+      "area": {
+        "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Estonia",
+        "sort-name": "Estonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1999",
+        "end": "2002",
+        "ended": true
+      }
+    },
+    {
+      "id": "d143ead2-1d72-4c21-9f0b-8afc6818c9ba",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Frederikke Vedel",
+      "sort-name": "Vedel, Frederikke",
+      "gender": "female",
+      "country": "DK",
+      "area": {
+        "id": "4757b525-2a60-324a-b060-578765d2c993",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Denmark",
+        "sort-name": "Denmark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Danish singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2ef362a1-af56-4b5b-a378-2d46a856353a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Johannes Vedel",
+      "sort-name": "Vedel, Johannes",
+      "gender": "male",
+      "country": "DK",
+      "area": {
+        "id": "4757b525-2a60-324a-b060-578765d2c993",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Denmark",
+        "sort-name": "Denmark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "98539905-963d-4820-af81-477cd2e4f9e6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hyllested",
+        "sort-name": "Hyllested",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1841-08-13",
+        "end": "1923-05-19",
+        "ended": true
+      }
+    },
+    {
+      "id": "2ce9f992-8d7d-4f06-ae6f-a13a0340b6b4",
+      "score": 38,
+      "name": "Lucas Vedel",
+      "sort-name": "Vedel, Lucas",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "37c30af0-3859-4422-8924-71e3f3b3a514",
+      "type": "Choir",
+      "type-id": "6124967d-7e3a-3eba-b642-c9a2ffb44d94",
+      "score": 38,
+      "name": "De Vedel",
+      "sort-name": "Vedel, De",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3fb6b6c9-ed5d-45e4-8e5a-df6a06ae1b02",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Turnhout",
+        "sort-name": "Turnhout",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian choir",
+      "life-span": {
+        "begin": "1941",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gemengd Koor De Vedel-Turnhout",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Gemengd Koor De Vedel-Turnhout",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6304917b-f936-4868-a8b4-9cfedb901c5c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "name": "Noteless",
+      "sort-name": "Noteless",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Vocalist and musician Artemy Gunbin from Russia",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gunbin, Artemy",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Artemy Gunbin",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1289 @@
+{
+  "created": "2026-05-22T17:26:20.680Z",
+  "count": 17974,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "6b2bb2ce-9d44-48da-9efe-bf4b39a9d6da",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Greilsammer",
+      "sort-name": "Greilsammer, David",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000079950818"
+      ],
+      "life-span": {
+        "begin": "1977-08-10",
+        "ended": null
+      }
+    },
+    {
+      "id": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Bowie",
+      "sort-name": "Bowie, David",
+      "gender": "male",
+      "area": {
+        "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "England",
+        "sort-name": "England",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "61941444-5a83-43e2-ba48-4db7438e0f26",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brixton",
+        "sort-name": "Brixton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English singer‐songwriter",
+      "ipis": [
+        "00003960406",
+        "00015471209"
+      ],
+      "isnis": [
+        "0000000114448576",
+        "0000000458257298"
+      ],
+      "life-span": {
+        "begin": "1947-01-08",
+        "end": "2016-01-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Jones, Davy",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Davy Jones",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": "1965"
+        },
+        {
+          "sort-name": "데이비드 보위",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "데이비드 보위",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ziggy Stardust",
+          "name": "Ziggy Stardust",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Jones",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "David Jones",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jones, David Robert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "David Robert Jones",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дэвид Боуи",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Дэвид Боуи",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Thin White Duke",
+          "name": "The Thin White Duke",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "デビッド・ボウイ",
+          "name": "デビッド・ボウイ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Davis Bowie",
+          "name": "Davis Bowie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bowie",
+          "name": "Bowie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Davie Bowie",
+          "name": "Davie Bowie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Harry the Butcher",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Harry the Butcher",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1970-02-23",
+          "end-date": "1970-02-24"
+        },
+        {
+          "sort-name": "デヴィッド・ボウイ",
+          "name": "デヴィッド・ボウイ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 7,
+          "name": "rock"
+        },
+        {
+          "count": -1,
+          "name": "electronic"
+        },
+        {
+          "count": 10,
+          "name": "pop"
+        },
+        {
+          "count": 12,
+          "name": "alternative rock"
+        },
+        {
+          "count": -1,
+          "name": "80s"
+        },
+        {
+          "count": -1,
+          "name": "experimental"
+        },
+        {
+          "count": 6,
+          "name": "british"
+        },
+        {
+          "count": -1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 5,
+          "name": "new wave"
+        },
+        {
+          "count": 6,
+          "name": "uk"
+        },
+        {
+          "count": -3,
+          "name": "britannique"
+        },
+        {
+          "count": -1,
+          "name": "funk"
+        },
+        {
+          "count": -1,
+          "name": "alternative"
+        },
+        {
+          "count": -1,
+          "name": "soul"
+        },
+        {
+          "count": 22,
+          "name": "glam rock"
+        },
+        {
+          "count": 22,
+          "name": "art rock"
+        },
+        {
+          "count": 3,
+          "name": "classic rock"
+        },
+        {
+          "count": -1,
+          "name": "psychedelic pop"
+        },
+        {
+          "count": -1,
+          "name": "experimental rock"
+        },
+        {
+          "count": 5,
+          "name": "pop rock"
+        },
+        {
+          "count": -1,
+          "name": "blue-eyed soul"
+        },
+        {
+          "count": -3,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "rock music"
+        },
+        {
+          "count": 1,
+          "name": "composers"
+        },
+        {
+          "count": -3,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 3,
+          "name": "actors"
+        },
+        {
+          "count": -1,
+          "name": "post-disco"
+        },
+        {
+          "count": -4,
+          "name": "death by liver cancer"
+        },
+        {
+          "count": -3,
+          "name": "pop/rock"
+        },
+        {
+          "count": 7,
+          "name": "art pop"
+        },
+        {
+          "count": -1,
+          "name": "avant-garde pop"
+        },
+        {
+          "count": -3,
+          "name": "server name"
+        },
+        {
+          "count": -5,
+          "name": "killed by 2016!"
+        },
+        {
+          "count": 0,
+          "name": "permanent wave"
+        },
+        {
+          "count": -2,
+          "name": "aln-sh"
+        },
+        {
+          "count": 1,
+          "name": "rock musicians"
+        },
+        {
+          "count": 1,
+          "name": "arrangers"
+        },
+        {
+          "count": 1,
+          "name": "sound recording executives and producers"
+        },
+        {
+          "count": 1,
+          "name": "glam rock music"
+        },
+        {
+          "count": 1,
+          "name": "glam rock musicians"
+        }
+      ]
+    },
+    {
+      "id": "6c959a76-808e-4a5c-b479-e076ff0d7ae7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Nathan",
+      "sort-name": "Nathan, David",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German voice actor and reciter",
+      "isnis": [
+        "0000000017122603"
+      ],
+      "life-span": {
+        "begin": "1971-03-16",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "b1c53014-ef36-46a8-913c-f1e393f5677b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "מיכאל גריילסאמר",
+      "sort-name": "Greilsammer, Michael",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00595332918"
+      ],
+      "isnis": [
+        "0000000087657857"
+      ],
+      "life-span": {
+        "begin": "1981-05-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Michael Greilsammer",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Michael Greilsammer",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b753584a-3664-46f8-bb84-f6deed133c80",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Arnold",
+      "sort-name": "Arnold, David",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fce4afff-8d49-4f1f-977a-10edbe839331",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Luton",
+        "sort-name": "Luton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English score composer",
+      "ipis": [
+        "00162353488"
+      ],
+      "isnis": [
+        "0000000109218186"
+      ],
+      "life-span": {
+        "begin": "1962-01-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "D. Arnold",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "D. Arnold",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arnold, David George",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "David George Arnold",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1962-01-23",
+          "end-date": null
+        },
+        {
+          "sort-name": "David George",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "David George",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "George Arnold",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "George Arnold",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arnold",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Arnold",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arnold, David",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "David Arnold",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Davyd Arnold",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Davyd Arnold",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dave Arnold",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Dave Arnold",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Armold",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "David Armold",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Anrold",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "David Anrold",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Arnodl",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "David Arnodl",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Arnolt",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "David Arnolt",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Arnod",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "David Arnod",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Arold",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "David Arold",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "cinematic classical"
+        },
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "classical"
+        },
+        {
+          "count": 3,
+          "name": "british"
+        },
+        {
+          "count": 3,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        }
+      ]
+    },
+    {
+      "id": "302bd7b9-d012-4360-897a-93b00c855680",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Guetta",
+      "sort-name": "Guetta, David",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00147530185",
+        "00150147408"
+      ],
+      "isnis": [
+        "0000000078391751"
+      ],
+      "life-span": {
+        "begin": "1967-11-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "David Guette",
+          "name": "David Guette",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Davie Guetta",
+          "name": "Davie Guetta",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Guetta, David",
+          "name": "デヴィッド・ゲッタ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Guetta, Pierre David",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Pierre David Guetta",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Ghetta",
+          "name": "David Ghetta",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "electronic"
+        },
+        {
+          "count": 5,
+          "name": "dance"
+        },
+        {
+          "count": 8,
+          "name": "house"
+        },
+        {
+          "count": 0,
+          "name": "seen live"
+        },
+        {
+          "count": 2,
+          "name": "electropop"
+        },
+        {
+          "count": 0,
+          "name": "eurodance"
+        },
+        {
+          "count": 1,
+          "name": "tech house"
+        },
+        {
+          "count": 8,
+          "name": "dance-pop"
+        },
+        {
+          "count": 0,
+          "name": "progressive house"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 5,
+          "name": "electro house"
+        },
+        {
+          "count": 0,
+          "name": "french house"
+        },
+        {
+          "count": -1,
+          "name": "edm"
+        },
+        {
+          "count": 0,
+          "name": "dance and electronica"
+        },
+        {
+          "count": 2,
+          "name": "future rave"
+        },
+        {
+          "count": 1,
+          "name": "festival progressive house"
+        }
+      ]
+    },
+    {
+      "id": "44f85621-f8db-45dd-93de-e9f069d28d7d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Terry Pratchett",
+      "sort-name": "Pratchett, Terry",
+      "gender": "male",
+      "area": {
+        "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "England",
+        "sort-name": "England",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bf0b048c-3e58-4a08-bcaf-23cc4119c5ae",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beaconsfield",
+        "sort-name": "Beaconsfield",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "4b24e2f0-f21e-48f7-9c78-2e3750bf8bb4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salisbury",
+        "sort-name": "Salisbury",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121401960"
+      ],
+      "life-span": {
+        "begin": "1948-04-28",
+        "end": "2015-03-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Pratchett, Terence David John",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Terence David John Pratchett",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Terry Prattchet",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Terry Prattchet",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Terry Pratchet",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Terry Pratchet",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Terry Prachett",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Terry Prachett",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        },
+        {
+          "count": 0,
+          "name": "nation"
+        },
+        {
+          "count": 2,
+          "name": "author"
+        },
+        {
+          "count": 1,
+          "name": "united kingdom"
+        },
+        {
+          "count": 0,
+          "name": "_edit"
+        },
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        },
+        {
+          "count": 2,
+          "name": "audiobook"
+        },
+        {
+          "count": 2,
+          "name": "audio drama"
+        },
+        {
+          "count": 2,
+          "name": "fantasy"
+        }
+      ]
+    },
+    {
+      "id": "5358d941-96d2-436e-a22b-9936977520bd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "שמרית גריילסאמר",
+      "sort-name": "Greilsammer, Shimrit",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00665430736"
+      ],
+      "life-span": {
+        "begin": "1979-05-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "שמרית דרור גריילסאמר",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "שמרית דרור גריילסאמר",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1dce970e-34bc-48b2-ab51-48d87544a4c2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Gilmour",
+      "sort-name": "Gilmour, David",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "11ba7f4f-3fb9-4b4b-a72f-ab1cd9c37d99",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cambridge",
+        "sort-name": "Cambridge",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Pink Floyd",
+      "ipis": [
+        "00041695577"
+      ],
+      "isnis": [
+        "0000000114532786"
+      ],
+      "life-span": {
+        "begin": "1946-03-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "デヴィッド・ギルモア",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "デヴィッド・ギルモア",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gilmour",
+          "name": "Gilmour",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gilmour, David Jon",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "David Jon Gilmour",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Gilmore",
+          "name": "David Gilmore",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dave Gilmour",
+          "name": "Dave Gilmour",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "D. Gilmour",
+          "name": "D. Gilmour",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 5,
+          "name": "rock"
+        },
+        {
+          "count": 8,
+          "name": "progressive rock"
+        },
+        {
+          "count": 2,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 2,
+          "name": "hard rock"
+        },
+        {
+          "count": 6,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 8,
+          "name": "blues rock"
+        },
+        {
+          "count": 5,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "classic rock"
+        },
+        {
+          "count": 2,
+          "name": "ambient dub"
+        },
+        {
+          "count": 3,
+          "name": "soft rock"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "prog related"
+        }
+      ]
+    },
+    {
+      "id": "d4659efb-b8eb-4f03-95e9-f69ce35967a9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "David Byrne",
+      "sort-name": "Byrne, David",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a70f24b-1263-4341-8d70-17b8df84154f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dumbarton",
+        "sort-name": "Dumbarton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Talking Heads",
+      "ipis": [
+        "00030234438"
+      ],
+      "isnis": [
+        "0000000110320014"
+      ],
+      "life-span": {
+        "begin": "1952-05-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Byrne, D",
+          "name": "D Byrne",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "David Bryne",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "David Bryne",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "post-punk"
+        },
+        {
+          "count": 1,
+          "name": "vocals"
+        },
+        {
+          "count": 3,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "experimental rock"
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "crossover prog"
+        },
+        {
+          "count": 1,
+          "name": "rock and indie"
+        },
+        {
+          "count": 2,
+          "name": "art pop"
+        }
+      ]
+    }
+  ]
+}

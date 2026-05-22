@@ -1,0 +1,646 @@
+{
+  "created": "2026-05-22T16:56:06.071Z",
+  "count": 802,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "34ca6f4b-365f-4dc5-a8cf-5f39a35de42b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dajos Béla",
+      "sort-name": "Béla, Dajos",
+      "gender": "male",
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000368403175"
+      ],
+      "life-span": {
+        "begin": "1897-12-19",
+        "end": "1978-12-05",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "cfb309bf-ba64-454a-95b8-0aae3d74d9ae",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 83,
+      "name": "Tanzorchester Dajos Bela",
+      "sort-name": "Bela, Dajos, Tanzorchester",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Orchestre Dajos Béla",
+          "name": "Orchestre Dajos Béla",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dajós Béla",
+          "name": "Dajós Béla & His Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Künstler Orchester Dajos Bela",
+          "name": "Künstler Orchester Dajos Bela",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a997b681-f143-4f91-86de-8325db25d9a2",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 69,
+      "name": "Künstler-Orchester Dajos Bela",
+      "sort-name": "Bela, Dajos Künstler-Orchester",
+      "area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fd14da1b-3c2d-4cc8-9ca6-fc8c62ce6988",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bartók Béla",
+      "sort-name": "Bartók, Béla",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "77a8dbf7-0597-4073-a3e5-ec58a7a6f9ed",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sânnicolau Mare",
+        "sort-name": "Sânnicolau Mare",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "ipis": [
+        "00002231946"
+      ],
+      "isnis": [
+        "0000000121429277"
+      ],
+      "life-span": {
+        "begin": "1881-03-25",
+        "end": "1945-09-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bartók, Béla",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Béla Bartók",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bartók",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bartók",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bartók, B.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "B. Bartók",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bartóck, Bela",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bela Bartóck",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bartok, Béla",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Béla Bartok",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bartok, Bela",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bela Bartok",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bartòk",
+          "name": "Bartòk",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "B.Bartok",
+          "name": "B.Bartok",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bartok, Bela (1881-1945)",
+          "name": "Bartok, Bela (1881-1945)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bartok",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bartok",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 7,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "hungarian"
+        },
+        {
+          "count": 0,
+          "name": "opera"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "hungary"
+        },
+        {
+          "count": 1,
+          "name": "20th century"
+        },
+        {
+          "count": 1,
+          "name": "modern classical"
+        },
+        {
+          "count": -1,
+          "name": "concerto for orchestra"
+        },
+        {
+          "count": 1,
+          "name": "hungarian composer"
+        },
+        {
+          "count": 1,
+          "name": "concerto pour orchestre"
+        },
+        {
+          "count": 1,
+          "name": "magyar"
+        },
+        {
+          "count": 1,
+          "name": "concerto for orchestra / peacock"
+        }
+      ]
+    },
+    {
+      "id": "e1a889b7-5e45-447f-baa0-b9c6cbc0d39f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Béla Fleck",
+      "sort-name": "Fleck, Béla",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00144890850"
+      ],
+      "isnis": [
+        "0000000114681677"
+      ],
+      "life-span": {
+        "begin": "1958-07-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bela Fleck",
+          "name": "Bela Fleck",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Béla Anton Leoš Fleck",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Béla Anton Leoš Fleck",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "bluegrass"
+        },
+        {
+          "count": 2,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 3,
+          "name": "folk"
+        }
+      ]
+    },
+    {
+      "id": "85773020-07a1-46a4-8436-cc7ae8bf698f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bela B.",
+      "sort-name": "Bela B.",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00138290765"
+      ],
+      "isnis": [
+        "0000000078472105"
+      ],
+      "life-span": {
+        "begin": "1962-12-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bela B. Felsenheimer",
+          "name": "Bela B. Felsenheimer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bela Barney Felsenheimer",
+          "name": "Bela Barney Felsenheimer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 0,
+          "name": "germany"
+        },
+        {
+          "count": 1,
+          "name": "actor"
+        },
+        {
+          "count": 2,
+          "name": "punk"
+        },
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "4e0260c7-9c0a-44b6-b856-bcaa092616f8",
+      "score": 37,
+      "name": "Béla",
+      "sort-name": "Béla",
+      "area": {
+        "id": "1b1a6c07-d9bd-47d8-b1ee-772f53ec6e79",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Western Australia",
+        "sort-name": "Western Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Western Australian musician",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "be13f01a-1953-4a2d-b7fe-90e2d2096f86",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Béla Bánfalvi",
+      "sort-name": "Bánfalvi, Béla",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist, concert master of Budapest strings",
+      "isnis": [
+        "0000000063013336"
+      ],
+      "life-span": {
+        "begin": "1954-02-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Banfalvi, Bela",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bela Banfalvi",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Banvalvi, B.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "B. Banvalvi",
+          "locale": "de_DE",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "4c12eda2-e3d7-4414-b479-9568f1a9dbc7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Béla Drahos",
+      "sort-name": "Drahos, Béla",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "14c481bf-ffb4-453f-a40f-d631b6497cac",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kaposvár",
+        "sort-name": "Kaposvár",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "flutist and conductor",
+      "isnis": [
+        "000000011086154X"
+      ],
+      "life-span": {
+        "begin": "1955-04-14",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "flute"
+        }
+      ]
+    },
+    {
+      "id": "55ba86d9-5d72-4b5a-9af7-d80704eec031",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "name": "bela",
+      "sort-name": "bela",
+      "area": {
+        "id": "aa03e165-4c73-4959-91c0-a99f9fa8ecab",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Seoul",
+        "sort-name": "Seoul",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Seoul based, experimental/deconstructed club producer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "bela",
+          "name": "bela",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,473 @@
+{
+  "created": "2026-05-22T17:01:23.934Z",
+  "count": 214,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "55a4085c-be04-4eb3-8b5e-70dc03ae0c8d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Valeriy Sokolov",
+      "sort-name": "Sokolov, Valeriy",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fc617bbb-6cae-4e33-ae25-bf5a6cb7d7d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kharkiv",
+        "sort-name": "Kharkiv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "isnis": [
+        "0000000002009173"
+      ],
+      "life-span": {
+        "begin": "1986-09-22",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "violinist"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian violinist"
+        }
+      ]
+    },
+    {
+      "id": "565a26d9-0bc9-43f6-9a8d-ba3f1ec7a194",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Валерий Соколов",
+      "sort-name": "Sokolov, Valeriy",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Серый, Валерий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Валерий Серый",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Соколов, Валерий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Валерий Соколов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Соколов, Валерий Павлович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Валерий Павлович Соколов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "26c56f08-8c68-416f-b581-93fb8bb06378",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 42,
+      "name": "Sokolov",
+      "sort-name": "Sokolov",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2009",
+        "ended": null
+      }
+    },
+    {
+      "id": "e26a0b18-a540-4ddf-b2bc-9305b3facf76",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tanya Eby",
+      "sort-name": "Eby, Tanya",
+      "gender": "female",
+      "disambiguation": "narrator",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sokolov, Tatiana",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tatiana Sokolov",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "narrator"
+        },
+        {
+          "count": 1,
+          "name": "performer"
+        }
+      ]
+    },
+    {
+      "id": "1928a9f4-7ce0-4c68-855c-85410c5d06a7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Григорий Соколов",
+      "sort-name": "Sokolov, Grigory",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000109859194"
+      ],
+      "life-span": {
+        "begin": "1950-04-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Grigory Lipmanovich Sokolov",
+          "name": "Grigory Lipmanovich Sokolov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sokolov, Grigory",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Grigory Sokolov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sokolov, Grigori",
+          "name": "Grigori Sokolov",
+          "locale": "nl",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sokolov, Grigory",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Grigory Sokolov",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian pianist"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "5a133684-d957-452f-8ca8-ac7d143737a4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lisa Sokolov",
+      "sort-name": "Sokolov, Lisa",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "37e243ec-44ce-44d5-aafc-516a2e58c301",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Manhasset",
+        "sort-name": "Manhasset",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055215608"
+      ],
+      "life-span": {
+        "begin": "1954-09-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "b7337a74-e955-4a39-8e1f-28549790272a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "name": "Valeriy Kuchin",
+      "sort-name": "Valeriy Kuchin",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4a07ca67-39d8-4f3a-a7b7-aac69291223b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Валерий Меладзе",
+      "sort-name": "Meladze, Valeriy",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e95abe3d-0f73-42b8-a023-5307cd71ca23",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Batumi",
+        "sort-name": "Batumi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000406594954"
+      ],
+      "life-span": {
+        "begin": "1965-06-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Меладзе, Валерий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Валерий Меладзе",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ვალერი მელაძე",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ვალერი მელაძე",
+          "locale": "ka",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Âàëåðèé Ìåëàäçå",
+          "name": "Âàëåðèé Ìåëàäçå",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Valerii Meladze",
+          "name": "Valerii Meladze",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Valery Meladze",
+          "name": "Valery Meladze",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "V. Meladze",
+          "name": "V. Meladze",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "александр горячев"
+        },
+        {
+          "count": 2,
+          "name": "russian"
+        }
+      ]
+    },
+    {
+      "id": "44f4e410-20dc-44eb-a5dd-f8afac553efe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "name": "Valeriy Antonyuk",
+      "sort-name": "Antonyuk, Valeriy",
+      "ipis": [
+        "00560260380"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2b9d5e4c-225a-4b98-b9a4-1abfdfeaf1b6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Valeriy Khilobok",
+      "sort-name": "Khilobok, Valeriy",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "sound designer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Valeriy Khylobok",
+          "name": "Valeriy Khylobok",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

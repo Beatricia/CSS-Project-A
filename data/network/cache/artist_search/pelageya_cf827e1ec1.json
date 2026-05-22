@@ -1,0 +1,67 @@
+{
+  "created": "2026-05-22T17:06:37.467Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "48514fdf-3669-4a52-b9c6-e0a808524404",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 100,
+      "name": "Пелагея",
+      "sort-name": "Pelagea",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "band",
+      "life-span": {
+        "begin": "2000-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Пелагея",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Пелагея",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pelageja",
+          "name": "Pelageja",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pelageya",
+          "name": "Pelageya",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk rock"
+        }
+      ]
+    }
+  ]
+}

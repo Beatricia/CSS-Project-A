@@ -1,0 +1,376 @@
+{
+  "created": "2026-05-22T17:09:37.601Z",
+  "count": 438,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8b95d10e-bc87-4aab-9404-39941f76bcb8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Irina",
+      "sort-name": "Irina",
+      "gender": "female",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e6a8e85d-c15d-4384-972a-5fa95feeab62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kauhajoki",
+        "sort-name": "Kauhajoki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Finnish singer Irina Saari",
+      "ipis": [
+        "00464011391"
+      ],
+      "life-span": {
+        "begin": "1975-05-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Saari, Irina Joanna Marika",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Irina Joanna Marika Saari",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "2008",
+          "end-date": null
+        },
+        {
+          "sort-name": "Lahtinen, Irina Joanna Marika",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Irina Joanna Marika Lahtinen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1975-05-10",
+          "end-date": "2008"
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative pop"
+        },
+        {
+          "count": 1,
+          "name": "teen pop"
+        },
+        {
+          "count": 1,
+          "name": "alternative/indie rock"
+        }
+      ]
+    },
+    {
+      "id": "025bafc7-5fd3-4d14-beb2-c44d30f596e6",
+      "score": 95,
+      "name": "Roman Miroshnichenko",
+      "sort-name": "Roman Miroshnichenko",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f77d4aad-f895-4e1e-bb42-b1a4415f8049",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Julia Miroshnichenko",
+      "sort-name": "Miroshnichenko, Julia",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "34544d83-4f3d-4ccd-83b6-81d768107d0f",
+      "score": 93,
+      "name": "Alexander Miroshnichenko",
+      "sort-name": "Alexander Miroshnichenko",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "trance"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "electronica"
+        }
+      ]
+    },
+    {
+      "id": "201fab69-b538-4732-8ba4-c0cd29cb8c8d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Irina",
+      "sort-name": "Irina",
+      "gender": "female",
+      "area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "singer Irina Shapiro",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Shapiro, Irina",
+          "name": "Irina Shapiro",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "53f46cee-f763-4a2b-988b-16ade8e05c5c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Irina",
+      "sort-name": "Irina",
+      "gender": "female",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Dutch singer; children's music",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "169bb5ee-bebd-4511-87a0-58fe99b1dbb6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Irina",
+      "sort-name": "Irina",
+      "gender": "female",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian artist Irina Marschinkowski",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Marschinkowski, Irina",
+          "name": "Irina Marschinkowski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "62894b73-a176-4ab4-855c-b385953e5009",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Irina",
+      "sort-name": "Irina",
+      "gender": "female",
+      "country": "AO",
+      "area": {
+        "id": "2afd5d6a-5fee-3836-8783-44d0ec9ac115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Angola",
+        "sort-name": "Angola",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "91c01e7e-c0c5-463a-a8d3-1eba77e1fdff",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Luanda",
+        "sort-name": "Luanda",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Angolan singer Irina D. Franca",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Franca, Irina D.",
+          "name": "Irina D. Franca",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Franca, Irina Dieje Jardim",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Irina Dieje Jardim Franca",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "183123af-a61f-481c-8abf-3bab8b527507",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Irina",
+      "sort-name": "Irina",
+      "gender": "female",
+      "disambiguation": "unknown feat. artist on track 'Sex With U'",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "20d7e82a-c880-4aa9-9366-179fc514c6bf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Irina Mejoueva",
+      "sort-name": "Mejoueva, Irina",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fa807dcd-dc30-4c25-bf58-d905dfc6ba9d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nizhny Novgorod",
+        "sort-name": "Nizhny Novgorod",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian pianist",
+      "isnis": [
+        "0000000374712871"
+      ],
+      "life-span": {
+        "begin": "1975",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "russian pianist"
+        }
+      ]
+    }
+  ]
+}

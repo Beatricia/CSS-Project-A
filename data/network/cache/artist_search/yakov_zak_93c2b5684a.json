@@ -1,0 +1,475 @@
+{
+  "created": "2026-05-22T16:51:15.122Z",
+  "count": 3136,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f910ac7e-3fa8-4de0-8161-af94b168dc18",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Яков Зак",
+      "sort-name": "Zak, Yakov",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000055559777"
+      ],
+      "life-span": {
+        "begin": "1913-11-20",
+        "end": "1976-06-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Zak, Jakow",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jakow Zak",
+          "locale": "pl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yakov Zack",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Yakov Zack",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jakob Zak",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jakob Zak",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sak, Jakow",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jakow Sak",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sak, Jakow Israilewitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jakow Israilewitsch Sak",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zak, Yakov",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yakov Zak",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Зак, Яков",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Яков Зак",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Зак, Яков Израилевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Яков Израилевич Зак",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zak, Jakov",
+          "name": "Jakov Zak",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "teacher"
+        }
+      ]
+    },
+    {
+      "id": "fa1af350-1798-42fe-a6b4-f680b602c59f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "name": "Yakov",
+      "sort-name": "Yakov",
+      "disambiguation": "drum and bass",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b9c7f17a-5c04-42a3-a243-1ec4f759366e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yakov Kreizberg",
+      "sort-name": "Kreizberg, Yakov",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "6f26d528-4467-3ecb-b105-10daf3466b40",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Monaco",
+        "sort-name": "Monaco",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000120260510"
+      ],
+      "life-span": {
+        "begin": "1959-10-24",
+        "end": "2011-03-15",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "american conductor"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "7661a689-2915-4eb7-85a7-6d15e4faf311",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 54,
+      "name": "Yakov McIntosh",
+      "sort-name": "McIntosh, Yakov",
+      "area": {
+        "id": "4ce8712b-c3e9-4373-a5d6-87f0b2afd313",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Derby",
+        "sort-name": "Derby",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4ce8712b-c3e9-4373-a5d6-87f0b2afd313",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Derby",
+        "sort-name": "Derby",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2023-08-01",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "shoegaze"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        }
+      ]
+    },
+    {
+      "id": "56eac434-401c-44ae-ac80-ce9698f9d68b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yakov Kasman",
+      "sort-name": "Kasman, Yakov",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b517af7e-c6ac-4ae9-aa4a-97bfc471a4a5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oryol",
+        "sort-name": "Oryol",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000053350224"
+      ],
+      "life-span": {
+        "begin": "1967-02-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "0bc50b7b-8998-428c-9242-25eb3075477f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zak",
+      "sort-name": "Zak",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American RnB Singer/ Songwriter",
+      "life-span": {
+        "begin": "1994-05-02",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "music"
+        },
+        {
+          "count": 1,
+          "name": "rnb singer"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        }
+      ]
+    },
+    {
+      "id": "ff3a4436-07d5-46eb-a13e-b61d5ef117df",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 53,
+      "name": "Zak",
+      "sort-name": "Zak",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "80s UK pop duo \"My World\"",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c78c14d0-b09d-4be2-a7aa-aa788773f867",
+      "score": 53,
+      "name": "Zak",
+      "sort-name": "Zak",
+      "disambiguation": "downtempo vocalist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "527622b7-c432-4c9c-80ac-828c2ad60340",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Z.A.K",
+      "sort-name": "Z.A.K",
+      "gender": "male",
+      "area": {
+        "id": "b6d4c3a1-a8ff-4d8e-83dc-f40a47ffc034",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nîmes",
+        "sort-name": "Nîmes",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "producer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "979dcf6b-8498-471b-af19-0cf0a875091f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zak",
+      "sort-name": "Zak",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Texas rapper Zachary Wallace",
+      "ipis": [
+        "00444830458"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Wallace, Zachary",
+          "name": "Zachary Wallace",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wallace, Zachary Anson",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Zachary Anson Wallace",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

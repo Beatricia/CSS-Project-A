@@ -1,0 +1,72 @@
+{
+  "created": "2026-05-22T16:46:48.021Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8fbc8613-30f3-4cfe-a766-701a9449c34b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "TAYANNA",
+      "sort-name": "TAYANNA",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6a4bae17-16cc-4bde-ae79-064eddd42d6d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chernivtsi",
+        "sort-name": "Chernivtsi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000466018369"
+      ],
+      "life-span": {
+        "begin": "1984-09-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Reshetnyak, Tatyana",
+          "name": "Татьяна Решетняк",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Reshetnyak, Tetyana",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Тетяна Решетняк",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "ukraine"
+        }
+      ]
+    }
+  ]
+}

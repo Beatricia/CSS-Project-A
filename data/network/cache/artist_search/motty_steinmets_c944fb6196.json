@@ -1,0 +1,367 @@
+{
+  "created": "2026-05-22T17:25:54.551Z",
+  "count": 13,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "53b3b4f4-d196-4b2d-9ace-3b0c2c8d086b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "מוטי שטיינמץ",
+      "sort-name": "Steinmetz, Motty",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a0bb6d21-173e-4fa8-b0a3-f6ac00470973",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rehovot",
+        "sort-name": "Rehovot",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1992-07-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Motty Steinmetz",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Motty Steinmetz",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Steinmets, Motty",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Motty Steinmets",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Steinmetz, Yisrael Baruch Mordechai",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yisrael Baruch Mordechai Steinmetz",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "מוטי שטיינמץ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "מוטי שטיינמץ",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "orthodox pop"
+        }
+      ]
+    },
+    {
+      "id": "a978157f-164e-4f84-b2a3-f641ce3378f8",
+      "score": 65,
+      "name": "Motty",
+      "sort-name": "Motty",
+      "disambiguation": "feat. artist for Mike Steva",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a9e05a77-707c-4a78-af73-76e5232b3918",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "name": "MOTTY",
+      "sort-name": "MOTTY",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Touhou arranger",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "195e3b45-2961-4ca0-a980-b2fc49fa0b29",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Motty Ilowitz",
+      "sort-name": "Ilowitz, Motty",
+      "gender": "male",
+      "area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "01257132077"
+      ],
+      "life-span": {
+        "begin": "1988",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "hasidic"
+        },
+        {
+          "count": 1,
+          "name": "orthodox jewish"
+        }
+      ]
+    },
+    {
+      "id": "6ab9d592-362a-4f6b-965d-7d446f967c3e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Motty Atias",
+      "sort-name": "Atias, Motty",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "אטיאס, מאטי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "מאטי אטיאס",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b5bf6004-d82c-4366-8f3c-c14fcab2b9c0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Motty Breier",
+      "sort-name": "Breier, Motty",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2610a957-3f8a-446f-a547-5bc28d931f98",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Motty Altman",
+      "sort-name": "Altman, Motty",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "38488c78-f168-4a15-95b9-1e6c9b44bea0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Motty Elefant",
+      "sort-name": "Elefant, Motty",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "768e5ea3-3c83-45b0-9ac9-b3ec92f1b968",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "מוטי ויזל",
+      "sort-name": "Vizel, Motty",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "54725299-e093-4515-9acd-30c63d336a11",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bnei Brak",
+        "sort-name": "Bnei Brak",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1991",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Vizel, Motty",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Motty Vizel",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Motti Weisel",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Motti Weisel",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "אהרן הלוי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "אהרן הלוי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ויזל, מוטי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "מוטי ויזל",
+          "locale": "he_IL",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e7308459-2fa5-4c51-b906-b355533676d0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "מוטי גרינבוים",
+      "sort-name": "Greenboim, Motty",
+      "gender": "male",
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2008",
+        "ended": null
+      }
+    }
+  ]
+}

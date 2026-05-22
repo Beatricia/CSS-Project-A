@@ -1,0 +1,806 @@
+{
+  "created": "2026-05-22T16:51:31.413Z",
+  "count": 2353,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "98d117af-5a3f-44e9-850d-31bfe2584d6e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Самуил Майкапар",
+      "sort-name": "Maykapar, Samuel",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e4821a19-9f12-44ef-9b4c-87e6488b77b7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kherson",
+        "sort-name": "Kherson",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000110694657"
+      ],
+      "life-span": {
+        "begin": "1867-12-18",
+        "end": "1938-05-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Майкапар, Самуил",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Самуил Майкапар",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Samuil Maikapar",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Samuil Maikapar",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Samuil Maykapar",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Samuil Maykapar",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maykapar, Samuel",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Samuel Maykapar",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maikapars, S.",
+          "name": "S. Maikapars",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "30dc18fb-6465-4415-9ade-e2e959d75143",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Maykapar",
+      "sort-name": "Maykapar, Alexander",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1946",
+        "ended": null
+      }
+    },
+    {
+      "id": "74ed34ce-ee95-44e9-a87d-4d2d5056c24a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Samuel Barber",
+      "sort-name": "Barber, Samuel",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "18bb1f84-6c29-4311-978c-3d33f995b11b",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "West Chester",
+        "sort-name": "West Chester",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2c20ec7d-d913-4374-9b52-5d0127145c14",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Lenox Hill",
+        "sort-name": "Lenox Hill",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American composer",
+      "ipis": [
+        "00002031956"
+      ],
+      "isnis": [
+        "0000000110330095"
+      ],
+      "life-span": {
+        "begin": "1910-03-09",
+        "end": "1981-01-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Barber, Samuel Osmond II",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Samuel Osmond Barber II",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Barber",
+          "name": "Barber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Samuel Barber (1910-1981)",
+          "name": "Samuel Barber (1910-1981)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "バーバー",
+          "name": "バーバー",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 1,
+          "name": "20th century"
+        },
+        {
+          "count": 1,
+          "name": "american composer"
+        },
+        {
+          "count": 1,
+          "name": "modern classical"
+        }
+      ]
+    },
+    {
+      "id": "36ef3857-5be4-4ee0-9e8b-3280a9913a67",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "許冠傑",
+      "sort-name": "Hui, Samuel",
+      "gender": "male",
+      "country": "HK",
+      "area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "689306d8-34dd-4081-afa6-88c9d49117e2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Guangzhou",
+        "sort-name": "Guangzhou",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00205346989"
+      ],
+      "isnis": [
+        "0000000114439178"
+      ],
+      "life-span": {
+        "begin": "1948-09-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "許冠傑",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "許冠傑",
+          "locale": "zh_Hant",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hui, Kwun Kit",
+          "name": "Hui Kwun Kit",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hui, Sam",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sam Hui",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hui, Samuel",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Samuel Hui",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "³\\«a³Ç",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "³\\«a³Ç",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "许冠杰",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "许冠杰",
+          "locale": "zh_Hans",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 3,
+          "name": "chinese"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "actor"
+        },
+        {
+          "count": 1,
+          "name": "comedian"
+        },
+        {
+          "count": 1,
+          "name": "1980s"
+        },
+        {
+          "count": 1,
+          "name": "1990s"
+        },
+        {
+          "count": 1,
+          "name": "1970s"
+        },
+        {
+          "count": 1,
+          "name": "2000s"
+        },
+        {
+          "count": 1,
+          "name": "folk pop"
+        },
+        {
+          "count": 2,
+          "name": "cantopop"
+        },
+        {
+          "count": 1,
+          "name": "1970s hong kong debut"
+        },
+        {
+          "count": 1,
+          "name": "hong kong cultural icon"
+        },
+        {
+          "count": 1,
+          "name": "hong kong actor"
+        }
+      ]
+    },
+    {
+      "id": "e17402c6-7517-460f-a9a8-f06c7e883d4c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Samuel Sagan",
+      "sort-name": "Sagan, Samuel",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sam Cooke",
+      "sort-name": "Cooke, Sam",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "82a4e867-19e7-4968-9031-10aaf1c6895b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Clarksdale",
+        "sort-name": "Clarksdale",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American singer and songwriter, “King of Soul”",
+      "ipis": [
+        "00006711415"
+      ],
+      "isnis": [
+        "0000000073649493"
+      ],
+      "life-span": {
+        "begin": "1931-01-22",
+        "end": "1964-12-11",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sam Cook",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sam Cook",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cook, Samuel",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Samuel Cook",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "vocal"
+        },
+        {
+          "count": 8,
+          "name": "soul"
+        },
+        {
+          "count": 3,
+          "name": "gospel"
+        },
+        {
+          "count": 1,
+          "name": "southern soul"
+        },
+        {
+          "count": 1,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 1,
+          "name": "rhythm and blues"
+        },
+        {
+          "count": 0,
+          "name": "soul and reggae"
+        },
+        {
+          "count": 1,
+          "name": "pop soul"
+        },
+        {
+          "count": 1,
+          "name": "standards"
+        },
+        {
+          "count": 1,
+          "name": "traditional pop"
+        },
+        {
+          "count": -1,
+          "name": "death by gun"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "black gospel"
+        },
+        {
+          "count": 1,
+          "name": "early r&b"
+        },
+        {
+          "count": 2,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 1,
+          "name": "classic soul"
+        },
+        {
+          "count": 0,
+          "name": "aln-sh"
+        }
+      ]
+    },
+    {
+      "id": "7f5d390a-6898-44c3-acc0-1c340879c746",
+      "score": 48,
+      "name": "Samuia Moiseevich Maykapar",
+      "sort-name": "Maykapar, Samuia Moiseevich",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f053ae01-dae6-4aae-9883-e8c279fdbef4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Seal",
+      "sort-name": "Seal",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e34a8936-9612-4d35-b964-495d24e5cb6b",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Paddington",
+        "sort-name": "Paddington",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English‐born singer and songwriter",
+      "ipis": [
+        "00161949744",
+        "00161952075",
+        "00162028203",
+        "00906135356"
+      ],
+      "isnis": [
+        "0000000114946735"
+      ],
+      "life-span": {
+        "begin": "1963-02-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Seal Samuel",
+          "name": "Seal Samuel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry Olusegun Adeola Samuel",
+          "name": "Henry Olusegun Adeola Samuel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Seal Henri Samuel",
+          "name": "Seal Henri Samuel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Seal-Henry Samuel",
+          "name": "Seal-Henry Samuel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Samuel, Seal Henry Olusegun Olumide Adelo",
+          "name": "Seal Henry Olusegun Olumide Adelo Samuel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Olusegun Olumide Adeola Samuel",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Olusegun Olumide Adeola Samuel",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry Seal",
+          "name": "Henry Seal",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 5,
+          "name": "pop"
+        },
+        {
+          "count": 3,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 6,
+          "name": "soul"
+        },
+        {
+          "count": 0,
+          "name": "rnb"
+        },
+        {
+          "count": 1,
+          "name": "baroque pop"
+        },
+        {
+          "count": 0,
+          "name": "r b"
+        },
+        {
+          "count": 1,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "adult contemporary"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "pop and chart"
+        },
+        {
+          "count": 4,
+          "name": "pop soul"
+        },
+        {
+          "count": 0,
+          "name": "multiple ipi"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        }
+      ]
+    },
+    {
+      "id": "2d8ef618-048d-492d-91fe-c07a3534eb54",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Samuel Kim",
+      "sort-name": "Kim, Samuel",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "aa18cd4f-8f3a-4017-b8a2-4db68205bd84",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Samuel Gillies",
+      "sort-name": "Gillies, Samuel",
+      "gender": "male",
+      "disambiguation": "narrator",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

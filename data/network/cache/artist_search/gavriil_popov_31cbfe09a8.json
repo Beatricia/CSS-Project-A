@@ -1,0 +1,421 @@
+{
+  "created": "2026-05-22T17:11:39.087Z",
+  "count": 212,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "53fb4a83-0887-4f24-bed0-6682ea461434",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Гавриил Попов",
+      "sort-name": "Popov, Gavriil",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6f66f88f-515e-4b90-b072-4653103d9f75",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Novocherkassk",
+        "sort-name": "Novocherkassk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081038035"
+      ],
+      "life-span": {
+        "begin": "1904-09-12",
+        "end": "1972-02-17",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Popov, Gavriil Nikolayevich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Gavriil Nikolayevich Popov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Popov, Gavriil",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Gavriil Popov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f755e619-faad-40ac-92bf-4ee05256f5c7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexander Popov",
+      "sort-name": "Popov, Alexander",
+      "gender": "male",
+      "area": {
+        "id": "9a1332a4-81ba-466a-8bbc-650f2072f19f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Saratov",
+        "sort-name": "Saratov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9a1332a4-81ba-466a-8bbc-650f2072f19f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Saratov",
+        "sort-name": "Saratov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1986-04-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Попов, Александр Витальевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Александр Витальевич Попов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Popov, Aleksandr Vitalyevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Aleksandr Vitalyevich Popov",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b48a6ca8-ec08-41d9-ae3e-25f5b88fe8b5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Popov",
+      "sort-name": "Popov",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "73f5347e-7009-412b-8d2b-5a88f6a1e44e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Popov",
+      "sort-name": "Popov",
+      "gender": "male",
+      "country": "RS",
+      "area": {
+        "id": "424c1b50-57f8-34af-ab97-313e2ad40058",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Serbia",
+        "sort-name": "Serbia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "serbian artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bb0eaeda-2386-4add-ac69-aef89b62a581",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jonas Gavriil",
+      "sort-name": "Gavriil, Jonas",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "94a80654-81a1-41fe-8907-a364a2649c7c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Schwäbisch Hall",
+        "sort-name": "Schwäbisch Hall",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "singer-songwriter",
+      "life-span": {
+        "begin": "2000-07-13",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "britpop"
+        },
+        {
+          "count": 1,
+          "name": "acoustic rock"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        }
+      ]
+    },
+    {
+      "id": "9ed48052-010d-4378-a51d-62005d66b3d2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gavriil Lubnin",
+      "sort-name": "Lubnin, Gavriil",
+      "gender": "male",
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1969-04-14",
+        "ended": null
+      }
+    },
+    {
+      "id": "50cc1a56-53de-42bf-a4bc-21402f43ce61",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gavriil Musicescu",
+      "sort-name": "Musicescu, Gavriil",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "62061c58-b034-4296-87ff-65075d0a1cc1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Izmail",
+        "sort-name": "Izmail",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "52b92f44-162d-4269-b971-f68754b727a4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Iași",
+        "sort-name": "Iași",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1847-03-20",
+        "end": "1903-12-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Gavril Musicescu",
+          "name": "Gavril Musicescu",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "52aafa74-1e38-4109-93f5-ebb58068b417",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jiří Pinkas",
+      "sort-name": "Pinkas, Jiri",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "6e997717-e806-4ee9-aa9e-9cd8b11f7e9b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Brno",
+        "sort-name": "Brno",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist/conductor",
+      "isnis": [
+        "0000000108754104"
+      ],
+      "life-span": {
+        "begin": "1920-10-28",
+        "end": "2003-07-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Gavriil Rhodevsky",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Gavriil Rhodevsky",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "czech conductor"
+        }
+      ]
+    },
+    {
+      "id": "884a8d1d-de3d-47d5-bdbe-16062bbcf76b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vladimir Popov",
+      "sort-name": "Popov, Vladimir",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "99eec994-b31a-4d51-9e9b-8c105ffd9b47",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexey Popov",
+      "sort-name": "Popov, Alexey",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fa807dcd-dc30-4c25-bf58-d905dfc6ba9d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nizhny Novgorod",
+        "sort-name": "Nizhny Novgorod",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "electronic musician and producer from Nizhny Novgorod",
+      "life-span": {
+        "begin": "1996-06-24",
+        "ended": null
+      }
+    }
+  ]
+}

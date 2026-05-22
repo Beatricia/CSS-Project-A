@@ -1,0 +1,81 @@
+{
+  "created": "2026-05-22T17:06:03.600Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b004e053-9128-499c-967c-a689dba0d5dd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Юдифь",
+      "sort-name": "Youddiph",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "ESC 1994 for Russia",
+      "life-span": {
+        "begin": "1973-01-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Youddiph",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Youddiph",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Юдифь",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Юдифь",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Judith",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Judith",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    }
+  ]
+}

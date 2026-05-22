@@ -1,0 +1,344 @@
+{
+  "created": "2026-05-22T17:17:59.748Z",
+  "count": 107,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5e85f4f1-a491-4e63-9103-6065c5e997d4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Itzhak Perlman",
+      "sort-name": "Perlman, Itzhak",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist and conductor",
+      "isnis": [
+        "0000000110791457"
+      ],
+      "life-span": {
+        "begin": "1945-08-31",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "יצחק פרלמן",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "יצחק פרלמן",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yitzhak Perlman",
+          "name": "Yitzhak Perlman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 2,
+          "name": "violin"
+        },
+        {
+          "count": 2,
+          "name": "violinist"
+        },
+        {
+          "count": 1,
+          "name": "israeli"
+        },
+        {
+          "count": 1,
+          "name": "performer"
+        }
+      ]
+    },
+    {
+      "id": "ba7d2c4b-2259-4d80-9aeb-3a7029090019",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יצחק יצחק",
+      "sort-name": "Itzhak, Itzhak",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00002642331"
+      ],
+      "life-span": {
+        "begin": "1906-07-24",
+        "end": "1979-05-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ben Israel, Yitzhak",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "יצחק בן ישראל",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ef990b41-9135-413f-ac3c-f1acd1ce719b",
+      "score": 35,
+      "name": "Ken Perlman",
+      "sort-name": "Perlman, Ken",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "28e9bb18-a754-493e-815a-84585935bd41",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Itzhak Zherebker",
+      "sort-name": "Zherebker, Itzhak",
+      "gender": "male",
+      "disambiguation": "cantor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ac336215-2791-472c-a80e-c0bd3af2975b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Itzhak Shenhar",
+      "sort-name": "Shenhar, Itzhak",
+      "gender": "male",
+      "disambiguation": "Jewish lyricist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cb068874-bf37-482e-a7dc-db74ab2f812a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Itzhak Rashkovsky",
+      "sort-name": "Rashkovsky, Itzhak",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "life-span": {
+        "begin": "1955",
+        "ended": null
+      }
+    },
+    {
+      "id": "c156b378-f833-4694-a55e-584e94746f24",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Itzhak Bishburg",
+      "sort-name": "Bishburg, Itzhak",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9304ac51-d01a-4b85-b2d9-e072ccadc8e5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Navah Perlman",
+      "sort-name": "Perlman, Navah",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American pianist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2c0338ca-e9b0-4bd5-b226-ac0e1d8e5402",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יואב יצחק",
+      "sort-name": "Itzchak, Yoav",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00262184083"
+      ],
+      "life-span": {
+        "begin": "1958-06-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Itzhak, Yoav",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yoav Itzhak",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "71f92129-24c1-4c9e-a901-5c419b37bcf3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ron Perlman",
+      "sort-name": "Perlman, Ron",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "646a8715-ce3a-4162-bb82-789071ec5498",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Washington Heights",
+        "sort-name": "Washington Heights",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121295213"
+      ],
+      "life-span": {
+        "begin": "1950-04-13",
+        "ended": null
+      }
+    }
+  ]
+}

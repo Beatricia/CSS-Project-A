@@ -1,0 +1,531 @@
+{
+  "created": "2026-05-22T17:00:13.088Z",
+  "count": 2977,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "14b0dc15-a9cf-46ab-9a2c-ce088eed87af",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Роман Кофман",
+      "sort-name": "Kofman, Roman",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000071417066"
+      ],
+      "life-span": {
+        "begin": "1936-06-15",
+        "end": "2026-02-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kofman, Roman",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Roman Kofman",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian conductor"
+        }
+      ]
+    },
+    {
+      "id": "c5262e09-8cd6-4a61-8efb-2af6bf1a73ca",
+      "score": 51,
+      "name": "KoFman",
+      "sort-name": "KoFman",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6dd1ecef-72bc-4d42-9ff9-60eac61375a7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mikhail Kofman",
+      "sort-name": "Kofman, Mikhail",
+      "gender": "male",
+      "disambiguation": "choir",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "62dc1cc8-f286-4c1e-ab1b-c71003f6d480",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "name": "Mikhail Kofman",
+      "sort-name": "Kofman, Mikhail",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "1/2 of Filtercrush",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0e9f8379-3c7b-4d9f-80e3-ae0be2c16ecf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Veronica Kofman",
+      "sort-name": "Kofman, Veronica",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5286b91c-5d42-4cab-933a-77e30eb74ddc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roman Flügel",
+      "sort-name": "Flügel, Roman",
+      "gender": "male",
+      "area": {
+        "id": "16560d3e-358b-4869-8a6d-727db2ee7b69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Frankfurt am Main",
+        "sort-name": "Frankfurt am Main",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2e7d0064-1603-45ac-be83-2559fb991d04",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Darmstadt",
+        "sort-name": "Darmstadt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00246778721"
+      ],
+      "isnis": [
+        "0000000079680483"
+      ],
+      "life-span": {
+        "begin": "1970-05-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Roman Fluegel",
+          "name": "Roman Fluegel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roman Flüg-el",
+          "name": "Roman Flüg-el",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roman Flugel",
+          "name": "Roman Flugel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        }
+      ]
+    },
+    {
+      "id": "3ac59c53-a679-49c0-9904-ef9df0e4e93b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "羅文",
+      "sort-name": "Tam, Roman",
+      "gender": "male",
+      "country": "HK",
+      "area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "18051a1a-8694-46f8-b6ed-57d9c6fbd284",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Baise",
+        "sort-name": "Baise",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0373cdff-eac8-3fbc-92dc-36a607da06d1",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hong Kong",
+        "sort-name": "Hong Kong",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000080404152"
+      ],
+      "life-span": {
+        "begin": "1945-02-12",
+        "end": "2002-10-18",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Tam, Roman",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Roman Tam",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Luo, Wen",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "罗文",
+          "locale": "zh_Hans",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tam, Pak Sin",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "譚百先",
+          "locale": "zh_Hant",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "1980s"
+        },
+        {
+          "count": 1,
+          "name": "1990s"
+        },
+        {
+          "count": 1,
+          "name": "1970s"
+        },
+        {
+          "count": 1,
+          "name": "2000s"
+        },
+        {
+          "count": 1,
+          "name": "mandopop"
+        },
+        {
+          "count": 2,
+          "name": "cantopop"
+        },
+        {
+          "count": 1,
+          "name": "1970s hong kong debut"
+        },
+        {
+          "count": 1,
+          "name": "hong kong cultural icon"
+        },
+        {
+          "count": 1,
+          "name": "appear on hong kong postage stamps"
+        }
+      ]
+    },
+    {
+      "id": "f1edfbed-9315-4550-859c-599cc3fdee57",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Willie Colón",
+      "sort-name": "Colón, Willie",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "eb4a386e-1178-4e3a-a371-30418dd6fd2e",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "The Bronx",
+        "sort-name": "The Bronx",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00063333792",
+        "00063333890"
+      ],
+      "isnis": [
+        "0000000079735990"
+      ],
+      "life-span": {
+        "begin": "1950-04-28",
+        "end": "2026-02-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Colón Román, William Anthony",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "William Anthony Colón Román",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 7,
+          "name": "salsa"
+        },
+        {
+          "count": 4,
+          "name": "latin"
+        },
+        {
+          "count": 1,
+          "name": "latin jazz"
+        },
+        {
+          "count": 1,
+          "name": "merengue"
+        },
+        {
+          "count": 1,
+          "name": "tropical"
+        },
+        {
+          "count": 4,
+          "name": "bolero"
+        },
+        {
+          "count": 1,
+          "name": "boogaloo"
+        },
+        {
+          "count": 1,
+          "name": "latin soul"
+        },
+        {
+          "count": 1,
+          "name": "son cubano"
+        },
+        {
+          "count": 1,
+          "name": "música tropical"
+        },
+        {
+          "count": 1,
+          "name": "global jazz"
+        },
+        {
+          "count": 1,
+          "name": "new york salsa"
+        },
+        {
+          "count": 1,
+          "name": "puerto rican traditions"
+        }
+      ]
+    },
+    {
+      "id": "8c10d6b9-9470-404e-abf8-58c8be086e21",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "אייל קופמן",
+      "sort-name": "Kofman, Eyal",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "84f1f1ad-c6cf-4125-b882-083a1f5dd959",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Holon",
+        "sort-name": "Holon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1969-06-03",
+        "ended": null
+      }
+    },
+    {
+      "id": "61137c72-12d8-4271-823c-1118dae8ef40",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roman Pokorný",
+      "sort-name": "Pokorný, Roman",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1966",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Pokorny Roman",
+          "name": "Pokorny Roman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roman Pokorny",
+          "name": "Roman Pokorny",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

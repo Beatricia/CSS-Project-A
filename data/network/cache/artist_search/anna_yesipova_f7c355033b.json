@@ -1,0 +1,797 @@
+{
+  "created": "2026-05-22T17:10:46.469Z",
+  "count": 10023,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b7ae513c-5b4d-40a3-bef7-7b7f91843ddc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Анна Николаевна Есипова",
+      "sort-name": "Yesipova, Anna Nikolayevna",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian pianist",
+      "life-span": {
+        "begin": "1851-02-12",
+        "end": "1914-08-18",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Essipoff, Annette",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Annette Essipoff",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yesipova, Anna",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anna Yesipova",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Esipova, Anna",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anna Esipova",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Essipow, Annette von",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Annette von Essipow",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jessipowa, Anna",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anna Jessipowa",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e2b96b55-35c4-45b9-8d7b-726ac927982f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Άννα Βίσση",
+      "sort-name": "Vissi, Anna",
+      "gender": "female",
+      "country": "GR",
+      "area": {
+        "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Greece",
+        "sort-name": "Greece",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a7556d92-e023-49a1-846d-d17560797873",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Larnaka",
+        "sort-name": "Larnaka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Greek singer and actress",
+      "ipis": [
+        "00136055592"
+      ],
+      "isnis": [
+        "0000000019420567"
+      ],
+      "life-span": {
+        "begin": "1957-12-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Anna Vishy",
+          "name": "Anna Vishy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Άννα Βίσση",
+          "name": "Άννα Βίσση",
+          "locale": "el",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Anna Bissi",
+          "name": "Anna Bissi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Anna Vissy",
+          "name": "Anna Vissy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Anna Vissi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anna Vissi",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 3,
+          "name": "greek"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "europop"
+        },
+        {
+          "count": 1,
+          "name": "international"
+        },
+        {
+          "count": 1,
+          "name": "euro-pop"
+        },
+        {
+          "count": 2,
+          "name": "laiko"
+        },
+        {
+          "count": 1,
+          "name": "entehno"
+        },
+        {
+          "count": 1,
+          "name": "modern laiko"
+        },
+        {
+          "count": 1,
+          "name": "mediterranean traditions"
+        }
+      ]
+    },
+    {
+      "id": "07604f0c-218b-4233-94d9-57c4a5432c3a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Astrid Lindgren",
+      "sort-name": "Lindgren, Astrid",
+      "gender": "female",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "92e64422-4341-4229-9348-530b1850a817",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Vimmerby Municipality",
+        "sort-name": "Vimmerby Municipality",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stockholm",
+        "sort-name": "Stockholm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swedish children’s book author",
+      "ipis": [
+        "00018156986"
+      ],
+      "isnis": [
+        "0000000084029206"
+      ],
+      "life-span": {
+        "begin": "1907-11-14",
+        "end": "2002-01-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Lindgren, Astrid Anna Emilia",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Astrid Anna Emilia Lindgren",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1931",
+          "end-date": null
+        },
+        {
+          "sort-name": "Ericsson, Astrid Anna Emilia",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Astrid Anna Emilia Ericsson",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": "1931"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        },
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        },
+        {
+          "count": 1,
+          "name": "audio drama"
+        },
+        {
+          "count": 1,
+          "name": "_consistency"
+        },
+        {
+          "count": 1,
+          "name": "audiobook"
+        },
+        {
+          "count": 1,
+          "name": "author"
+        }
+      ]
+    },
+    {
+      "id": "1f171353-0d40-40d3-953d-2a1b8100bc76",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anna Thalbach",
+      "sort-name": "Thalbach, Anna",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000082510311"
+      ],
+      "life-span": {
+        "begin": "1973-06-01",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "actress"
+        },
+        {
+          "count": 1,
+          "name": "german voice actor"
+        },
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "8aa0657c-72f8-4631-8486-c31a4e3008d6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anna Jantar",
+      "sort-name": "Jantar, Anna",
+      "gender": "female",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "92e7329e-374e-4b71-a175-f61fffc30213",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Poznań",
+        "sort-name": "Poznań",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish singer",
+      "isnis": [
+        "0000000109806463"
+      ],
+      "life-span": {
+        "begin": "1950-06-10",
+        "end": "1980-03-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Jantar-Kukulska, Anna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Anna Jantar-Kukulska",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Szmeterling, Anna Maria",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Anna Maria Szmeterling",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "579ef111-19dd-4ae8-ad50-d5fa435472b9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anna German",
+      "sort-name": "German, Anna",
+      "gender": "female",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e3e56d56-6131-4233-842c-7070ec1b3f30",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Xorazm",
+        "sort-name": "Xorazm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00070531208",
+        "00701992445"
+      ],
+      "isnis": [
+        "0000000071462393"
+      ],
+      "life-span": {
+        "begin": "1936-02-14",
+        "end": "1982-08-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "German-Tucholska, Anna Wiktoria",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Anna Wiktoria German-Tucholska",
+          "locale": "pl_PL",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1972-03-23",
+          "end-date": null
+        },
+        {
+          "sort-name": "Герман, Анна",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Анна Герман",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "German, Anna",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anna German",
+          "locale": "pl_PL",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "German, Anna Wiktoria",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Anna Wiktoria German",
+          "locale": "pl",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": "1972-03-23"
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "estrada"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "3eb72791-6322-466b-87d3-24d74901eb2d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anna Ternheim",
+      "sort-name": "Ternheim, Anna",
+      "gender": "female",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1127ddc2-eab3-4662-8718-6adbdeea3b10",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Stockholm",
+        "sort-name": "Stockholm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00290684343"
+      ],
+      "isnis": [
+        "0000000116065691"
+      ],
+      "life-span": {
+        "begin": "1978-05-31",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "female singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "swedish"
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "sweden"
+        },
+        {
+          "count": 1,
+          "name": "indie pop"
+        }
+      ]
+    },
+    {
+      "id": "898a73a5-580a-4ce6-8e71-ea0e6a1209fb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ANNA",
+      "sort-name": "ANNA",
+      "gender": "female",
+      "area": {
+        "id": "204dd468-f79e-475d-94a7-64e417246439",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "São Paulo",
+        "sort-name": "São Paulo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Anna Miranda, DJ and producer from São Paulo, Brazil",
+      "ipis": [
+        "00801813275"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Anali, DJ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "DJ Anali",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Flores Miranda, Ana Lidia",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ana Lidia Flores Miranda",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Miranda, Anna",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Anna Miranda",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Anna, DJ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "DJ Anna",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "12547df1-7389-4718-9d82-4508c575bfa8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anna Benning",
+      "sort-name": "Benning, Anna",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "dc59bc84-b42f-46e7-bd5e-45bd675055d8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anna Oxa",
+      "sort-name": "Oxa, Anna",
+      "gender": "female",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2c639399-5472-4744-8baf-a25c0269240e",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Bari",
+        "sort-name": "Bari",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00520274196"
+      ],
+      "isnis": [
+        "0000000055152328"
+      ],
+      "life-span": {
+        "begin": "1961-04-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hoxha, Iliriana",
+          "name": "Iliriana Hoxha",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "europop"
+        },
+        {
+          "count": 1,
+          "name": "italian"
+        }
+      ]
+    }
+  ]
+}

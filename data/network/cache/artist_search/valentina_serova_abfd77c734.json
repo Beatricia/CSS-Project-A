@@ -1,0 +1,387 @@
+{
+  "created": "2026-05-22T16:52:28.484Z",
+  "count": 342,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "e293befb-79bf-4f89-9124-8292ac9ae622",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Валентина Серова",
+      "sort-name": "Serova, Valentina",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "the first Russian female composer",
+      "life-span": {
+        "begin": "1846",
+        "end": "1924-06-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Серова, Валентина Семёновна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Валентина Семёновна Серова",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serova, Valentina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Valentina Serova",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Серова, Валентина",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Валентина Серова",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serova, Valentina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Valentina Serova",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "422cf6b6-ca49-45cd-86e2-d6ef4ba4d1a4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anna Serova",
+      "sort-name": "Serova, Anna",
+      "gender": "female",
+      "disambiguation": "violist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1b3d5be0-02ff-4366-accd-7456b4cdc758",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "name": "Irina Serova",
+      "sort-name": "Serova, Irina",
+      "disambiguation": "Vocalist; featured on Ion Meditat",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2901b58e-4884-4ef2-a068-19f783ff02fd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Valentina",
+      "sort-name": "Valentina",
+      "gender": "female",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "13c1fa30-952a-45c7-b912-18874e7561bf",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "San Donato Milanese",
+        "sort-name": "San Donato Milanese",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Elena Ferretti, '90s Eurobeat/Italo-disco singer",
+      "life-span": {
+        "begin": "1960",
+        "ended": null
+      }
+    },
+    {
+      "id": "81c9ae67-9eaf-4e47-836a-62b7bbc91664",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Valentina Lisitsa",
+      "sort-name": "Lisitsa, Valentina",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000044615868"
+      ],
+      "life-span": {
+        "begin": "1973-12-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Валентина Лисиця",
+          "name": "Валентина Лисиця",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian pianist"
+        }
+      ]
+    },
+    {
+      "id": "d44cc1d6-ed6a-42ce-9c64-49feb13c8b05",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Valentina",
+      "sort-name": "Valentina",
+      "gender": "female",
+      "disambiguation": "Valentina Pappalardo, track: \"Gabriel\"",
+      "ipis": [
+        "00545449923"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Pappalardo, Valentina",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Valentina Pappalardo",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f58f294b-bf03-4d23-9f41-d93a02323300",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Valentina",
+      "sort-name": "Valentina",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3b057757-e74d-4558-9f8a-922cd148f5e5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rennes",
+        "sort-name": "Rennes",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French singer, JESC 2020 winner",
+      "life-span": {
+        "begin": "2009-04-06",
+        "ended": null
+      }
+    },
+    {
+      "id": "94f316a7-87e2-4134-918f-c8736ba1008e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Valentina",
+      "sort-name": "Valentina",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "619fbb92-a68e-400f-9d50-cf098cfe0014",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bell",
+        "sort-name": "Bell",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "drag queen",
+      "life-span": {
+        "begin": "1991-05-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Leyva, James Andrew",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "James Andrew Leyva",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "drag queen"
+        }
+      ]
+    },
+    {
+      "id": "88eb7266-4925-48ce-853b-63bad74b2378",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "VALENTINA",
+      "sort-name": "VALENTINA",
+      "gender": "female",
+      "country": "NZ",
+      "area": {
+        "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "New Zealand",
+        "sort-name": "New Zealand",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Wellington based vocalist, producer and performance artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "16309e33-577b-48f6-97b6-9df385585728",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Valentina",
+      "sort-name": "Valentina",
+      "gender": "female",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "singer at X Factor 2013 Italian edition",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

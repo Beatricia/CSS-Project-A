@@ -1,0 +1,322 @@
+{
+  "created": "2026-05-22T16:56:11.580Z",
+  "count": 107,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "3ba37600-ef36-4aae-a095-89a3c4234173",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bogusław Schaeffer",
+      "sort-name": "Schaeffer, Bogusław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f0590317-8b42-4498-a2e4-34cc5562fcf8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salzburg",
+        "sort-name": "Salzburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000107816078"
+      ],
+      "life-span": {
+        "begin": "1929-06-06",
+        "end": "2019-07-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Schäffer, Bogusław",
+          "name": "Bogusław Schäffer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "cc48f77c-32c5-46e1-9f35-119d61671e1b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pierre Schaeffer",
+      "sort-name": "Schaeffer, Pierre",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2b7c4074-dded-4703-a7de-e1d045c34b5c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nancy",
+        "sort-name": "Nancy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "37bc32de-19c2-474b-86ed-c73919891f06",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Aix-en-Provence",
+        "sort-name": "Aix-en-Provence",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French musique concrète composer",
+      "isnis": [
+        "0000000120968738"
+      ],
+      "life-span": {
+        "begin": "1910-08-14",
+        "end": "1995-08-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Shaeffer, Pierre",
+          "name": "Pierre Shaeffer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "avant-garde"
+        },
+        {
+          "count": 1,
+          "name": "experimental electronic"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "electroacoustic"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "tape music"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 3,
+          "name": "musique concrète"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        }
+      ]
+    },
+    {
+      "id": "ce73cf03-489b-4c1b-8309-cb6c5b8583f0",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 40,
+      "name": "Schaeffer",
+      "sort-name": "Schaeffer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fe36f121-91b3-4da5-abdc-f7c8a95c08a3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "name": "Schaeffer",
+      "sort-name": "Schaeffer",
+      "disambiguation": "songwriter, first name unknown, associated with Turner & Schaeffer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "397ed77c-e2e0-4296-8568-e701f2cda83f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bogusław Linda",
+      "sort-name": "Linda, Bogusław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "polish actor and director",
+      "life-span": {
+        "begin": "1952-06-27",
+        "ended": null
+      }
+    },
+    {
+      "id": "94938457-97b3-4a98-8487-07b759eb28cf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "name": "Bogusław Mec",
+      "sort-name": "Mec, Bogusław",
+      "begin-area": {
+        "id": "b5d80566-040e-4121-8c2b-7e8c95648e1f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tomaszów Mazowiecki",
+        "sort-name": "Tomaszów Mazowiecki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d96f714e-42a5-4170-a57e-06b40202ebef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zgierz",
+        "sort-name": "Zgierz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000371889727"
+      ],
+      "life-span": {
+        "begin": "1947-01-21",
+        "end": "2012-03-11",
+        "ended": true
+      }
+    },
+    {
+      "id": "0a256eff-b73d-4a3a-920b-0d173a30e248",
+      "score": 38,
+      "name": "Bogusław Nowicki",
+      "sort-name": "Bogusław Nowicki",
+      "disambiguation": "Boguslaw Nowicki",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "509c2e8b-401b-4065-97e0-39bfa2baaa8c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bogusław Rudziński",
+      "sort-name": "Rudziński, Bogusław",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "470e2dc3-72b7-4e99-9bbc-9d03bdce0c2d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "name": "Bogusław Kaczmarczyk",
+      "sort-name": "Kaczmarczyk, Bogusław",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0dd80ee9-152d-4241-9ca5-6b029072198f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bogusław Dawidow",
+      "sort-name": "Dawidow, Bogusław",
+      "gender": "male",
+      "area": {
+        "id": "ba6b5767-f84d-442b-a110-2b289d28212e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Opole",
+        "sort-name": "Opole",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2b9e1f62-17d6-4805-a769-f667169bd628",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sopot",
+        "sort-name": "Sopot",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000117514460"
+      ],
+      "life-span": {
+        "begin": "1953-11-01",
+        "ended": null
+      }
+    }
+  ]
+}

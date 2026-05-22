@@ -1,0 +1,143 @@
+{
+  "created": "2026-05-22T18:31:34.691Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "27d99a7c-c41f-4cd2-b953-532c8d19fbda",
+      "score": 100,
+      "artist-credit-id": "b1061b3d-d1be-4ca2-80a4-641555cb00e2",
+      "title": "Deira",
+      "length": 168911,
+      "video": null,
+      "artist-credit": [
+        {
+          "joinphrase": " & ",
+          "name": "Saint Levant",
+          "artist": {
+            "id": "015c8b7d-015b-4603-9792-18bb440178ac",
+            "name": "Saint Levant",
+            "sort-name": "Saint Levant",
+            "disambiguation": "Palestinian/French/Algerian/Serbian musician",
+            "aliases": [
+              {
+                "sort-name": "Abdelhamid, Marwan",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Marwan Abdelhamid",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        },
+        {
+          "name": "MC Abdul",
+          "artist": {
+            "id": "bd49121d-3dd5-46ae-8ef9-69c66fd01bff",
+            "name": "MC Abdul",
+            "sort-name": "Abdul, MC",
+            "disambiguation": "Palestinian rapper",
+            "aliases": [
+              {
+                "sort-name": "mca.rap",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "mca.rap",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "الشنطي, عبدالرحمن",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "عبدالرحمن الشنطي",
+                "locale": "ar",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Al‐Shantti, Abdel‐Rahman",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Abdel‐Rahman Al‐Shantti",
+                "locale": null,
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2024-06-07",
+      "releases": [
+        {
+          "id": "01ca6452-c74f-4572-8839-c1a1affd3a17",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "edd9273e-01c6-44f8-b50b-6910dc03a663",
+          "count": 1,
+          "title": "DEIRA",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Saint Levant",
+              "artist": {
+                "id": "015c8b7d-015b-4603-9792-18bb440178ac",
+                "name": "Saint Levant",
+                "sort-name": "Saint Levant",
+                "disambiguation": "Palestinian/French/Algerian/Serbian musician"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e6a28fe8-6afe-420d-b3db-d6bc50bab55a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "DEIRA",
+            "primary-type": "Album"
+          },
+          "date": "2024-06-07",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2024-06-07",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 8,
+          "media": [
+            {
+              "id": "48b59d2a-146d-3174-b306-481321f7c87e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "c0b6b937-3609-4a83-9bda-2ab1bf13dbad",
+                  "number": "8",
+                  "title": "Deira",
+                  "length": 168911
+                }
+              ],
+              "track-count": 8,
+              "track-offset": 7
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Saint Levant\" AND recording:\"Deira\""
+}

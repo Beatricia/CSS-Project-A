@@ -1,0 +1,748 @@
+{
+  "created": "2026-05-22T16:49:01.264Z",
+  "count": 614,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "dd36c41f-5c82-4c82-9a33-367892cf7771",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heinrich Schenker",
+      "sort-name": "Schenker, Heinrich",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000110227784"
+      ],
+      "life-span": {
+        "begin": "1868-06-19",
+        "end": "1935-01-13",
+        "ended": true
+      }
+    },
+    {
+      "id": "cbdcee87-59a0-4f05-929b-86a3d91b6dfa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heinrich Schütz",
+      "sort-name": "Schütz, Heinrich",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "13729d23-183d-41a1-bcd6-6af1fb2b63cd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bad Köstritz",
+        "sort-name": "Bad Köstritz",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "624f2956-bfdb-43a9-8924-9aadb812ee04",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dresden",
+        "sort-name": "Dresden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000122806150"
+      ],
+      "life-span": {
+        "begin": "1585-10-18",
+        "end": "1672-11-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "H. Schütz",
+          "name": "H. Schütz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Heinrich Schutz",
+          "name": "Heinrich Schutz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sch tz, Heinrich",
+          "name": "Sch tz, Heinrich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Heinrich Schuetz",
+          "name": "Heinrich Schuetz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schütz, Heinrich",
+          "name": "Schütz, Heinrich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "baroque"
+        },
+        {
+          "count": 1,
+          "name": "religious"
+        }
+      ]
+    },
+    {
+      "id": "2bc078c7-bf5c-4d01-b255-6588f82f2ccf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michael Schenker",
+      "sort-name": "Schenker, Michael",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "eca79b55-a6c4-4078-a383-8353271ee81e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hannover",
+        "sort-name": "Hannover",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00076625848"
+      ],
+      "isnis": [
+        "0000000078392543"
+      ],
+      "life-span": {
+        "begin": "1955-01-10",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "heavy metal"
+        },
+        {
+          "count": 3,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "classic rock"
+        }
+      ]
+    },
+    {
+      "id": "db005731-6c46-4e7d-83e3-21f80189884a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 47,
+      "name": "Michael Schenker Group",
+      "sort-name": "Schenker, Michael, Group",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121960615"
+      ],
+      "life-span": {
+        "begin": "1979",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "MSG",
+          "name": "MSG",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "MSG .",
+          "name": "MSG .",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "M.S.G.",
+          "name": "M.S.G.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Michael Schenker Group",
+          "name": "The Michael Schenker Group",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "hard rock"
+        }
+      ]
+    },
+    {
+      "id": "8f4b5e0b-0bf4-4605-98e2-14492e98749d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonard",
+      "sort-name": "Leonard",
+      "gender": "male",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4365f1fd-429e-4d44-a1cc-394f51d201ed",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Seedorf",
+        "sort-name": "Seedorf",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swiss schlager singer",
+      "isnis": [
+        "0000000058240593"
+      ],
+      "life-span": {
+        "begin": "1964-01-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Schenker, Carlo",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Carlo Schenker",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "9d0828bc-702d-4c89-b66f-4954958b8e11",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bert Kaempfert",
+      "sort-name": "Kaempfert, Bert",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ccb257c9-ccb7-45c3-99c9-6a38cb4cc25d",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Barmbek",
+        "sort-name": "Barmbek",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "6696b7a4-693d-4392-81b4-60916aeac21c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Palma",
+        "sort-name": "Palma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German orchestra leader, producer and songwriter",
+      "ipis": [
+        "00015741304",
+        "00076253764"
+      ],
+      "isnis": [
+        "000000011452417X"
+      ],
+      "life-span": {
+        "begin": "1923-10-16",
+        "end": "1980-06-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kämpfert, Berthold Heinrich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Berthold Heinrich Kämpfert",
+          "locale": "de_DE",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "easy listening"
+        },
+        {
+          "count": 0,
+          "name": "sweet and gentle"
+        },
+        {
+          "count": -1,
+          "name": "death by stroke"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "e9db6621-c793-40be-bbd8-6bc769be3ff4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Christian Schenker",
+      "sort-name": "Schenker, Christian",
+      "gender": "male",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "eed24719-e90e-4b88-b3a7-5a0b38ccd670",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 42,
+      "name": "McAuley–Schenker Group",
+      "sort-name": "McAuley–Schenker Group",
+      "area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000106562280"
+      ],
+      "life-span": {
+        "begin": "1986",
+        "end": "1993",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "M.S.G McAuley Schenker Group",
+          "name": "M.S.G McAuley Schenker Group",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "MSG",
+          "name": "MSG",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "McAuley Schenker Group",
+          "name": "McAuley Schenker Group",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "hard rock"
+        }
+      ]
+    },
+    {
+      "id": "66197dbc-c16b-4c95-9e1b-cc617783cb8c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heinrich Ignaz Franz von Biber",
+      "sort-name": "Biber, Heinrich Ignaz Franz von",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ed50d1ac-18f9-443c-a2c6-0fb34656e822",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Česká Lípa",
+        "sort-name": "Česká Lípa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f0590317-8b42-4498-a2e4-34cc5562fcf8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salzburg",
+        "sort-name": "Salzburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000120263578"
+      ],
+      "life-span": {
+        "begin": "1644-08-12",
+        "end": "1704-05-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Heinrich Ignaz Franz Biber",
+          "name": "Heinrich Ignaz Franz Biber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Heinrich Ignaz von Biber",
+          "name": "Heinrich Ignaz von Biber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Biber",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Biber",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "H.I.F. Biber",
+          "name": "H.I.F. Biber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henrich Biber",
+          "name": "Henrich Biber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "5953d60c-fd98-47ed-908e-87788b8da47f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Heinrich Isaac",
+      "sort-name": "Isaac, Heinrich",
+      "gender": "male",
+      "area": {
+        "id": "2ea52ae1-00ee-406e-a8f1-50fb88554d24",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Flanders",
+        "sort-name": "Flanders",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2ea52ae1-00ee-406e-a8f1-50fb88554d24",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Flanders",
+        "sort-name": "Flanders",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2b397313-0d04-4167-b9a8-914f16935d4a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Firenze",
+        "sort-name": "Firenze",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Flemish Renaissance composer",
+      "ipis": [
+        "00064624478"
+      ],
+      "isnis": [
+        "0000000121005714"
+      ],
+      "life-span": {
+        "begin": "1450",
+        "end": "1517-03-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Heinricus Isaac",
+          "name": "Heinricus Isaac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henricus Isaac",
+          "name": "Henricus Isaac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac, Hendrik",
+          "name": "Hendrik Isaac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaak, Heinrich",
+          "name": "Heinrich Isaak",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "renaissance"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "dutch composer"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    }
+  ]
+}

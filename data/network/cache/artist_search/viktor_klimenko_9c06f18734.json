@@ -1,0 +1,795 @@
+{
+  "created": "2026-05-22T17:15:00.189Z",
+  "count": 880,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ef1040da-4cab-4fed-8e78-3ec4749e041e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Viktor Klimenko",
+      "sort-name": "Klimenko, Viktor",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a8c4b5ca-8e7a-41f3-893f-df91c5d51732",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Respublika Kareliya",
+        "sort-name": "Respublika Kareliya",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000371889575"
+      ],
+      "life-span": {
+        "begin": "1942-11-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Klimenko, Viktor Savvitš",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Viktor Savvitš Klimenko",
+          "locale": "fi_FI",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Klimenko, Viktor Savvich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Виктор Саввич Клименко",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Klimenko, Viktor Savvich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Viktor Savvich Klimenko",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e53b0307-6d26-4838-a286-90f1bcb6c1b3",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 74,
+      "name": "Viktor Klimenko ja ystävät",
+      "sort-name": "Klimenko, Viktor, ja ystävät",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8c1a4ddc-deeb-4212-8e0d-fbe85b29f352",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Viktor Petrov",
+      "sort-name": "Petrov, Viktor",
+      "gender": "male",
+      "disambiguation": "production music composer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Petrov Viktor",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov Viktor",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrov.Viktor",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov.Viktor",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrov Viktor Prod. By Suchanov A. Swift",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov Viktor Prod. By Suchanov A. Swift",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrov Viktor Prod. By Suchanov A.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov Viktor Prod. By Suchanov A.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrov Viktor Prod. By Tereshchenko Y.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov Viktor Prod. By Tereshchenko Y.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Petrov Viktor Prod. By Zherebtsov S.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Petrov Viktor Prod. By Zherebtsov S.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fcb207f4-142c-4bdf-8d82-09c28a8e63d3",
+      "score": 39,
+      "name": "Pavel Klimenko",
+      "sort-name": "Klimenko, Pavel",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "52b95e9d-3a33-4dbb-b6ba-32998f4af490",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nikita Klimenko",
+      "sort-name": "Klimenko, Nikita",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000372380367"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Klimenko, Nick",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nick Klimenko",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "27da6562-af42-48f7-b24a-e2ebbbfcbae7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Klimenko VG",
+      "sort-name": "Klimenko, VG",
+      "gender": "male",
+      "begin-area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Electronic music artist from Ukraine",
+      "life-span": {
+        "begin": "1975-12-22",
+        "ended": null
+      }
+    },
+    {
+      "id": "0ffeaad4-63ed-4191-8f75-3ea7038ec364",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Viktor Lazlo",
+      "sort-name": "Lazlo, Viktor",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "293f8c50-beef-4042-bea0-252b24f239e3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lorient",
+        "sort-name": "Lorient",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French-Belgian singer",
+      "ipis": [
+        "00132211043"
+      ],
+      "isnis": [
+        "0000000081360980"
+      ],
+      "life-span": {
+        "begin": "1960-10-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Dronier, Sonia",
+          "name": "Sonia Dronier",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Victor Laszlo",
+          "name": "Victor Laszlo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dronnier, Sonia",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sonia Dronnier",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Viktot Lazlo",
+          "name": "Viktot Lazlo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "V. Lazlo",
+          "name": "V. Lazlo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Victor Lazlo",
+          "name": "Victor Lazlo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "jazz pop"
+        },
+        {
+          "count": 1,
+          "name": "sophisti-pop"
+        }
+      ]
+    },
+    {
+      "id": "b199892e-7a9d-400b-b382-ccc0766d0335",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Taja",
+      "sort-name": "Taja",
+      "gender": "female",
+      "country": "LT",
+      "area": {
+        "id": "0785dc14-96af-3dc4-bde4-dcdfc2e2d0d6",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Lithuania",
+        "sort-name": "Lithuania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cadab571-5d70-45d7-9e1d-843f6cb78bb5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vilnius",
+        "sort-name": "Vilnius",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Lithuanian singer",
+      "isnis": [
+        "0000000406798316"
+      ],
+      "life-span": {
+        "begin": "1982-04-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Klimenko‐Taja, Erika",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Erika Klimenko‐Taja",
+          "locale": "lt",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Erika K",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Erika K",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "E Klimenko",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "E Klimenko",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "E K",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "E K",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Erika K.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Erika K.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "E. Klimenko",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "E. Klimenko",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "EK",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "EK",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "E. K.",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "E. K.",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Taja",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Taja",
+          "locale": "lt",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Klimenko, Erika",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Erika Klimenko",
+          "locale": "lt",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "lithuanian"
+        },
+        {
+          "count": 1,
+          "name": "lithuania"
+        },
+        {
+          "count": 1,
+          "name": "lithuanian pop"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "7da030e4-3b08-4e29-b497-344d809589fd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Виктор Цой",
+      "sort-name": "Tsoy, Viktor",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "66eb3e73-d69e-3581-9a23-a73b4c64c8dd",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Latvia",
+        "sort-name": "Latvia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00217595257",
+        "00217595453"
+      ],
+      "isnis": [
+        "0000000395162311"
+      ],
+      "life-span": {
+        "begin": "1962-06-21",
+        "end": "1990-08-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Zoi, Wiktor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Wiktor Zoi",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tsoi, Victor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Victor Tsoi",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tsoi, Viktor Robertovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Viktor Robertovich Tsoi",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zoi, Wiktor Robertowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Wiktor Robertowitsch Zoi",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "빅토르 초이",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "빅토르 초이",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "维克多·崔",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "维克多·崔",
+          "locale": "zh",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Վիկտոր Ցոյ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Վիկտոր Ցոյ",
+          "locale": "hy",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ვიქტორ ცოი",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ვიქტორ ცოი",
+          "locale": "ka",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ויקטור צוי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ויקטור צוי",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヴィクトル・ツォイ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ヴィクトル・ツォイ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Victor Choi",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Victor Choi",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Viktor Coj",
+          "name": "Viktor Coj",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Viktor Tsoy",
+          "name": "Viktor Tsoy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Viktor Tsoi",
+          "name": "Viktor Tsoi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Victor Tsoy",
+          "name": "Victor Tsoy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "빅토르 로베르토비치 최",
+          "name": "빅토르 로베르토비치 최",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Цой, Виктор Робертович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Виктор Робертович Цой",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Цой, Виктор",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Виктор Цой",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        }
+      ]
+    },
+    {
+      "id": "abb5601f-be56-40a0-a72a-bafcd08692be",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Viktor",
+      "sort-name": "Viktor",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "London based gay male performer",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "electro"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "created": "2026-05-22T17:19:45.963Z",
+  "count": 986,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "17d78170-7194-4603-8dbb-ca1108430882",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Avishai Cohen",
+      "sort-name": "Cohen, Avishai",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7bac8044-f785-4073-a8ef-717462ee0918",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "HaẔafon",
+        "sort-name": "HaẔafon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli jazz bassist",
+      "ipis": [
+        "00199423824"
+      ],
+      "isnis": [
+        "0000000119533307"
+      ],
+      "life-span": {
+        "begin": "1970-04-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cohen, Avishai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Avishai Cohen",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cohen, Avishai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Avishai Cohen",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "אבישי כהן",
+          "name": "אבישי כהן",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "post-bop"
+        },
+        {
+          "count": 1,
+          "name": "jazz and blues"
+        }
+      ]
+    },
+    {
+      "id": "a9adebe6-3436-4746-bc76-3623e66f6e76",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Avishai Cohen",
+      "sort-name": "Cohen, Avishai",
+      "gender": "male",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "trumpeter, member of Third World Love",
+      "ipis": [
+        "00425928049"
+      ],
+      "isnis": [
+        "0000000120013050"
+      ],
+      "life-span": {
+        "begin": "1978",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "כהן, אבישי",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "אבישי כהן",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Avishai Cohen Quartet",
+          "name": "Avishai Cohen Quartet",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cohen, Avishai E.",
+          "name": "Avishai E. Cohen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "post-bop"
+        },
+        {
+          "count": 2,
+          "name": "bebop"
+        }
+      ]
+    },
+    {
+      "id": "05da8a7c-676d-4d8a-a514-e25ee526a98f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 82,
+      "name": "Avishai Cohen Trio",
+      "sort-name": "Cohen, Avishai, Trio",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "2cea22e5-c8e6-4c42-9de5-6bb0d07a15e0",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 80,
+      "name": "Avishai Cohen Quartet",
+      "sort-name": "Cohen, Avishai, Quartet",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4dece762-e1c9-4d92-9913-703da7213144",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 55,
+      "name": "Third World Love",
+      "sort-name": "Third World Love",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "world fusion band",
+      "life-span": {
+        "begin": "2002",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Third World Love [Avishai Cohen, Yonatan Avishai, Omer Avital, Daniel Freedman]",
+          "name": "Third World Love [Avishai Cohen, Yonatan Avishai, Omer Avital, Daniel Freedman]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "65314b12-0e08-43fa-ba33-baaa7b874c15",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonard Cohen",
+      "sort-name": "Cohen, Leonard",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3f504d54-c40c-487d-bc16-c1990eac887f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Westmount",
+        "sort-name": "Westmount",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian singer‐songwriter and poet",
+      "ipis": [
+        "00006457004"
+      ],
+      "isnis": [
+        "0000000110273481"
+      ],
+      "life-span": {
+        "begin": "1934-09-21",
+        "end": "2016-11-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Cohen, Leonard Norman",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Leonard Norman Cohen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leonhard Cohen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leonhard Cohen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lonard Cohen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Lonard Cohen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "L. Cohen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "L. Cohen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 7,
+          "name": "folk"
+        },
+        {
+          "count": 0,
+          "name": "blues"
+        },
+        {
+          "count": 0,
+          "name": "canadian"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "music"
+        },
+        {
+          "count": -1,
+          "name": "canada"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 3,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "poetry"
+        },
+        {
+          "count": 0,
+          "name": "soft rock"
+        },
+        {
+          "count": 4,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "composers"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 0,
+          "name": "singer and songwriter"
+        },
+        {
+          "count": 1,
+          "name": "fiction"
+        },
+        {
+          "count": 0,
+          "name": "sophisti-pop"
+        },
+        {
+          "count": 1,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 1,
+          "name": "novelists"
+        },
+        {
+          "count": 1,
+          "name": "poets"
+        },
+        {
+          "count": 1,
+          "name": "lyricists"
+        },
+        {
+          "count": 0,
+          "name": "nuno"
+        }
+      ]
+    },
+    {
+      "id": "10100af7-0564-4c29-bd5b-ef776dba2b5d",
+      "score": 44,
+      "name": "Avishai",
+      "sort-name": "Avishai",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "078a2c33-bf8d-4dfd-99ba-c87a4632e125",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 44,
+      "name": "Big Vicious",
+      "sort-name": "Big Vicious",
+      "disambiguation": "jazz band with trumpeter Avishai Cohen",
+      "life-span": {
+        "begin": "2020",
+        "ended": null
+      }
+    },
+    {
+      "id": "2a25148f-6968-44ba-b3f7-ce5446642599",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yonathan Avishai",
+      "sort-name": "Avishai, Yonathan",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000373001090"
+      ],
+      "life-span": {
+        "begin": "1977-03-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "יונתן אבישי",
+          "name": "יונתן אבישי",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Avishai, Yonathan",
+          "name": "Yonathan Avishai",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "e4ca81fb-5b99-4a13-ad90-0f36b121a6d0",
+      "score": 42,
+      "name": "The Circle",
+      "sort-name": "Circle, The",
+      "disambiguation": "Avishai Cohen, Shanir Ezra Blumenkranz, Itamar Doari",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

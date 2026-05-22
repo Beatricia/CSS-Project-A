@@ -1,0 +1,425 @@
+{
+  "created": "2026-05-22T17:40:15.559Z",
+  "count": 223,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ddcfbdcf-cf8d-4776-8a69-10f39376b5a2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lead Belly",
+      "sort-name": "Lead Belly",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2cc02c76-4760-45f6-9624-459a7120f4c3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mooringsport",
+        "sort-name": "Mooringsport",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00017609586"
+      ],
+      "isnis": [
+        "0000000120257311"
+      ],
+      "life-span": {
+        "begin": "1888-01-20",
+        "end": "1949-12-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ledbetter, Huddie William",
+          "name": "Huddie William Ledbetter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Huddy \"Leadbelly\" Leadbetter",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Huddy \"Leadbelly\" Leadbetter",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leadbelly",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leadbelly",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Huddie 'Leadbelly' Ledbetter",
+          "name": "Huddie 'Leadbelly' Ledbetter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Huddy \"Leadbelly\" Ledbetter",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Huddy \"Leadbelly\" Ledbetter",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ledbetter, Hudson William",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hudson William Ledbetter",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ledbetter, Huddie",
+          "name": "Huddie Ledbetter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 3,
+          "name": "blues"
+        },
+        {
+          "count": 6,
+          "name": "country blues"
+        },
+        {
+          "count": 3,
+          "name": "folk blues"
+        },
+        {
+          "count": 2,
+          "name": "acoustic blues"
+        },
+        {
+          "count": 0,
+          "name": "huddie leadbelly ledbetter"
+        }
+      ]
+    },
+    {
+      "id": "c118bc97-11a7-41dc-a55e-48c3bcf22ac2",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 97,
+      "name": "Belly",
+      "sort-name": "Belly",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boston",
+        "sort-name": "Boston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US pop-rock band",
+      "isnis": [
+        "0000000106935905"
+      ],
+      "life-span": {
+        "begin": "1991",
+        "end": "1996",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "alternative rock"
+        },
+        {
+          "count": 0,
+          "name": "indie rock"
+        },
+        {
+          "count": 2,
+          "name": "jangle pop"
+        },
+        {
+          "count": 2,
+          "name": "dream pop"
+        },
+        {
+          "count": 0,
+          "name": "4ad"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        }
+      ]
+    },
+    {
+      "id": "7e302507-6b78-4f3b-9c4c-e3b85580fad0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 92,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Belly",
+      "sort-name": "Belly",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dcdf5444-e6eb-4fd4-a283-336ac9a8d1e5",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Jenin",
+        "sort-name": "Jenin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Palestinian-Canadian rapper",
+      "ipis": [
+        "00443089947"
+      ],
+      "isnis": [
+        "0000000096073028"
+      ],
+      "life-span": {
+        "begin": "1984-04-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Balshe, Ahmad",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ahmad Balshe",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "canadian hip hop"
+        },
+        {
+          "count": 3,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "6ebeadf6-2949-48ae-9c8a-14d6add01b0b",
+      "score": 84,
+      "name": "Belly",
+      "sort-name": "Belly",
+      "disambiguation": "house",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "05a3e5f2-554b-415e-be5c-76b7afa0e307",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 84,
+      "name": "Belly",
+      "sort-name": "Belly",
+      "disambiguation": "folk-rock",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c7e491f3-118d-4be8-87cc-85ba2c4be0d3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Belly",
+      "sort-name": "Belly",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "North London, UK grime MC",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "27bb92f6-0503-4c32-81ee-aac0d82c8d2a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Belly",
+      "sort-name": "Reggae Singer",
+      "gender": "male",
+      "disambiguation": "Australian Artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "32a6fd89-c330-4b55-94f0-32a3833b471f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Belly",
+      "sort-name": "Belly",
+      "gender": "male",
+      "area": {
+        "id": "2c31712d-b1cb-4581-a989-d9afef510103",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Aarhus",
+        "sort-name": "Aarhus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Member of Shooter Gang",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6277f4da-4eef-459f-8e4b-3b861900cee5",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 81,
+      "name": "belly to belly",
+      "sort-name": "belly to belly",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f7757006-3be0-48db-80a1-3b19da33af2a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 79,
+      "name": "Velvet Belly",
+      "sort-name": "Velvet Belly",
+      "country": "NO",
+      "area": {
+        "id": "6743d351-6f37-3049-9724-5041161fff4d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Norway",
+        "sort-name": "Norway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "289e716f-c682-413c-a0b2-22c1dbebbaab",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Kristiansand",
+        "sort-name": "Kristiansand",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000092516856"
+      ],
+      "life-span": {
+        "begin": "1989",
+        "ended": null
+      }
+    }
+  ]
+}

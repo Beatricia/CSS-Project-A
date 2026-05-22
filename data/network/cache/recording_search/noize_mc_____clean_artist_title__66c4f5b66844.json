@@ -1,0 +1,212 @@
+{
+  "created": "2026-05-22T18:29:53.222Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "ee2c4240-4aae-42a7-847e-b951b14178d1",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "Любимый цвет",
+      "length": 151000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2016-12-16",
+      "releases": [
+        {
+          "id": "aa5ce64d-81c5-453b-a48a-f4717cd0b859",
+          "status-id": "41121bb9-3413-3818-8a9a-9742318349aa",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Tsar gory",
+          "status": "Pseudo-Release",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "581e1db3-cb8e-498c-89eb-6b6d4659e5ac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Царь горы",
+            "primary-type": "Album"
+          },
+          "track-count": 14,
+          "media": [
+            {
+              "id": "80ee205e-7c71-3304-8262-3dace546a1c1",
+              "position": 1,
+              "track": [
+                {
+                  "id": "7b4fbe87-62bc-462e-acc1-ca90a25ea0ad",
+                  "number": "13",
+                  "title": "Lyubimyi tsvet",
+                  "length": 151000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        },
+        {
+          "id": "7533a976-4749-4adb-9146-c9e9682e1bde",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Царь горы",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "581e1db3-cb8e-498c-89eb-6b6d4659e5ac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Царь горы",
+            "primary-type": "Album"
+          },
+          "date": "2016-12-16",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2016-12-16",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "500db1bb-ac24-35b3-96d9-2c84b44ca5b2",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9f7db57c-2e24-48dc-9585-2ba24855ac32",
+                  "number": "12",
+                  "title": "Любимый цвет",
+                  "length": 151000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "dbfb430f-52f5-4237-8040-d63e5b237ccc",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Царь горы",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "581e1db3-cb8e-498c-89eb-6b6d4659e5ac",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Царь горы",
+            "primary-type": "Album"
+          },
+          "date": "2016-12-16",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2016-12-16",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "dbcbf310-eab8-3e8d-a386-daff0449e2e7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "108d6469-4547-4768-9992-d08627131ea0",
+                  "number": "13",
+                  "title": "Любимый цвет",
+                  "length": 151000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 12
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "RUUM71600099"
+      ]
+    }
+  ],
+  "query": "artist:\"Noize MC\" AND recording:\"Любимый цвет\""
+}

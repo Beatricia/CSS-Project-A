@@ -1,0 +1,562 @@
+{
+  "created": "2026-05-22T17:15:03.521Z",
+  "count": 259,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c241deef-3d84-401e-bf92-a0d7a767ab2e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kongar‐ol Ondar",
+      "sort-name": "Ondar, Kongar‐ol",
+      "gender": "male",
+      "area": {
+        "id": "1a64314a-ea0d-488d-9be2-ee619ad12a36",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Respublika Tyva",
+        "sort-name": "Respublika Tyva",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1a64314a-ea0d-488d-9be2-ee619ad12a36",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Respublika Tyva",
+        "sort-name": "Respublika Tyva",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d741d3d9-2a4d-41a1-bbed-193702d6f1a2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyzyl",
+        "sort-name": "Kyzyl",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000049132507"
+      ],
+      "life-span": {
+        "begin": "1962-03-29",
+        "end": "2013-07-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "оглу, Ондар Коңгар-оол Борис",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ондар Коңгар-оол Борис оглу",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ondar",
+          "name": "Ondar",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Коңар-өл Ондар",
+          "name": "Коңар-өл Ондар",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "central asian throat singing"
+        }
+      ]
+    },
+    {
+      "id": "99cddaac-7312-4bbd-8595-982972db2362",
+      "score": 34,
+      "name": "Ondar",
+      "sort-name": "Ondar",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "869a4196-5307-4939-929e-7e251f453d1a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "OL",
+      "sort-name": "OL",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian techno producer Oleg Buyanov",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Buyanov, Oleg",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Олег Буянов",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "197450cd-0124-4164-b723-3c22dd16494d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frank Sinatra",
+      "sort-name": "Sinatra, Frank",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a61386e-15df-4a38-a1f6-d751e133a1a9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hoboken",
+        "sort-name": "Hoboken",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American singer and actor, “Ol’ Blue Eyes”",
+      "ipis": [
+        "00028814966"
+      ],
+      "isnis": [
+        "0000000108823528"
+      ],
+      "life-span": {
+        "begin": "1915-12-12",
+        "end": "1998-05-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Sinatra",
+          "name": "Sinatra",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinatra, Francis Albert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Francis Albert Sinatra",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frankie Satin",
+          "name": "Frankie Satin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "フランク・シナトラ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "フランク・シナトラ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sinatra Frank",
+          "name": "Sinatra Frank",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Frank Sinartra",
+          "name": "Frank Sinartra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 10,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "easy listening"
+        },
+        {
+          "count": 1,
+          "name": "vocal"
+        },
+        {
+          "count": 1,
+          "name": "lounge"
+        },
+        {
+          "count": 0,
+          "name": "baroque pop"
+        },
+        {
+          "count": 1,
+          "name": "christmas"
+        },
+        {
+          "count": 8,
+          "name": "swing"
+        },
+        {
+          "count": 3,
+          "name": "big band"
+        },
+        {
+          "count": 7,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 0,
+          "name": "columbia"
+        },
+        {
+          "count": 0,
+          "name": "easy listening soundtracks and musicals"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 3,
+          "name": "standards"
+        },
+        {
+          "count": 7,
+          "name": "traditional pop"
+        },
+        {
+          "count": 1,
+          "name": "acting"
+        },
+        {
+          "count": 1,
+          "name": "ultimate"
+        },
+        {
+          "count": 1,
+          "name": "singing"
+        },
+        {
+          "count": 3,
+          "name": "christmas music"
+        },
+        {
+          "count": 1,
+          "name": "actors"
+        },
+        {
+          "count": -1,
+          "name": "garland"
+        },
+        {
+          "count": -1,
+          "name": "chrismas"
+        },
+        {
+          "count": 0,
+          "name": "duets"
+        },
+        {
+          "count": -1,
+          "name": "swing; jazz; big band; christmas"
+        },
+        {
+          "count": -1,
+          "name": "my way"
+        },
+        {
+          "count": 1,
+          "name": "motion pictures--production and direction"
+        },
+        {
+          "count": 1,
+          "name": "motion picture producers and directors"
+        }
+      ]
+    },
+    {
+      "id": "af1a66df-5580-4490-b737-2569765f91ce",
+      "score": 30,
+      "name": "OL.",
+      "sort-name": "OL.",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7fccd6ba-2ca3-4fbe-954a-941b36c1b6e7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ol Kainry",
+      "sort-name": "Ol Kainry",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "43633c20-065f-4a0b-a64f-a8687f160231",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Évry",
+        "sort-name": "Évry",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French rapper",
+      "ipis": [
+        "00152524100",
+        "00152524298",
+        "00585530431"
+      ],
+      "isnis": [
+        "0000000003335931"
+      ],
+      "life-span": {
+        "begin": "1980-03-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ol'kainary",
+          "name": "Ol'kainary",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kpadé, Freddy",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Freddy Kpadé",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "OlKainri",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "OlKainri",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "OlKainry",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "OlKainry",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ol'Kainri",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ol'Kainri",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ol Kainri",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ol Kainri",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ol Kainry",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ol Kainry",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ol Kai ry",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ol Kai ry",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ol'Kainry",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ol'Kainry",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "a968209a-7661-493f-8999-e831e5d12d2b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "name": "Marzhimal Ondar",
+      "sort-name": "Marzhimal Ondar",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "31e9a123-f9b1-4b93-b305-e11ac9c283f3",
+      "score": 29,
+      "name": "Ayas Ondar",
+      "sort-name": "Ondar, Ayas",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7da8e4cc-cbd0-4523-8a6e-bad5e2cc25c8",
+      "score": 29,
+      "name": "O.L.",
+      "sort-name": "O.L.",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ff9dd591-dc69-404c-890e-49bcb13caa77",
+      "score": 29,
+      "name": "Ol",
+      "sort-name": "Ol",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

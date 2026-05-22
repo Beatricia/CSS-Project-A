@@ -1,0 +1,929 @@
+{
+  "created": "2026-05-22T17:29:36.645Z",
+  "count": 5729,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "0a272043-8ad2-4c85-a871-ba2d07a7a66b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "אורית וולף",
+      "sort-name": "Wolf, Orit",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000069266676"
+      ],
+      "life-span": {
+        "begin": "1974-10-08",
+        "ended": null
+      }
+    },
+    {
+      "id": "d3d9bc09-f1c1-49bc-94e0-e7897f60f4c3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 98,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stefan Wolf",
+      "sort-name": "Wolf, Stefan",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7b7006ff-b205-4788-a36b-4babee2b7c1a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nordhausen",
+        "sort-name": "Nordhausen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "10cad04e-d4b9-4988-a0fa-90dca88b72d3",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Garmisch-Partenkirchen",
+        "sort-name": "Garmisch-Partenkirchen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "author of the “TKKG” book series",
+      "isnis": [
+        "0000000084037441"
+      ],
+      "life-span": {
+        "begin": "1938-04-17",
+        "end": "2007-03-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "TKKG",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "TKKG",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kalmuczak, Rolf",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Rolf Kalmuczak",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hörspiel"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        },
+        {
+          "count": 1,
+          "name": "audio drama"
+        }
+      ]
+    },
+    {
+      "id": "b972f589-fb0e-474e-b64a-803b0364fa75",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Wolfgang Amadeus Mozart",
+      "sort-name": "Mozart, Wolfgang Amadeus",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f0590317-8b42-4498-a2e4-34cc5562fcf8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salzburg",
+        "sort-name": "Salzburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "classical composer",
+      "ipis": [
+        "00021693006"
+      ],
+      "isnis": [
+        "0000000121269154"
+      ],
+      "life-span": {
+        "begin": "1756-01-27",
+        "end": "1791-12-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mozart",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mozart",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "モーツァルト",
+          "name": "モーツァルト",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヴォルフガンク・アマデウス・モーツァルト",
+          "name": "ヴォルフガンク・アマデウス・モーツァルト",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mozart, W.A.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "W.A.Mozart",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wolfgang Amade Mozart",
+          "name": "Wolfgang Amade Mozart",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wolfgang Anadeus Mozart",
+          "name": "Wolfgang Anadeus Mozart",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mocarts, Volfgangs Amadejs",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Volfgangs Amadejs Mocarts",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "W.A. Mozart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "W.A. Mozart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "W A Mozart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "W A Mozart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wolfgang Amedeus Mozart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Wolfgang Amedeus Mozart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mozart, Wolfgang Amadeus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Wolfgang Amadeus Mozart",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wolfgang Amadeaus Mozart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Wolfgang Amadeaus Mozart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mozart, Wolfgang Amadeus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Wolfgang Amadeus Mozart",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mozart, Wolfgang Amadeus",
+          "name": "Wolfang Amadeus Mozart",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wolfang A. Mozart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Wolfang A. Mozart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wolfgan Amadeus Mozart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Wolfgan Amadeus Mozart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Моцарт, Вольфганг Амадей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Вольфганг Амадей Моцарт",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "W. A. Mozart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "W. A. Mozart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wolfgang A. Mozart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Wolfgang A. Mozart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "WA Mozart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "WA Mozart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wolfgang Armadeus Mozart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Wolfgang Armadeus Mozart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mosart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Mosart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wolfgang Amadues Mozart",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Wolfgang Amadues Mozart",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "모짜르트",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "볼프강 아마데우스 모짜르트",
+          "locale": "ko",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mozart, Johannes Chrysostomus Wolfgangus Theophilus",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Johannes Chrysostomus Wolfgangus Theophilus Mozart",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 21,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 6,
+          "name": "austrian"
+        },
+        {
+          "count": 7,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "european"
+        },
+        {
+          "count": 0,
+          "name": "series-mozart-complete works-philips"
+        },
+        {
+          "count": 0,
+          "name": "symphony"
+        },
+        {
+          "count": 1,
+          "name": "composers"
+        },
+        {
+          "count": 0,
+          "name": "1991"
+        },
+        {
+          "count": 0,
+          "name": "complete mozart edition"
+        },
+        {
+          "count": 0,
+          "name": "concerto"
+        },
+        {
+          "count": -1,
+          "name": "requiem"
+        },
+        {
+          "count": 1,
+          "name": "composition"
+        },
+        {
+          "count": 0,
+          "name": "complete"
+        },
+        {
+          "count": 5,
+          "name": "classical period"
+        },
+        {
+          "count": 0,
+          "name": "sonata"
+        },
+        {
+          "count": -1,
+          "name": "late symphonies"
+        },
+        {
+          "count": 0,
+          "name": "volume 15"
+        },
+        {
+          "count": 0,
+          "name": "gould"
+        },
+        {
+          "count": 1,
+          "name": "austrian composer"
+        },
+        {
+          "count": 0,
+          "name": "karl ristenpart"
+        },
+        {
+          "count": 0,
+          "name": "rothenberger"
+        },
+        {
+          "count": 0,
+          "name": "ascanio in alba"
+        },
+        {
+          "count": 1,
+          "name": "complete violin wind"
+        }
+      ]
+    },
+    {
+      "id": "ca5b38c2-f39d-45a4-ad3d-daf4448846ef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Howlin’ Wolf",
+      "sort-name": "Howlin’ Wolf",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5098f61b-26f1-4866-9358-f85afe436aad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "White Station",
+        "sort-name": "White Station",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2fbcadbb-7a46-408a-8c31-b4d5719ccad5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hines",
+        "sort-name": "Hines",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00004624713"
+      ],
+      "isnis": [
+        "0000000108229748",
+        "0000000108234440"
+      ],
+      "life-span": {
+        "begin": "1910-06-10",
+        "end": "1976-01-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Chester \"Howlin' Wolf\" Burnett",
+          "name": "Chester \"Howlin' Wolf\" Burnett",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Burnett, Chester Arthur",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Chester Arthur Burnett",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chester Burnett",
+          "name": "Chester Burnett",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Holin' Wolf",
+          "name": "Holin' Wolf",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hownlin' Wolf",
+          "name": "Hownlin' Wolf",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Howlin¹ Wolf",
+          "name": "Howlin¹ Wolf",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Howling Wolf",
+          "name": "Howling Wolf",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Howlin Wolf",
+          "name": "Howlin Wolf",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Burnett, Chester Arthur",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Chester Arthur Burnett",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Howlin' Wolf",
+          "name": "Howlin'Wolf",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chester Burnette",
+          "name": "Chester Burnette",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Howlin' Wolf",
+          "name": "The Howlin' Wolf",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 10,
+          "name": "blues"
+        },
+        {
+          "count": 4,
+          "name": "chicago blues"
+        },
+        {
+          "count": 4,
+          "name": "electric blues"
+        },
+        {
+          "count": 1,
+          "name": "acid rock"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 2,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 2,
+          "name": "server name"
+        },
+        {
+          "count": 0,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "21f39bff-fdec-4424-8ad7-86207565d571",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hugo Wolf",
+      "sort-name": "Wolf, Hugo",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "10166876-8621-496b-9b6f-c1108b52948a",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Slovenj Gradec",
+        "sort-name": "Slovenj Gradec",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian composer of Slovenian descent",
+      "ipis": [
+        "00033155120"
+      ],
+      "isnis": [
+        "0000000117013180"
+      ],
+      "life-span": {
+        "begin": "1860-03-13",
+        "end": "1903-02-22",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "austrian composer"
+        }
+      ]
+    },
+    {
+      "id": "20a2b119-b62c-46a4-99eb-4e58989af20f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Orit Shimoni",
+      "sort-name": "Shimoni, Orit",
+      "gender": "female",
+      "disambiguation": "Canadian Singer, songwriter, recording artists, storyteller, writer and painter",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "74b73252-84e2-4f74-9276-93d5a89154f8",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 88,
+      "name": "Trio Orit",
+      "sort-name": "Trio Orit",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "daff577f-10c7-4f09-9186-910937167410",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Orit Braha",
+      "sort-name": "Braha, Orit",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "640cc5f8-0946-47c0-9d54-e62c08e66940",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Orit Semiat",
+      "sort-name": "Semiat, Orit",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "51ff6576-95ff-4e02-a0cf-fad3b39c0b8d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 84,
+      "name": "Wolf Eyes",
+      "sort-name": "Wolf Eyes",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a1bb8b02-0496-4cfa-a771-2482e55451af",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ann Arbor",
+        "sort-name": "Ann Arbor",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US experimental/noise group",
+      "isnis": [
+        "0000000115382425"
+      ],
+      "life-span": {
+        "begin": "1996",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "industrial"
+        },
+        {
+          "count": 2,
+          "name": "noise"
+        },
+        {
+          "count": 1,
+          "name": "experimental rock"
+        },
+        {
+          "count": 1,
+          "name": "dark ambient"
+        },
+        {
+          "count": 1,
+          "name": "noise rock"
+        },
+        {
+          "count": 1,
+          "name": "free improvisation"
+        }
+      ]
+    }
+  ]
+}

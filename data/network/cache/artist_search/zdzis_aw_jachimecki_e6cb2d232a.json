@@ -1,0 +1,318 @@
+{
+  "created": "2026-05-22T16:58:38.191Z",
+  "count": 21,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "bde4522f-05e3-4543-b260-a0926ea497d7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zdzisław Jachimecki",
+      "sort-name": "Jachimecki, Zdzisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e82975d0-7258-4e4c-9c56-6e1deea8ad4c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kraków",
+        "sort-name": "Kraków",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081362580"
+      ],
+      "life-span": {
+        "begin": "1882-07-07",
+        "end": "1953-10-27",
+        "ended": true
+      }
+    },
+    {
+      "id": "afae2593-6a0e-4695-b203-8641593bcaaa",
+      "score": 34,
+      "name": "Zdzisław Nikodem",
+      "sort-name": "Nikodem, Zdzisław",
+      "disambiguation": "tenor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9bb1aef6-8f8e-4732-98a1-dc7accba892c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zdzisław Szostak",
+      "sort-name": "Szostak, Zdzisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1930-01-13",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "polish"
+        }
+      ]
+    },
+    {
+      "id": "5fbbaaee-8f4e-46e1-9a4b-37ba86ed69d4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zdzisław Piernik",
+      "sort-name": "Piernik, Zdzisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "685cf6b6-9d5f-4a84-9e83-61a6f173a232",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toruń",
+        "sort-name": "Toruń",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000110975635"
+      ],
+      "life-span": {
+        "begin": "1942-11-10",
+        "ended": null
+      }
+    },
+    {
+      "id": "b2e8c2e8-c538-46f1-ba79-65c8b834c578",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zdzisław Leśniak",
+      "sort-name": "Leśniak, Zdzisław",
+      "gender": "male",
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1930-12-13",
+        "end": "2002-09-22",
+        "ended": true
+      }
+    },
+    {
+      "id": "de7f6a02-df78-46ce-a41e-c9d14e3a01e0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zdzisław Górzyński",
+      "sort-name": "Górzyński, Zdzisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e82975d0-7258-4e4c-9c56-6e1deea8ad4c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kraków",
+        "sort-name": "Kraków",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish conductor",
+      "isnis": [
+        "0000000110069333"
+      ],
+      "life-span": {
+        "begin": "1895-09",
+        "end": "1977-11-22",
+        "ended": true
+      }
+    },
+    {
+      "id": "f9008881-4a3a-4a73-b395-5c8e4d2d8c50",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zdzisław Zioło",
+      "sort-name": "Zioło, Zdzisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fd374e74-137d-488c-add2-39c0fe2df9eb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zdzisław Garlej",
+      "sort-name": "Garlej, Zdzisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "733eca60-d438-4b9c-92fd-4ede054e6631",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zdzisław Jahnke",
+      "sort-name": "Jahnke, Zdzisław",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "92e7329e-374e-4b71-a175-f61fffc30213",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Poznań",
+        "sort-name": "Poznań",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "92e7329e-374e-4b71-a175-f61fffc30213",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Poznań",
+        "sort-name": "Poznań",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000111232550"
+      ],
+      "life-span": {
+        "begin": "1895-02-09",
+        "end": "1972-08-07",
+        "ended": true
+      }
+    },
+    {
+      "id": "c72e0786-e457-47d1-98f3-6a238eb7189f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 33,
+      "name": "Zdzisław Cichocki",
+      "sort-name": "Cichocki, Zdzisław",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

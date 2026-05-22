@@ -1,0 +1,353 @@
+{
+  "created": "2026-05-22T17:12:33.699Z",
+  "count": 25,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "9c9ea122-7aa9-46b5-8501-f9218a2ed4ee",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "name": "Alex Kharlamov",
+      "sort-name": "Kharlamov, Alex",
+      "ipis": [
+        "00338063174"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1f4f7067-c74f-4603-b75f-e5dd00a65b63",
+      "score": 91,
+      "name": "Kharlamov Andrii",
+      "sort-name": "Andrii, Kharlamov",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6b767db3-4655-4aba-9255-21a6b14a6516",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Гарик Сукачёв",
+      "sort-name": "Sukachev, Garik",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000057710645"
+      ],
+      "life-span": {
+        "begin": "1959-12-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sukachov, Garik",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Garik Sukachov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Soukatchev, Garik",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Garik Soukatchev",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Игорь Сукачёв",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Игорь Сукачёв",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Сукачёв, Игорь Иванович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Игорь Иванович Сукачёв",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Гарик Сукачев",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Гарик Сукачев",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ãàðèê Ñóêà÷åâ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ãàðèê Ñóêà÷åâ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Сукачёв, Гарик",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Гарик Сукачёв",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        }
+      ]
+    },
+    {
+      "id": "f9d179b0-2ca1-434f-a109-2702afce4b88",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Garik Sonic",
+      "sort-name": "Garik Sonic",
+      "gender": "male",
+      "area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "DJ / Producer (techno, D&B)",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1552e59b-210b-4e86-ac31-5d86b509ac58",
+      "score": 85,
+      "name": "Garik Chayka",
+      "sort-name": "Chayka, Garik",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a93410fb-99c3-4b9a-8541-38056e594aeb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Garik R",
+      "sort-name": "Garik R",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0d19b360-f0bf-46dd-a87b-2debb17eeff7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "name": "Garik Terzian",
+      "sort-name": "Terzian, Garik",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "51b781ed-4e16-49fe-b44f-81086414b4aa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Garik Papoyan",
+      "sort-name": "Papoyan, Garik",
+      "gender": "male",
+      "country": "AM",
+      "area": {
+        "id": "6474fa20-e0d6-3ef2-95ce-a6f73408cd5e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Armenia",
+        "sort-name": "Armenia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2b7f6ee1-38a1-450b-bf3f-acdcd625392e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gyumri",
+        "sort-name": "Gyumri",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1984-09-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Պապոյան, Գարիկ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Գարիկ Պապոյան",
+          "locale": "hy",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Papoyan, Garik Yurii",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Garik Yurii Papoyan",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Պապոյան, Գարիկ Յուրիի",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Գարիկ Յուրիի Պապոյան",
+          "locale": "hy",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "dee79fac-a132-44b1-9906-86edc8d9e5b1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Garik Martirosyan",
+      "sort-name": "Martirosyan, Garik",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f01d159f-19d9-4f98-913b-d54f05642d1f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Yerevan",
+        "sort-name": "Yerevan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian-Armenian media personality",
+      "life-span": {
+        "begin": "1974-02-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Մարտիրոսյան, Գարիկ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Գարիկ Մարտիրոսյան",
+          "locale": "hy",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Мартиросян, Гарик",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Гарик Мартиросян",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ed5bb48e-35a3-4417-9cf0-33d644d66bfa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Garik Wheeler",
+      "sort-name": "Wheeler, Garik",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

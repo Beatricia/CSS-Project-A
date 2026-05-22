@@ -1,0 +1,657 @@
+{
+  "created": "2026-05-22T17:32:02.524Z",
+  "count": 9640,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b675fca9-43d1-455f-a6ed-f90c84fcf934",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "סאן טיילור",
+      "sort-name": "Sun Tailor",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ba379e0f-7300-496c-9939-3a452db7e131",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kfar Saba",
+        "sort-name": "Kfar Saba",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1980-06-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "נאור, ארנון",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "ארנון נאור",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tailor, Sun",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sun Tailor",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c24b47a1-2f52-44f3-a3c6-374dca844731",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Wax Tailor",
+      "sort-name": "Wax Tailor",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "448be5a7-3b03-415a-a74e-5499580e5078",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vernon",
+        "sort-name": "Vernon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00451823268"
+      ],
+      "isnis": [
+        "0000000362769192"
+      ],
+      "life-span": {
+        "begin": "1975-07-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Le Saoût, Jean-Christophe",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jean-Christophe Le Saoût",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wax Taylor",
+          "name": "Wax Taylor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "downtempo"
+        },
+        {
+          "count": 2,
+          "name": "hip hop"
+        },
+        {
+          "count": 2,
+          "name": "electronica"
+        },
+        {
+          "count": 2,
+          "name": "acid jazz"
+        },
+        {
+          "count": 1,
+          "name": "trip hop"
+        },
+        {
+          "count": 1,
+          "name": "rock and indie"
+        }
+      ]
+    },
+    {
+      "id": "c8068c41-882c-48a4-b34f-8a83be597ff4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tailor",
+      "sort-name": "Tailor",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "AKA \"robrobrob\", UK singer/songwriter/house producer, Rob Tailor",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Taylor, Robert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Robert Taylor",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "house"
+        }
+      ]
+    },
+    {
+      "id": "bc992dd2-c0a3-4718-9023-d83ba39c443d",
+      "score": 49,
+      "name": "Tailor",
+      "sort-name": "Tailor",
+      "country": "ZA",
+      "area": {
+        "id": "50cc7852-862e-30ae-aa82-385fe7135b7f",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "South Africa",
+        "sort-name": "South Africa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "South African singer-songwriter",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a46b821e-a835-4b45-852d-b91fca3668d7",
+      "score": 47,
+      "name": "TAILOR",
+      "sort-name": "TAILOR",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c27cac8e-4c4a-48c0-a4ba-41399b9c176d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sun Ra",
+      "sort-name": "Sun Ra",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8995a377-da74-40b6-ab76-b1f2d6eed01f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Birmingham",
+        "sort-name": "Birmingham",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8995a377-da74-40b6-ab76-b1f2d6eed01f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Birmingham",
+        "sort-name": "Birmingham",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00047903862",
+        "00053257588",
+        "00053257686",
+        "00227787728"
+      ],
+      "isnis": [
+        "0000000121239027",
+        "0000000368638759",
+        "0000000368638767",
+        "0000000368638775"
+      ],
+      "life-span": {
+        "begin": "1914-05-22",
+        "end": "1993-05-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Le Sonny'r Ra",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Le Sonny'r Ra",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Le Sun Ra",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Le Sun Ra",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Herman Lee",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Herman Lee",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Le Sun Ra",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Le Sun Ra",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sonny Blount",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sonny Blount",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Blount, Herman Poole",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Herman Poole Blount",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sonny Bourke",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sonny Bourke",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Herman \"Sonny\" Blount",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Herman \"Sonny\" Blount",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Le Sony'r Ra",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Le Sony'r Ra",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Herman Blount",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Herman Blount",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 4,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "swing"
+        },
+        {
+          "count": 1,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 1,
+          "name": "post-bop"
+        },
+        {
+          "count": 1,
+          "name": "hard bop"
+        },
+        {
+          "count": 3,
+          "name": "avant-garde jazz"
+        },
+        {
+          "count": 3,
+          "name": "free jazz"
+        },
+        {
+          "count": 1,
+          "name": "mainstream jazz"
+        },
+        {
+          "count": 1,
+          "name": "jazz and blues"
+        },
+        {
+          "count": 2,
+          "name": "free improvisation"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "ecbd1331-95b6-4a77-b739-b4bd8ef222a7",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 44,
+      "name": "Son Volt",
+      "sort-name": "Son Volt",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "759f9567-9107-40ef-a825-e57824a62e70",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "St. Louis",
+        "sort-name": "St. Louis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1994",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sun Volt",
+          "name": "Sun Volt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "americana"
+        },
+        {
+          "count": 1,
+          "name": "country rock"
+        },
+        {
+          "count": 1,
+          "name": "southern rock"
+        },
+        {
+          "count": 1,
+          "name": "alternative country"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        }
+      ]
+    },
+    {
+      "id": "259126ae-05b0-458e-85fb-b0d002f03b8c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Tailor Cut",
+      "sort-name": "Tailor Cut",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "93f1d214-0a9a-43c9-803b-3ec738be0f9d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 43,
+      "name": "Royal Tailor",
+      "sort-name": "Royal Tailor",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3bb238a4-c2a4-44e5-9843-a63e71b17e83",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Indianapolis",
+        "sort-name": "Indianapolis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2004",
+        "end": "2015",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "christian rock"
+        },
+        {
+          "count": 1,
+          "name": "christian pop"
+        }
+      ]
+    },
+    {
+      "id": "0fc881bb-ff60-42af-8ba5-d1c9bf1ac59f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "The Tailor",
+      "sort-name": "Tailor, The",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tailor, Tarran the",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tarran the Tailor",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "acoustic"
+        },
+        {
+          "count": 1,
+          "name": "alternative folk"
+        },
+        {
+          "count": 1,
+          "name": "banjo"
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "vancouver"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "created": "2026-05-22T16:59:08.253Z",
+  "count": 157,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "3b7a7d74-a671-46cf-b231-1341dbf2bf17",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Маша Кондратенко",
+      "sort-name": "Kondratenko, Masha",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "eada54dc-7dcc-439b-84b8-7ffe02516ac4",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Sums'ka Oblast'",
+        "sort-name": "Sums'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1999-12-05",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ukraine"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian pop"
+        }
+      ]
+    },
+    {
+      "id": "18d37a64-3e2b-44f6-99fa-31d87deb6829",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oleg Kondratenko",
+      "sort-name": "Kondratenko, Oleg",
+      "gender": "male",
+      "country": "MK",
+      "area": {
+        "id": "fa75cdb9-cbc4-35de-8bf4-a21e7b811484",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "North Macedonia",
+        "sort-name": "North Macedonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1973",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Олег Кондратенко",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Олег Кондратенко",
+          "locale": "mk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kontradenko, Oleg",
+          "name": "Oleg Kontradenko",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "6aac4461-4cd1-4e7a-8daa-c1c41d926cfe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Masha",
+      "sort-name": "Masha",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "563d21b7-4a8e-35e2-83a7-7804baefbfa7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Luxembourg",
+        "sort-name": "Luxembourg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German jazz, swing, blues singer",
+      "ipis": [
+        "00572587807",
+        "00578131143"
+      ],
+      "isnis": [
+        "0000000133446234"
+      ],
+      "life-span": {
+        "begin": "1975",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Litterscheid, Mascha",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mascha Litterscheid",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1900963a-404a-4c46-be13-5e4e3c42861f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "name": "Dmitry Kondratenko",
+      "sort-name": "Dmitry Kondratenko",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e8db63ee-3028-4aba-acc4-b2d515e031b3",
+      "score": 76,
+      "name": "Masha",
+      "sort-name": "Masha",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "94bbcbcb-5a46-49f9-8a3b-c29dd1177a3b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Masha",
+      "sort-name": "Мария Качанова",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f4409063-6f46-4ca8-aa47-2d2fccb00757",
+      "score": 76,
+      "name": "Masha",
+      "sort-name": "Masha",
+      "disambiguation": "experimental artist on 7FORM",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "66f7cd47-1257-4766-882b-9e4fc83af1d7",
+      "score": 76,
+      "name": "Anna Kondratenko",
+      "sort-name": "Kondratenko, Anna",
+      "disambiguation": "Violinist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4d6e2387-b1ab-45ab-b93a-d88452e5ed25",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Masha",
+      "sort-name": "Masha",
+      "gender": "female",
+      "disambiguation": "feat. on tyDi’s “Not That Beautiful”",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ad0bd0ca-34f7-4341-8129-ceaff475626d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Masha",
+      "sort-name": "Masha",
+      "gender": "female",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Eurobeat artist Stefania Dal Pino",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "eurobeat"
+        }
+      ]
+    }
+  ]
+}

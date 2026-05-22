@@ -1,0 +1,88 @@
+{
+  "nodes": [
+    {
+      "id": "Saint Levant",
+      "artist_name": "Saint Levant",
+      "artist_mbid": "015c8b7d-015b-4603-9792-18bb440178ac",
+      "recording_count": 2,
+      "weighted_degree": 2,
+      "degree": 2
+    },
+    {
+      "id": "Bashar Murad",
+      "artist_name": "Bashar Murad",
+      "artist_mbid": "5a289a16-e872-4058-ba3d-4e108e46ff5c",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Kehlani",
+      "artist_name": "Kehlani",
+      "artist_mbid": "3260ce89-5eb0-4c6a-89c7-379c0dfc2ab9",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "MC Abdul",
+      "artist_name": "MC Abdul",
+      "artist_mbid": "bd49121d-3dd5-46ae-8ef9-69c66fd01bff",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    },
+    {
+      "id": "Sabreen",
+      "artist_name": "Sabreen",
+      "artist_mbid": "bdadce04-f83c-4b53-8179-9b0d2a3f33f7",
+      "recording_count": 1,
+      "weighted_degree": 1,
+      "degree": 1
+    }
+  ],
+  "edges": [
+    {
+      "source": "Bashar Murad",
+      "target": "Sabreen",
+      "weight": 1,
+      "recordings": [
+        "Stone"
+      ],
+      "recording_titles": [
+        "Stone (2024)"
+      ],
+      "recording_years": [
+        "2024"
+      ]
+    },
+    {
+      "source": "Kehlani",
+      "target": "Saint Levant",
+      "weight": 1,
+      "recordings": [
+        "Allah Yihmeeki"
+      ],
+      "recording_titles": [
+        "Allah Yihmeeki (2024)"
+      ],
+      "recording_years": [
+        "2024"
+      ]
+    },
+    {
+      "source": "MC Abdul",
+      "target": "Saint Levant",
+      "weight": 1,
+      "recordings": [
+        "Deira"
+      ],
+      "recording_titles": [
+        "Deira (2024)"
+      ],
+      "recording_years": [
+        "2024"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "created": "2026-05-22T18:10:40.280Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "3b1f0ea1-bd0b-4a81-aea4-8604fdbec97b",
+      "score": 100,
+      "artist-credit-id": "7952eb9a-d0e9-3043-9951-34c13c51d9b8",
+      "title": "Велика й смiшна",
+      "length": 199000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "alyona alyona",
+          "artist": {
+            "id": "1a6993eb-fa5b-42e2-a834-2a9539c53be1",
+            "name": "alyona alyona",
+            "sort-name": "alyona alyona",
+            "disambiguation": "Ukrainian rapper",
+            "aliases": [
+              {
+                "sort-name": "Savranenko, Aliona Olehivna",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Альона Олегівна Савраненко",
+                "locale": "uk_UA",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2019-04-08",
+      "releases": [
+        {
+          "id": "c9ef7438-930d-4b29-9ef0-38116d594e9e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "7952eb9a-d0e9-3043-9951-34c13c51d9b8",
+          "count": 1,
+          "title": "Пушка",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "alyona alyona",
+              "artist": {
+                "id": "1a6993eb-fa5b-42e2-a834-2a9539c53be1",
+                "name": "alyona alyona",
+                "sort-name": "alyona alyona",
+                "disambiguation": "Ukrainian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "09a2ca3c-8c10-4905-b210-8ad075d8c98a",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Пушка",
+            "primary-type": "Album"
+          },
+          "date": "2019-04-08",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2019-04-08",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 13,
+          "media": [
+            {
+              "id": "5f9b2ce9-e91d-3b1a-8341-3365033e5a6d",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "ec5a10db-a5d7-435f-b453-c263e3224e0b",
+                  "number": "10",
+                  "title": "Велика й смiшна",
+                  "length": 199000
+                }
+              ],
+              "track-count": 13,
+              "track-offset": 9
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "FR2X41907067"
+      ]
+    }
+  ],
+  "query": "artist:\"Alyona Alyona\" AND recording:\"Велика й смiшна\""
+}

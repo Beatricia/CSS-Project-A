@@ -1,0 +1,109 @@
+{
+  "created": "2026-05-22T18:29:22.615Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "cbf6edaf-aeb7-4d83-9aeb-24014af4bb08",
+      "score": 100,
+      "artist-credit-id": "34a8c989-2c57-312f-8113-1a7363e132f3",
+      "title": "СНІГ",
+      "length": 206181,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Jerry Heil",
+          "artist": {
+            "id": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+            "name": "Jerry Heil",
+            "sort-name": "Heil, Jerry",
+            "disambiguation": "Ukrainian singer, participant of Eurovision 2024 (Ukraine)",
+            "aliases": [
+              {
+                "sort-name": "Shemaieva, Yana",
+                "name": "Яна Шемаєва",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-05-02",
+      "releases": [
+        {
+          "id": "21f5f2ed-ce6d-4b94-b01d-697e4b704e2b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "34a8c989-2c57-312f-8113-1a7363e132f3",
+          "count": 1,
+          "title": "АРХЕТИПИ",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Jerry Heil",
+              "artist": {
+                "id": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+                "name": "Jerry Heil",
+                "sort-name": "Heil, Jerry",
+                "disambiguation": "Ukrainian singer, participant of Eurovision 2024 (Ukraine)"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8586edff-84c3-4f7d-89b5-fbcee87a0c7f",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "АРХЕТИПИ",
+            "primary-type": "Album"
+          },
+          "date": "2025-05-02",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2025-05-02",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 16,
+          "media": [
+            {
+              "id": "de5377bc-089d-4eff-b60a-59fc8fd6d194",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "e6154911-f3d7-4797-b855-b8037b7a582c",
+                  "number": "1",
+                  "title": "СНІГ",
+                  "length": 206181
+                }
+              ],
+              "track-count": 16,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMFME2477204"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative pop"
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Jerry Heil\" AND recording:\"СНІГ\""
+}

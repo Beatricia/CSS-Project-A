@@ -1,0 +1,422 @@
+{
+  "created": "2026-05-22T16:53:49.810Z",
+  "count": 105,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "55f20da1-4481-499d-9ffb-1db7e6b2a5b2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Iгор Шамо",
+      "sort-name": "Shamo, Ihor",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian composer",
+      "isnis": [
+        "0000000058528490"
+      ],
+      "life-span": {
+        "begin": "1925-02-21",
+        "end": "1982-08-17",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Shamo, Ihor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ihor Shamo",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shamo, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Shamo",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schamo, Igor",
+          "name": "Igor Schamo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "62033edf-20d6-459c-9df4-c535f45a7932",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "shamo",
+      "sort-name": "shamo",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "demoscene tracker group",
+      "life-span": {
+        "begin": "1993",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "シャモ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "舎模",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "shamo",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "shamo",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "shamo korpo",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "shamo korpo",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a494fa6d-4f0c-4094-a91e-0feb31398730",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Shamo",
+      "sort-name": "Shamo",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5f5bcaab-497e-412a-b536-16baed9869d4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Orléans",
+        "sort-name": "Orléans",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French Hip-Hop",
+      "life-span": {
+        "begin": "1989-11-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Shamo",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Shamo",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chaïb, Mohammed",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mohammed Chaïb",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1989-11-04",
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "47c6bf7d-78c2-4396-8d8b-54229a6f505a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "軍鶏",
+      "sort-name": "Shamo",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Japanese pop duo",
+      "isnis": [
+        "000000047141733X"
+      ],
+      "life-span": {
+        "begin": "2005",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "シャモ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "軍鶏",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "シャモ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Shamo",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "likedis auto"
+        }
+      ]
+    },
+    {
+      "id": "b660564b-bfe0-4040-b5d4-b4aee022a187",
+      "score": 44,
+      "name": "しゃも",
+      "sort-name": "Shamo",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "97c5de93-2589-4c60-bafd-2ad5cfaea4f9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "name": "Ihor Fedyk",
+      "sort-name": "Fedyk, Ihor",
+      "ipis": [
+        "01025400714"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e9cb738e-076a-4e62-b680-5ca0d597d6ea",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "name": "Ihor Kukurudza",
+      "sort-name": "Kukurudza, Ihor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0357b1c2-9796-4de0-919b-b0940bc5199b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ihor Blazhkov",
+      "sort-name": "Blazhkov, Ihor",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8e6d774f-482e-4c57-b852-3d9696498ae6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Potsdam",
+        "sort-name": "Potsdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian conductor",
+      "isnis": [
+        "000000011878477X"
+      ],
+      "life-span": {
+        "begin": "1936-09-23",
+        "end": "2026-01-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Blazhkov, Igor",
+          "name": "Igor Blazhkov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "4d10ad24-5a83-4e35-a4b3-fc44bb1867ae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ihor Sonevytsky",
+      "sort-name": "Sonevytsky, Ihor",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "75e398a3-5f3f-4224-9cd8-0fe44715bc95",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000374083841"
+      ],
+      "life-span": {
+        "begin": "1926-01-02",
+        "end": "2006-12-23",
+        "ended": true
+      }
+    },
+    {
+      "id": "c8d14c66-4fd1-4097-9550-0912cee4dc9d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 41,
+      "name": "Gentle Ihor",
+      "sort-name": "Gentle Ihor",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

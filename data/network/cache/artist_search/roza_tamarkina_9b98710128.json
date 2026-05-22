@@ -1,0 +1,409 @@
+{
+  "created": "2026-05-22T16:52:34.907Z",
+  "count": 362,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7070f620-349b-4c34-99e0-243f67edac89",
+      "score": 100,
+      "name": "Roza Roza",
+      "sort-name": "Roza Roza",
+      "area": {
+        "id": "f988aff4-5221-4b36-9174-befec694f906",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nottingham",
+        "sort-name": "Nottingham",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "03345953-6a52-428e-aefe-a8c56a6aafb7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Rosa Tamarkina",
+      "sort-name": "Tamarkina, Rosa",
+      "gender": "female",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000055395397"
+      ],
+      "life-span": {
+        "begin": "1920-03-23",
+        "end": "1950-08-05",
+        "ended": true
+      }
+    },
+    {
+      "id": "82fd0ec2-21a2-4e84-9568-aa0a34ff662f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 94,
+      "name": "ROZA",
+      "sort-name": "ROZA",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7bda5d46-4809-41dc-a0b8-e889ff818f2e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Brussels",
+        "sort-name": "Brussels",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian goup/project led by Rosalie Gevers",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "67f3a0a1-9d27-4737-81b7-a674c102dcc8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ROZA",
+      "sort-name": "ROZA",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fc617bbb-6cae-4e33-ae25-bf5a6cb7d7d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kharkiv",
+        "sort-name": "Kharkiv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian glitch producer, aka DJ Nikto",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "aee272be-5b31-4092-ae8b-a2f35a3ea1ba",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 93,
+      "name": "Roza",
+      "sort-name": "Roza",
+      "disambiguation": "Royalty free producer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d69335b1-5309-40d5-ac28-6ffd456923dd",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 93,
+      "name": "ROZA",
+      "sort-name": "ROZA",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Japanese glam",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2dbe1c1f-a04e-4c16-9376-690fb5ea5e28",
+      "score": 93,
+      "name": "Roza",
+      "sort-name": "Roza",
+      "country": "RS",
+      "area": {
+        "id": "424c1b50-57f8-34af-ab97-313e2ad40058",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Serbia",
+        "sort-name": "Serbia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Serbian psychedelic rock band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "deccfe4a-6837-46af-bbdc-a2bc81ae2aae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lita Roza",
+      "sort-name": "Roza, Lita",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Liverpool",
+        "sort-name": "Liverpool",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1926-03-14",
+        "end": "2008-08-14",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        }
+      ]
+    },
+    {
+      "id": "29c2b372-b02c-4bb9-b0a7-5741f0b48b3b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Roza Terenzi",
+      "sort-name": "Terenzi, Roza",
+      "gender": "female",
+      "area": {
+        "id": "b4e9352c-8edf-4911-8fa3-e852afa30501",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Melbourne",
+        "sort-name": "Melbourne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000476201554"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Campbell, Katie",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Katie Campbell",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "754a1dd2-7379-4dcb-bfdb-a03459b9f530",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ρόζα Εσκενάζυ",
+      "sort-name": "Eskenazi, Roza",
+      "gender": "female",
+      "country": "GR",
+      "area": {
+        "id": "803db0ca-b6ed-3bbc-aeb8-f89efd0a2168",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Greece",
+        "sort-name": "Greece",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f9a822ff-adce-434c-9292-a8b6a0a37a8e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Istanbul",
+        "sort-name": "Istanbul",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1876749b-4a07-495b-8b57-9dde0ac39c24",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Athens",
+        "sort-name": "Athens",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "early 20th century jewish-greek singer",
+      "life-span": {
+        "end": "1980-12-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Eskenazi, Roza",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Roza Eskenazi",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Roza Eskenazy",
+          "name": "Roza Eskenazy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rosa Eskenasis",
+          "name": "Rosa Eskenasis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Róza Eskenázi",
+          "name": "Róza Eskenázi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rósa Eskenázi",
+          "name": "Rósa Eskenázi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rosa Eskenazi",
+          "name": "Rosa Eskenazi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "greek"
+        }
+      ]
+    }
+  ]
+}

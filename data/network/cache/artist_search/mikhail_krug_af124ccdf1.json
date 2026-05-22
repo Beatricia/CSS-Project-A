@@ -1,0 +1,401 @@
+{
+  "created": "2026-05-22T17:06:12.625Z",
+  "count": 913,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8523fe01-b990-45af-a8ab-aaa4fb3db907",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Круг",
+      "sort-name": "Krug, Mikhail",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9c3d2314-5a44-4093-9d56-c3d2217b53b4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tver",
+        "sort-name": "Tver",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "9c3d2314-5a44-4093-9d56-c3d2217b53b4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tver",
+        "sort-name": "Tver",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000372367357"
+      ],
+      "life-span": {
+        "begin": "1962-04-07",
+        "end": "2002-06-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Воробьёв, Михаил Владимирович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Михаил Владимирович Воробьёв",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Krug, Mikhail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mikhail Krug",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Круг, Михаил",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Михаил Круг",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "russian chanson"
+        }
+      ]
+    },
+    {
+      "id": "cba12c66-7443-491d-bb54-14da34b1b99d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Manfred Krug",
+      "sort-name": "Krug, Manfred",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "71730bfd-9d1e-4b8a-a0d6-007150cdacea",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Duisburg",
+        "sort-name": "Duisburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078452200"
+      ],
+      "life-span": {
+        "begin": "1937-02-08",
+        "end": "2016-10-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Karfunkelstein, Isa",
+          "name": "Isa Karfunkelstein",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Krug",
+          "name": "Krug",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Manfed Krug",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Manfed Krug",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "actor"
+        },
+        {
+          "count": 1,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        },
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "e2f8a538-8af2-4ee5-a311-fd9b109e1e49",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 58,
+      "name": "Krug",
+      "sort-name": "Krug",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swiss Rock Band from Luzern, Seetal",
+      "life-span": {
+        "begin": "2001",
+        "ended": null
+      }
+    },
+    {
+      "id": "50390238-9a81-4dee-8dc6-fed225e1ef65",
+      "score": 57,
+      "name": "Krug",
+      "sort-name": "Krug",
+      "disambiguation": "German alt rock",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cffcffe9-7193-4cf4-884d-55ae16125ca8",
+      "score": 57,
+      "name": "Krug",
+      "sort-name": "Krug",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2340ca9c-89d6-49d1-a5e0-19cdaa317357",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mikhail Polukrug",
+      "sort-name": "Polukrug, Mikhail",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0fcb4ff5-6384-4497-b796-9d545583c8bd",
+      "score": 53,
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "disambiguation": "Mikhail Karikis",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4d34bc82-52c0-4ad5-be19-d353da3255a9",
+      "type": "Choir",
+      "type-id": "6124967d-7e3a-3eba-b642-c9a2ffb44d94",
+      "score": 53,
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b9e3274f-3a41-45fb-ba69-fe8ee68db6ad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hyattsville",
+        "sort-name": "Hyattsville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US metal band",
+      "life-span": {
+        "begin": "2004",
+        "ended": null
+      }
+    },
+    {
+      "id": "c1e222df-2682-470c-9312-8b9bcea0ae31",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "Круг",
+      "sort-name": "Krug",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "end-area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "disambiguation": "Soviet band",
+      "life-span": {
+        "begin": "1981",
+        "end": "1988",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Krug",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Krug",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Круг",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Круг",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "72dfc90d-65a5-4817-a745-81c4310f8f5d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "gender": "male",
+      "country": "BG",
+      "area": {
+        "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Bulgaria",
+        "sort-name": "Bulgaria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Bulgarian hip-hop artist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

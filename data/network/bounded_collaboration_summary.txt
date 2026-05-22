@@ -1,0 +1,38 @@
+Bounded MusicBrainz collaboration test summary
+
+Sampled artists: 10
+Artist-song queries: 49
+Successful recording matches: 31
+Match rate: 63.3%
+Matches with usable year/date: 31
+Rows with 2+ credited artists: 2
+Nodes: 4
+Edges: 2
+
+Lookup success by strategy:
+- exact_artist_title: attempted=49 successful=14
+- clean_artist_title: attempted=35 successful=17
+- title_only: attempted=18 successful=0
+- clean_title_only: attempted=18 successful=0
+
+Top 10 nodes by weighted degree:
+- Bashar Murad | weighted_degree=1 | degree=1 | recordings=1
+- Playyard | weighted_degree=1 | degree=1 | recordings=1
+- Sabreen | weighted_degree=1 | degree=1 | recordings=1
+- Saint Levant | weighted_degree=1 | degree=1 | recordings=1
+
+Top 10 edges by weight:
+- Bashar Murad -- Sabreen | weight=1 | recordings=Stone (2024)
+- Playyard -- Saint Levant | weight=1 | recordings=I Guess (2022)
+
+Sample no-match rows:
+- Alyona Alyona / Залишаю свiй дiм (Leaving my home) -> no_match
+- George Wassouf / El Hawa Sultan - الهوى سلطان -> no_match
+- George Wassouf / Helaf El Amar - حلف القمر -> no_match
+- George Wassouf / Sayad Al Touyour - صياد الطيور -> no_match
+- George Wassouf / Kalam Ennas - كلام الناس -> no_match
+- George Wassouf / Laiel El Ashekin - ليل العاشقين -> no_match
+- Jerry Heil / #НЕБЕЙБІ (#NOTBABY) -> no_match
+- Jerry Heil / #ЗДН (#ZDN) -> no_match
+- Subliminal / Banu Hoshech Legaresh - באנו חושך לגרש -> no_match
+- Subliminal / Beit Hasefer Hayashan - בית הספר הישן -> no_match

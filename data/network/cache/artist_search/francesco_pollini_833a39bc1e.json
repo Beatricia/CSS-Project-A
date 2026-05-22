@@ -1,0 +1,616 @@
+{
+  "created": "2026-05-22T17:01:43.562Z",
+  "count": 1445,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7d1195c1-ca0f-47fb-9607-bb62126e596b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Francesco Pollini",
+      "sort-name": "Pollini, Francesco",
+      "gender": "male",
+      "begin-area": {
+        "id": "d384ec5f-9831-4890-ac40-648a71aec054",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ljubljana",
+        "sort-name": "Ljubljana",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Milano",
+        "sort-name": "Milano",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian-Roman musician",
+      "life-span": {
+        "begin": "1762-03-26",
+        "end": "1846-09-17",
+        "ended": true
+      }
+    },
+    {
+      "id": "afdfd1f3-e3c2-47e7-b861-465678a3dbc2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Maurizio Pollini",
+      "sort-name": "Pollini, Maurizio",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Milano",
+        "sort-name": "Milano",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Milano",
+        "sort-name": "Milano",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000110327013"
+      ],
+      "life-span": {
+        "begin": "1942-01-05",
+        "end": "2024-03-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Maurizzio Pollini",
+          "name": "Maurizzio Pollini",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "italian pianist"
+        }
+      ]
+    },
+    {
+      "id": "cc0daaac-4635-4087-b223-5a6deccdedbc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Daniele Pollini",
+      "sort-name": "Pollini, Daniele",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d793f202-faf0-4de8-83e2-9ddfca54a35f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Milano",
+        "sort-name": "Milano",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000089602307"
+      ],
+      "life-span": {
+        "begin": "1978",
+        "ended": null
+      }
+    },
+    {
+      "id": "01c2606e-cdeb-4eab-a134-e7c89c404c9a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lorenza Pollini",
+      "sort-name": "Pollini, Lorenza",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "22a81d86-5be7-4492-9dd4-6ccda1e7991b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Heidrun Pollini",
+      "sort-name": "Pollini, Heidrun",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ceb214fe-a6a5-49c3-a665-0a7f329b0c13",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Frédéric François",
+      "sort-name": "François, Frédéric",
+      "gender": "male",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "70a48af3-9cb5-4a2b-a703-8c8d4bd5515d",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Lercara Friddi",
+        "sort-name": "Lercara Friddi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian singer",
+      "ipis": [
+        "00040384602"
+      ],
+      "isnis": [
+        "0000000078256832"
+      ],
+      "life-span": {
+        "begin": "1950-06-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Francesco Barracatto",
+          "name": "Francesco Barracatto",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Barracato, Francesco",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Francesco Barracato",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "8cb0e5cc-fdad-4836-8214-1a84566f75fc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Francesco Geminiani",
+      "sort-name": "Geminiani, Francesco",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3e28831d-509a-423e-87a5-9f9ad818f7fd",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Lucca",
+        "sort-name": "Lucca",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "462e7952-4fa9-43cd-bc24-2c5c9cd5dd47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dublin",
+        "sort-name": "Dublin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "000000011019808X"
+      ],
+      "life-span": {
+        "begin": "1687-12-05",
+        "end": "1762-09-17",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "italian composer"
+        }
+      ]
+    },
+    {
+      "id": "2afb8d0b-50ff-43b0-8ab2-5471e66ea91c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Francesco Cavalli",
+      "sort-name": "Cavalli, Francesco",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6ec19180-bb20-4a63-9a9c-6b852cd58520",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Crema",
+        "sort-name": "Crema",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "a6e08cd9-a712-4152-8808-9485c75e1196",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Venezia",
+        "sort-name": "Venezia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Baroque composer",
+      "isnis": [
+        "0000000108634380"
+      ],
+      "life-span": {
+        "begin": "1602-02-14",
+        "end": "1676-01-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Pietro Francesco Cavalli",
+          "name": "Pietro Francesco Cavalli",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "italian composer"
+        }
+      ]
+    },
+    {
+      "id": "04aab033-628a-48b8-9d70-fc9b10761932",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Francesco Guccini",
+      "sort-name": "Guccini, Francesco",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "86c04648-2c5c-4c33-87d9-8a2384c0d05c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Modena",
+        "sort-name": "Modena",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000066521838"
+      ],
+      "life-span": {
+        "begin": "1940-06-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Guccini",
+          "name": "Guccini",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "F.Guccini",
+          "name": "F.Guccini",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 0,
+          "name": "morcheeba"
+        }
+      ]
+    },
+    {
+      "id": "0cd117b2-2e21-406d-80cf-5ce0a6065e37",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Franco Battiato",
+      "sort-name": "Battiato, Franco",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "28b33003-15f7-4b3f-a8af-b0240f6aa817",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Riposto",
+        "sort-name": "Riposto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "670bc73b-6dea-4dfe-9465-6e2648603d46",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Milo",
+        "sort-name": "Milo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian singer-songwriter and composer",
+      "ipis": [
+        "00028146591"
+      ],
+      "isnis": [
+        "0000000114439143"
+      ],
+      "life-span": {
+        "begin": "1945-03-23",
+        "end": "2021-05-18",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Astra",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Astra",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Battiato, Francesco",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Francesco Battiato",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "synthpop"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 4,
+          "name": "progressive rock"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 3,
+          "name": "new wave"
+        },
+        {
+          "count": 1,
+          "name": "electro"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "new age"
+        },
+        {
+          "count": 2,
+          "name": "experimental rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "classical crossover"
+        },
+        {
+          "count": 1,
+          "name": "choral"
+        },
+        {
+          "count": 1,
+          "name": "progressive electronic"
+        },
+        {
+          "count": 1,
+          "name": "euro-pop"
+        },
+        {
+          "count": 5,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 1,
+          "name": "italian singer-songwriter"
+        }
+      ]
+    }
+  ]
+}

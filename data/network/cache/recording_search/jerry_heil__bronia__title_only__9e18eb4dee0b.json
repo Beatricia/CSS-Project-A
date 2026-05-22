@@ -1,0 +1,207 @@
+{
+  "created": "2026-05-22T18:28:50.382Z",
+  "count": 3,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "22d7f868-69b7-40e8-8298-0efd653e219e",
+      "score": 100,
+      "artist-credit-id": "1d29b1e5-85e9-3dd7-acab-8aa307c4bdfe",
+      "title": "Aspiracje Waszą Bronią",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Czerwone Świnie",
+          "artist": {
+            "id": "b7d380b4-c34c-4deb-8065-801f0719529d",
+            "name": "Czerwone Świnie",
+            "sort-name": "Czerwone Swinie"
+          }
+        }
+      ],
+      "first-release-date": "2019-04-12",
+      "releases": [
+        {
+          "id": "e4f94190-9179-4c3e-a66c-f43c4a9d5d9d",
+          "count": 1,
+          "title": "Basta dziwko",
+          "release-group": {
+            "id": "32d9fd67-3e43-4e88-9093-17d3e0f337de",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Basta Dziwko",
+            "primary-type": "Album"
+          },
+          "date": "2019-04-12",
+          "country": "PL",
+          "release-events": [
+            {
+              "date": "2019-04-12",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "4af97932-1bb1-3a65-9c88-00fa64ced393",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "b0a062dd-1ed0-400e-bd80-e40670f09205",
+                  "number": "3",
+                  "title": "Aspiracje waszą bronią"
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6ce2f46-c2f7-4f66-a168-323b7e94a639",
+      "score": 89,
+      "artist-credit-id": "5b9cb794-4c86-3921-a718-76bdb0f6cb53",
+      "title": "Muzyka może być bronią",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "The Analogs",
+          "artist": {
+            "id": "4e368fcf-94c7-4b98-bc02-a579883f98b9",
+            "name": "The Analogs",
+            "sort-name": "Analogs, The"
+          }
+        }
+      ],
+      "first-release-date": "2010",
+      "releases": [
+        {
+          "id": "cf6ce0f7-c34e-4992-80d1-50c4c4510284",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "S.O.S.",
+          "status": "Official",
+          "release-group": {
+            "id": "87932374-2541-403a-a34a-8522e9371ed6",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "S.O.S.",
+            "primary-type": "Album"
+          },
+          "date": "2010",
+          "country": "PL",
+          "release-events": [
+            {
+              "date": "2010",
+              "area": {
+                "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+                "name": "Poland",
+                "sort-name": "Poland",
+                "iso-3166-1-codes": [
+                  "PL"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "add3e7db-7f46-343b-bdc6-96dc704dab07",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "56df16e6-feca-36d1-a02f-54868646242a",
+                  "number": "7",
+                  "title": "Muzyka może być bronią"
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f463edec-01aa-4395-acd8-d600a75473e7",
+      "score": 62,
+      "artist-credit-id": "01a72200-a002-3e5e-90b5-7f9f245cdd47",
+      "title": "Z Twoim Błogosławieństwem Ojcze, Przepłyniemy z Bronią Fale",
+      "length": 641437,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Loveboy",
+          "artist": {
+            "id": "c2128f61-8e0e-488f-879c-bf65044db19b",
+            "name": "Loveboy",
+            "sort-name": "Loveboy",
+            "disambiguation": "Swedish conceptual ambient thing"
+          }
+        }
+      ],
+      "first-release-date": "2017-09-17",
+      "releases": [
+        {
+          "id": "89a15be6-b195-40fc-9fcc-7fca1cd5a658",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "count": 1,
+          "title": "Na Srebrnym Globie: Interpretacja Atmosfery",
+          "status": "Official",
+          "release-group": {
+            "id": "f36667fb-e3f8-4ca7-9a2d-9dde9db46ead",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "Na Srebrnym Globie: Interpretacja Atmosfery",
+            "primary-type": "EP"
+          },
+          "date": "2017-09-17",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2017-09-17",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "edc823ea-4047-3899-9780-b6e3c5ab4f42",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "a020d35c-6a8d-4b98-83df-fa6c3c09107f",
+                  "number": "4",
+                  "title": "Z Twoim Błogosławieństwem Ojcze, Przepłyniemy z Bronią Fale",
+                  "length": 641437
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 3
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "recording:\"BRONIA\""
+}

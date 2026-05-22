@@ -1,0 +1,617 @@
+{
+  "created": "2026-05-22T17:01:36.590Z",
+  "count": 58,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "3bdb2308-a723-4a58-86f6-cf7a8fdea196",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kotek",
+      "sort-name": "Kotek",
+      "gender": "male",
+      "area": {
+        "id": "01e6ddde-11f9-4f80-b751-452170b1c52b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nanaimo",
+        "sort-name": "Nanaimo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vancouver",
+        "sort-name": "Vancouver",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian electronic music producer Mike Mlikotic",
+      "ipis": [
+        "00864607021"
+      ],
+      "isnis": [
+        "000000046547301X"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mlikotic, Mike",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mike Mlikotic",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mlikotic, Michael",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Michael Mlikotic",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "811bfb45-4145-4796-872e-0bd7766aa91a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 98,
+      "name": "Kotek",
+      "sort-name": "Kotek",
+      "disambiguation": "Florida electronic artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "28442ebf-7450-4eb1-96a9-ab771bc9cd80",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 94,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Иосиф Кобзон",
+      "sort-name": "Kobzon, Iosif",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "7cc35a3b-b533-4788-9006-e971d123c704",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chasiv Yar",
+        "sort-name": "Chasiv Yar",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078382329"
+      ],
+      "life-span": {
+        "begin": "1937-09-11",
+        "end": "2018-08-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Կոբզոն, Իոսիֆ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Իոսիֆ Կոբզոն",
+          "locale": "hy",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "კობზონი, იოსებ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "იოსებ კობზონი",
+          "locale": "ka",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кобзон, Йосип",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Йосип Кобзон",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кобзон, Йосип Давидович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Йосип Давидович Кобзон",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кабзон, Іосіф",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Іосіф Кабзон",
+          "locale": "be",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кабзон, Ёсіф",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ёсіф Кабзон",
+          "locale": "be",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кабзон, Іосіф Давыдавіч",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Іосіф Давыдавіч Кабзон",
+          "locale": "be",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobzon, Josif Dawidowicz",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Josif Dawidowicz Kobzon",
+          "locale": "pl",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobzon, Yossif",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yossif Kobzon",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobson, Iossif",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Iossif Kobson",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobson, Iossif Dawydowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Iossif Dawydowitsch Kobson",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Κομπζόν, Ιωσήφ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ιωσήφ Κομπζόν",
+          "locale": "el",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobzon, Joseph",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Joseph Kobzon",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kobzon, Iosif",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Iosif Kobzon",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кобзон, И.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "И. Кобзон",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кобзон, Иосиф",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иосиф Кобзон",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кобзон, Иосиф Давыдович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Иосиф Давыдович Кобзон",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "estrada"
+        }
+      ]
+    },
+    {
+      "id": "ddf58ee4-b1ea-46fc-93ce-22f6205bfde7",
+      "score": 86,
+      "name": "Młody Kotek",
+      "sort-name": "Młody Kotek",
+      "area": {
+        "id": "2a466900-6da4-4f93-b775-06cfe3208be9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tychy",
+        "sort-name": "Tychy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "kocik kotek",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c0927293-b7c9-4f35-b99b-c2f5f05c1533",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Iosif Ivanovici",
+      "sort-name": "Ivanovici, Iosif",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "efa93f97-fbcf-4f7d-8f9a-9007759f4fc5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Timișoara",
+        "sort-name": "Timișoara",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "București",
+        "sort-name": "București",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1845",
+        "end": "1902-09-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Иванович, Ион",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ион Иванович",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ion Ivanovici",
+          "name": "Ion Ivanovici",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Iwan Ivanovici",
+          "name": "Iwan Ivanovici",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivan Ivanovici",
+          "name": "Ivan Ivanovici",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivanovici Arr. Jonathan Starkey",
+          "name": "Ivanovici Arr. Jonathan Starkey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivanović, Jovan",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jovan Ivanović",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J. Ivanoviči",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J. Ivanoviči",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivanovici, J.",
+          "name": "J. Ivanovici",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "9252e7c4-a92d-4df9-81f8-2dbcaf0ff499",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "name": "Patrycja Kotek",
+      "sort-name": "Kotek, Patrycja",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ce9e1b15-98a8-46a3-9dd8-1748f0516ad7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Iosif Conta",
+      "sort-name": "Conta, Iosif",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a822e235-69e6-4d16-825e-b2c77aa6a480",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Arad",
+        "sort-name": "Arad",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "București",
+        "sort-name": "București",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000114508014"
+      ],
+      "life-span": {
+        "begin": "1924-09-14",
+        "end": "2006-11-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Canta, Josif",
+          "name": "Josif Canta",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Conta, Josif",
+          "name": "Josif Conta",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1ead17a5-901c-4a49-83b1-08168f56f166",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Wiktoria Kotek",
+      "sort-name": "Kotek, Wiktoria",
+      "gender": "female",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2006-03-16",
+        "ended": null
+      }
+    },
+    {
+      "id": "23003fd6-f553-47d4-8982-a38c2dfe83d0",
+      "score": 85,
+      "name": "Iosif Vainstein",
+      "sort-name": "Vainstein, Iosif",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "13f89338-8284-4545-9f12-cc6faa5f9d93",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Iosif Trendler",
+      "sort-name": "Trendler, Iosif",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Romanian percussionist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

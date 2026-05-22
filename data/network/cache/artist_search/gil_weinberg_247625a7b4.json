@@ -1,0 +1,827 @@
+{
+  "created": "2026-05-22T17:41:12.789Z",
+  "count": 6354,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "cf6b70f6-2616-481c-912c-0263cabfc974",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gilberto Gil",
+      "sort-name": "Gil, Gilberto",
+      "gender": "male",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ded88b07-192f-4265-95a6-5085ee12f4ca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Salvador",
+        "sort-name": "Salvador",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00231985851"
+      ],
+      "isnis": [
+        "0000000121028473"
+      ],
+      "life-span": {
+        "begin": "1942-06-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gilberto Passos Gil Moreira",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gilberto Passos Gil Moreira",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "[Gilberto Gil]",
+          "name": "[Gilberto Gil]",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 4,
+          "name": "mpb"
+        },
+        {
+          "count": 2,
+          "name": "bossa nova"
+        },
+        {
+          "count": 1,
+          "name": "brasil"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "tropicália"
+        },
+        {
+          "count": 1,
+          "name": "brasileiro"
+        },
+        {
+          "count": 1,
+          "name": "politician"
+        }
+      ]
+    },
+    {
+      "id": "554fbabf-54f4-4640-8eb6-88693b6085c7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mieczysław Weinberg",
+      "sort-name": "Weinberg, Mieczysław",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "a.k.a. Vainberg (composer)",
+      "isnis": [
+        "0000000121204377"
+      ],
+      "life-span": {
+        "begin": "1919-12-08",
+        "end": "1996-02-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Вайнберг, Мечислав Самуилович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Мечислав Самуилович Вайнберг",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "משה ,וינברג",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה וינברג",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "משה ,װאַינבערג",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה װאַינבערג",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisei Vainberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisei Vainberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Weinberg, Mieczysław",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mieczysław Weinberg",
+          "locale": "pl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Weinberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Weinberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Vaynberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Vaynberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Vainberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Vainberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisei Weinberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisei Weinberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Moisey Samuilovich Vaynberg",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Moisey Samuilovich Vaynberg",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вайнберг, Моисей",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Моисей Вайнберг",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вайнберг, Моисей Самуилович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Моисей Самуилович Вайнберг",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wajnberg, Mieczysław",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mieczysław Wajnberg",
+          "locale": "pl",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "83b1d510-c4ae-485b-91bf-c69b63044dd6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gil Evans",
+      "sort-name": "Evans, Gil",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "18267499-0eaa-44fb-9e06-94bd35edf10e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cuernavaca",
+        "sort-name": "Cuernavaca",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian‐American jazz pianist and composer",
+      "ipis": [
+        "00009590479"
+      ],
+      "isnis": [
+        "0000000110371460",
+        "0000000368575102"
+      ],
+      "life-span": {
+        "begin": "1912-05-13",
+        "end": "1988-03-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "ギル・エバンス",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ギル・エバンス",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evanss, G.",
+          "name": "G. Evanss",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 1,
+          "name": "cool jazz"
+        },
+        {
+          "count": 1,
+          "name": "avant-garde jazz"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "b5b89643-c488-4f39-a302-25cab31084a5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gil Scott‐Heron",
+      "sort-name": "Scott‐Heron, Gil",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00059615358",
+        "00647258030"
+      ],
+      "isnis": [
+        "0000000120176415"
+      ],
+      "life-span": {
+        "begin": "1949-04-01",
+        "end": "2011-05-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "ギル・スコット＝ヘロン",
+          "name": "ギル・スコット＝ヘロン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gil Scott",
+          "name": "Gil Scott",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gil Scott Heron",
+          "name": "Gil Scott Heron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gil Dcott-Heron",
+          "name": "Gil Dcott-Heron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scott-Heron, Gil",
+          "name": "Scott-Heron, Gil",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gill Scott Heron",
+          "name": "Gill Scott Heron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gil Scot-Heron",
+          "name": "Gil Scot-Heron",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scott-Heron, Gilbert",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gilbert Scott-Heron",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 5,
+          "name": "jazz-funk"
+        },
+        {
+          "count": 2,
+          "name": "soul jazz"
+        },
+        {
+          "count": 2,
+          "name": "soul"
+        },
+        {
+          "count": 0,
+          "name": "uk bass"
+        },
+        {
+          "count": 2,
+          "name": "spoken word"
+        },
+        {
+          "count": 2,
+          "name": "funk"
+        },
+        {
+          "count": 4,
+          "name": "jazz poetry"
+        }
+      ]
+    },
+    {
+      "id": "65d00919-215d-4632-9a5c-5c6c1ed797ed",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arne Weinberg",
+      "sort-name": "Weinberg, Arne",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1973",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "idm"
+        },
+        {
+          "count": 1,
+          "name": "electro"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 1,
+          "name": "ambient techno"
+        },
+        {
+          "count": 1,
+          "name": "tech house"
+        },
+        {
+          "count": 1,
+          "name": "detroit techno"
+        }
+      ]
+    },
+    {
+      "id": "6cde5a82-1473-41df-bee5-27e80e223420",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 85,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gil Mellé",
+      "sort-name": "Mellé, Gil",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "88458f70-6ca9-4a4a-ad8e-e8053e18b981",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jersey City",
+        "sort-name": "Jersey City",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000059395167"
+      ],
+      "life-span": {
+        "begin": "1931-12-31",
+        "end": "2004-10-28",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "ada5dc03-ba6b-424a-ab35-a80b846e3298",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yuval Weinberg",
+      "sort-name": "Weinberg, Yuval",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "life-span": {
+        "begin": "1990-05-28",
+        "ended": null
+      }
+    },
+    {
+      "id": "18a76153-b0d3-4b2c-a982-f3b72145d3a9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Elyse Weinberg",
+      "sort-name": "Weinberg, Elyse",
+      "gender": "female",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Folk Rock, Psychedelic Folk, Singer/Songwriter",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bishop, Cori",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Cori Bishop",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "84f77112-495f-4943-b864-b6976539f151",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gil",
+      "sort-name": "Gil",
+      "gender": "male",
+      "area": {
+        "id": "8dc97297-ac95-4d33-82bc-e07fab26fb5f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Tokyo",
+        "sort-name": "Tokyo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Japanese Track maker",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ギル",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ギル",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "makina"
+        }
+      ]
+    },
+    {
+      "id": "d521db7c-4c48-49d1-9a92-64cd7d2a3185",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Simon Wynberg",
+      "sort-name": "Wynberg, Simon",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "classical guitarist",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Simon Weinberg",
+          "name": "Simon Weinberg",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

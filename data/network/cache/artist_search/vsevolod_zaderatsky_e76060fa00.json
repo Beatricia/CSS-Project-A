@@ -1,0 +1,258 @@
+{
+  "created": "2026-05-22T16:57:31.240Z",
+  "count": 36,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "0d49d51d-4336-4d90-b834-5280bee6ca4c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Всеволод Задерацкий",
+      "sort-name": "Zaderatsky, Vsevolod",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "008b2c5d-bf9c-47f4-9084-4fe1dc788456",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rivne",
+        "sort-name": "Rivne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000118765704"
+      ],
+      "life-span": {
+        "begin": "1891-12-21",
+        "end": "1953-02-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Задерацкий, Всеволод",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Всеволод Задерацкий",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Задерацкий, Всеволод Петрович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Всеволод Петрович Задерацкий",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zaderatsky, Vsevolod",
+          "name": "Vsevolod Zaderatsky",
+          "locale": "en",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "d506df09-bf10-4e78-aa82-053ef708ccff",
+      "score": 49,
+      "name": "Vsevolod",
+      "sort-name": "Vsevolod",
+      "disambiguation": "artist associated with 4chan",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "654c7bcd-eeae-4bd7-ba86-12cde8126d7c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "name": "Simon Zaderatsky",
+      "sort-name": "Zaderatsky, Simon",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3e2e411b-b8a8-4a71-9313-e66163ee039d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vsevolod Borisov",
+      "sort-name": "Borisov, Vsevolod",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6e497fe7-307f-44ee-ba6c-60f1d8a78a5f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vsevolod Ivanov",
+      "sort-name": "Ivanov, Vsevolod",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "disambiguation": "Всеволод Иванов",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "abac8880-d4f5-4862-b0a6-0705fb6e6e29",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Vsevolod Vasiliev",
+      "sort-name": "Vasiliev, Vsevolod",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "775aa582-a180-4b32-ba18-4ecaee7b5652",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vsevolod Maximov",
+      "sort-name": "Vsevolod Maximov",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "727fdaf7-c124-4be4-a5e8-fc0c7e55def7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vsevolod Trukhachev",
+      "sort-name": "Trukhachev, Vsevolod",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9a1332a4-81ba-466a-8bbc-650f2072f19f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Saratov",
+        "sort-name": "Saratov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "hornist",
+      "life-span": {
+        "begin": "2000-06-15",
+        "ended": null
+      }
+    },
+    {
+      "id": "6e510020-5b82-4905-98e4-74510ae08c0a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Vsevolod Polonsky",
+      "sort-name": "Polonsky, Vsevolod",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fba0c48c-fafe-4adb-8418-0c0f4e148862",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Vsevolod Dolganov",
+      "sort-name": "Dolganov, Vsevolod",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

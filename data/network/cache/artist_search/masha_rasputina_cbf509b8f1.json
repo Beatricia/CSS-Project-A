@@ -1,0 +1,329 @@
+{
+  "created": "2026-05-22T17:11:01.764Z",
+  "count": 154,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "3bcd884c-be67-46df-8f34-e12d29888b30",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Маша Распутина",
+      "sort-name": "Rasputina, Masha",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "938f6ca0-c0d1-4a3b-8113-26d97c0ff0ac",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Kemerovskaya oblast'",
+        "sort-name": "Kemerovskaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000455841333"
+      ],
+      "life-span": {
+        "begin": "1964-05-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rasputina, Masha",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Masha Rasputina",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Агеева, Алла Николаевна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Алла Николаевна Агеева",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ageeva, Alla Nikolaevna",
+          "name": "Alla Nikolaevna Ageeva",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "2ee6f445-005e-40dd-8bb8-474849216a38",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 67,
+      "name": "Rasputina",
+      "sort-name": "Rasputina",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1992",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "prog folk"
+        },
+        {
+          "count": 1,
+          "name": "progressive folk"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "cello"
+        },
+        {
+          "count": 1,
+          "name": "alternative rock"
+        },
+        {
+          "count": 1,
+          "name": "dark cabaret"
+        },
+        {
+          "count": 2,
+          "name": "cello rock"
+        },
+        {
+          "count": 1,
+          "name": "rock and indie"
+        }
+      ]
+    },
+    {
+      "id": "a0483bbc-af6d-4353-9dee-2c6f8be39f1d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "name": "Nastya Rasputina",
+      "sort-name": "Rasputina; Nastya",
+      "disambiguation": "Mechanism",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6aac4461-4cd1-4e7a-8daa-c1c41d926cfe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Masha",
+      "sort-name": "Masha",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "563d21b7-4a8e-35e2-83a7-7804baefbfa7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Luxembourg",
+        "sort-name": "Luxembourg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German jazz, swing, blues singer",
+      "ipis": [
+        "00572587807",
+        "00578131143"
+      ],
+      "isnis": [
+        "0000000133446234"
+      ],
+      "life-span": {
+        "begin": "1975",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Litterscheid, Mascha",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mascha Litterscheid",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e8db63ee-3028-4aba-acc4-b2d515e031b3",
+      "score": 49,
+      "name": "Masha",
+      "sort-name": "Masha",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "94bbcbcb-5a46-49f9-8a3b-c29dd1177a3b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Masha",
+      "sort-name": "Мария Качанова",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f4409063-6f46-4ca8-aa47-2d2fccb00757",
+      "score": 49,
+      "name": "Masha",
+      "sort-name": "Masha",
+      "disambiguation": "experimental artist on 7FORM",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4d6e2387-b1ab-45ab-b93a-d88452e5ed25",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Masha",
+      "sort-name": "Masha",
+      "gender": "female",
+      "disambiguation": "feat. on tyDi’s “Not That Beautiful”",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ad0bd0ca-34f7-4341-8129-ceaff475626d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Masha",
+      "sort-name": "Masha",
+      "gender": "female",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Eurobeat artist Stefania Dal Pino",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "eurobeat"
+        }
+      ]
+    },
+    {
+      "id": "a8fae788-5a55-418a-b5c5-50add8027262",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Masha",
+      "sort-name": "Masha",
+      "gender": "male",
+      "disambiguation": "Silex",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

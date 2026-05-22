@@ -1,0 +1,832 @@
+{
+  "created": "2026-05-22T17:41:07.244Z",
+  "count": 3129,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "d459963e-88c8-4445-824c-91f05ebe85e5",
+      "score": 100,
+      "name": "Henry Hadaway Orchestra & Chorus",
+      "sort-name": "Hadaway, Henry",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ddea5540-2c7d-4266-8507-b367c2635d35",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Henry Purcell",
+      "sort-name": "Purcell, Henry",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "48d08ee1-db45-4566-bb1d-c47ab6dbaf98",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Westminster",
+        "sort-name": "Westminster",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "48d08ee1-db45-4566-bb1d-c47ab6dbaf98",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Westminster",
+        "sort-name": "Westminster",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Baroque composer",
+      "ipis": [
+        "00025071418"
+      ],
+      "isnis": [
+        "0000000121188274"
+      ],
+      "life-span": {
+        "begin": "1659-09-10",
+        "end": "1695-11-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Purcell*H.",
+          "name": "Purcell*H.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Purcell",
+          "name": "Purcell",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henri Purcell",
+          "name": "Henri Purcell",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Persels, H.",
+          "name": "H. Persels",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 5,
+          "name": "classical"
+        },
+        {
+          "count": 4,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 0,
+          "name": "production music"
+        },
+        {
+          "count": 2,
+          "name": "opera"
+        },
+        {
+          "count": 3,
+          "name": "composer"
+        },
+        {
+          "count": 4,
+          "name": "baroque"
+        },
+        {
+          "count": 3,
+          "name": "english"
+        },
+        {
+          "count": 2,
+          "name": "british composer"
+        }
+      ]
+    },
+    {
+      "id": "83e71a21-caf7-4e48-8ff7-6512d51e88a3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Henry Mancini",
+      "sort-name": "Mancini, Henry",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7b2ca1e7-e7f6-4155-881d-c660a45c11e8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cleveland",
+        "sort-name": "Cleveland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US composer, conductor & arranger",
+      "ipis": [
+        "00019313012",
+        "00220706900",
+        "00220707015"
+      ],
+      "isnis": [
+        "0000000121343609"
+      ],
+      "life-span": {
+        "begin": "1924-04-16",
+        "end": "1994-06-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mancini",
+          "name": "Mancini",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Manciny, H.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "H. Manciny",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mancini, Enrico Nicola",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Enrico Nicola Mancini",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Манчини, Г.",
+          "name": "Г. Манчини",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mancini, Henry Nicola",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Henry Nicola Mancini",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mancini, Enrico Nicola",
+          "name": "Enrico Nicola Mancini",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry Manchini",
+          "name": "Henry Manchini",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヘンリー・マンシーニ",
+          "name": "ヘンリー・マンシーニ",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry N Mancini",
+          "name": "Henry N Mancini",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henri Mancini & His Orchestra",
+          "name": "Henri Mancini & His Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "H. Mancini",
+          "name": "H. Mancini",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry Mancini and the Mancini Pops Orchestra",
+          "name": "Henry Mancini and the Mancini Pops Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henri Mancini",
+          "name": "Henri Mancini",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry Mancini & His Orchestra",
+          "name": "Henry Mancini & His Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mancini, Henry and his Orchestra",
+          "name": "Mancini, Henry and his Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mancini, Henry",
+          "name": "Mancini, Henry",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hatari",
+          "name": "Hatari",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry Mancini and His Orchestra",
+          "name": "Henry Mancini and His Orchestra",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 2,
+          "name": "easy listening"
+        },
+        {
+          "count": 1,
+          "name": "lounge"
+        },
+        {
+          "count": 1,
+          "name": "film score"
+        },
+        {
+          "count": 1,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 1,
+          "name": "film soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        },
+        {
+          "count": 1,
+          "name": "soundtracks"
+        },
+        {
+          "count": 0,
+          "name": "the academy"
+        },
+        {
+          "count": 1,
+          "name": "grammy winner"
+        },
+        {
+          "count": 1,
+          "name": "television music"
+        },
+        {
+          "count": 1,
+          "name": "likedis auto"
+        }
+      ]
+    },
+    {
+      "id": "4718e7e5-0b3f-4562-b69a-22cbebc5f0dc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sean Hadaway",
+      "sort-name": "Hadaway, Sean",
+      "gender": "male",
+      "disambiguation": "Mixtape Master",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "186a1c58-c056-4a41-8ae5-c3df21579f9c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Phil Hadaway",
+      "sort-name": "Hadaway, Phil",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8be0e0a0-de3b-4975-96f7-437e71087b66",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bob Hadaway",
+      "sort-name": "Hadaway, Bob",
+      "gender": "male",
+      "country": "NO",
+      "area": {
+        "id": "6743d351-6f37-3049-9724-5041161fff4d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Norway",
+        "sort-name": "Norway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hadaway, Robert John",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Robert John Hadaway",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "bd27fa55-e2fb-4903-89a3-b7025f46d3b5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jasun Hadaway",
+      "sort-name": "Jasun Hadaway",
+      "gender": "male",
+      "area": {
+        "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Seattle",
+        "sort-name": "Seattle",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "from the Seattle band Black Nite Crash",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e596591b-3031-4d50-ae40-020d0e7ebcef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Henry Jackman",
+      "sort-name": "Jackman, Henry",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ad54b599-b125-4bcd-b4bf-f85c96c2b181",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Hillingdon",
+        "sort-name": "Hillingdon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English score composer",
+      "ipis": [
+        "00260802686",
+        "00431456477"
+      ],
+      "isnis": [
+        "0000000121460952"
+      ],
+      "life-span": {
+        "begin": "1974-07-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Henry P. Jackman",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Henry P. Jackman",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jackman, Henry",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Henry Jackman",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henri Jackman",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Henri Jackman",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry Jacman",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Henry Jacman",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry Jackmen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Henry Jackmen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jackman",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jackman",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pryce Jackman",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Pryce Jackman",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry Pryce",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Henry Pryce",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pryce Jackman, Henry",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Henry Pryce Jackman",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1974-07-30",
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "film score composer"
+        },
+        {
+          "count": 1,
+          "name": "film composer"
+        }
+      ]
+    },
+    {
+      "id": "24e0aaa1-7961-4ab8-865e-e736226e41c9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pierre Henry",
+      "sort-name": "Henry, Pierre",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French musique concrète composer",
+      "ipis": [
+        "00013866487",
+        "00013866585"
+      ],
+      "isnis": [
+        "0000000122840965"
+      ],
+      "life-span": {
+        "begin": "1927-12-09",
+        "end": "2017-07-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Henry, Pierre Georges Albert François",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Pierre Georges Albert François Henry",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry",
+          "name": "Henry",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Henry, Pierre",
+          "name": "Henry, Pierre",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pierre Henri",
+          "name": "Pierre Henri",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "electroacoustic"
+        },
+        {
+          "count": 2,
+          "name": "avant-garde"
+        },
+        {
+          "count": 2,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 3,
+          "name": "musique concrète"
+        },
+        {
+          "count": 1,
+          "name": "experimental electronic"
+        },
+        {
+          "count": 1,
+          "name": "bookmark"
+        }
+      ]
+    },
+    {
+      "id": "33a9e543-6a96-427a-a789-23ba87b9934c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fez the Kid",
+      "sort-name": "Fez the Kid",
+      "gender": "male",
+      "area": {
+        "id": "9d5dd675-3cf4-4296-9e39-67865ebee758",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "England",
+        "sort-name": "England",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK jungle producer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hadaway, Ferris",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ferris Hadaway",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

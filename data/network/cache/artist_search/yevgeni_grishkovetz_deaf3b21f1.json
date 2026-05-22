@@ -1,0 +1,668 @@
+{
+  "created": "2026-05-22T17:15:09.989Z",
+  "count": 34,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "6fbcb9d1-ab71-4347-8765-101811d53778",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Евгений Гришковец",
+      "sort-name": "Grishkovets, Eugeny",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1967-02-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Grishkovets Eugeny",
+          "name": "Grishkovets Eugeny",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Гришковец, Евгений",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Евгений Гришковец",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Grishkovetz, Yevgeni",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yevgeni Grishkovetz",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Гришковец, Евгений Валерьевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Евгений Валерьевич Гришковец",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ec236491-bb1e-4692-9c2a-866a5c38dbc6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Евге́ний Вале́рьевич Гришкове́ц",
+      "sort-name": "Yevgeni Valeryevich Grishkovetz",
+      "gender": "male",
+      "begin-area": {
+        "id": "15c5b88a-e1eb-46ca-9bdd-981a9568d373",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kemerovo",
+        "sort-name": "Kemerovo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1967-02-17",
+        "ended": null
+      }
+    },
+    {
+      "id": "fa0447ca-a11d-4521-b4e3-ed9687f569a5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Евгений Колесников",
+      "sort-name": "Kolesnikov, Yevgeni",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6265eeae-2429-4e81-917e-6a86bad23653",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יבגני לוין",
+      "sort-name": "Levin, Yevgeni",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "dd0d9cee-8c69-46f1-b532-69cdda37144b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Евгений Шатуновский",
+      "sort-name": "Shatunovsky, Yevgeni",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "disambiguation": "librettist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "526066ff-5810-4303-b206-af2a6176a762",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Евгений Анатольевич Савкин",
+      "sort-name": "Savkin, Yevgeni Anatolyevich",
+      "gender": "male",
+      "area": {
+        "id": "34c99574-0fe5-4d99-83ab-8892e6f87312",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lesnoy",
+        "sort-name": "Lesnoy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "34c99574-0fe5-4d99-83ab-8892e6f87312",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lesnoy",
+        "sort-name": "Lesnoy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1989-06-30",
+        "ended": null
+      }
+    },
+    {
+      "id": "4e22b950-f212-46a2-a897-00c6c03e3024",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Евгений Нестеренко",
+      "sort-name": "Nesterenko, Evgeny",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian operatic bass singer",
+      "isnis": [
+        "0000000110531970"
+      ],
+      "life-span": {
+        "begin": "1938-01-08",
+        "end": "2021-03-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Nesterenko, Evgenii",
+          "name": "Evgenii Nesterenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nesterenko, Jewgenij",
+          "name": "Jewgenij Nesterenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nesterenko, Eugene",
+          "name": "Eugene Nesterenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Нестеренко, Евгений Евгеньевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Евгений Евгеньевич Нестеренко",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Нестеренко, Евгений",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Евгений Нестеренко",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nesterenko, Yevgeny Yevgenievich",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yevgeny Yevgenievich Nesterenko",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nesterenko, Yevgeni",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yevgeni Nesterenko",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "bass"
+        },
+        {
+          "count": 2,
+          "name": "death by covid-19"
+        }
+      ]
+    },
+    {
+      "id": "1b19de02-6bf4-443b-9b8e-5ae9337b94c1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Евгений Александрович Мравинский",
+      "sort-name": "Mravinsky, Yevgeny Aleksandrovich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000108722639"
+      ],
+      "life-span": {
+        "begin": "1903-06-04",
+        "end": "1988-01-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mravinskij, Jevgenij Aleksandrovit",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jevgenij Aleksandrovit Mravinskij",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mravinskij, Jevgenij",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jevgenij Mravinskij",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ievgueni, Mravinski",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ievgueni Mravinski",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mrawinski, Jewgeni",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jewgeni Mrawinski",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mravinsky, Yevgeny",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yevgeny Mravinsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evgeni Mravinsky",
+          "name": "Evgeni Mravinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yevgeni Mravinsky",
+          "name": "Yevgeni Mravinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evgeny Mravinsky",
+          "name": "Evgeny Mravinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "5761282a-0965-4ff6-9796-7b9ba0ed70e2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Евгений Кисин",
+      "sort-name": "Kissin, Evgeny",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian classical pianist",
+      "isnis": [
+        "0000000109938394"
+      ],
+      "life-span": {
+        "begin": "1971-10-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Кисин, Евгений",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Евгений Кисин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кисин, Евгений Игоревич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Евгений Игоревич Кисин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kissen, Evgeny",
+          "name": "Evgeny Kissen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evgeni Igorevich Kissin",
+          "name": "Evgeni Igorevich Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evgeny Igorevich Kissin",
+          "name": "Evgeny Igorevich Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yevgeni Kissin",
+          "name": "Yevgeni Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yevgeny Kissin",
+          "name": "Yevgeny Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kissin, Evgeny",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Evgeny Kissin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evgeni Kissin",
+          "name": "Evgeni Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kissin, Evgency",
+          "name": "Evgency Kissin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 0,
+          "name": "russian pianist"
+        }
+      ]
+    },
+    {
+      "id": "d63e30e9-d467-4a60-8aea-e6161ff49e08",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 31,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yevgeniy Sharlat",
+      "sort-name": "Sharlat, Yevgeniy",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000371356314"
+      ],
+      "life-span": {
+        "begin": "1977",
+        "ended": null
+      }
+    }
+  ]
+}

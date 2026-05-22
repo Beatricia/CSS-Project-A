@@ -1,0 +1,84 @@
+{
+  "created": "2026-05-22T16:51:23.684Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "d30d67bd-87ba-4480-b0d9-9da5bc306888",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "MamaRika",
+      "sort-name": "MamaRika",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "997a775f-fd0d-4371-884a-6260d4df1cfa",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "L'vivs'ka Oblast'",
+        "sort-name": "L'vivs'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian singer Anastasiya Kotchetova, formerly Erika",
+      "life-span": {
+        "begin": "1989-04-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kotchetova, Anastasiya",
+          "name": "Anastasiya Kotchetova",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Erika",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Еріка",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2008",
+          "end-date": "2015"
+        },
+        {
+          "sort-name": "Erika",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Эрика",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2008",
+          "end-date": "2015"
+        },
+        {
+          "sort-name": "Kochetova, Anastasiya Oleksandrivna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Анастасія Олександрівна Кочетова",
+          "locale": "uk_UA",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

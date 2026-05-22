@@ -1,0 +1,286 @@
+{
+  "created": "2026-05-22T16:52:25.031Z",
+  "count": 73,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b315930a-70ca-4432-85d8-4991acbd06e1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Olha Palamar",
+      "sort-name": "Olha Palamar",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c35c58b5-7253-45e9-819d-c256f8fe72fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Olha Parkhomenko",
+      "sort-name": "Parkhomenko, Olha",
+      "gender": "female",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "isnis": [
+        "0000000387320279"
+      ],
+      "life-span": {
+        "begin": "1928-04-07",
+        "end": "2011-07-05",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Parchomenko, Olga",
+          "name": "Olga Parchomenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Parhomenko, Olga",
+          "name": "Olga Parhomenko",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "violinist"
+        }
+      ]
+    },
+    {
+      "id": "18bb48d7-8566-44c3-a837-73d66f25107c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Olha Chipak",
+      "sort-name": "Chipak, Olha",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "87f78902-dc7a-47c9-9c73-93583e71d732",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Olha Rostovska",
+      "sort-name": "Rostovska, Olha",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "64a40dcc-2199-4e3d-af55-d962f39b2a8b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Olha Marusyn",
+      "sort-name": "Marusyn, Olha",
+      "gender": "female",
+      "area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5ce7d61a-5912-439f-bd72-2242600781fd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Olha Smokolina",
+      "sort-name": "Smokolina, Olha",
+      "gender": "female",
+      "disambiguation": "mezzo-soprano",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a071e242-7a05-4e36-a054-78ebbe153962",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ольга Ткач",
+      "sort-name": "Tkach, Olha",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6542b370-ec6e-4e7e-9940-7274162926d5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Olga Gómez",
+      "sort-name": "Gómez, Olha",
+      "gender": "female",
+      "disambiguation": "Songwriter",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bff9d168-7503-4ab5-8767-fb16a0b6e233",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 88,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ольга Гориніна",
+      "sort-name": "Horynina, Olha",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gorynina, Olga",
+          "name": "Olga Gorynina",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "efcf0e28-7466-44ce-93fd-72a64ba89478",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 75,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Solhal",
+      "sort-name": "Solhal",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000002336385"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

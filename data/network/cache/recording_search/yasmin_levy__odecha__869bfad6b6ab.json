@@ -1,0 +1,288 @@
+{
+  "created": "2026-05-22T18:04:38.131Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "1c47169d-0993-4a28-bae3-d24c5253e25d",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Odecha",
+      "length": 332253,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-11",
+      "releases": [
+        {
+          "id": "95b17f0f-179f-4d7b-8630-76527e8dc616",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2007",
+          "country": "IL",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+                "name": "Israel",
+                "sort-name": "Israel",
+                "iso-3166-1-codes": [
+                  "IL"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "c8355234-b218-3178-919b-722aa8a12246",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "e50a9245-0126-4911-b5b8-1d4934c0eb8e",
+                  "number": "12",
+                  "title": "Odecha",
+                  "length": 332306
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "24d92cb1-537e-41e9-a3f2-2a9ccf9be9ea",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2007-11",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2007-11",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "9c94204d-7876-37bd-b796-754c3544cb41",
+              "position": 1,
+              "track": [
+                {
+                  "id": "2e16cb61-b833-3cfc-9f09-da27340e8007",
+                  "number": "12",
+                  "title": "Odecha",
+                  "length": 332253
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "e9cef624-9b9a-45b1-815b-3f9d12a097ac",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2007",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "c90b76ad-6615-35e0-b7ec-3b44c073717b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c730d761-a4f0-424d-b0b5-3b09ea1e8159",
+                  "number": "12",
+                  "title": "Odecha",
+                  "length": 332253
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 11
+            }
+          ]
+        },
+        {
+          "id": "f1305b27-22e1-3c58-8ae1-1d13bb2a707b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2008-01-18",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2008-01-18",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "75ebd255-71c1-341c-8786-7943430a3bd7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "505f235b-7d41-3849-aa34-de736d7e834d",
+                  "number": "12",
+                  "title": "Odecha",
+                  "length": 332253
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 11
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "IL4070700012"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "traditional"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Yasmin Levy\" AND recording:\"Odecha\""
+}

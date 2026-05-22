@@ -1,0 +1,516 @@
+{
+  "created": "2026-05-22T17:40:09.617Z",
+  "count": 19,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a2d6c3ee-10e0-4bd9-b5fe-f5bd196e9911",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Khyam Allami",
+      "sort-name": "Allami, Khyam",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "725210c4-3f89-4f49-a508-794e92f700ef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Damascus",
+        "sort-name": "Damascus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1981-06-08",
+        "ended": null
+      }
+    },
+    {
+      "id": "4d23da99-4b4a-4a86-b952-3030f33093e4",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 27,
+      "name": "Magyar Állami Operaház zenekara",
+      "sort-name": "Magyar Állami Operaház zenekara",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hungarian State Opera Orchestra",
+      "isnis": [
+        "000000011010686X"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Budapest State Opera, Orchestra of the",
+          "name": "Orchestra of the Budapest State Opera",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "MÁO zenekara",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "MÁO zenekara",
+          "locale": "hu",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orchestra of the Hungarian State Opera House",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Orchestra of the Hungarian State Opera House",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Magyar Állami Operaház zenekara",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Magyar Állami Operaház zenekara",
+          "locale": "hu",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Budapest, Orchester der Staatsoper",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Orchester der Staatsoper Budapest",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orchester der Ungarischen Staatsoper",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Orchester der Ungarischen Staatsoper",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hungarian State Opera Orchestra",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hungarian State Opera Orchestra",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b1c1f32a-d9d0-472b-85b3-af0ab5c64dd9",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 26,
+      "name": "Magyar Állami Operaház",
+      "sort-name": "Magyar Állami Operaház",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hungarian State Opera House",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0bd5fce2-a86f-4d73-b9ff-262a69b0a3e7",
+      "type": "Choir",
+      "type-id": "6124967d-7e3a-3eba-b642-c9a2ffb44d94",
+      "score": 26,
+      "name": "Magyar Állami Operaház Énekkara",
+      "sort-name": "Magyar Állami Operaház Énekkara",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hungarian State Opera Chorus",
+      "isnis": [
+        "0000000110868434"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Chor der ungarischen Staatsoper",
+          "name": "Chor der ungarischen Staatsoper",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ungarischen Staatsoper, Chor der",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chor der Ungarischen Staatsoper",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Budapest National Opera, Chorus of the",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus of the Budapest National Opera",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hungarian State Opera House, Chorus of the",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chorus of the Hungarian State Opera House",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Magyar Állami Operaház Énekkarát",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Magyar Állami Operaház Énekkarát",
+          "locale": "hu",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Magyar Állami Operaház. Énekkar",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Magyar Állami Operaház. Énekkar",
+          "locale": "hu",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Magyar Állami Operaház Énekkar",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Magyar Állami Operaház Énekkar",
+          "locale": "hu",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hungarian Opera Chorus",
+          "name": "Hungarian Opera Chorus",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ungarischen Staatsoper (Budapest), Chor der",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chor der Ungarischen Staatsoper (Budapest)",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hungarian State Opera Chorus",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hungarian State Opera Chorus",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Magyar Állami Operaház Énekkara",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Magyar Állami Operaház Énekkara",
+          "locale": "hu",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "bbe01b48-95a1-44b8-94ef-17b2965e263f",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 24,
+      "name": "Magyar Állami Hangversenyzenekar Kamarazenekara",
+      "sort-name": "Magyar Állami Hangversenyzenekar Kamarazenekara",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ungarische Nationalphilharmonie, Kammerensemble der",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Kammerensemble der Ungarische Nationalphilharmonie",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hungarian National Philharmonic, Chamber Ensemble of the",
+          "name": "Chamber Ensemble of the Hungarian National Philharmonic",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hungarian State Orchestra, Chamber Orchestra of the",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Chamber Orchestra of the Hungarian State Orchestra",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "474b506e-809f-43a8-927d-2701dd08becf",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 24,
+      "name": "Magyar Állami Operaház Gyermekkara",
+      "sort-name": "Magyar Állami Operaház Gyermekkara",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1970",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "OPERA Children’s Chorus",
+          "name": "OPERA Children’s Chorus",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "97ed592c-64b4-4a1c-936b-d3bebad334fb",
+      "type": "Choir",
+      "type-id": "6124967d-7e3a-3eba-b642-c9a2ffb44d94",
+      "score": 23,
+      "name": "Magyar Állami Népi Együttes Énekkara",
+      "sort-name": "Magyar Állami Népi Együttes Énekkara",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ea50ed0d-c2d3-436b-9541-5bc53ec76970",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 23,
+      "name": "Magyar Állami Népi Együttes Zenekara",
+      "sort-name": "Magyar Állami Népi Együttes Zenekara",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ed34a5a9-7cd6-4654-a985-4cbbb8dd7af4",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 21,
+      "name": "Magyar Állami Népi Együttes ének‐ és zenekara",
+      "sort-name": "Magyar Állami Népi Együttes ének‐ és zenekara",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f1ac379f-8cd3-45c3-8da0-80c429b36c5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Budapest",
+        "sort-name": "Budapest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hungarian State Folk Ensemble, comprising Chorus & Orchestra",
+      "life-span": {
+        "begin": "1950",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Magyar Állami Népi Együttes énekkar és zenekara",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Magyar Állami Népi Együttes énekkar és zenekara",
+          "locale": "hu",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hungarian State Folk Ensemble (Orchestra & Chorus)",
+          "name": "Hungarian State Folk Ensemble (Orchestra & Chorus)",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "371b7151-c52c-4145-8f1b-573b0c371023",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 20,
+      "name": "The Pallamino’s",
+      "sort-name": "Pallamino’s, The",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

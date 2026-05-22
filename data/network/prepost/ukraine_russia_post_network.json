@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "id": "Jerry Heil",
+      "artist_name": "Jerry Heil",
+      "artist_mbid": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+      "recording_count": 3,
+      "weighted_degree": 6,
+      "degree": 5
+    },
+    {
+      "id": "alyona alyona",
+      "artist_name": "alyona alyona",
+      "artist_mbid": "1a6993eb-fa5b-42e2-a834-2a9539c53be1",
+      "recording_count": 2,
+      "weighted_degree": 4,
+      "degree": 3
+    },
+    {
+      "id": "Ela",
+      "artist_name": "Ela",
+      "artist_mbid": "ccc046ca-b523-4b07-92c6-aaa7040008e8",
+      "recording_count": 1,
+      "weighted_degree": 2,
+      "degree": 2
+    },
+    {
+      "id": "Evgeny Khmara",
+      "artist_name": "Evgeny Khmara",
+      "artist_mbid": "61d2d352-082a-4d63-8396-044ffad8bdd6",
+      "recording_count": 1,
+      "weighted_degree": 2,
+      "degree": 2
+    },
+    {
+      "id": "MONATIK",
+      "artist_name": "MONATIK",
+      "artist_mbid": "c0199391-00f4-483a-aa8a-d1fe27d05dc6",
+      "recording_count": 1,
+      "weighted_degree": 2,
+      "degree": 2
+    },
+    {
+      "id": "Monika Liu",
+      "artist_name": "Monika Liu",
+      "artist_mbid": "1db6fa57-63b8-449f-acc1-ea20f696d5ba",
+      "recording_count": 1,
+      "weighted_degree": 2,
+      "degree": 2
+    }
+  ],
+  "edges": [
+    {
+      "source": "alyona alyona",
+      "target": "Jerry Heil",
+      "weight": 2,
+      "recordings": [
+        "Dai Boh",
+        "KUPALA"
+      ],
+      "recording_titles": [
+        "Dai Boh (2022)",
+        "KUPALA (2022)"
+      ],
+      "recording_years": [
+        "2022",
+        "2022"
+      ]
+    },
+    {
+      "source": "alyona alyona",
+      "target": "Ela",
+      "weight": 1,
+      "recordings": [
+        "KUPALA"
+      ],
+      "recording_titles": [
+        "KUPALA (2022)"
+      ],
+      "recording_years": [
+        "2022"
+      ]
+    },
+    {
+      "source": "alyona alyona",
+      "target": "Monika Liu",
+      "weight": 1,
+      "recordings": [
+        "Dai Boh"
+      ],
+      "recording_titles": [
+        "Dai Boh (2022)"
+      ],
+      "recording_years": [
+        "2022"
+      ]
+    },
+    {
+      "source": "Ela",
+      "target": "Jerry Heil",
+      "weight": 1,
+      "recordings": [
+        "KUPALA"
+      ],
+      "recording_titles": [
+        "KUPALA (2022)"
+      ],
+      "recording_years": [
+        "2022"
+      ]
+    },
+    {
+      "source": "Evgeny Khmara",
+      "target": "Jerry Heil",
+      "weight": 1,
+      "recordings": [
+        "ВИМОЛИВ"
+      ],
+      "recording_titles": [
+        "ВИМОЛИВ (2025)"
+      ],
+      "recording_years": [
+        "2025"
+      ]
+    },
+    {
+      "source": "Evgeny Khmara",
+      "target": "MONATIK",
+      "weight": 1,
+      "recordings": [
+        "ВИМОЛИВ"
+      ],
+      "recording_titles": [
+        "ВИМОЛИВ (2025)"
+      ],
+      "recording_years": [
+        "2025"
+      ]
+    },
+    {
+      "source": "Jerry Heil",
+      "target": "MONATIK",
+      "weight": 1,
+      "recordings": [
+        "ВИМОЛИВ"
+      ],
+      "recording_titles": [
+        "ВИМОЛИВ (2025)"
+      ],
+      "recording_years": [
+        "2025"
+      ]
+    },
+    {
+      "source": "Jerry Heil",
+      "target": "Monika Liu",
+      "weight": 1,
+      "recordings": [
+        "Dai Boh"
+      ],
+      "recording_titles": [
+        "Dai Boh (2022)"
+      ],
+      "recording_years": [
+        "2022"
+      ]
+    }
+  ]
+}

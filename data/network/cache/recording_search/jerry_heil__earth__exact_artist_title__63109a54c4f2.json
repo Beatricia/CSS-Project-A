@@ -1,0 +1,103 @@
+{
+  "created": "2026-05-22T18:29:24.146Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "cecf5f41-8733-47af-81c7-7fe3fa13a46e",
+      "score": 100,
+      "artist-credit-id": "34a8c989-2c57-312f-8113-1a7363e132f3",
+      "title": "Earth (Dradada)",
+      "length": 209300,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Jerry Heil",
+          "artist": {
+            "id": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+            "name": "Jerry Heil",
+            "sort-name": "Heil, Jerry",
+            "disambiguation": "Ukrainian singer, participant of Eurovision 2024 (Ukraine)",
+            "aliases": [
+              {
+                "sort-name": "Shemaieva, Yana",
+                "name": "Яна Шемаєва",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-10-22",
+      "releases": [
+        {
+          "id": "a28beabf-be36-40a8-a1de-fad9e2e2fcd6",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "34a8c989-2c57-312f-8113-1a7363e132f3",
+          "count": 1,
+          "title": "Earth (Dradada)",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Jerry Heil",
+              "artist": {
+                "id": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+                "name": "Jerry Heil",
+                "sort-name": "Heil, Jerry",
+                "disambiguation": "Ukrainian singer, participant of Eurovision 2024 (Ukraine)"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "5af3f501-ea22-487c-a795-3d0fe93f8b38",
+            "type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+            "title": "Earth (Dradada)",
+            "primary-type": "Single"
+          },
+          "date": "2025-10-22",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2025-10-22",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 1,
+          "media": [
+            {
+              "id": "d1309b5b-2bf0-43cd-a960-221782b44c41",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9f94bfda-e4cb-4a86-89c6-e8bd117922e2",
+                  "number": "1",
+                  "title": "Earth (Dradada)",
+                  "length": 209300
+                }
+              ],
+              "track-count": 1,
+              "track-offset": 0
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMFMF2526013"
+      ]
+    }
+  ],
+  "query": "artist:\"Jerry Heil\" AND recording:\"Earth (Dradada)\""
+}

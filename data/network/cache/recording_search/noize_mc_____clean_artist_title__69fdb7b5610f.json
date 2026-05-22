@@ -1,0 +1,852 @@
+{
+  "created": "2026-05-22T18:12:11.668Z",
+  "count": 7,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "ad698982-96c3-40ec-8de3-4b39754554ff",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "Ты не считаешь",
+      "length": 274000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-05-25",
+      "releases": [
+        {
+          "id": "7affd562-109d-4df9-9cb5-9ba3f557d4fc",
+          "status-id": "41121bb9-3413-3818-8a9a-9742318349aa",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Posledniy albom",
+          "status": "Pseudo-Release",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b29c7f82-e716-4af9-9ce0-4a2dfe428de0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Последний альбом",
+            "primary-type": "Album"
+          },
+          "track-count": 21,
+          "media": [
+            {
+              "id": "8ce2a768-84a9-33ee-b0ff-b2e63b423f84",
+              "position": 1,
+              "track": [
+                {
+                  "id": "cc33b2e2-bb69-445b-98f3-edba0e416b1d",
+                  "number": "9",
+                  "title": "Ty ne schitaesh'",
+                  "length": 274000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "cfe95078-5c61-4f80-84d2-f2e239bb0cab",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 2,
+          "title": "Последний альбом",
+          "status": "Official",
+          "disambiguation": "2CD (аудиокнига Underground внутри)",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b29c7f82-e716-4af9-9ce0-4a2dfe428de0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Последний альбом",
+            "primary-type": "Album"
+          },
+          "date": "2010-05-28",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2010-05-28",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 25,
+          "media": [
+            {
+              "id": "52cb179b-44ba-3097-8e8f-ad0149053bbb",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "c6dfd8d5-f76d-4d30-9c57-3c01da56e590",
+                  "number": "9",
+                  "title": "Ты не считаешь",
+                  "length": 274000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 8
+            }
+          ]
+        },
+        {
+          "id": "4b694997-ffff-4e17-b3fa-2eff8fd5e30e",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Последний альбом",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b29c7f82-e716-4af9-9ce0-4a2dfe428de0",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Последний альбом",
+            "primary-type": "Album"
+          },
+          "date": "2010-05-25",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2010-05-25",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 21,
+          "media": [
+            {
+              "id": "ef9afca2-1500-3296-b229-6e8ed0ddf997",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "4a5be146-ee1d-3b78-b0ae-4214b7646987",
+                  "number": "9",
+                  "title": "Ты не считаешь",
+                  "length": 274000
+                }
+              ],
+              "track-count": 21,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9d886a82-1401-42c0-b0e9-fee29509766f",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "Ты не считаешь",
+      "length": 262053,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-12-05",
+      "releases": [
+        {
+          "id": "b5aaac31-69ac-4864-ac6e-9f5e934090c0",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Вот и всё! Ну и что?",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "9c96411d-6bc0-4f58-84ae-ba1cd30fdbf0",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Вот и всё! Ну и что?",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-12-05",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-12-05",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "1be22185-8b59-391c-8d41-69de8ba6691c",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "f4db5bc6-2671-4d4a-ac3d-74691065d504",
+                  "number": "9",
+                  "title": "Ты не считаешь",
+                  "length": 262053
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f235d166-52c2-41a9-b727-ba0683b9321e",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "Ты Не Считаешь",
+      "length": 300207,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-05-28",
+      "releases": [
+        {
+          "id": "f6bb1196-fbb5-4029-98d1-e5bcaccc7ba6",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Презентация Последнего Альбома",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "ced1c879-6834-4ea9-940b-a93a0a691887",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Презентация Последнего Альбома",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-05-28",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-05-28",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 31,
+          "media": [
+            {
+              "id": "cd109f76-4f27-3f3e-8a10-f90e7b6b3dfa",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "476ab99a-d457-4d8b-b8fd-10c041d499b7",
+                  "number": "9",
+                  "title": "Ты Не Считаешь",
+                  "length": 300207
+                }
+              ],
+              "track-count": 31,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8b4334f-414c-4647-bc45-57a5ca400c19",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "Ты Не Считаешь",
+      "length": 264913,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-10-16",
+      "releases": [
+        {
+          "id": "19e61961-5ec3-49a0-af48-3dae7eacb12e",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Live @ Bingo Club (Киев)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "96431377-5402-4187-b9c3-4d5b73bb5675",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Live @ Bingo Club (Киев)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2011-10-16",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2011-10-16",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 41,
+          "media": [
+            {
+              "id": "95050b29-a789-3448-9e8e-2818e05fd777",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "9d343fa3-4524-4e53-af57-223dab2a844d",
+                  "number": "31",
+                  "title": "Ты Не Считаешь",
+                  "length": 264913
+                }
+              ],
+              "track-count": 41,
+              "track-offset": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "692c8941-8b58-416f-b2be-b6c55c121f44",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "Ты не считаешь",
+      "length": 214603,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-04-29",
+      "releases": [
+        {
+          "id": "a6781ae1-fcf4-475c-b428-aa8d5aacb570",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Квартирник в музее Булгакова",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "b6b4c6db-34bd-46ff-92e8-fc0a4672078a",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Квартирник в музее Булгакова",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-04-29",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-04-29",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 20,
+          "media": [
+            {
+              "id": "e7f5092f-aa54-3743-a278-da3cd2bcbee1",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "da84cc6e-0d81-4491-b0a0-e193a53fd868",
+                  "number": "9",
+                  "title": "Ты не считаешь",
+                  "length": 214603
+                }
+              ],
+              "track-count": 20,
+              "track-offset": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "171840cc-6817-4dde-ab2f-9ca0b15d7155",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "Ты не считаешь",
+      "length": 273115,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2010-09-17",
+      "releases": [
+        {
+          "id": "2677b8b5-9871-4ea0-a7f8-3bdbfe117268",
+          "status-id": "1156806e-d06a-38bd-83f0-cf2284a808b9",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Концерт в клубе «Реактор» (Минск)",
+          "status": "Bootleg",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "bb46ff43-2c96-4168-a59c-4089637b55ea",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Концерт в клубе «Реактор» (Минск)",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2010-09-17",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2010-09-17",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 39,
+          "media": [
+            {
+              "id": "5fe97e81-d67c-3ddd-8932-e9b3c04fb13e",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "158beb4e-a2ed-44be-9a0f-2859156ce06f",
+                  "number": "28",
+                  "title": "Ты не считаешь",
+                  "length": 273115
+                }
+              ],
+              "track-count": 39,
+              "track-offset": 27
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d428edfd-b7fb-4fd7-bde9-7d5f7dfb9b49",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "Ты не считаешь",
+      "length": 266976,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-09-18",
+      "releases": [
+        {
+          "id": "0f1e6835-25de-4225-8393-daf0454ef95a",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "Жечь электричество!",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "f1689022-6b8f-4fbc-a54a-3da593f6cba3",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Жечь электричество!",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2011-09-18",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2011-09-18",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 26,
+          "media": [
+            {
+              "id": "018e7193-4197-3590-a32d-7c38501cb795",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "100443c2-04e9-4112-bd03-b96db3d44265",
+                  "number": "18",
+                  "title": "Ты не считаешь",
+                  "length": 266976
+                }
+              ],
+              "track-count": 26,
+              "track-offset": 17
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Noize MC\" AND recording:\"Ты не считаешь\""
+}

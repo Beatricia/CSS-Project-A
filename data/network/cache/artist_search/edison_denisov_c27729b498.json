@@ -1,0 +1,423 @@
+{
+  "created": "2026-05-22T17:06:52.702Z",
+  "count": 191,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "22120b9a-dc6b-4d7e-a89a-ddff6a6fc116",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Эдисон Васильевич Денисов",
+      "sort-name": "Denisov, Edison Vasilievich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d60097be-011d-4117-ab8b-f4dd4ebd5c08",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tomsk",
+        "sort-name": "Tomsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000114802010"
+      ],
+      "life-span": {
+        "begin": "1929-04-06",
+        "end": "1996-11-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Денисов, Эдисон",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Эдисон Денисов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Денисов, Эдисон Васильевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Эдисон Васильевич Денисов",
+          "locale": "ru_RU",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Denissov, Edison",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Edison Denissov",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Denisov, Edison",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Edison Denisov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "boris vian"
+        },
+        {
+          "count": 1,
+          "name": "l'écume des jours"
+        },
+        {
+          "count": 1,
+          "name": "vie en rouge"
+        },
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        }
+      ]
+    },
+    {
+      "id": "e026f4dd-bf8b-451b-8f5c-dc35fdbed0c0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 57,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Harry “Sweets” Edison",
+      "sort-name": "Edison, Harry “Sweets”",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "18187bcb-18e6-4075-903e-fb976db17a55",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Columbus",
+        "sort-name": "Columbus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "18187bcb-18e6-4075-903e-fb976db17a55",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Columbus",
+        "sort-name": "Columbus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000115575884"
+      ],
+      "life-span": {
+        "begin": "1915-10-10",
+        "end": "1999-07-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Edison",
+          "name": "Edison",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sweets Edison",
+          "name": "Sweets Edison",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Harry Edison",
+          "name": "Harry Edison",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "swing"
+        }
+      ]
+    },
+    {
+      "id": "f965164f-31fe-44a9-b64c-b4955dbc4d62",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pavel Denisov",
+      "sort-name": "Denisov, Pavel",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "15606676-4e97-47ff-98bb-489a1f0d44a2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Edison",
+      "sort-name": "Edison",
+      "gender": "male",
+      "area": {
+        "id": "83f22bb6-4631-443c-bace-9fae8540362a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San Francisco",
+        "sort-name": "San Francisco",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "hip hop artist aka Nic Dematteo",
+      "ipis": [
+        "00485245827"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "08cefb97-cef5-49e8-a988-833539f1d871",
+      "score": 52,
+      "name": "Andrey Denisov",
+      "sort-name": "Denisov, Andrey",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "756cf431-40ce-4965-a986-ee8cc5ef01f3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "name": "EDISON",
+      "sort-name": "EDISON",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Japanese composer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5528ebce-9a4e-4e16-8e75-211e475928d6",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 50,
+      "name": "Edison Lighthouse",
+      "sort-name": "Edison Lighthouse",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1970",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Eddison Lighthouse",
+          "name": "Eddison Lighthouse",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "rock and indie"
+        }
+      ]
+    },
+    {
+      "id": "cb9a5c28-f83a-449d-b011-b40f03f8d1af",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 50,
+      "name": "Edison",
+      "sort-name": "Edison",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8367ec12-dbaf-4a75-b661-790edd2cab92",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Altoona",
+        "sort-name": "Altoona",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "90s Pennsylvania alternative rock band",
+      "life-span": {
+        "begin": "1992",
+        "ended": null
+      }
+    },
+    {
+      "id": "60aad7c2-3780-40e6-81a7-36ac6bd184be",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 50,
+      "name": "Edison",
+      "sort-name": "Edison",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Indie Alternative Rock Band from Denver, Colorado",
+      "life-span": {
+        "begin": "2014-10-08",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "indie"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "3ed76c8f-c990-402a-acd1-d0b6ed011879",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Edison",
+      "sort-name": "Edison",
+      "gender": "male",
+      "disambiguation": "Andrew Chatterley",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,932 @@
+{
+  "created": "2026-05-22T17:22:34.443Z",
+  "count": 3276,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "026c1c22-8d1c-473c-a33f-a27fd02d6975",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dennis Lloyd",
+      "sort-name": "Lloyd, Dennis",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1993-06-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Dennis Llyod",
+          "name": "Dennis Llyod",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "T., Nir",
+          "name": "Nir T.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ניר טיבור",
+          "name": "ניר טיבור",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nir Tibor",
+          "name": "Nir Tibor",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "reggae"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        }
+      ]
+    },
+    {
+      "id": "980ee2d8-2ee9-407b-b48e-48360fbc7437",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andrew Lloyd Webber",
+      "sort-name": "Lloyd Webber, Andrew",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a37eca4d-c1e2-48a3-bcba-61796db97ebf",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Kensington",
+        "sort-name": "Kensington",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English composer and impresario of musical theatre",
+      "ipis": [
+        "00035392878",
+        "00135186578"
+      ],
+      "isnis": [
+        "0000000120266779"
+      ],
+      "life-span": {
+        "begin": "1948-03-22",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Webber",
+          "name": "Webber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrew Lloyd-Webber",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Andrew Lloyd-Webber",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lloyd Webber",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Lloyd Webber",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Webber, Andrew",
+          "name": "Andrew Webber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrew Lloyd Weber",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Andrew Lloyd Weber",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Уэббер, Эндрю Ллойд",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Эндрю Ллойд Уэббер",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Webber, A. L.",
+          "name": "A. L. Webber",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrew Loyd Webber",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Andrew Loyd Webber",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Andrey Lloyd Webber",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Andrey Lloyd Webber",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vēberis, A.L.",
+          "name": "A.L.Vēberis",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 3,
+          "name": "british"
+        },
+        {
+          "count": 2,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 5,
+          "name": "musical"
+        }
+      ]
+    },
+    {
+      "id": "24c0aaf3-4ac2-4f9a-9ce6-a1545a96f017",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dennis Brown",
+      "sort-name": "Brown, Dennis",
+      "gender": "male",
+      "country": "JM",
+      "area": {
+        "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Jamaica",
+        "sort-name": "Jamaica",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "23e0d135-9fe7-48cb-b2c4-93addd3d1e37",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Kingston",
+        "sort-name": "Kingston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "23e0d135-9fe7-48cb-b2c4-93addd3d1e37",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Kingston",
+        "sort-name": "Kingston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Jamaican reggae singer Dennis Emmanuel Brown",
+      "isnis": [
+        "0000000063107041"
+      ],
+      "life-span": {
+        "begin": "1957-02-01",
+        "end": "1999-07-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Brown, D.",
+          "name": "D. Brown",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "reggae"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 2,
+          "name": "lovers rock"
+        },
+        {
+          "count": 0,
+          "name": "need_cleanup"
+        }
+      ]
+    },
+    {
+      "id": "8a6ccf62-b8fa-46d7-87df-f2dd14e6280d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lloyd Banks",
+      "sort-name": "Banks, Lloyd",
+      "gender": "male",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6aeb5e04-e59c-4c8c-b3ba-7480f62cccef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New Carrollton",
+        "sort-name": "New Carrollton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US rapper",
+      "ipis": [
+        "00446267835"
+      ],
+      "isnis": [
+        "000000011459416X"
+      ],
+      "life-span": {
+        "begin": "1982-04-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bank$, Lloyd",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Lloyd Bank$",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2003",
+          "end-date": null
+        },
+        {
+          "sort-name": "ロイド・バンクス",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ロイド・バンクス",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Banks, Lloyd",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Lloyd Banks",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Christopher Lloyd",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Christopher Lloyd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lloyd, Christopher Charles",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Christopher Charles Lloyd",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "C. Lloyde",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "C. Lloyde",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chris Lloyd",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Chris Lloyd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "C. Lloyd",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "C. Lloyd",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rap"
+        },
+        {
+          "count": 4,
+          "name": "hip hop"
+        },
+        {
+          "count": 3,
+          "name": "gangsta rap"
+        },
+        {
+          "count": 1,
+          "name": "top 100"
+        },
+        {
+          "count": 1,
+          "name": "g-unit"
+        }
+      ]
+    },
+    {
+      "id": "e9296a90-9c59-4657-9165-1f1b5319de00",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lloyd",
+      "sort-name": "Lloyd",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New Orleans",
+        "sort-name": "New Orleans",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "R&B artist Lloyd Polite, Jr.",
+      "isnis": [
+        "0000000055217718"
+      ],
+      "life-span": {
+        "begin": "1986-01-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Polite, Lloyd Harlin, Jr.",
+          "name": "Lloyd Harlin Polite Jr.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Polite, Lloyd",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Lloyd Polite",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Polite, Lloyd Harlin, Jr.",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lloyd Harlin Polite, Jr.",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Polite, Lloyd, Jr.",
+          "name": "Lloyd Polite, Jr.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hip hop rnb and dance hall"
+        },
+        {
+          "count": 1,
+          "name": "r b"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "contemporary r&b"
+        }
+      ]
+    },
+    {
+      "id": "d047ee24-6fac-401a-8769-34edbda52113",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lloyd Price",
+      "sort-name": "Price, Lloyd",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "93c1e793-41ac-4262-aad2-f5ee209d2c42",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kenner",
+        "sort-name": "Kenner",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "bed193ed-f886-4041-877a-2c9e64f9ab88",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New Rochelle",
+        "sort-name": "New Rochelle",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US R&B/soul singer",
+      "ipis": [
+        "00024911896"
+      ],
+      "isnis": [
+        "0000000059514410"
+      ],
+      "life-span": {
+        "begin": "1933-03-09",
+        "end": "2021-05-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "ロイド・プライス",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ロイド・プライス",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lloyd Prince",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Lloyd Prince",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Floyd Price",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Floyd Price",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "L Price",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "L Price",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "pop soul"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "count": 2,
+          "name": "new orleans r&b"
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "bf33f7ec-ee2b-4f17-8307-96a35e329039",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dennis Ehrhardt",
+      "sort-name": "Ehrhardt, Dennis",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ba9cf04c-c8c4-43ee-87fb-a334a0cdb671",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Buchholz in der Nordheide",
+        "sort-name": "Buchholz in der Nordheide",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00647900529"
+      ],
+      "life-span": {
+        "begin": "1974",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Erhardt, Dennis",
+          "name": "Dennis Erhardt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ded640b3-6c60-42c9-9588-7e59bbbf51a5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dennis McCarthy",
+      "sort-name": "McCarthy, Dennis",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US composer film scores",
+      "ipis": [
+        "00054839162",
+        "00347701364"
+      ],
+      "isnis": [
+        "0000000110516551"
+      ],
+      "life-span": {
+        "begin": "1945",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Denis McCarthy",
+          "name": "Denis McCarthy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "09cbb94a-c594-4674-8255-87112032a751",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lloyd Cole",
+      "sort-name": "Cole, Lloyd",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "64298804-10b9-49a4-a6e2-40893b5310e2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Buxton",
+        "sort-name": "Buxton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00122278201"
+      ],
+      "isnis": [
+        "0000000118275481"
+      ],
+      "life-span": {
+        "begin": "1961-01-31",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Llyod Cole",
+          "name": "Llyod Cole",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "b9b579ad-e499-4e3e-9d09-06bc8e504135",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Charles Lloyd",
+      "sort-name": "Lloyd, Charles",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Memphis",
+        "sort-name": "Memphis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US jazz saxophonist",
+      "ipis": [
+        "00070620700"
+      ],
+      "isnis": [
+        "0000000078224267"
+      ],
+      "life-span": {
+        "begin": "1938-03-15",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 3,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "post-bop"
+        },
+        {
+          "count": 1,
+          "name": "jazz and blues"
+        }
+      ]
+    }
+  ]
+}

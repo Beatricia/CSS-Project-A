@@ -1,0 +1,105 @@
+{
+  "created": "2026-05-22T18:11:53.304Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "d27f591f-e963-446d-bb43-a639e265c867",
+      "score": 100,
+      "artist-credit-id": "34a8c989-2c57-312f-8113-1a7363e132f3",
+      "title": "WHEN GOD SHUT THE DOOR",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Jerry Heil",
+          "artist": {
+            "id": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+            "name": "Jerry Heil",
+            "sort-name": "Heil, Jerry",
+            "disambiguation": "Ukrainian singer, participant of Eurovision 2024 (Ukraine)",
+            "aliases": [
+              {
+                "sort-name": "Shemaieva, Yana",
+                "name": "Яна Шемаєва",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2025-06-16",
+      "releases": [
+        {
+          "id": "34e318e2-30a9-4fb2-9a9c-e4ae8aa5a2fd",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "34a8c989-2c57-312f-8113-1a7363e132f3",
+          "count": 1,
+          "title": "Jerry Heil",
+          "status": "Official",
+          "disambiguation": "opaque clay vinyl",
+          "artist-credit": [
+            {
+              "name": "Jerry Heil",
+              "artist": {
+                "id": "218cf0a9-439e-472e-a2e6-65e208a102ac",
+                "name": "Jerry Heil",
+                "sort-name": "Heil, Jerry",
+                "disambiguation": "Ukrainian singer, participant of Eurovision 2024 (Ukraine)"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "e00d8811-9cc2-43ea-a94d-d1df898745bb",
+            "type-id": "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Jerry Heil",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Compilation"
+            ],
+            "secondary-type-ids": [
+              "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+            ]
+          },
+          "date": "2025-06-16",
+          "country": "UA",
+          "release-events": [
+            {
+              "date": "2025-06-16",
+              "area": {
+                "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+                "name": "Ukraine",
+                "sort-name": "Ukraine",
+                "iso-3166-1-codes": [
+                  "UA"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "e30af17a-8efe-416b-90bb-2832b72d5277",
+              "position": 1,
+              "format": "12\" Vinyl",
+              "track": [
+                {
+                  "id": "0ec28290-ed4d-4390-b59e-8df820749721",
+                  "number": "B4",
+                  "title": "WHEN GOD SHUT THE DOOR"
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 10
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Jerry Heil\" AND recording:\"WHEN GOD SHUT THE DOOR\""
+}

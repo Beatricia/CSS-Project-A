@@ -1,0 +1,647 @@
+{
+  "created": "2026-05-22T17:34:53.835Z",
+  "count": 3637,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "02da34cb-e186-4ce4-947e-84ea9e3e0003",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ibn al Rabin",
+      "sort-name": "Ibn al Rabin",
+      "gender": "male",
+      "area": {
+        "id": "28d44913-d1b1-4cc8-8c51-bf80a2a210cf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Genève",
+        "sort-name": "Genève",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0f60c463-96b0-402d-93bd-9dbb8ca80ec7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "name": "Ibn Al-Khimiya",
+      "sort-name": "Al-Khimiya, Ibn",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e07be014-d31a-4938-9a28-6205ebd3afb5",
+      "score": 99,
+      "name": "Ibn al-Aríf",
+      "sort-name": "Ibn al-Aríf",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6d93b76a-5b9c-4d78-8001-e91aa7fb6b70",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ibn al-Khatib",
+      "sort-name": "al-Khatib, Ibn",
+      "gender": "male",
+      "begin-area": {
+        "id": "31ddac54-cba3-4eff-98a4-10ce45e0c709",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Loja",
+        "sort-name": "Loja",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121431545"
+      ],
+      "life-span": {
+        "begin": "1313-11-16",
+        "end": "1374",
+        "ended": true
+      }
+    },
+    {
+      "id": "c92560c0-2a65-48f8-968f-9e4993572884",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ibn al-Vahib",
+      "sort-name": "Ibn al-Vahib",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "77d22c6b-b76a-4e0f-be7a-3ac4a179bbe6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ibn Sahl",
+      "sort-name": "Sahl, Ibn",
+      "gender": "male",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "416cda0f-250c-4db4-8a63-9975b5de70e3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sevilla",
+        "sort-name": "Sevilla",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "91bf53d0-9cec-4117-99f2-57833f8278c6",
+        "name": "[at sea]",
+        "sort-name": "[at sea]",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000118675565"
+      ],
+      "life-span": {
+        "begin": "1212",
+        "end": "1251",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "أبو إسحاق إبرهيم بن سهل الإسرائيلي الإشبيلي",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "أبو إسحاق إبرهيم بن سهل الإسرائيلي الإشبيلي",
+          "locale": "ar",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Abu Ishaq Ibrahim Ibn Sahl al-Isra'ili al-Ishbili",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Abu Ishaq Ibrahim Ibn Sahl al-Isra'ili al-Ishbili",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "35b57726-6a92-462e-84be-77f2005d9db8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 97,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "أبو الوليد أحمد بن زيدون المخزومي",
+      "sort-name": "Ibn Zaydún",
+      "gender": "male",
+      "area": {
+        "id": "2b67f2d6-b7ff-4b51-952c-9c4943cd637e",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Andalucía",
+        "sort-name": "Andalucía",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e08aa8a-2570-4316-8bcd-a3a10488afd2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Córdoba",
+        "sort-name": "Córdoba",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "416cda0f-250c-4db4-8a63-9975b5de70e3",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sevilla",
+        "sort-name": "Sevilla",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ibn Zaydún",
+      "isnis": [
+        "0000000121020981"
+      ],
+      "life-span": {
+        "begin": "1003",
+        "end": "1071",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Abenzaidún",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Abenzaidún",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Abu al-Waleed Ahmad Ibn Zaydún al-Makhzumi",
+          "name": "Abu al-Waleed Ahmad Ibn Zaydún al-Makhzumi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Al Green",
+      "sort-name": "Green, Al",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c4d48bca-3716-4533-8966-a25b8c7b50a5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Forrest City",
+        "sort-name": "Forrest City",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US soul singer, songwriter, pastor and record producer",
+      "ipis": [
+        "00012614624",
+        "00055306003",
+        "00141754583"
+      ],
+      "isnis": [
+        "000000008398392X"
+      ],
+      "life-span": {
+        "begin": "1946-04-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "アル・グリーン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "アル・グリーン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Greene, Albert Leornes",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Albert Leornes Greene",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Green, Al",
+          "name": "Green, Al",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 14,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "1980s"
+        },
+        {
+          "count": 1,
+          "name": "1970s"
+        },
+        {
+          "count": 3,
+          "name": "gospel"
+        },
+        {
+          "count": 2,
+          "name": "southern soul"
+        },
+        {
+          "count": 1,
+          "name": "soul blues"
+        },
+        {
+          "count": 0,
+          "name": "soul and reggae"
+        },
+        {
+          "count": 1,
+          "name": "contemporary gospel"
+        },
+        {
+          "count": 1,
+          "name": "christmas music"
+        },
+        {
+          "count": 5,
+          "name": "smooth soul"
+        },
+        {
+          "count": 1,
+          "name": "pop-soul"
+        },
+        {
+          "count": 2,
+          "name": "memphis soul"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "3e54ba8b-f4cc-4192-9813-890d570e2b7a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Al Jarreau",
+      "sort-name": "Jarreau, Al",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4dc3fa97-cf9b-43f0-bec9-fcc52d6215d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Milwaukee",
+        "sort-name": "Milwaukee",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00087170267"
+      ],
+      "isnis": [
+        "0000000114505884"
+      ],
+      "life-span": {
+        "begin": "1940-03-12",
+        "end": "2017-02-12",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Jarreau, Al",
+          "name": "Jarreau, Al",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Al Jerrau",
+          "name": "Al Jerrau",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "All Jarreau",
+          "name": "All Jarreau",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Al Jarrean",
+          "name": "Al Jarrean",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Al Jarreou",
+          "name": "Al Jarreou",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alwyn Lopez Jarreau",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alwyn Lopez Jarreau",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "2000s"
+        },
+        {
+          "count": 1,
+          "name": "1970s"
+        },
+        {
+          "count": 1,
+          "name": "1980s"
+        },
+        {
+          "count": 0,
+          "name": "easy listening soundtracks and musicals"
+        },
+        {
+          "count": 0,
+          "name": "al jarreau"
+        },
+        {
+          "count": 0,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "count": 0,
+          "name": "am pop"
+        },
+        {
+          "count": 4,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 1,
+          "name": "soft rock"
+        },
+        {
+          "count": 1,
+          "name": "soul jazz"
+        },
+        {
+          "count": 1,
+          "name": "smooth jazz"
+        },
+        {
+          "count": 1,
+          "name": "smooth soul"
+        },
+        {
+          "count": 0,
+          "name": "contemporary jazz"
+        },
+        {
+          "count": 0,
+          "name": "crossover jazz"
+        },
+        {
+          "count": 0,
+          "name": "pop soul"
+        },
+        {
+          "count": 1,
+          "name": "jazz-funk"
+        },
+        {
+          "count": 0,
+          "name": "jazz pop"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        }
+      ]
+    },
+    {
+      "id": "a7fac559-f72e-4c9c-a746-9a6dd08902db",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "محمد",
+      "sort-name": "Muḥammad",
+      "gender": "male",
+      "country": "SA",
+      "area": {
+        "id": "9705be0d-51fb-3990-8726-ec9f56c66ba0",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Saudi Arabia",
+        "sort-name": "Saudi Arabia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a1a3bf35-ff36-45ac-80af-23f7bf89aeed",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mecca",
+        "sort-name": "Mecca",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "cf31eb04-27c0-4157-95b4-4290588a4246",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Medina",
+        "sort-name": "Medina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Muslim prophet, creator of Islam",
+      "life-span": {
+        "begin": "0570",
+        "end": "0632-06-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Muhammad",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Muhammad",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mohammed",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mohammed",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Muhammad ibn Abdullah",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Muhammad ibn Abdullah",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Abū al-Qāsim Muḥammad ibn ʿAbd Allāh ibn ʿAbd al-Muṭṭalib ibn Hāshim",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Abū al-Qāsim Muḥammad ibn ʿAbd Allāh ibn ʿAbd al-Muṭṭalib ibn Hāshim",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Muḥammad ibn ʿAbd Allāh",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "مُحَمَّد بنِ عَبْد ٱللَّٰه",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "religious"
+        }
+      ]
+    }
+  ]
+}

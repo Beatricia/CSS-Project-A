@@ -1,0 +1,615 @@
+{
+  "created": "2026-05-22T17:07:19.522Z",
+  "count": 243,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ca668bdc-b289-4ca9-b4d2-5a20ff057fb5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Кирилл Кондрашин",
+      "sort-name": "Kondrashin, Kirill",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Amsterdam",
+        "sort-name": "Amsterdam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000110329967"
+      ],
+      "life-span": {
+        "begin": "1914-03-06",
+        "end": "1981-03-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kondrashin, Kirill",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Kirill Kondrashin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kondrashin, Kiril",
+          "name": "Kiril Kondrashin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kondrašin, Kirill Petrovič",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Kirill Petrovič Kondrašin",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kondrashin, Kyril",
+          "name": "Kyril Kondrashin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кондрашин, Кирилл Петрович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Кирилл Петрович Кондрашин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kondrasjin, Kirill",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Kirill Kondrasjin",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Кондрашин, Кирилл",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Кирилл Кондрашин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kondrachine, Kirill",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Kirill Kondrachine",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kondrasjin, Kirill Petrovitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Kirill Petrovitj Kondrasjin",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kondrasjin, Kirill",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Kirill Kondrasjin",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "russian conductor"
+        },
+        {
+          "count": 2,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "a0ac2dec-c98a-4202-aaa6-7fbaa5e80e86",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "Kirill",
+      "sort-name": "Kirill",
+      "disambiguation": "hungarian band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "985184b0-7772-4508-9d4a-c66a99562930",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kirka",
+      "sort-name": "Kirka",
+      "gender": "male",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "39d62198-1e76-4de4-b079-e86e3a393bbc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Helsinki",
+        "sort-name": "Helsinki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "39d62198-1e76-4de4-b079-e86e3a393bbc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Helsinki",
+        "sort-name": "Helsinki",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Kirill Babitzin, Finnish musician",
+      "isnis": [
+        "0000000130376090",
+        "0000000409231155",
+        "0000000506822475"
+      ],
+      "life-span": {
+        "begin": "1950-09-22",
+        "end": "2007-01-31",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Babitzin, Kirill \"Kirka\"",
+          "name": "Kirill \"Kirka\" Babitzin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Babitzin, Kirka",
+          "name": "Kirka Babitzin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Babitzin, Kirill",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Kirill Babitzin",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "schlager"
+        },
+        {
+          "count": 1,
+          "name": "iskelmä"
+        },
+        {
+          "count": 1,
+          "name": "suomi"
+        }
+      ]
+    },
+    {
+      "id": "e2e41546-cc89-4759-afc7-83db998fa1d8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Кирилл Покровский",
+      "sort-name": "Pokrovsky, Kirill",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "45125c6a-db29-4300-bd26-9ff9ed24a3e7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ghent",
+        "sort-name": "Ghent",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000372612156"
+      ],
+      "life-span": {
+        "begin": "1962-03-25",
+        "end": "2015-06-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Pokrovski, Kirill",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Kirill Pokrovski",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pokrovsky, Kirill",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Kirill Pokrovsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Покровский, Кирилл",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Кирилл Покровский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "15fb1034-680b-4f23-aba7-0218ff1a3fa3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kirill Karabits",
+      "sort-name": "Karabits, Kirill",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000080992986"
+      ],
+      "life-span": {
+        "begin": "1976-12-26",
+        "ended": null
+      }
+    },
+    {
+      "id": "6edafa8e-ab56-451c-80f0-e7efc9326261",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Maple Syrup",
+      "sort-name": "Maple Syrup",
+      "gender": "male",
+      "area": {
+        "id": "9f3f583e-c3b7-43a9-9ce5-b21027e5357b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Perm",
+        "sort-name": "Perm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian lo‐fi hip hop producer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Voronkov, Kirill",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Kirill Voronkov",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "lo-fi hip hop"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "chillwave"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 1,
+          "name": "instrumental hip hop"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "boom bap"
+        }
+      ]
+    },
+    {
+      "id": "6dd806ed-e23a-4766-8970-952395e1529d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kirill Gerstein",
+      "sort-name": "Gerstein, Kirill",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "56d11c4c-0e8e-4b73-80a0-dbac31817e15",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Voronezh",
+        "sort-name": "Voronezh",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000084038583"
+      ],
+      "life-span": {
+        "begin": "1979-10-23",
+        "ended": null
+      }
+    },
+    {
+      "id": "ea5bd30a-526e-42c2-9b99-3d615db69e15",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Пётр Кондрашин",
+      "sort-name": "Kondrashin, Petr",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "cellist",
+      "life-span": {
+        "begin": "1979",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Кондрашин, Пётр",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Пётр Кондрашин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a5988a91-4928-4e43-8300-0828abcf12ba",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Вячеслав Кондрашин",
+      "sort-name": "Kondrashin, Vyacheslav",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1a68c385-11db-4e3c-9049-b530a87fb65a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Пётр Кондрашин",
+      "sort-name": "Kondrashin, Peter",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "sound engineer",
+      "life-span": {
+        "begin": "1945-10-24",
+        "end": "2010-08-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Кондрашин, Пётр",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Пётр Кондрашин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

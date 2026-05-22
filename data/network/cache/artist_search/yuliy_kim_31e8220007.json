@@ -1,0 +1,681 @@
+{
+  "created": "2026-05-22T17:12:01.280Z",
+  "count": 7147,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "888058ef-edaf-4269-851d-d4e49c1746cf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Юлий Ким",
+      "sort-name": "Kim, Yuliy",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000009716364X"
+      ],
+      "life-span": {
+        "begin": "1936-12-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ким, Юлий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Юлий Ким",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Михайлов, Ю.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ю. Михайлов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ким, Юлий Черсанович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Юлий Черсанович Ким",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "poet"
+        }
+      ]
+    },
+    {
+      "id": "4b462375-c508-432a-8c88-ceeec38b16ae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Kim Wilde",
+      "sort-name": "Wilde, Kim",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1ab9f238-ee1e-4853-9b08-49f4b0c92150",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Chiswick",
+        "sort-name": "Chiswick",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114505235"
+      ],
+      "life-span": {
+        "begin": "1960-11-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kim Wild",
+          "name": "Kim Wild",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "synthpop"
+        },
+        {
+          "count": 6,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "british"
+        },
+        {
+          "count": 2,
+          "name": "new wave"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 4,
+          "name": "synth-pop"
+        },
+        {
+          "count": 2,
+          "name": "dance-pop"
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "hi-nrg"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": 0,
+          "name": "dance and electronica"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "600c5212-a8e6-458e-bd3f-78b6fbfe329a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Kim Carnes",
+      "sort-name": "Carnes, Kim",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00057682351"
+      ],
+      "isnis": [
+        "0000000114937660"
+      ],
+      "life-span": {
+        "begin": "1945-07-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kim Karnes",
+          "name": "Kim Karnes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Carnes, Kim",
+          "name": "Carnes, Kim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "soft rock"
+        },
+        {
+          "count": 1,
+          "name": "adult contemporary"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "country pop"
+        },
+        {
+          "count": 1,
+          "name": "singer/songwriter"
+        }
+      ]
+    },
+    {
+      "id": "5d47b4f0-d7df-487c-8719-b77c915a43ac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 69,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Юлій Мейтус",
+      "sort-name": "Meytuss, Julius",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a90737e3-34a7-4df2-b858-027fa204ee61",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kropyvnytskyi",
+        "sort-name": "Kropyvnytskyi",
+        "life-span": {
+          "begin": "2016-07",
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000080871877"
+      ],
+      "life-span": {
+        "begin": "1903-01-15",
+        "end": "1997-04-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Meitus, Yuliy",
+          "name": "Yuliy Meitus",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "88864a0d-da65-45a5-ac9f-2149fb8dfba0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "name": "Юлий Буркин",
+      "sort-name": "Burkin, Yuliy",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Yulij Burkin",
+          "name": "Yulij Burkin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "54fc0558-12b5-4854-9d57-9441bcd73a72",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Kim Petras",
+      "sort-name": "Petras, Kim",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b8a2776a-eedf-48ea-a6f3-1a9070f0b823",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Köln",
+        "sort-name": "Köln",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00612766352"
+      ],
+      "isnis": [
+        "0000000465817708"
+      ],
+      "life-span": {
+        "begin": "1992-08-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "キム・ペトラス",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "キム・ペトラス",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 6,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 2,
+          "name": "dance"
+        },
+        {
+          "count": 1,
+          "name": "electronica"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        },
+        {
+          "count": 2,
+          "name": "electropop"
+        },
+        {
+          "count": 1,
+          "name": "female vocalists"
+        },
+        {
+          "count": 4,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "club"
+        },
+        {
+          "count": 1,
+          "name": "edm"
+        },
+        {
+          "count": 2,
+          "name": "queer"
+        },
+        {
+          "count": 1,
+          "name": "transgender"
+        },
+        {
+          "count": 0,
+          "name": "lgbtqia+"
+        }
+      ]
+    },
+    {
+      "id": "e7c0af55-f1cd-4589-9cf2-e56333b69757",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Юлий Абрамов",
+      "sort-name": "Abramov, Yuliy",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "603915c8-e81c-4e77-aa28-3b97df985158",
+      "score": 68,
+      "name": "Юлий Г'Галин",
+      "sort-name": "G’Galin, Yuliy",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "bc1b5c95-e6d6-46b5-957a-5e8908b02c1e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Lil’ Kim",
+      "sort-name": "Lil’ Kim",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b2213f1e-563c-4809-b158-7529075397df",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Bedford–Stuyvesant",
+        "sort-name": "Bedford–Stuyvesant",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US rapper",
+      "ipis": [
+        "00186000494",
+        "00186000690"
+      ],
+      "isnis": [
+        "0000000055190068"
+      ],
+      "life-span": {
+        "begin": "1974-07-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lil´ Kim",
+          "name": "Lil´ Kim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "lil kim",
+          "name": "lil kim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lil'Kim",
+          "name": "Lil'Kim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lil' Kim",
+          "name": "Lil' Kim",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "hip-hop"
+        },
+        {
+          "count": 8,
+          "name": "hip hop"
+        },
+        {
+          "count": 3,
+          "name": "gangsta rap"
+        },
+        {
+          "count": 6,
+          "name": "pop rap"
+        },
+        {
+          "count": 2,
+          "name": "dirty rap"
+        },
+        {
+          "count": 1,
+          "name": "hip hop rnb and dance hall"
+        },
+        {
+          "count": 5,
+          "name": "east coast hip hop"
+        },
+        {
+          "count": 5,
+          "name": "hardcore hip hop"
+        }
+      ]
+    },
+    {
+      "id": "4189d03a-89a2-4a2e-874a-55f71fb4b3b6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Kim Weston",
+      "sort-name": "Weston, Kim",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Detroit",
+        "sort-name": "Detroit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000080505447"
+      ],
+      "life-span": {
+        "begin": "1939-12-20",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 2,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "motown"
+        }
+      ]
+    }
+  ]
+}

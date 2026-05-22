@@ -1,0 +1,693 @@
+{
+  "created": "2026-05-22T17:28:14.233Z",
+  "count": 4780,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "1f3fdbd8-63bc-421a-9956-5406523366a5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yehuda Green",
+      "sort-name": "Green, Yehuda",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "402c46d5-e884-46e1-928c-a47c215f6b01",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Yerushalayim",
+        "sort-name": "Yerushalayim",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000371259610"
+      ],
+      "life-span": {
+        "begin": "1959",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "גרין, יהודה",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "יהודה גרין",
+          "locale": "he_IL",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ad11da12-9d74-42bb-ae21-4f77f165ecee",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yehuda!",
+      "sort-name": "Yehuda!",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cik, Yehuda",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Yehuda Cik",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "084308bd-1654-436f-ba03-df6697104e19",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 50,
+      "name": "Green Day",
+      "sort-name": "Green Day",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f9719692-c39a-4d9c-bf8c-dd4035b09534",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berkeley",
+        "sort-name": "Berkeley",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000122711282"
+      ],
+      "life-span": {
+        "begin": "1989",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "グリーン・デイ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "グリーン・デイ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Greenday",
+          "name": "Greenday",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 11,
+          "name": "rock"
+        },
+        {
+          "count": 0,
+          "name": "pop"
+        },
+        {
+          "count": 17,
+          "name": "alternative rock"
+        },
+        {
+          "count": 6,
+          "name": "punk"
+        },
+        {
+          "count": 2,
+          "name": "american"
+        },
+        {
+          "count": 34,
+          "name": "punk rock"
+        },
+        {
+          "count": 0,
+          "name": "grunge"
+        },
+        {
+          "count": 0,
+          "name": "post-punk"
+        },
+        {
+          "count": 0,
+          "name": "ska punk"
+        },
+        {
+          "count": 0,
+          "name": "usa"
+        },
+        {
+          "count": 4,
+          "name": "power pop"
+        },
+        {
+          "count": 0,
+          "name": "pop-punk"
+        },
+        {
+          "count": 1,
+          "name": "alternative"
+        },
+        {
+          "count": 0,
+          "name": "américain"
+        },
+        {
+          "count": 0,
+          "name": "post-grunge"
+        },
+        {
+          "count": 0,
+          "name": "pop rock"
+        },
+        {
+          "count": 30,
+          "name": "pop punk"
+        },
+        {
+          "count": 0,
+          "name": "skate punk"
+        },
+        {
+          "count": 0,
+          "name": "punk pop"
+        },
+        {
+          "count": 0,
+          "name": "california"
+        },
+        {
+          "count": 0,
+          "name": "bay area"
+        },
+        {
+          "count": 0,
+          "name": "pop and chart"
+        },
+        {
+          "count": 0,
+          "name": "united states"
+        },
+        {
+          "count": 3,
+          "name": "queer"
+        },
+        {
+          "count": 0,
+          "name": "classic pop punk"
+        },
+        {
+          "count": 0,
+          "name": "california punk"
+        },
+        {
+          "count": 0,
+          "name": "classic punk"
+        },
+        {
+          "count": 0,
+          "name": "bay area punk"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        },
+        {
+          "count": -1,
+          "name": "2240665859492"
+        }
+      ]
+    },
+    {
+      "id": "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Al Green",
+      "sort-name": "Green, Al",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c4d48bca-3716-4533-8966-a25b8c7b50a5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Forrest City",
+        "sort-name": "Forrest City",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US soul singer, songwriter, pastor and record producer",
+      "ipis": [
+        "00012614624",
+        "00055306003",
+        "00141754583"
+      ],
+      "isnis": [
+        "000000008398392X"
+      ],
+      "life-span": {
+        "begin": "1946-04-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "アル・グリーン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "アル・グリーン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Greene, Albert Leornes",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Albert Leornes Greene",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Green, Al",
+          "name": "Green, Al",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 14,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "1980s"
+        },
+        {
+          "count": 1,
+          "name": "1970s"
+        },
+        {
+          "count": 3,
+          "name": "gospel"
+        },
+        {
+          "count": 2,
+          "name": "southern soul"
+        },
+        {
+          "count": 1,
+          "name": "soul blues"
+        },
+        {
+          "count": 0,
+          "name": "soul and reggae"
+        },
+        {
+          "count": 1,
+          "name": "contemporary gospel"
+        },
+        {
+          "count": 1,
+          "name": "christmas music"
+        },
+        {
+          "count": 5,
+          "name": "smooth soul"
+        },
+        {
+          "count": 1,
+          "name": "pop-soul"
+        },
+        {
+          "count": 2,
+          "name": "memphis soul"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "0814cfd8-d6e8-4cac-8ebc-9ae4db3ee8da",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yehuda Glantz",
+      "sort-name": "Glantz, Yehuda",
+      "gender": "male",
+      "country": "AR",
+      "area": {
+        "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Argentina",
+        "sort-name": "Argentina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Buenos Aires",
+        "sort-name": "Buenos Aires",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00514063392"
+      ],
+      "isnis": [
+        "0000000108327399"
+      ],
+      "life-span": {
+        "begin": "1958-03-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "יהודה גלאנץ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "יהודה גלאנץ",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b9cb9410-e6e7-476b-8dd7-79602d28d396",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yehuda Langer",
+      "sort-name": "Langer, Yehuda",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1a88b270-d763-48d5-a62c-2bb9cabb140c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grant Green",
+      "sort-name": "Green, Grant",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "759f9567-9107-40ef-a825-e57824a62e70",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "St. Louis",
+        "sort-name": "St. Louis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "jazz guitarist",
+      "ipis": [
+        "00012619609"
+      ],
+      "isnis": [
+        "000000011034995X"
+      ],
+      "life-span": {
+        "begin": "1935-06-06",
+        "end": "1979-01-31",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Grant Geeen",
+          "name": "Grant Geeen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 2,
+          "name": "hard bop"
+        },
+        {
+          "count": 1,
+          "name": "jazz-funk"
+        },
+        {
+          "count": 1,
+          "name": "cool jazz"
+        },
+        {
+          "count": 2,
+          "name": "soul jazz"
+        },
+        {
+          "count": 1,
+          "name": "latin jazz"
+        },
+        {
+          "count": -1,
+          "name": "death by heart attack"
+        }
+      ]
+    },
+    {
+      "id": "12f6ca54-4fa7-4591-b4ef-625821c42cf9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Guy Yehuda",
+      "sort-name": "Yehuda, Guy",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1320cb1d-71c5-4f18-9d6d-d06e13db7e66",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yehuda Winzelberg",
+      "sort-name": "Winzelberg, Yehuda",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e425b041-c28a-4ae8-9d5c-997890433cd4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Green Velvet",
+      "sort-name": "Green Velvet",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000073285343"
+      ],
+      "life-span": {
+        "begin": "1967-04-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Green Verlet",
+          "name": "Green Verlet",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Curan Stone",
+          "name": "Curan Stone",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "electro"
+        },
+        {
+          "count": 1,
+          "name": "minimal techno"
+        },
+        {
+          "count": 1,
+          "name": "tech house"
+        }
+      ]
+    }
+  ]
+}

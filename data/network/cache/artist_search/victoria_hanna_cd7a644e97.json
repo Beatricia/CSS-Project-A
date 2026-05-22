@@ -1,0 +1,668 @@
+{
+  "created": "2026-05-22T17:26:55.301Z",
+  "count": 3406,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7f294ae9-da49-4dff-be02-699a0fd442e4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Victoria Hanna",
+      "sort-name": "Hanna, Victoria",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli female vocalist",
+      "ipis": [
+        "00281561170"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gabbay, Victoria Hanna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Victoria Hanna Gabbay",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "גבאי, ויקטוריה חנה",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "ויקטוריה חנה גבאי",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "חנה, ויקטוריה",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ויקטוריה חנה",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hanna, Victoria",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Victoria Hanna",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "82246ef2-d87b-4e4e-906d-0bbc547f57ee",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "name": "Hanna",
+      "sort-name": "Hanna",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US techno/acid jazz producer Warren Harris",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "44bdf459-148d-4bd6-bbc0-6d82ae36cb6d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ханна",
+      "sort-name": "Hanna",
+      "gender": "female",
+      "area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e6e1d7e5-a1f9-4fb6-b9df-429a5345ce67",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cheboksary",
+        "sort-name": "Cheboksary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian pop singer",
+      "isnis": [
+        "0000000475826376"
+      ],
+      "life-span": {
+        "begin": "1991-01-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hanna",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hanna",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivanova, Anna Vladimirovna",
+          "name": "Anna Vladimirovna Ivanova",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kuryanova (Ivanova), Anna",
+          "name": "Анна Курьянова (Иванова)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Иванова, Анна Владимировна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Анна Владимировна Иванова",
+          "locale": "ru_RU",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        }
+      ]
+    },
+    {
+      "id": "7af9292e-dde2-4684-a758-ce9064aedd38",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "“Sir” Roland Hanna",
+      "sort-name": "Hanna, “Sir” Roland",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Detroit",
+        "sort-name": "Detroit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e49d7877-9a49-4dae-bfcb-a793f4128f84",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hackensack",
+        "sort-name": "Hackensack",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "jazz pianist",
+      "ipis": [
+        "00066040794"
+      ],
+      "isnis": [
+        "0000000055144723"
+      ],
+      "life-span": {
+        "begin": "1932-02-10",
+        "end": "2002-11-13",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Hanna, Roland",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Roland Hanna",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hanna, Roland Pembroke",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Roland Pembroke Hanna",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "post-bop"
+        },
+        {
+          "count": 1,
+          "name": "hard bop"
+        }
+      ]
+    },
+    {
+      "id": "b253c9cd-535a-4e74-b4d6-44fa1f53fffc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "William Hanna",
+      "sort-name": "Hanna, William",
+      "gender": "male",
+      "area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "43566010-1f7f-4e75-b159-5f16c2bff766",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Melrose",
+        "sort-name": "Melrose",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "9f7e9dde-52ab-4679-9ea1-f18275a1f7ed",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "North Hollywood",
+        "sort-name": "North Hollywood",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American animator, voice actor, and musician",
+      "ipis": [
+        "00013348903"
+      ],
+      "isnis": [
+        "0000000110416876"
+      ],
+      "life-span": {
+        "begin": "1910-07-14",
+        "end": "2001-03-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Williams, Denby",
+          "name": "Denby Williams",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "director"
+        },
+        {
+          "count": 1,
+          "name": "voice actor"
+        },
+        {
+          "count": 1,
+          "name": "animator"
+        }
+      ]
+    },
+    {
+      "id": "0aeb5951-27a7-4e0c-b111-211afbd5c167",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "name": "Victoria",
+      "sort-name": "Victoria",
+      "disambiguation": "avex Eurobeat artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b53d8bad-6b37-4470-987b-ceb28fb3c370",
+      "score": 47,
+      "name": "Victoria Victoria",
+      "sort-name": "Victoria Victoria",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a9b309fe-7ddf-4754-8821-b73593b05726",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Hanna Pakarinen",
+      "sort-name": "Pakarinen, Hanna",
+      "gender": "female",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "76a14a20-7b1e-405f-bc6a-22c7c483a6ce",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lappeenranta",
+        "sort-name": "Lappeenranta",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000056173788"
+      ],
+      "life-span": {
+        "begin": "1981-04-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Pakarinen, Hanna Helena",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hanna Helena Pakarinen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hanna",
+          "name": "Hanna",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "euro-pop"
+        },
+        {
+          "count": 1,
+          "name": "finnish rock"
+        },
+        {
+          "count": 1,
+          "name": "finnish pop"
+        }
+      ]
+    },
+    {
+      "id": "0b9f1797-12ca-4db4-8e0d-d9dc2b90a3da",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Victoria Spivey",
+      "sort-name": "Spivey, Victoria",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Houston",
+        "sort-name": "Houston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1906-10-15",
+        "end": "1976-10-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Victoria Regina Spivey",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Victoria Regina Spivey",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Queen Victoria",
+          "name": "Queen Victoria",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "vaudeville blues"
+        }
+      ]
+    },
+    {
+      "id": "09170b4d-9a28-4d6a-9070-9c8c725826ec",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tomás Luis de Victoria",
+      "sort-name": "Victoria, Tomás Luis de",
+      "gender": "male",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9a749854-31d7-4323-a77c-e5fe533e4993",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Sanchidrián",
+        "sort-name": "Sanchidrián",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "9ddf829c-48ee-4457-a80d-f7370f24f2ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Madrid",
+        "sort-name": "Madrid",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish Renaissance composer",
+      "isnis": [
+        "0000000121269111"
+      ],
+      "life-span": {
+        "begin": "1548",
+        "end": "1611-08-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Victoria, Tomas Ludovico da",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Tomas Ludovico da Victoria",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "トマス・ルイス・デ・ビクトリア",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "トマス・ルイス・デ・ビクトリア",
+          "locale": "ja_JP",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tomás Luis da Victoria",
+          "name": "Tomás Luis da Victoria",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Victoria, T.L. de",
+          "name": "Victoria, T.L. de",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tomas de Victoria",
+          "name": "Tomas de Victoria",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Thomas Luis de Victoria",
+          "name": "Thomas Luis de Victoria",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tomas Luis de Victoria",
+          "name": "Tomas Luis de Victoria",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "spanish"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "renaissance"
+        }
+      ]
+    }
+  ]
+}

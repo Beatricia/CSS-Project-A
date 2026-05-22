@@ -1,0 +1,267 @@
+{
+  "created": "2026-05-22T17:15:58.847Z",
+  "count": 582,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "4b4fa19b-d8a2-4d2b-80ca-5376441a9166",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Алёна Апина",
+      "sort-name": "Apina, Alyona",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9a1332a4-81ba-466a-8bbc-650f2072f19f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Saratov",
+        "sort-name": "Saratov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000407107142"
+      ],
+      "life-span": {
+        "begin": "1964-08-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Alena Apina",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alena Apina",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Apina, Alyona",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alyona Apina",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Апина, Алёна",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Алёна Апина",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Апина, Елена Евгеньевна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Елена Евгеньевна Апина",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1cf30923-a9dd-4453-8786-9e02d11e9f7a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 65,
+      "name": "Apina",
+      "sort-name": "Apina",
+      "area": {
+        "id": "637f0e8d-eed1-4190-aac7-4376c84cd232",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oulu",
+        "sort-name": "Oulu",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "637f0e8d-eed1-4190-aac7-4376c84cd232",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oulu",
+        "sort-name": "Oulu",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2010",
+        "ended": null
+      }
+    },
+    {
+      "id": "74acf5e1-8674-47d8-9574-d17393ec1788",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 58,
+      "name": "Alena",
+      "sort-name": "Alena",
+      "disambiguation": "Trance project",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "trance"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "edm"
+        }
+      ]
+    },
+    {
+      "id": "bfe7adf8-44e2-4563-8ca8-6d326b36bc7e",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 56,
+      "name": "Lumottu Apina",
+      "sort-name": "Lumottu Apina",
+      "country": "FI",
+      "area": {
+        "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Finland",
+        "sort-name": "Finland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Finnish pop band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "08bc0e0d-df57-4d85-9b49-35efb6f7b635",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Alena",
+      "sort-name": "Alena",
+      "gender": "female",
+      "disambiguation": "has song \"Changes\"",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "74b28eea-acb4-4099-b40e-0dd9ff5aa279",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 54,
+      "name": "Alena",
+      "sort-name": "Alena",
+      "disambiguation": "track \"Les Ailes De La Nuit\"",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3710b23f-de5b-444a-9727-53408cffec38",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Alena",
+      "sort-name": "Alena",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German Schlager, Pop",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "65af2650-5ca3-4aeb-b922-7f6adb425211",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Alena",
+      "sort-name": "Alena",
+      "gender": "female",
+      "disambiguation": "model, worked for NIP-Activity",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "model"
+        },
+        {
+          "count": 1,
+          "name": "nude model"
+        }
+      ]
+    },
+    {
+      "id": "9094d9a3-3be4-4ab2-89b8-4faf3bf363b9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Alena",
+      "sort-name": "Alena",
+      "gender": "female",
+      "disambiguation": "russian artist from Germany",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "be091be4-ff16-4771-85e7-532db5db243d",
+      "score": 54,
+      "name": "Alena",
+      "sort-name": "Alena",
+      "disambiguation": "appears on DHS of the Sound Wavers' track",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

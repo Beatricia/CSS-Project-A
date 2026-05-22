@@ -1,0 +1,546 @@
+{
+  "created": "2026-05-22T16:59:28.176Z",
+  "count": 390,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "196e97eb-ba27-4601-a08b-ec5a80d24fb5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Constantin Régamey",
+      "sort-name": "Régamey, Constantin",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "33f49521-f754-43cf-8d7a-d9e336fe56e6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lausanne",
+        "sort-name": "Lausanne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000107750988"
+      ],
+      "life-span": {
+        "begin": "1907-01-28",
+        "end": "1982-12-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Régamey, Konstanty",
+          "name": "Konstanty Régamey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "d9addb39-2f93-4034-9d19-ac1ff068d4eb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Kevin Regamey",
+      "sort-name": "Regamey, Kevin",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "93a59f1d-87ee-4a5c-a0a2-f5bd5b781755",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Cyril Regamey",
+      "sort-name": "Regamey, Cyril",
+      "gender": "male",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ddae9cc8-caf5-4e9a-9606-62a065fbc92b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tino Rossi",
+      "sort-name": "Rossi, Tino",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ca2d86ab-59f4-4b5f-abc8-7f49330c22df",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ajaccio",
+        "sort-name": "Ajaccio",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f5f1d03e-cc93-4429-8578-39e68266e277",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Neuilly-sur-Seine",
+        "sort-name": "Neuilly-sur-Seine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00026778849"
+      ],
+      "isnis": [
+        "0000000083544476"
+      ],
+      "life-span": {
+        "begin": "1907-04-29",
+        "end": "1983-09-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Rossi, Constantin",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Constantin Rossi",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "chanson française"
+        },
+        {
+          "count": 1,
+          "name": "cabaret"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "tenor"
+        },
+        {
+          "count": 1,
+          "name": "french singer"
+        }
+      ]
+    },
+    {
+      "id": "a3e9c813-d056-427f-9da1-6f6e8d1516e3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Constantin",
+      "sort-name": "Constantin",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Italian DJ Giancarlo Constantin",
+      "life-span": {
+        "begin": "1993",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Constantin, Giancarlo",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Giancarlo Constantin",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "88dc1de3-e31c-46dc-9187-2c1b74187944",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Constantin",
+      "sort-name": "Constantin",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Björn-Constantin Klenke",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Klenke, Björn-Constantin",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Björn-Constantin Klenke",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "68fd2915-1687-4a0e-924d-53710299df31",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Constantin",
+      "sort-name": "Constantin",
+      "gender": "male",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b00965d5-5d31-4e36-806f-60f0413d46e5",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Ayent",
+        "sort-name": "Ayent",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8cef63aa-1463-4ecb-8581-874f2058ea1c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Anzère",
+        "sort-name": "Anzère",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Bernie Constantin",
+      "ipis": [
+        "00073527963"
+      ],
+      "isnis": [
+        "0000000080582637"
+      ],
+      "life-span": {
+        "begin": "1947-06-18",
+        "end": "2025-01-02",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Constantin, Bernie",
+          "name": "Bernie Constantin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "d68754e2-b1d1-4c27-9b66-eafe92e460bf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Constantin Silvestri",
+      "sort-name": "Silvestri, Constantin",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "72ac17ca-9a6b-415b-9fcc-5d1a8e7afeee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "București",
+        "sort-name": "București",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Romanian conductor and composer",
+      "isnis": [
+        "0000000083930289"
+      ],
+      "life-span": {
+        "begin": "1913-05-31",
+        "end": "1969-02-23",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "romanian composer"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "romanian conductor"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 0,
+          "name": "piese"
+        },
+        {
+          "count": 1,
+          "name": "romanian"
+        }
+      ]
+    },
+    {
+      "id": "d15ce3c7-f587-4859-aae7-8c486bbc8191",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jean Constantin",
+      "sort-name": "Constantin, Jean",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "fa5023a1-48b9-4eae-9572-d44ba0faaef7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Noisy-le-Grand",
+        "sort-name": "Noisy-le-Grand",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00006669575"
+      ],
+      "isnis": [
+        "0000000114911970"
+      ],
+      "life-span": {
+        "begin": "1923-02-09",
+        "end": "1997-01-30",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "songwriter"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "lyricist"
+        },
+        {
+          "count": 1,
+          "name": "français"
+        },
+        {
+          "count": 1,
+          "name": "parolier"
+        },
+        {
+          "count": 1,
+          "name": "compositeur"
+        },
+        {
+          "count": 1,
+          "name": "chanteur"
+        },
+        {
+          "count": 1,
+          "name": "france"
+        },
+        {
+          "count": 1,
+          "name": "francophone"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "singer"
+        }
+      ]
+    },
+    {
+      "id": "d47a7714-83a4-41eb-8494-6c98cdf31d68",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Constantin Gillies",
+      "sort-name": "Gillies, Constantin",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1970",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    }
+  ]
+}

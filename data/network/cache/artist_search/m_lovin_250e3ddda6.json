@@ -1,0 +1,61 @@
+{
+  "created": "2026-05-22T17:41:20.106Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "878a5563-bfe2-4ff9-a02b-4432790df0f9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "MÉLOVIN",
+      "sort-name": "MÉLOVIN",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Ukrainian singer and songwriter",
+      "ipis": [
+        "00878742379"
+      ],
+      "isnis": [
+        "0000000475625814"
+      ],
+      "life-span": {
+        "begin": "1997-04-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bocharov, Kostyantyn Mykolayovych",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Kostyantyn Mykolayovych Bocharov",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

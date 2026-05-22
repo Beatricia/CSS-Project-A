@@ -1,0 +1,251 @@
+{
+  "created": "2026-05-22T16:49:06.903Z",
+  "count": 6,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "3758c649-c9bd-4aec-88b3-2ded38060965",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Клавдия Шульженко",
+      "sort-name": "Shulzhenko, Klavdiya",
+      "gender": "female",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "fc617bbb-6cae-4e33-ae25-bf5a6cb7d7d5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kharkiv",
+        "sort-name": "Kharkiv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000002937738"
+      ],
+      "life-span": {
+        "begin": "1906-03-24",
+        "end": "1984-06-17",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Шульженко, Клавдия Ивановна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Клавдия Ивановна Шульженко",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schulschenko, Klawdija Iwanowna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Klawdija Iwanowna Schulschenko",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schulschenko, Klawdija",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Klawdija Schulschenko",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shulzhenko, Klavdiya",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Klavdiya Shulzhenko",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shulzhenko, Klavdiya Ivanovna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Klavdiya Ivanovna Shulzhenko",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шульженко, Клавдія Іванівна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Клавдія Іванівна Шульженко",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шульженко, Клавдія",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Клавдія Шульженко",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шульженко, Клавдия",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Клавдия Шульженко",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fa2b9dfb-f621-44e3-a6c0-ec1cf295e446",
+      "score": 51,
+      "name": "Klavdiya Panina",
+      "sort-name": "Panina, Klavdiya",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4364ec1d-518a-4d9c-81df-8a51f5abab60",
+      "score": 50,
+      "name": "Sergei Shulzhenko",
+      "sort-name": "Shulzhenko, Sergei",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8509af54-a59c-4fef-9705-10b4d9757a0c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "name": "Nadezhda Shulzhenko",
+      "sort-name": "Shulzhenko, Nadezhda",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "eec65be3-a16f-4da6-97bd-3a1ed49d7ee6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Клавдия Земцова",
+      "sort-name": "Zemtsova, Klavdiya",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c5c7660b-f162-4e6d-b32f-b847f4c16dc3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Клавдия Новикова",
+      "sort-name": "Novikova, Klavdiya",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "operetta singer, coloratura soprano",
+      "life-span": {
+        "begin": "1895-03-09",
+        "end": "1968-12-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Новикова, Клавдия Михайловна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Клавдия Михайловна Новикова",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Новикова, Клавдия",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Клавдия Новикова",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

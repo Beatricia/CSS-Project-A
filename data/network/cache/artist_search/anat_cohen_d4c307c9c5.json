@@ -1,0 +1,528 @@
+{
+  "created": "2026-05-22T17:23:11.323Z",
+  "count": 2405,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "fe935257-b7ef-47c1-a31e-ce678292c674",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anat Cohen",
+      "sort-name": "Cohen, Anat",
+      "gender": "female",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000058876903"
+      ],
+      "life-span": {
+        "begin": "1975-10-31",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "כהן, ענת",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ענת כהן",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "post-bop"
+        },
+        {
+          "count": 1,
+          "name": "contemporary jazz"
+        },
+        {
+          "count": 1,
+          "name": "clarinet"
+        },
+        {
+          "count": 1,
+          "name": "saxophon"
+        }
+      ]
+    },
+    {
+      "id": "8b349d74-ee31-4e80-b300-c8a743e703c2",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 83,
+      "name": "Anat Cohen Tentet",
+      "sort-name": "Tentet, Anat Cohen",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "contemporary jazz"
+        },
+        {
+          "count": 1,
+          "name": "big band"
+        }
+      ]
+    },
+    {
+      "id": "7cb97f11-eddf-40fc-89cd-4815ffea76a2",
+      "score": 82,
+      "name": "Anat Cohen Quartet",
+      "sort-name": "Anat Cohen Quartet",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "65314b12-0e08-43fa-ba33-baaa7b874c15",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leonard Cohen",
+      "sort-name": "Cohen, Leonard",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3f504d54-c40c-487d-bc16-c1990eac887f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Westmount",
+        "sort-name": "Westmount",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Canadian singer‐songwriter and poet",
+      "ipis": [
+        "00006457004"
+      ],
+      "isnis": [
+        "0000000110273481"
+      ],
+      "life-span": {
+        "begin": "1934-09-21",
+        "end": "2016-11-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Cohen, Leonard Norman",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Leonard Norman Cohen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leonhard Cohen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Leonhard Cohen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lonard Cohen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Lonard Cohen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "L. Cohen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "L. Cohen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 7,
+          "name": "folk"
+        },
+        {
+          "count": 0,
+          "name": "blues"
+        },
+        {
+          "count": 0,
+          "name": "canadian"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "music"
+        },
+        {
+          "count": -1,
+          "name": "canada"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 3,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "poetry"
+        },
+        {
+          "count": 0,
+          "name": "soft rock"
+        },
+        {
+          "count": 4,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "composers"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 0,
+          "name": "singer and songwriter"
+        },
+        {
+          "count": 1,
+          "name": "fiction"
+        },
+        {
+          "count": 0,
+          "name": "sophisti-pop"
+        },
+        {
+          "count": 1,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 1,
+          "name": "novelists"
+        },
+        {
+          "count": 1,
+          "name": "poets"
+        },
+        {
+          "count": 1,
+          "name": "lyricists"
+        },
+        {
+          "count": 0,
+          "name": "nuno"
+        }
+      ]
+    },
+    {
+      "id": "296271ac-873d-4e4b-8fc1-31e0cfad8a9e",
+      "score": 46,
+      "name": "Anat",
+      "sort-name": "Anat",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f3f15228-39fd-41d7-a02d-968d2adffe4d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kaveh Cohen",
+      "sort-name": "Cohen, Kaveh",
+      "gender": "male",
+      "disambiguation": "production music",
+      "ipis": [
+        "00349009853"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "29567d1b-f5f1-478b-b9c1-032f986707ed",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anat Fort",
+      "sort-name": "Fort, Anat",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000082047558"
+      ],
+      "life-span": {
+        "begin": "1970-03-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "פורט, ענת",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ענת פורט",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ca95c668-6f97-422e-a7a6-50f1cddd0b79",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anat Damon",
+      "sort-name": "Damon, Anat",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "17d78170-7194-4603-8dbb-ca1108430882",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Avishai Cohen",
+      "sort-name": "Cohen, Avishai",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7bac8044-f785-4073-a8ef-717462ee0918",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "HaẔafon",
+        "sort-name": "HaẔafon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli jazz bassist",
+      "ipis": [
+        "00199423824"
+      ],
+      "isnis": [
+        "0000000119533307"
+      ],
+      "life-span": {
+        "begin": "1970-04-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cohen, Avishai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Avishai Cohen",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cohen, Avishai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Avishai Cohen",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "אבישי כהן",
+          "name": "אבישי כהן",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "post-bop"
+        },
+        {
+          "count": 1,
+          "name": "jazz and blues"
+        }
+      ]
+    },
+    {
+      "id": "68436753-636e-46f6-96e9-79050ab9a7b7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anat Melamed",
+      "sort-name": "Melamed, Anat",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ענת מלמד",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ענת מלמד",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

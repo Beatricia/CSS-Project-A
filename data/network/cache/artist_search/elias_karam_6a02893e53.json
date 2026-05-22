@@ -1,0 +1,415 @@
+{
+  "created": "2026-05-22T17:36:54.655Z",
+  "count": 1003,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "266a03d7-ba2c-46e6-a419-e0eab9b02c8f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "name": "الياس كرم",
+      "sort-name": "كرم, الياس",
+      "disambiguation": "Elias Karam",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "كرم, الياس",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "الياس كرم",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Karam, Elias",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Elias Karam",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "666fd16d-d9f9-4eff-80ed-a064d5bbca7c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 53,
+      "name": "Grobschnitt",
+      "sort-name": "Grobschnitt",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "16aea25a-b6a8-4011-a6d4-5bc0776a233b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hagen",
+        "sort-name": "Hagen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "16aea25a-b6a8-4011-a6d4-5bc0776a233b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hagen",
+        "sort-name": "Hagen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000097381604"
+      ],
+      "life-span": {
+        "begin": "1970",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Kapelle Elias Grobschnitt",
+          "name": "Kapelle Elias Grobschnitt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elias Grobschnitt",
+          "name": "Elias Grobschnitt",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "krautrock"
+        },
+        {
+          "count": 1,
+          "name": "symphonic prog"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 3,
+          "name": "progressive rock"
+        },
+        {
+          "count": 1,
+          "name": "deutschrock"
+        }
+      ]
+    },
+    {
+      "id": "9974cbc1-6a00-4a97-8a36-e4a25bfe0293",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Eliane Elias",
+      "sort-name": "Elias, Eliane",
+      "gender": "female",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "33e0f86c-d709-448d-a484-d55778913af1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "São Paulo",
+        "sort-name": "São Paulo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00144240309"
+      ],
+      "isnis": [
+        "0000000121283706"
+      ],
+      "life-span": {
+        "begin": "1960-03-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Eliaine Elias",
+          "name": "Eliaine Elias",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elaine Elias",
+          "name": "Elaine Elias",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elias, Elian",
+          "name": "Elian Elias",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "brazilian"
+        },
+        {
+          "count": 2,
+          "name": "bossa nova"
+        }
+      ]
+    },
+    {
+      "id": "2674597f-6c40-47cc-b980-67f94725f7a7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "نجوى كرم",
+      "sort-name": "Karam, Najwa",
+      "gender": "female",
+      "country": "LB",
+      "area": {
+        "id": "8138206e-5786-3f86-a53b-19a7303e7419",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Lebanon",
+        "sort-name": "Lebanon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c7e49663-c2d0-4d2e-b184-87eaf432d66d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zahlé",
+        "sort-name": "Zahlé",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Najwa Karam",
+      "life-span": {
+        "begin": "1966-02-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "نجوى كرم",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "نجوى كرم",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "9762c276-070e-45c4-85ff-42b9778fcf12",
+      "score": 49,
+      "name": "Karam Chaibo",
+      "sort-name": "Chaibo, Karam",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4d719fa5-335e-4af3-9601-f21426e8c246",
+      "score": 49,
+      "name": "Andrea Karam",
+      "sort-name": "Karam, Andrea",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b49cd126-ca83-4b94-8a17-511eb8ff4d7b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Savannah Karam",
+      "sort-name": "Karam, Savannah",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "502215a3-a1fb-4e78-8dd3-46cd999941b5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Elias",
+      "sort-name": "Elias",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e9d90440-aadd-4b52-86cd-2764c7595ef4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kinshasa",
+        "sort-name": "Kinshasa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German rapper",
+      "life-span": {
+        "begin": "1996-04-20",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bolonga, Ali Bayila",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ali Bayila Bolonga",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Young Sweezy",
+          "name": "Young Sweezy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elias Sweez",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Elias Sweez",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rap"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        }
+      ]
+    },
+    {
+      "id": "a99e3fff-b335-4832-8db8-ea4ab994eb81",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "name": "Unai Karam",
+      "sort-name": "Karam, Unai",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "85df390a-5784-494f-bccf-569779e7f2ca",
+      "score": 49,
+      "name": "Elie Karam",
+      "sort-name": "Elie Karam",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

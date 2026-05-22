@@ -1,0 +1,382 @@
+{
+  "created": "2026-05-22T18:13:13.394Z",
+  "count": 2,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "df77cfe6-6e8e-4f9d-935e-1067c4e6ecf0",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Adio Kerida",
+      "length": 297400,
+      "disambiguation": "live, 2008-07: TFF, Rudolstadt, Germany",
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2009",
+      "releases": [
+        {
+          "id": "b3f4426e-1c72-4b1c-8f5f-8d7dfedb02ec",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "949a7fd5-fe73-3e8f-922e-01ff4ca958f7",
+          "count": 2,
+          "title": "TFF Rudolstadt 2008",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Various Artists",
+              "artist": {
+                "id": "89ad4ac3-39f7-470e-963a-56509c546377",
+                "name": "Various Artists",
+                "sort-name": "Various Artists",
+                "disambiguation": "add compilations to this artist"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "106519f8-3a70-4473-960d-62ad31df14c8",
+            "type-id": "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "TFF Rudolstadt 2008",
+            "primary-type": "Album",
+            "secondary-types": [
+              "Live"
+            ],
+            "secondary-type-ids": [
+              "6fd474e2-6b58-3102-9d17-d6f7eb7da0a0"
+            ]
+          },
+          "date": "2009",
+          "country": "DE",
+          "release-events": [
+            {
+              "date": "2009",
+              "area": {
+                "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+                "name": "Germany",
+                "sort-name": "Germany",
+                "iso-3166-1-codes": [
+                  "DE"
+                ]
+              }
+            }
+          ],
+          "track-count": 37,
+          "media": [
+            {
+              "id": "e9c8daa8-7ff7-374f-b468-5cf9c68d41f1",
+              "position": 2,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7ad014d8-8b12-3887-8f96-fd36cf2834b2",
+                  "number": "14",
+                  "title": "Adio Kerida",
+                  "length": 297400
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86382d3c-e8e9-4660-82bb-86762dfdbbec",
+      "score": 100,
+      "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+      "title": "Adio kerida",
+      "length": 222653,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Yasmin Levy",
+          "artist": {
+            "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+            "name": "Yasmin Levy",
+            "sort-name": "Levy, Yasmin",
+            "aliases": [
+              {
+                "sort-name": "יסמין לוי",
+                "name": "יסמין לוי",
+                "locale": null,
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2007-11",
+      "releases": [
+        {
+          "id": "95b17f0f-179f-4d7b-8630-76527e8dc616",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2007",
+          "country": "IL",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+                "name": "Israel",
+                "sort-name": "Israel",
+                "iso-3166-1-codes": [
+                  "IL"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "c8355234-b218-3178-919b-722aa8a12246",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "7c2504ed-ab3f-45f2-aa70-4ae60e70b304",
+                  "number": "3",
+                  "title": "Adio kerida",
+                  "length": 224706
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "24d92cb1-537e-41e9-a3f2-2a9ccf9be9ea",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2007-11",
+          "country": "FR",
+          "release-events": [
+            {
+              "date": "2007-11",
+              "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "name": "France",
+                "sort-name": "France",
+                "iso-3166-1-codes": [
+                  "FR"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "9c94204d-7876-37bd-b796-754c3544cb41",
+              "position": 1,
+              "track": [
+                {
+                  "id": "76bb4a9c-279c-3b34-b4bd-64c0dfcccd2e",
+                  "number": "3",
+                  "title": "Adio kerida",
+                  "length": 222653
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "e9cef624-9b9a-45b1-815b-3f9d12a097ac",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2007",
+          "country": "AU",
+          "release-events": [
+            {
+              "date": "2007",
+              "area": {
+                "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+                "name": "Australia",
+                "sort-name": "Australia",
+                "iso-3166-1-codes": [
+                  "AU"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "c90b76ad-6615-35e0-b7ec-3b44c073717b",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "323e1df3-72a9-4d15-8fa7-9d59c3a449f6",
+                  "number": "3",
+                  "title": "Adio kerida",
+                  "length": 222653
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        },
+        {
+          "id": "f1305b27-22e1-3c58-8ae1-1d13bb2a707b",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "1b32c393-7663-30ac-934c-24f7c80a3d95",
+          "count": 1,
+          "title": "Mano suave",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Yasmin Levy",
+              "artist": {
+                "id": "856e486f-21f3-4203-a5d2-e30993988b38",
+                "name": "Yasmin Levy",
+                "sort-name": "Levy, Yasmin"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d3f743d4-88ef-326c-9023-6c4256c58b33",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Mano suave",
+            "primary-type": "Album"
+          },
+          "date": "2008-01-18",
+          "country": "AT",
+          "release-events": [
+            {
+              "date": "2008-01-18",
+              "area": {
+                "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+                "name": "Austria",
+                "sort-name": "Austria",
+                "iso-3166-1-codes": [
+                  "AT"
+                ]
+              }
+            }
+          ],
+          "track-count": 12,
+          "media": [
+            {
+              "id": "75ebd255-71c1-341c-8786-7943430a3bd7",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "acf69fd7-c1d4-32e1-a8c2-fe27048d0e2b",
+                  "number": "3",
+                  "title": "Adio kerida",
+                  "length": 222653
+                }
+              ],
+              "track-count": 12,
+              "track-offset": 2
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "IL4070700003"
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "traditional"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Yasmin Levy\" AND recording:\"Adio Kerida\""
+}

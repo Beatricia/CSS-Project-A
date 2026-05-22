@@ -1,0 +1,151 @@
+{
+  "created": "2026-05-22T18:30:11.086Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "ce87bf06-1e8b-425b-bc7f-90ca06a66493",
+      "score": 100,
+      "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+      "title": "Детка, послушай",
+      "length": 218000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Noize MC",
+          "artist": {
+            "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+            "name": "Noize MC",
+            "sort-name": "Noize MC",
+            "aliases": [
+              {
+                "sort-name": "Alekseyev, Ivan Aleksandrovich",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Иван Александрович Алексеев",
+                "locale": "ru_RU",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Нойз МС",
+                "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                "name": "Нойз МС",
+                "locale": null,
+                "type": "Search hint",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2018-11-08",
+      "releases": [
+        {
+          "id": "6766938a-0c5c-4f41-8ede-8d52fe1bc111",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "No Comments",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d78e6d17-ac3c-43e0-b5fd-1f45426c450a",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "No Comments",
+            "primary-type": "EP"
+          },
+          "date": "2018-11-08",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2018-11-08",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 4,
+          "media": [
+            {
+              "id": "2fb9d079-4d15-3d70-8c66-5a739e686d51",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "d5fc1cd4-bca6-4972-9dea-a274241a887a",
+                  "number": "2",
+                  "title": "Детка, послушай",
+                  "length": 218000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 1
+            }
+          ]
+        },
+        {
+          "id": "47ae2fe2-65a9-4adb-b2ff-b2d9f9620ce8",
+          "status-id": "41121bb9-3413-3818-8a9a-9742318349aa",
+          "artist-credit-id": "41021f93-6267-38cb-9aed-dec2b4f7c320",
+          "count": 1,
+          "title": "No Comments",
+          "status": "Pseudo-Release",
+          "artist-credit": [
+            {
+              "name": "Noize MC",
+              "artist": {
+                "id": "a0c5737e-da6d-468f-a78e-19146494f1db",
+                "name": "Noize MC",
+                "sort-name": "Noize MC"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "d78e6d17-ac3c-43e0-b5fd-1f45426c450a",
+            "type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "primary-type-id": "6d0c5bf6-7a33-3420-a519-44fc63eedebf",
+            "title": "No Comments",
+            "primary-type": "EP"
+          },
+          "track-count": 4,
+          "media": [
+            {
+              "id": "02f0cb6b-8d32-3541-b9ce-0d23b34f18f1",
+              "position": 1,
+              "track": [
+                {
+                  "id": "36008843-1e83-4171-8c40-b40a3151514b",
+                  "number": "2",
+                  "title": "Detka, poslushai",
+                  "length": 218000
+                }
+              ],
+              "track-count": 4,
+              "track-offset": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Noize MC\" AND recording:\"Детка, послушай\""
+}

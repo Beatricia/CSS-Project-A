@@ -1,0 +1,116 @@
+{
+  "created": "2026-05-22T17:00:42.289Z",
+  "count": 5,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "43e9ca42-ac95-4bc4-b36f-d5eeedbeda91",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kostiantyn Levandovskyi",
+      "sort-name": "Levandovskyi, Kostiantyn",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fd9f55bd-3575-4d06-b243-5cea97e5af81",
+      "score": 100,
+      "name": "Kostiantyn Ivanov",
+      "sort-name": "Ivanov, Kostiantyn",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1c4d5388-36e2-488f-a582-d28c1d4408e3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Константин Маюк",
+      "sort-name": "Maiuk, Kostiantyn",
+      "gender": "male",
+      "area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1990-03-07",
+        "ended": null
+      }
+    },
+    {
+      "id": "30e6ece4-ab38-4916-8826-d58d906a4c9c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Костянтин Москалець",
+      "sort-name": "Moskalets, Kostiantyn",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a9c9e71e-43f6-4aad-a470-de3f3aec6d40",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Chernihivs'ka Oblast'",
+        "sort-name": "Chernihivs'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000113462026"
+      ],
+      "life-span": {
+        "begin": "1963-02-23",
+        "ended": null
+      }
+    },
+    {
+      "id": "309a56cc-3004-432e-8bc8-8de2cd463d59",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Postman",
+      "sort-name": "Postman",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Kostiantyn Pochtar; Ukrainian singer-songwriter, indie-folk",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

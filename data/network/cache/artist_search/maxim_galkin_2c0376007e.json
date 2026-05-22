@@ -1,0 +1,351 @@
+{
+  "created": "2026-05-22T17:04:25.583Z",
+  "count": 1282,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "9709cc58-f4cc-4196-b100-6a547abe6e08",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Максим Галкин",
+      "sort-name": "Galkin, Maxim",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d59ab45e-edc4-4ddf-a3df-5733db641f3e",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Moskovskaya oblast'",
+        "sort-name": "Moskovskaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114901975"
+      ],
+      "life-span": {
+        "begin": "1976-06-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Galkin, Maxim",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Maxim Galkin",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Галкин, Максим Александрович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Максим Александрович Галкин",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Галкин, Максим",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Максим Галкин",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "eaefab5f-003f-45c6-8c3d-84836636f606",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Galkin",
+      "sort-name": "Galkin",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "86ea8a04-8700-4054-9886-4edd5a73bdba",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Maxim",
+      "sort-name": "Maxim",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7c7bd384-aa69-4cf3-84fc-6c3a322a570e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Siegburg",
+        "sort-name": "Siegburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German reggae singer",
+      "life-span": {
+        "begin": "1982-05-15",
+        "ended": null
+      }
+    },
+    {
+      "id": "03ea7e10-0b02-4437-8846-82ab2335e057",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 54,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Maxim",
+      "sort-name": "Maxim",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8116b732-9872-4493-9f5d-7413cbb70194",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Peterborough",
+        "sort-name": "Peterborough",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English singer‐songwriter and MC",
+      "ipis": [
+        "00264047279"
+      ],
+      "isnis": [
+        "0000000371963472"
+      ],
+      "life-span": {
+        "begin": "1967-03-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "The Prodigy",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "The Prodigy",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maxim Reality",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Maxim Reality",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Palmer, Keith",
+          "name": "Keith Palmer",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Maxim",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Maxim",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Palmer, Keith Andrew",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Keith Andrew Palmer",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "british"
+        },
+        {
+          "count": 2,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        }
+      ]
+    },
+    {
+      "id": "ca41679e-e53f-4793-b2c5-65f3eb049193",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yuriy Galkin",
+      "sort-name": "Galkin, Yuriy",
+      "gender": "male",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "36802e48-29b3-44c0-8a54-2898fdfffce3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marcos Galkin",
+      "sort-name": "Galkin, Marcos",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2421763b-647a-4b05-9bca-60829fd86125",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Zach Galkin",
+      "sort-name": "Zach Galkin",
+      "gender": "male",
+      "disambiguation": "Lethargy",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "cf01a5d7-7acb-4494-89e8-af9cbbfdb7dd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "name": "Jonathan Galkin",
+      "sort-name": "Galkin, Jonathan",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f1f1dc2c-5b30-494a-af9f-7dd3e5c66aa3",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 51,
+      "name": "Maxim Turbulenc",
+      "sort-name": "Maxim Turbulenc",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1994",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "3dcf3600-7c73-40ce-b626-165c549aa916",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 49,
+      "name": "Maxim",
+      "sort-name": "Maxim",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German trance duo (Jens Lissat & Ramon Zenker)",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "created": "2026-05-22T16:46:49.492Z",
+  "count": 383,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "2014bfbb-c65d-45dc-9973-35bead3833fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Святослав Рихтер",
+      "sort-name": "Richter, Sviatoslav",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "976f52f5-5f09-48dd-bb36-77ebca4402d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zhytomyr",
+        "sort-name": "Zhytomyr",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000114800293"
+      ],
+      "life-span": {
+        "begin": "1915-03-20",
+        "end": "1997-08-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Richter, Sviatoslav Teofilovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sviatoslav Teofilovich Richter",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richter, Swjatoslaw",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Swjatoslaw Richter",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richter, Sviatoslav",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Richter, Sviatoslav",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sviatoslov Richter",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sviatoslov Richter",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sviatsolan Richter",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sviatsolan Richter",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Svjatoslav Richter",
+          "name": "Svjatoslav Richter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Swatjoslaw Richter",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Swatjoslaw Richter",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рихтер, Святослав Теофилович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Святослав Теофилович Рихтер",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sviatoslav Rihter",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sviatoslav Rihter",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richter, S.",
+          "name": "S. Richter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richter, Svjatoslav",
+          "name": "Svjatoslav Richter",
+          "locale": "nl",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richter, Swjatoslaw Teofilowitsch",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Swjatoslaw Teofilowitsch Richter",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richter",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Richter",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richter, Sviatoslav",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sviatoslav Richter",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "piano"
+        },
+        {
+          "count": 3,
+          "name": "pianist"
+        },
+        {
+          "count": 3,
+          "name": "russian pianist"
+        },
+        {
+          "count": 1,
+          "name": "russian piano school vol. 6"
+        }
+      ]
+    },
+    {
+      "id": "509f20b2-5df3-4aec-9bbc-002131fb3f99",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Max Richter",
+      "sort-name": "Richter, Max",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "163074df-66ba-4c99-8627-1a61592699a5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamelin",
+        "sort-name": "Hamelin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German pianist and score composer",
+      "ipis": [
+        "00269472428"
+      ],
+      "isnis": [
+        "0000000071408901"
+      ],
+      "life-span": {
+        "begin": "1966-03-22",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Richter, Max",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Max Richter",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1966-03-22",
+          "end-date": null
+        },
+        {
+          "sort-name": "Max Richteir",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Max Richteir",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Max Ricter",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Max Ricter",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Max Rikter",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Max Rikter",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Richter",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Richter",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 4,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "score"
+        },
+        {
+          "count": 1,
+          "name": "producer"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 3,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "film score"
+        },
+        {
+          "count": 1,
+          "name": "neoclassical"
+        },
+        {
+          "count": 1,
+          "name": "minimalism"
+        },
+        {
+          "count": 5,
+          "name": "modern classical"
+        },
+        {
+          "count": 1,
+          "name": "british composer"
+        }
+      ]
+    },
+    {
+      "id": "bffd43c2-bb1e-4dbd-a134-adaf3879de0d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Richter",
+      "sort-name": "Richter",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German rapper Michael Richter",
+      "life-span": {
+        "begin": "1986-12-15",
+        "ended": null
+      }
+    },
+    {
+      "id": "e01ebec7-98c5-450a-bf67-5650f8b4eff0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karl Richter",
+      "sort-name": "Richter, Karl",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5a50803b-f670-4234-8056-ec1a9522f068",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Plauen",
+        "sort-name": "Plauen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor/ choir master/ organist/ harpsichordist",
+      "isnis": [
+        "0000000108823501"
+      ],
+      "life-span": {
+        "begin": "1926-10-15",
+        "end": "1981-02-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "カール・リヒター",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "カール・リヒター",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "german conductor"
+        }
+      ]
+    },
+    {
+      "id": "94e58c30-ca83-42a4-90aa-e0cb534e4b6c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sviatoslav Luther",
+      "sort-name": "Luther, Sviatoslav",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d0e6518b-ed57-4b2c-9ee9-a0a205dad044",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sviatoslav Moroz",
+      "sort-name": "Sviatoslav Moroz",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "life-span": {
+        "begin": "1965",
+        "ended": null
+      }
+    },
+    {
+      "id": "99336bf0-c6b5-43be-bef6-9060e24de66a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sviatoslav Lips",
+      "sort-name": "Lips, Sviatoslav",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "86bcc24f-6eb4-4bf6-a780-9c6f4782ba3f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sviatoslav Poloudine",
+      "sort-name": "Poloudine, Sviatoslav",
+      "gender": "male",
+      "country": "AR",
+      "area": {
+        "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Argentina",
+        "sort-name": "Argentina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4360dd23-8678-4592-a54d-314e1e3a139b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 42,
+      "name": "Richter",
+      "sort-name": "Richter",
+      "country": "AR",
+      "area": {
+        "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Argentina",
+        "sort-name": "Argentina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Argentina",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "27b00185-63d2-41ee-b192-36bbbbabc1a6",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 42,
+      "name": "Richter",
+      "sort-name": "Richter",
+      "disambiguation": "electro-pop, produced by Lizz Andrykew",
+      "life-span": {
+        "begin": "2004-06-01",
+        "ended": null
+      }
+    }
+  ]
+}

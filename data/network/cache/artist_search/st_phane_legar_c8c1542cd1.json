@@ -1,0 +1,594 @@
+{
+  "created": "2026-05-22T17:28:15.605Z",
+  "count": 885,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "630f7b31-ff31-4db7-9201-4f5bcfad479d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stéphane Legar",
+      "sort-name": "Legar, Stéphane",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7e93a1f1-eb20-4527-abf0-d33e7d9b1b5e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bat Yam",
+        "sort-name": "Bat Yam",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00836018543"
+      ],
+      "isnis": [
+        "0000000359245179"
+      ],
+      "life-span": {
+        "begin": "1998-05-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "סטפן לגר",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "סטפן לגר",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gagba, Stéphane",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Stéphane Gagba",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "bfc03211-a3a2-4700-8fa3-00968c02c5d0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stéphane Grappelli",
+      "sort-name": "Grappelli, Stéphane",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "jazz violinist",
+      "ipis": [
+        "00012552619"
+      ],
+      "isnis": [
+        "0000000122811590"
+      ],
+      "life-span": {
+        "begin": "1908-01-26",
+        "end": "1997-12-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Grappelli, S.",
+          "name": "S. Grappelli",
+          "locale": "fr",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Grappelli, (Stéphane)",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "(Stéphane) Grappelli",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Grapelli, Stephane",
+          "name": "Stephane Grapelli",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stephanie Grappelli",
+          "name": "Stephanie Grappelli",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stepane Grappelli",
+          "name": "Stepane Grappelli",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stephanie Grapelli",
+          "name": "Stephanie Grapelli",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stephane Grappelli",
+          "name": "Stephane Grappelli",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stéphane Grappelly",
+          "name": "Stéphane Grappelly",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Grappelli, Stéphane",
+          "name": "Stephan Grapelli",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "S. Grapelly",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "S. Grapelly",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 2,
+          "name": "swing"
+        },
+        {
+          "count": 3,
+          "name": "gypsy jazz"
+        },
+        {
+          "count": 1,
+          "name": "continental jazz"
+        },
+        {
+          "count": -1,
+          "name": "death by hernia operation"
+        }
+      ]
+    },
+    {
+      "id": "e9da4316-74f8-4512-a364-8e467f972d73",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stéphane Huguenin",
+      "sort-name": "Huguenin, Stéphane",
+      "gender": "male",
+      "ipis": [
+        "00149542163"
+      ],
+      "isnis": [
+        "0000000055185840"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c31fe44c-723b-40eb-b755-c3051afa39ce",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "Stéphane Hirondelle",
+      "sort-name": "Hirondelle, Stéphane",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3db16d75-95f9-41b4-bd21-03f9ca901660",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stéphane Joly",
+      "sort-name": "Joly, Stéphane",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00048128579"
+      ],
+      "isnis": [
+        "0000000442508136"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d6ecdfbe-aaa7-48b5-925c-87f066376eaa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stéphane Pigeon",
+      "sort-name": "Pigeon, Stéphane",
+      "gender": "male",
+      "begin-area": {
+        "id": "7bda5d46-4809-41dc-a0b8-e889ff818f2e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Brussels",
+        "sort-name": "Brussels",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "sound processing/sound design, myNoise website soundscape creator",
+      "life-span": {
+        "begin": "1970-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "mynoize",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "mynoize",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Pigeon, Stéphane, Dr. Ir.",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Dr. Ir. Stéphane Pigeon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "myNoise",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "myNoise",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "chillout"
+        },
+        {
+          "count": 2,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "engineer"
+        },
+        {
+          "count": 1,
+          "name": "meditation"
+        },
+        {
+          "count": 1,
+          "name": "awesome"
+        },
+        {
+          "count": 1,
+          "name": "soundscape"
+        },
+        {
+          "count": 1,
+          "name": "nature sounds"
+        },
+        {
+          "count": 1,
+          "name": "sound design"
+        },
+        {
+          "count": 2,
+          "name": "white noise"
+        },
+        {
+          "count": 1,
+          "name": "_private tag 1"
+        }
+      ]
+    },
+    {
+      "id": "39955b66-af11-4398-b1bf-81421817abff",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stéphane GRARE",
+      "sort-name": "GRARE, Stéphane",
+      "gender": "male",
+      "area": {
+        "id": "37bc32de-19c2-474b-86ed-c73919891f06",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Aix-en-Provence",
+        "sort-name": "Aix-en-Provence",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "09238a31-b401-40cc-a232-0d6665a2cc93",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Calais",
+        "sort-name": "Calais",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000460674955"
+      ],
+      "life-span": {
+        "begin": "1981-01-22",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "stéphane grare"
+        },
+        {
+          "count": 1,
+          "name": "grare stéphane"
+        },
+        {
+          "count": 1,
+          "name": "sphere"
+        }
+      ]
+    },
+    {
+      "id": "1ae6f7a2-1b7e-4f00-a925-b407752acb15",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Stéphane",
+      "sort-name": "Stéphane",
+      "gender": "female",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Les Artistes RTL 2022 \"Green Dream\"",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "604866bf-8fbd-481a-81fb-f4ac2e5e897e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stéphane Picq",
+      "sort-name": "Picq, Stéphane",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "10173e97-7f16-4d06-9534-8c85a994dae7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rouen",
+        "sort-name": "Rouen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d4a97cd7-39e2-4c6e-b4c1-3dde368f2f2c",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Antsiranana",
+        "sort-name": "Antsiranana",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1965-08-16",
+        "end": "2025-02-02",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "11bf566b-a73e-4e8c-ba82-83fdcddd0aed",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stéphane Pompougnac",
+      "sort-name": "Pompougnac, Stéphane",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078424066"
+      ],
+      "life-span": {
+        "begin": "1968",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Stephane Pompougnac",
+          "name": "Stephane Pompougnac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stephan Pompanac",
+          "name": "Stephan Pompanac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "lounge"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "created": "2026-05-22T16:55:32.462Z",
+  "count": 370,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7928e584-ee78-4666-8a9d-7d5614e4a550",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Józef Koffler",
+      "sort-name": "Koffler, Józef",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "997a775f-fd0d-4371-884a-6260d4df1cfa",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "L'vivs'ka Oblast'",
+        "sort-name": "L'vivs'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "7e5c1f41-13d9-4321-8cc1-9009e74f33a6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Krosno",
+        "sort-name": "Krosno",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000117480803"
+      ],
+      "life-span": {
+        "begin": "1896-11-28",
+        "end": "1944",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Koffler, Jósef",
+          "name": "Jósef Koffler",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "96e5bd0f-0c75-4288-9b05-312715c773b0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hanno Koffler",
+      "sort-name": "Koffler, Hanno",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German actor",
+      "isnis": [
+        "0000000114835963"
+      ],
+      "life-span": {
+        "begin": "1980-03-25",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "e87b4bae-1fdb-404c-ac1b-77af8654f6e9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Max Koffler",
+      "sort-name": "Koffler, Max",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1978",
+        "ended": null
+      }
+    },
+    {
+      "id": "679d7a73-41ec-4ede-8176-b68b0e9a48fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Józef Hofmann",
+      "sort-name": "Hofmann, Józef",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e82975d0-7258-4e4c-9c56-6e1deea8ad4c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kraków",
+        "sort-name": "Kraków",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000036863327X"
+      ],
+      "life-span": {
+        "begin": "1876-01-20",
+        "end": "1957-02-16",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Josef Hofmann",
+          "name": "Josef Hofmann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "polish"
+        },
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        }
+      ]
+    },
+    {
+      "id": "2331b136-dcef-43fc-bc07-a8917bcfa425",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "Leon Koffler",
+      "sort-name": "Koffler, Leon",
+      "disambiguation": "field recordist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7405a6e1-29db-4ddb-9e87-a4d9e335dbd4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "Júlia Koffler",
+      "sort-name": "Koffler, Júlia",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "45a83a39-f920-4d51-8826-d6a6aad7699b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alfred Koffler",
+      "sort-name": "Alfred Koffler",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "42da68a7-fea5-48d8-98ed-ad6e5cddfa23",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rheinstetten",
+        "sort-name": "Rheinstetten",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1966-04-28",
+        "ended": null
+      }
+    },
+    {
+      "id": "d0f82e94-1dd1-4e50-a1b4-f9250c7b1401",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Józef Skrzek",
+      "sort-name": "Skrzek, Józef",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1948-07-02",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "sbb"
+        }
+      ]
+    },
+    {
+      "id": "57a20bd1-6378-4897-a854-007db4927648",
+      "score": 34,
+      "name": "Jozef",
+      "sort-name": "Jozef",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "probably Swedish hip-hop",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "477b8c0c-c5fc-4ad2-b5b2-191f0bf2a9df",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Armin van Buuren",
+      "sort-name": "Buuren, Armin van",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3556da0f-38ad-4f6c-b5dc-7aa99a168203",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Leiden",
+        "sort-name": "Leiden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00249695219",
+        "00249695415"
+      ],
+      "isnis": [
+        "0000000116842518"
+      ],
+      "life-span": {
+        "begin": "1976-12-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Van Johnston, Armin",
+          "name": "Armin Van Johnston",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "AvB",
+          "name": "AvB",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armin",
+          "name": "Armin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arminvan Buuren",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Arminvan Buuren",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armin Van Buren",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Armin Van Buren",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armin van Burren",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Armin van Burren",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armand van Burren",
+          "name": "Armand van Burren",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Buuren, van, Armin Jozef Jacobus Daniël",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Armin Jozef Jacobus Daniël van Buuren",
+          "locale": "nl_NL",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 16,
+          "name": "trance"
+        },
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "drum and bass"
+        },
+        {
+          "count": 1,
+          "name": "hardcore"
+        },
+        {
+          "count": 6,
+          "name": "dance"
+        },
+        {
+          "count": 0,
+          "name": "seen live"
+        },
+        {
+          "count": 0,
+          "name": "dutch"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 1,
+          "name": "electronica"
+        },
+        {
+          "count": 1,
+          "name": "psytrance"
+        },
+        {
+          "count": 3,
+          "name": "dance-pop"
+        },
+        {
+          "count": 8,
+          "name": "progressive trance"
+        },
+        {
+          "count": 1,
+          "name": "progressive house"
+        },
+        {
+          "count": 1,
+          "name": "electro house"
+        },
+        {
+          "count": 1,
+          "name": "edm"
+        },
+        {
+          "count": 0,
+          "name": "dance and electronica"
+        },
+        {
+          "count": 0,
+          "name": "best of"
+        },
+        {
+          "count": 7,
+          "name": "uplifting trance"
+        },
+        {
+          "count": 1,
+          "name": "tech trance"
+        },
+        {
+          "count": 4,
+          "name": "vocal trance"
+        },
+        {
+          "count": 0,
+          "name": "dutch trance"
+        },
+        {
+          "count": 1,
+          "name": "serenity"
+        },
+        {
+          "count": 1,
+          "name": "afro house"
+        },
+        {
+          "count": 1,
+          "name": "melodic trance"
+        },
+        {
+          "count": 1,
+          "name": "melodic techno"
+        },
+        {
+          "count": 1,
+          "name": "melodic house"
+        },
+        {
+          "count": 1,
+          "name": "dj tools"
+        },
+        {
+          "count": 0,
+          "name": "many names"
+        }
+      ]
+    }
+  ]
+}

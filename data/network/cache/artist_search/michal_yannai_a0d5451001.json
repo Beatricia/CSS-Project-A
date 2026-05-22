@@ -1,0 +1,388 @@
+{
+  "created": "2026-05-22T17:23:31.274Z",
+  "count": 1088,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "a8570a89-c3b2-4a47-816d-e57e5be15882",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "מיכל ינאי",
+      "sort-name": "Yannai, Michal",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7d3738ed-0681-4d36-87c4-d03192d54928",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ramat Gan",
+        "sort-name": "Ramat Gan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000071223229"
+      ],
+      "life-span": {
+        "begin": "1972-06-18",
+        "ended": null
+      }
+    },
+    {
+      "id": "f7867df2-e78b-46e2-8dda-8ee977b6ad82",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 78,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michal Tučný",
+      "sort-name": "Tucny, Michal",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Czech country",
+      "life-span": {
+        "begin": "1947-01-11",
+        "end": "1995-03-10",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "country"
+        }
+      ]
+    },
+    {
+      "id": "844fc2e9-cfb7-424c-a83b-5cf83efcf194",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Michal",
+      "sort-name": "Michal",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "339ed589-3664-4741-99ab-b4d479b0a2b9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ashkelon",
+        "sort-name": "Ashkelon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Towber",
+      "life-span": {
+        "begin": "1980-08-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Towber, Michal",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Michal Towber",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1980-08-30",
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b186aaf4-f3b9-4879-891c-297272bada9e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michal",
+      "sort-name": "Michal",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8440d5f3-6ff6-47cb-894e-9f9345c2dd74",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gorzów Wielkopolski",
+        "sort-name": "Gorzów Wielkopolski",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Michał Kwiatkowski, Star Academy, France",
+      "life-span": {
+        "begin": "1983-11-12",
+        "ended": null
+      }
+    },
+    {
+      "id": "47cf828b-aa2a-4b22-91cd-8107053f72fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michal David",
+      "sort-name": "David, Michal",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00139218767"
+      ],
+      "isnis": [
+        "000000005736093X"
+      ],
+      "life-span": {
+        "begin": "1960-07-14",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "c50b27a9-c691-4051-baa7-a4b47ab025bb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michal Pavlíček",
+      "sort-name": "Pavlíček, Michal",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000058454241"
+      ],
+      "life-span": {
+        "begin": "1956-02-14",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "399b2862-5df6-4ce3-9038-2a4a593ac062",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michał Lorenc",
+      "sort-name": "Lorenc, Michał",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1955-10-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Michal Lorenc",
+          "name": "Michal Lorenc",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "film composer"
+        },
+        {
+          "count": 1,
+          "name": "cinematic classical"
+        }
+      ]
+    },
+    {
+      "id": "0e331486-e05d-4ce5-b11a-f2bb3b6d5b9e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "name": "Michal Košut",
+      "sort-name": "Košut, Michal",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kosut Michal",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Kosut Michal",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "4bc078b6-6f29-4772-84bb-a16144087b6e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Michal",
+      "sort-name": "Michal",
+      "gender": "female",
+      "disambiguation": "Michal Matityahu",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "dad1a587-1cb7-40bf-8c1e-f5378c9d21df",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 73,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Michal",
+      "sort-name": "Michal",
+      "gender": "female",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Japanese Vocalist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

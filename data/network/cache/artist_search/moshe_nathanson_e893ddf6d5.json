@@ -1,0 +1,556 @@
+{
+  "created": "2026-05-22T17:40:56.174Z",
+  "count": 352,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c011fb5c-747a-4dc7-beed-49c243dec891",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Moshe Nathanson",
+      "sort-name": "Nathanson, Moshe",
+      "gender": "male",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Manhattan",
+        "sort-name": "Manhattan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000119925458"
+      ],
+      "life-span": {
+        "begin": "1899-08-10",
+        "end": "1981-02-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "נתנזון, משה",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה נתנזון",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e28dbf43-a2d9-4651-908f-1879ad67d30e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Matt Nathanson",
+      "sort-name": "Nathanson, Matt",
+      "gender": "male",
+      "area": {
+        "id": "83f22bb6-4631-443c-bace-9fae8540362a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "San Francisco",
+        "sort-name": "San Francisco",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1c8c3c96-b227-414b-b975-a4b55dc07ab2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lexington",
+        "sort-name": "Lexington",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00338415070"
+      ],
+      "isnis": [
+        "0000000054107701"
+      ],
+      "life-span": {
+        "begin": "1973-03-28",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative rock"
+        }
+      ]
+    },
+    {
+      "id": "cc02cf2c-4d1b-419f-ae12-92e559a62518",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mike Brant",
+      "sort-name": "Brant, Mike",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c73db7e7-d86e-4808-b784-1bf90834cfb5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lefka",
+        "sort-name": "Lefka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00067425271"
+      ],
+      "life-span": {
+        "begin": "1947-02-01",
+        "end": "1975-04-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Brand, Moshe",
+          "name": "Moshe Brand",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brand, Moshé",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Moshé Brand",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brand, Moshe Michael",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Moshe Michael Brand",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 0,
+          "name": "death by suicide"
+        }
+      ]
+    },
+    {
+      "id": "4130c9ff-ed36-4204-9ef8-cfdfe18d3572",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roy Nathanson",
+      "sort-name": "Nathanson, Roy",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055178034"
+      ],
+      "life-span": {
+        "begin": "1951-05-17",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "avant-garde jazz"
+        }
+      ]
+    },
+    {
+      "id": "30c06285-3ad9-48ec-8478-1676295e1eed",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יוסף משה כהנא",
+      "sort-name": "Kahana, Yosef Moshe",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00560056670"
+      ],
+      "isnis": [
+        "0000000402243583"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kahana, Yosef Moshe",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yosef Moshe Kahana",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "787009a9-7c63-4542-9571-f12c2203ba98",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Moshe",
+      "sort-name": "Moshe",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US producer/DJ Marc Shepard",
+      "life-span": {
+        "begin": "1974-09-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Shepard, Marc",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Marc Shepard",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "582a2945-ef27-4dca-8e3f-ac2d59bbd7fd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Moshe Goldman",
+      "sort-name": "Goldman, Moshe",
+      "gender": "male",
+      "area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hasidic singer, composer, and conductor of the Camp Shalva Choir",
+      "isnis": [
+        "0000000108299797"
+      ],
+      "life-span": {
+        "begin": "1952",
+        "end": "2010-03-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Camp Shalva",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Camp Shalva",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "גולדמן, משה",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה גולדמן",
+          "locale": "he_IL",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "גאלדמאן, משה",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה גאלדמאן",
+          "locale": "yi",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "hasidic"
+        },
+        {
+          "count": 1,
+          "name": "orthodox pop"
+        }
+      ]
+    },
+    {
+      "id": "bf10427c-c8e5-40e6-9b80-8326ee6f3db7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "name": "Peter Nathanson",
+      "sort-name": "Nathanson, Peter",
+      "disambiguation": "Production music composer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c70cb4a4-13bb-474a-a3e2-b383df7cbc4e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Moshe Tischler",
+      "sort-name": "Tischler, Moshe",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5e93eefc-1fed-4c87-afc2-4034dff689b1",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Lakewood Township",
+        "sort-name": "Lakewood Township",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tishler, Moshe",
+          "name": "Moshe Tishler",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "טישלער, משה",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "משה טישלער",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "orthodox pop"
+        }
+      ]
+    },
+    {
+      "id": "a0524708-2a9c-4476-9b44-66cc7c736f17",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "משה פרץ",
+      "sort-name": "Peretz, Moshe",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f5641ffd-2730-4ff3-90dd-7e37ca819bab",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tiberias",
+        "sort-name": "Tiberias",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00506935936"
+      ],
+      "isnis": [
+        "0000000114564438"
+      ],
+      "life-span": {
+        "begin": "1983-05-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Peretz, Moshe",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Moshe Peretz",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

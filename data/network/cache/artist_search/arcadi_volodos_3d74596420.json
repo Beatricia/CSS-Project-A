@@ -1,0 +1,408 @@
+{
+  "created": "2026-05-22T17:13:05.940Z",
+  "count": 116,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "9512b75b-0715-40c8-bee0-e8d142058a82",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arcadi Volodos",
+      "sort-name": "Volodos, Arcadi",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000081490830"
+      ],
+      "life-span": {
+        "begin": "1972-02-24",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "piano"
+        }
+      ]
+    },
+    {
+      "id": "8e9cf97d-1907-41c5-9c72-5f66d12223cd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andrew Arcadi",
+      "sort-name": "Arcadi, Andrew",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "video game composer aka Welles",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Arcadi, Andrew",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Andrew Arcadi",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "6d17a6a0-b0e5-4ac6-a117-f64d49c10895",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arkadi Volodos",
+      "sort-name": "Volodos, Arkadi",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "disambiguation": "bass-baritone",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "d62ef425-a2c4-481a-9e21-67b5d853e030",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 30,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "ארקדי דוכין",
+      "sort-name": "Duchin, Arkadi",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "5c464a16-4307-40ed-8fdc-6ae4358e9699",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Babruysk",
+        "sort-name": "Babruysk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00226770073"
+      ],
+      "isnis": [
+        "000000007910358X"
+      ],
+      "life-span": {
+        "begin": "1963-06-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Arcadi Duchin",
+          "name": "Arcadi Duchin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arkadi Duchin",
+          "name": "Arkadi Duchin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ארכדי דוכין",
+          "name": "ארכדי דוכין",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        }
+      ]
+    },
+    {
+      "id": "244e6c8d-5b0f-4eaa-b144-4ec2ec00e13f",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 28,
+      "name": "Il Testamento degli Arcadi",
+      "sort-name": "Il Testamento degli Arcadi",
+      "area": {
+        "id": "a98ab30d-fb0f-491a-933a-154e3d77a8e0",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Veneto",
+        "sort-name": "Veneto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0f4e6cc8-8a38-4741-b344-9d388def0060",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 23,
+      "name": "Arcadia",
+      "sort-name": "Arcadia",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Duran Duran splinter group: Le Bon, Rhodes and Taylor",
+      "isnis": [
+        "0000000086698542"
+      ],
+      "life-span": {
+        "begin": "1985",
+        "end": "1986",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Arcardia",
+          "name": "Arcardia",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "new wave"
+        },
+        {
+          "count": 2,
+          "name": "synth-pop"
+        },
+        {
+          "count": 1,
+          "name": "art rock"
+        }
+      ]
+    },
+    {
+      "id": "0c81e1d7-cebc-4608-9dc3-7ec563df9bfd",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 22,
+      "name": "The Arcadian Wild",
+      "sort-name": "Arcadian Wild,The",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2013",
+        "ended": null
+      }
+    },
+    {
+      "id": "193b0dcb-cfb7-4e72-b8d5-28e9663a65b6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 22,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Starcadian",
+      "sort-name": "Starcadian",
+      "gender": "male",
+      "area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "eacb58cb-ccaa-42b1-ab85-f08ca7d22aa6",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Chania",
+        "sort-name": "Chania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "261962ea-d8c2-4eaf-a80c-f14376ffadb0",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Manhattan",
+        "sort-name": "Manhattan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000047605227X"
+      ],
+      "life-span": {
+        "begin": "1980-08-12",
+        "end": "2025-05-01",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "electronic"
+        },
+        {
+          "count": 2,
+          "name": "synthwave"
+        }
+      ]
+    },
+    {
+      "id": "116a38d5-3c7c-4520-8926-76f244e6248d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 22,
+      "name": "Arcadian",
+      "sort-name": "Arcadian",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French band",
+      "isnis": [
+        "0000000469599920"
+      ],
+      "life-span": {
+        "begin": "2014-09-14",
+        "end": "2020-11-26",
+        "ended": true
+      }
+    },
+    {
+      "id": "8e01b923-9e3a-4276-a9ab-64cc949ef81c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 21,
+      "name": "Arcadian Academy",
+      "sort-name": "Arcadian Academy",
+      "isnis": [
+        "0000000088744813"
+      ],
+      "life-span": {
+        "begin": "1990",
+        "ended": null
+      }
+    }
+  ]
+}

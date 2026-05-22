@@ -1,0 +1,434 @@
+{
+  "created": "2026-05-22T17:15:54.497Z",
+  "count": 176,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "00abd24b-2ef8-4e6b-8680-13c286c9eac5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerzy Żurawlew",
+      "sort-name": "Żurawlew, Jerzy",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4c13267c-6995-4c02-8aa4-c11b5f4f52e7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rostov-on-Don",
+        "sort-name": "Rostov-on-Don",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000117575335"
+      ],
+      "life-span": {
+        "begin": "1886-12-25",
+        "end": "1980-10-03",
+        "ended": true
+      }
+    },
+    {
+      "id": "fcc544cc-04f1-4867-be3c-4020878f764a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerzy",
+      "sort-name": "Jerzy",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a855f632-8bba-4c58-bb91-d9d304955096",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Grzegorz Turnau",
+      "sort-name": "Turnau, Grzegorz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e82975d0-7258-4e4c-9c56-6e1deea8ad4c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kraków",
+        "sort-name": "Kraków",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00208273091"
+      ],
+      "isnis": [
+        "0000000371864343"
+      ],
+      "life-span": {
+        "begin": "1967-07-31",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Turnau, Grzegorz Jerzy",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Grzegorz Jerzy Turnau",
+          "locale": "pl_PL",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "polish"
+        },
+        {
+          "count": 1,
+          "name": "sung poetry"
+        }
+      ]
+    },
+    {
+      "id": "312bf8b2-c37a-458e-8272-99807444dec4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerzy Milian",
+      "sort-name": "Milian, Jerzy",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "92e7329e-374e-4b71-a175-f61fffc30213",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Poznań",
+        "sort-name": "Poznań",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish jazz musician, painter and composer, vibraphonist",
+      "isnis": [
+        "0000000117634841"
+      ],
+      "life-span": {
+        "begin": "1935-04-10",
+        "end": "2018-03-07",
+        "ended": true
+      }
+    },
+    {
+      "id": "9a7125ec-ed4a-4b64-8efe-09e31eb71c69",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerzy Maksymiuk",
+      "sort-name": "Maksymiuk, Jerzy",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bc82ec2f-70bd-4607-abd8-db1268b2f0d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Grodno",
+        "sort-name": "Grodno",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000110712691"
+      ],
+      "life-span": {
+        "begin": "1936-04-09",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Maksymniuk, Jerzy",
+          "name": "Jerzy Maksymniuk",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "polish composer"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "1c74153c-bad5-4d10-9927-ecbef4af6039",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerzy Wasowski",
+      "sort-name": "Wasowski, Jerzy",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1913-05-31",
+        "end": "1984-09-29",
+        "ended": true
+      }
+    },
+    {
+      "id": "b5857fa1-e235-4ca8-94c6-252ad4c02e04",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerzy Satanowski",
+      "sort-name": "Satanowski, Jerzy",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078522686"
+      ],
+      "life-span": {
+        "begin": "1947-08-23",
+        "ended": null
+      }
+    },
+    {
+      "id": "3539fdb5-501f-4270-8591-a0a7ba3cae80",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerzy Semkow",
+      "sort-name": "Semkow, Jerzy",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f23170a9-32b2-4f92-b3b1-5b4ae66b61a4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Radomsko",
+        "sort-name": "Radomsko",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "a0f5b257-926e-4d56-b9e9-8a521d12aea7",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Lutry",
+        "sort-name": "Lutry",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000114666418"
+      ],
+      "life-span": {
+        "begin": "1928-10-12",
+        "end": "2014-12-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Semkov, Jerzy",
+          "name": "Jerzy Semkov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "4d899db4-c0d2-4b7e-b05d-a5d5d1a1b986",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerzy Mazzoll",
+      "sort-name": "Mazzoll, Jerzy",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1968-12-19",
+        "ended": null
+      }
+    },
+    {
+      "id": "0dfa6454-2a6c-4d1d-8579-e408a9dd41d4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jerzy Porębski",
+      "sort-name": "Porębski, Jerzy",
+      "gender": "male",
+      "begin-area": {
+        "id": "d0254a6f-8d1d-4f84-a1e2-fcbb9e78657d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sosnowiec",
+        "sort-name": "Sosnowiec",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1939-03-28",
+        "end": "2021-08-19",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Porębski, Jerzy",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jerzy Porębski",
+          "locale": "pl",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

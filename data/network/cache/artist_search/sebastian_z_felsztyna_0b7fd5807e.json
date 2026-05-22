@@ -1,0 +1,1544 @@
+{
+  "created": "2026-05-22T16:57:13.162Z",
+  "count": 3849,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c6ddce9f-7feb-4a89-9c80-bafb42ae5575",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sebastian z Felsztyna",
+      "sort-name": "Felsztyna, Sebastian z",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000120258218"
+      ],
+      "life-span": {
+        "begin": "1480",
+        "end": "1543",
+        "ended": true
+      }
+    },
+    {
+      "id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Johann Sebastian Bach",
+      "sort-name": "Bach, Johann Sebastian",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8331b712-99b9-41ef-bf58-0f033f8d926a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Eisenach",
+        "sort-name": "Eisenach",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "20619e36-fca8-4499-bcc8-be01a3ea3e41",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Leipzig",
+        "sort-name": "Leipzig",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German Baroque period composer & musician",
+      "ipis": [
+        "00001749311"
+      ],
+      "isnis": [
+        "0000000122764157"
+      ],
+      "life-span": {
+        "begin": "1685-03-21",
+        "end": "1750-07-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bach, Jan Sebastian",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jan Sebastian Bach",
+          "locale": "pl_PL",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach",
+          "name": "Bach",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johnann Sebastian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johnann Sebastian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, Jean-Sébastien",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jean-Sébastien Bach",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, Johann Sebastian",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Sebastian Bach",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, Johann Sebastian",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Sebastian Bach",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "バッハ",
+          "name": "バッハ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "바흐",
+          "name": "바흐",
+          "locale": "ko",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, J. S.",
+          "name": "J. S. Bach",
+          "locale": "cs",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, Johann Sebastian",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Йоганн Себастьян Бах",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann S. Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann S. Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Sebstian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Sebstian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Sebasitan Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Sebasitan Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Себастьян Бах",
+          "name": "Себастьян Бах",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.S.Bash",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J.S.Bash",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bach",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bahs, J.S.",
+          "name": "J.S. Bahs",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Savastian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Savastian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jan Sebastian Bach",
+          "name": "Jan Sebastian Bach",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бах, Иоганн Севастьян",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иоганн Севастьян Бах",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J. S. Bacj",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J. S. Bacj",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J S Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J S Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Sebastuan Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Sebastuan Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.S Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J.S Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann-sebastian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann-sebastian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.S.Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J.S.Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.S. Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J.S. Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "JS Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "JS Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johan Sebastian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johan Sebastian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Sebastion Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Sebastion Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Sabastian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Sabastian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "バッハ ヨハンゼバスティアン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ヨハン・ゼバスティアン・バッハ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Μπαχ, Γιόχαν Σεμπάστιαν",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Γιόχαν Σεμπάστιαν Μπαχ",
+          "locale": "el",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бах, Иоганн Себастьян",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иоганн Себастьян Бах",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, Johann Sebastian",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Sebastian Bach",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach (1685-1750)",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Bach (1685-1750)",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "يوهان سباستيان باخ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "يوهان سباستيان باخ",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bahs, J. S.",
+          "name": "J. S. Bahs",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "バッハ ヨハンゼバスティアン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "J.S.バッハ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bahs, J.S.",
+          "name": "J.S.Bahs",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 19,
+          "name": "classical"
+        },
+        {
+          "count": 8,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "german composer"
+        },
+        {
+          "count": 1,
+          "name": "orchestral"
+        },
+        {
+          "count": 11,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "organist"
+        },
+        {
+          "count": 13,
+          "name": "baroque"
+        },
+        {
+          "count": 0,
+          "name": "latin"
+        },
+        {
+          "count": 5,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "bach"
+        },
+        {
+          "count": 1,
+          "name": "mass"
+        },
+        {
+          "count": 1,
+          "name": "wagner"
+        },
+        {
+          "count": 1,
+          "name": "six"
+        },
+        {
+          "count": 0,
+          "name": "134a"
+        },
+        {
+          "count": 1,
+          "name": "motet"
+        },
+        {
+          "count": 1,
+          "name": "mathäuspassion"
+        },
+        {
+          "count": 1,
+          "name": "messe h-moll"
+        },
+        {
+          "count": 1,
+          "name": "vox"
+        },
+        {
+          "count": 1,
+          "name": "cantata"
+        },
+        {
+          "count": 1,
+          "name": "cantata 147"
+        },
+        {
+          "count": 0,
+          "name": "bach double violin concerto"
+        },
+        {
+          "count": 1,
+          "name": "helmut walcha"
+        },
+        {
+          "count": 0,
+          "name": "1036"
+        },
+        {
+          "count": 1,
+          "name": "bertalan hock"
+        },
+        {
+          "count": 3,
+          "name": "gramophone selection"
+        }
+      ]
+    },
+    {
+      "id": "a81259a0-a2f5-464b-866e-71220f2739f1",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 40,
+      "name": "ZZ Top",
+      "sort-name": "ZZ Top",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Houston",
+        "sort-name": "Houston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000122906688"
+      ],
+      "life-span": {
+        "begin": "1969",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "ZZTop",
+          "name": "ZZTop",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Z Z Top",
+          "name": "Z Z Top",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 9,
+          "name": "rock"
+        },
+        {
+          "count": -1,
+          "name": "stoner rock"
+        },
+        {
+          "count": -1,
+          "name": "american"
+        },
+        {
+          "count": -1,
+          "name": "blues"
+        },
+        {
+          "count": 0,
+          "name": "new wave"
+        },
+        {
+          "count": 6,
+          "name": "hard rock"
+        },
+        {
+          "count": 13,
+          "name": "blues rock"
+        },
+        {
+          "count": 8,
+          "name": "southern rock"
+        },
+        {
+          "count": 3,
+          "name": "classic rock"
+        },
+        {
+          "count": 0,
+          "name": "album rock"
+        },
+        {
+          "count": -2,
+          "name": "texas blues"
+        },
+        {
+          "count": 4,
+          "name": "boogie rock"
+        },
+        {
+          "count": -2,
+          "name": "texas"
+        },
+        {
+          "count": -2,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": -1,
+          "name": "920.023"
+        }
+      ]
+    },
+    {
+      "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "JAY‐Z",
+      "sort-name": "JAY‐Z",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US rapper",
+      "ipis": [
+        "00240089393",
+        "00240089491",
+        "00240089589"
+      ],
+      "isnis": [
+        "0000000118335528",
+        "0000000368615389"
+      ],
+      "life-span": {
+        "begin": "1969-12-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Carter, Shawn",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "jay z",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "JAY‐Z",
+          "name": "JAY‐Z",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": "2017",
+          "end-date": null
+        },
+        {
+          "sort-name": "Jay‐Z",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jay‐Z",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1997",
+          "end-date": "2013"
+        },
+        {
+          "sort-name": "Jaÿ‐Z",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jaÿ‐Z",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1996",
+          "end-date": "1996"
+        },
+        {
+          "sort-name": "JAY:Z",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "JAY:Z",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2017",
+          "end-date": "2017"
+        },
+        {
+          "sort-name": "JAY Z",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "JAY Z",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "2013",
+          "end-date": "2017"
+        },
+        {
+          "sort-name": "Carter, Shawn C",
+          "name": "Shawn C Carter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Carter, Shawn",
+          "name": "Shawn Carter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Carter, S.",
+          "name": "S. Carter",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Carter, Shawn Corey",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Shawn Corey Carter",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jayz",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jayz",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hova",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hova",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jay-Hova",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jay-Hova",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jigga",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jigga",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jay Z",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jay Z",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jay - Z",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jay - Z",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hova da God",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hova da God",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "rap"
+        },
+        {
+          "count": -1,
+          "name": "hip-hop"
+        },
+        {
+          "count": 6,
+          "name": "hip hop"
+        },
+        {
+          "count": -1,
+          "name": "hiphop"
+        },
+        {
+          "count": 10,
+          "name": "pop rap"
+        },
+        {
+          "count": 0,
+          "name": "rapper"
+        },
+        {
+          "count": 0,
+          "name": "us"
+        },
+        {
+          "count": 0,
+          "name": "mashup"
+        },
+        {
+          "count": -1,
+          "name": "hip hop rnb and dance hall"
+        },
+        {
+          "count": -1,
+          "name": "united states"
+        },
+        {
+          "count": 1,
+          "name": "grammy winner"
+        },
+        {
+          "count": 2,
+          "name": "boom bap"
+        },
+        {
+          "count": 9,
+          "name": "east coast hip hop"
+        },
+        {
+          "count": 1,
+          "name": "hardcore hip hop"
+        },
+        {
+          "count": 0,
+          "name": "new york hip hop"
+        },
+        {
+          "count": 0,
+          "name": "luxury rap"
+        },
+        {
+          "count": 0,
+          "name": "relic inn"
+        },
+        {
+          "count": 1,
+          "name": "chipmunk soul"
+        }
+      ]
+    },
+    {
+      "id": "7d609f99-feea-4782-b7ce-ee278324e738",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sebastian",
+      "sort-name": "Sebastian",
+      "gender": "male",
+      "country": "DK",
+      "area": {
+        "id": "4757b525-2a60-324a-b060-578765d2c993",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Denmark",
+        "sort-name": "Denmark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "56f01f31-14e6-48a9-8592-80bfe628c0f8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sønderborg",
+        "sort-name": "Sønderborg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Danish rock singer, guitarist and composer",
+      "ipis": [
+        "00066603575"
+      ],
+      "isnis": [
+        "0000000078611961"
+      ],
+      "life-span": {
+        "begin": "1949-12-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Knud Torben Grabow Christensen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Knud Torben Grabow Christensen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Christensen, Knud Grabow",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Knud Grabow Christensen",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "danish"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "632b5904-c37e-46c1-8192-c43aea712770",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sebastian Fitzek",
+      "sort-name": "Fitzek, Sebastian",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081310326"
+      ],
+      "life-span": {
+        "begin": "1971-10-13",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Rhode, Max",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Max Rhode",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "8bc7fe7d-afcb-4a3e-9cbd-859c73db0cef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michael Z. Land",
+      "sort-name": "Land, Michael Z.",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "05f68b4c-10f3-49b5-b28c-260a1b707043",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Massachusetts",
+        "sort-name": "Massachusetts",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000074201957"
+      ],
+      "life-span": {
+        "begin": "1961",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Michael Z. Land",
+          "name": "Michael Z. Land",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Monkey Island 1",
+          "name": "Monkey Island 1",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Monkey Island OST",
+          "name": "Monkey Island OST",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Monkey Island Theme",
+          "name": "Monkey Island Theme",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Curse of Monkey Island",
+          "name": "The Curse of Monkey Island",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "LucasArts (Michael Z. Land)",
+          "name": "LucasArts (Michael Z. Land)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michael Z Land",
+          "name": "Michael Z Land",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michael Land",
+          "name": "Michael Land",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "vgm"
+        },
+        {
+          "count": 1,
+          "name": "video game music"
+        },
+        {
+          "count": 0,
+          "name": "_edit"
+        }
+      ]
+    },
+    {
+      "id": "36cf5c5e-14fb-42c0-a232-56bd449a81df",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Z‐Ro",
+      "sort-name": "Z‐Ro",
+      "gender": "male",
+      "area": {
+        "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Houston",
+        "sort-name": "Houston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Houston",
+        "sort-name": "Houston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "rapper from Houston, Texas",
+      "ipis": [
+        "00567170927"
+      ],
+      "isnis": [
+        "0000000062846918"
+      ],
+      "life-span": {
+        "begin": "1977-01-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "McVey, Joseph W.",
+          "name": "Joseph W. McVey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joseph Wayne McVey",
+          "name": "Joseph Wayne McVey",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "McVey, Joseph Wayne, IV",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Joseph Wayne McVey IV",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rap"
+        },
+        {
+          "count": 0,
+          "name": "hip-hop"
+        },
+        {
+          "count": 2,
+          "name": "hip hop"
+        },
+        {
+          "count": 3,
+          "name": "gangsta rap"
+        },
+        {
+          "count": 3,
+          "name": "southern rap"
+        },
+        {
+          "count": 1,
+          "name": "hip hop soul"
+        },
+        {
+          "count": 1,
+          "name": "sxsw"
+        },
+        {
+          "count": 1,
+          "name": "top 100"
+        },
+        {
+          "count": 1,
+          "name": "trap"
+        },
+        {
+          "count": 3,
+          "name": "houston rap"
+        },
+        {
+          "count": 1,
+          "name": "top 10"
+        },
+        {
+          "count": 1,
+          "name": "trap soul"
+        },
+        {
+          "count": 1,
+          "name": "texas music"
+        },
+        {
+          "count": 1,
+          "name": "houston sound"
+        },
+        {
+          "count": 1,
+          "name": "houston texas music"
+        },
+        {
+          "count": 1,
+          "name": "austin city limits"
+        },
+        {
+          "count": 1,
+          "name": "texas relays"
+        },
+        {
+          "count": 1,
+          "name": "guerilla maab"
+        },
+        {
+          "count": 1,
+          "name": "s.u.c."
+        },
+        {
+          "count": 1,
+          "name": "screwed up click"
+        }
+      ]
+    },
+    {
+      "id": "3fbfd668-8ada-4a79-a012-a298acda9ff0",
+      "score": 35,
+      "name": "z z z z z",
+      "sort-name": "z z z z z",
+      "country": "NZ",
+      "area": {
+        "id": "8524c7d9-f472-3890-a458-f28d5081d9c4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "New Zealand",
+        "sort-name": "New Zealand",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "noise",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4072139a-699c-4011-9bcc-baae6f959390",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "SebastiAn",
+      "sort-name": "SebastiAn",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "248d4d8c-53b8-4378-9000-39cd95a4840f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boulogne-Billancourt",
+        "sort-name": "Boulogne-Billancourt",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French electro artist",
+      "ipis": [
+        "00426908737"
+      ],
+      "isnis": [
+        "0000000080798825"
+      ],
+      "life-span": {
+        "begin": "1981-02-03",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sebastian Akchoté",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sebastian Akchoté",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sebastien Akchoté",
+          "name": "Sebastien Akchoté",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 0,
+          "name": "dance"
+        },
+        {
+          "count": 0,
+          "name": "electro"
+        },
+        {
+          "count": 1,
+          "name": "france"
+        },
+        {
+          "count": 2,
+          "name": "electropop"
+        },
+        {
+          "count": 0,
+          "name": "glitch"
+        },
+        {
+          "count": 1,
+          "name": "film score"
+        },
+        {
+          "count": 1,
+          "name": "electro house"
+        },
+        {
+          "count": 1,
+          "name": "progressive electronic"
+        },
+        {
+          "count": 1,
+          "name": "french touch"
+        },
+        {
+          "count": 0,
+          "name": "french house"
+        },
+        {
+          "count": 1,
+          "name": "synthwave"
+        },
+        {
+          "count": 2,
+          "name": "french electro"
+        }
+      ]
+    }
+  ]
+}

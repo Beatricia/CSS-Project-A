@@ -1,0 +1,662 @@
+{
+  "created": "2026-05-22T17:18:24.581Z",
+  "count": 962,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "1a9eebf6-163f-49a9-92e0-cf2aef80f738",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "יובל רפאל",
+      "sort-name": "Raphael, Yuval",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a75c972c-e1fb-4d16-93dd-18225ebb7ca2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ra'anana",
+        "sort-name": "Ra'anana",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2000-11-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Raphael, Yuval",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yuval Raphael",
+          "locale": "sq",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Raphael, Yuval",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yuval Raphael",
+          "locale": "es",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rafaeru, Yuvu~aru",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ユヴァル・ラファエル",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Raphael, Yuval",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yuval Raphael",
+          "locale": "et",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rafaél, Giouvál",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Γιουβάλ Ραφαέλ",
+          "locale": "el",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Raphael, Yuval",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yuval Raphael",
+          "locale": "it",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Raphael, Yuval",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yuval Raphael",
+          "locale": "fi",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Raphael, Yuval",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yuval Raphael",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Raphael, Yuval",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yuval Raphael",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rafael', Yuval'",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Юваль Рафаэль",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Raphael, Yuval",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yuval Raphael",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Raphael, Yuval",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yuval Raphael",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Refael, Yuval",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "יובל רפאל",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Refael, Yuval",
+          "name": "Yuval Refael",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "pop"
+        }
+      ]
+    },
+    {
+      "id": "b34cfe02-994d-40dc-854f-bf54a23dd405",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 74,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Raphael",
+      "sort-name": "Raphael",
+      "gender": "male",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "38e57a29-4feb-4c97-b9e3-53f54dbd6185",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Linares",
+        "sort-name": "Linares",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish balladist",
+      "isnis": [
+        "0000000123078570"
+      ],
+      "life-span": {
+        "begin": "1943-05-05",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Martos Sánchez, Miguel Rafael",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Miguel Rafael Martos Sánchez",
+          "locale": "es_ES",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Рафаэль",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Рафаэль",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "canción melódica"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "latin ballad"
+        }
+      ]
+    },
+    {
+      "id": "08b4cb20-d43f-4e22-8021-1d76ac8c121c",
+      "score": 67,
+      "name": "Yuval",
+      "sort-name": "Yuval",
+      "life-span": {
+        "begin": "2005-02-01",
+        "end": "2005-11-16",
+        "ended": true
+      }
+    },
+    {
+      "id": "c43bb0d6-94d7-410f-80fb-e5a243b18d23",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Raphaël",
+      "sort-name": "Raphaël",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French singer Raphaël Haroche",
+      "ipis": [
+        "00153590864"
+      ],
+      "isnis": [
+        "0000000080158350"
+      ],
+      "life-span": {
+        "begin": "1975-11-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Haroche, Raphaël",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Raphaël Haroche",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        }
+      ]
+    },
+    {
+      "id": "2521d863-e9f2-497c-b7c3-35c4c0079c81",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 65,
+      "name": "Raphael",
+      "sort-name": "Raphael",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "J-rock",
+      "life-span": {
+        "begin": "1997-03",
+        "end": "2016-11-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Raphael",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ラファエル",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "visual kei"
+        },
+        {
+          "count": 1,
+          "name": "likedis auto"
+        }
+      ]
+    },
+    {
+      "id": "8313b68a-25f8-4607-9d94-474a85c3623f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 63,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "יובל נח הררי",
+      "sort-name": "Harari, Yuval Noah",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000084321530"
+      ],
+      "life-span": {
+        "begin": "1976-02-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "a2eb319d-a45e-43c3-bb14-d0ffb577222c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Raphael Saadiq",
+      "sort-name": "Saadiq, Raphael",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6195f381-5711-4655-bf7c-75918c04b201",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oakland",
+        "sort-name": "Oakland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00127787148",
+        "00128841269",
+        "00339446343"
+      ],
+      "isnis": [
+        "0000000055181102"
+      ],
+      "life-span": {
+        "begin": "1966-05-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Wiggins, Raphael",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Raphael Wiggins",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wiggins, Charlie Ray",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Charlie Ray Wiggins",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Raphael Saddiq",
+          "name": "Raphael Saddiq",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rafael Saadiq",
+          "name": "Rafael Saadiq",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Saadik, R.",
+          "name": "R. Saadik",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rap Heal Saadiq",
+          "name": "Rap Heal Saadiq",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Wiggins, Ray",
+          "name": "Ray Wiggins",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "neo soul"
+        },
+        {
+          "count": 2,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "contemporary r&b"
+        }
+      ]
+    },
+    {
+      "id": "432f26ee-6054-42c3-a099-f48e441f04b4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Raphael",
+      "sort-name": "Raphael",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "New Age artist",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Raphael F. Sharpe",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Raphael F. Sharpe",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "197a2729-d5a2-4a89-9c31-13b910056ef3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 62,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yuval Ron",
+      "sort-name": "Ron, Yuval",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000048494231"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ada5dc03-ba6b-424a-ab35-a80b846e3298",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yuval Weinberg",
+      "sort-name": "Weinberg, Yuval",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "life-span": {
+        "begin": "1990-05-28",
+        "ended": null
+      }
+    }
+  ]
+}

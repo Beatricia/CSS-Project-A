@@ -1,0 +1,721 @@
+{
+  "created": "2026-05-22T17:13:37.455Z",
+  "count": 135,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "21e8564c-482a-4224-9c24-388de4d2f348",
+      "score": 100,
+      "name": "fyodor",
+      "sort-name": "fyodor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "08dd4a10-f7c8-4da8-a724-8d261ebbd9e4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Фёдор Достоевский",
+      "sort-name": "Dostoyevsky, Fyodor",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian writer",
+      "isnis": [
+        "0000000121462392"
+      ],
+      "life-span": {
+        "begin": "1821-11-11",
+        "end": "1881-02-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Достоевский, Фёдор Михайлович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Фёдор Михайлович Достоевский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Достоевский, Фёдор",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Фёдор Достоевский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dostoyevsky, Fyodor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Fyodor Dostoyevsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dostoyevsky, Fyodor Mikhailovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Fyodor Mikhailovich Dostoyevsky",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dostojewski, Fjodor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Fjodor Dostojewski",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dostojewski, Fjodor Michailowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Fjodor Michailowitsch Dostojewski",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fjodor Dostojewskij",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Fjodor Dostojewskij",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fjodor M. Dostojewski",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Fjodor M. Dostojewski",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fyodor Dostoyevsky",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Fyodor Dostoyevsky",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fjodor Dostojewski",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Fjodor Dostojewski",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "8c658928-b848-42ef-b861-fe62a1ca5256",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 97,
+      "name": "Volkov",
+      "sort-name": "Volkov",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian pop punk band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "959c4838-859d-42c7-8d5a-0a413915f7ff",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 95,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Little Fyodor",
+      "sort-name": "Little Fyodor",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7af3ddf7-a524-453e-babe-c99910b44411",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ilan Volkov",
+      "sort-name": "Volkov, Ilan",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000073718743"
+      ],
+      "life-span": {
+        "begin": "1976-09-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "וולקוב, אילן",
+          "name": "אילן וולקוב",
+          "locale": "he",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c278de2c-9696-4fdf-a919-0781cd945e2c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 91,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Игорь Фёдорович Стравинский",
+      "sort-name": "Stravinsky, Igor Fyodorovitch",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00029755848"
+      ],
+      "isnis": [
+        "0000000121224298"
+      ],
+      "life-span": {
+        "begin": "1882-06-17",
+        "end": "1971-04-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Stravinskij, Igor Fjodorovitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Igor Fjodorovitj Stravinskij",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinskij, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Stravinskij",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strawinski, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Strawinski",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strawinski, Igor Fjodorowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Igor Fjodorowitsch Strawinski",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Стравинский, Игорь Фёдорович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Игорь Фёдорович Стравинский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Стравинский, Игорь",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Игорь Стравинский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinksy",
+          "name": "Stravinksy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Igor Strawinsky",
+          "name": "Igor Strawinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Igor Strawinski",
+          "name": "Igor Strawinski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Стравинский, Игорь",
+          "name": "Стравинский, Игорь",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinksi",
+          "name": "Stravinksi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Igor Feodorovic Stravinsky",
+          "name": "Igor Feodorovic Stravinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinsky, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Stravinsky",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinski, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Stravinski",
+          "locale": "et",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinsky, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Stravinsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "イーゴリ・ストラヴィンスキー",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "イーゴリ・ストラヴィンスキー",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "stravinski",
+          "name": "stravinski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinsky",
+          "name": "Stravinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinsky, Igor Fyodorovitch",
+          "name": "Stravinsky, Igor Fyodorovitch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Igor Fyodorovitch Stravinsky",
+          "name": "Igor Fyodorovitch Stravinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinskij, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Stravinskij",
+          "locale": "da",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "classical"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "orchestral"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 3,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 4,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "orchestral music"
+        },
+        {
+          "count": 2,
+          "name": "modern classical"
+        },
+        {
+          "count": 2,
+          "name": "neoclassicism"
+        },
+        {
+          "count": 1,
+          "name": "ballet"
+        },
+        {
+          "count": 1,
+          "name": "serialism"
+        },
+        {
+          "count": 0,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "modernism"
+        }
+      ]
+    },
+    {
+      "id": "5f3366f2-60d4-4b13-b6c0-1653d3f125bd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 89,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kind Puppy",
+      "sort-name": "Kind Puppy",
+      "gender": "male",
+      "area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian lo‐fi beatmaker",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Volkov, Ilya",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ilya Volkov",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Volkov, Ilya Dmitrievich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ilya Dmitrievich Volkov",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "downtempo"
+        },
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi"
+        },
+        {
+          "count": 1,
+          "name": "boom bap"
+        },
+        {
+          "count": 1,
+          "name": "chillwave"
+        },
+        {
+          "count": 1,
+          "name": "instrumental hip hop"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi hip hop"
+        }
+      ]
+    },
+    {
+      "id": "e0e6bc5d-f24b-4a5b-8273-ce1c3e14f8e2",
+      "score": 87,
+      "name": "Fyodor Tutchev",
+      "sort-name": "Tutchev, Fyodor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "7a9e9e32-13f6-48db-8172-125bb44321e8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fyodor Urnov",
+      "sort-name": "Urnov, Fyodor",
+      "gender": "male",
+      "begin-area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "scientist",
+      "life-span": {
+        "begin": "1968",
+        "ended": null
+      }
+    },
+    {
+      "id": "1c6055a4-7720-417b-a57e-b4e34b785955",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexey Volkov",
+      "sort-name": "Volkov, Alexey",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "techno"
+        }
+      ]
+    }
+  ]
+}

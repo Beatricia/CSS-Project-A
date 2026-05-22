@@ -1,0 +1,492 @@
+{
+  "created": "2026-05-22T17:10:15.817Z",
+  "count": 3714,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8bf19a45-3a28-411d-b2c8-c4e0b535b68d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Иван Ларионов",
+      "sort-name": "Larionov, Ivan",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9f3f583e-c3b7-43a9-9ce5-b21027e5357b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Perm",
+        "sort-name": "Perm",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "9a1332a4-81ba-466a-8bbc-650f2072f19f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Saratov",
+        "sort-name": "Saratov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1830-01-23",
+        "end": "1889-04-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Larionov, Ivan Petrovich",
+          "name": "Ivan Petrovich Larionov",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ларионов, Иван Петрович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Иван Петрович Ларионов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ларионов, Иван",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иван Ларионов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Larionov, Ivan",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ivan Larionov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "236394c2-9a11-43a2-8567-f05ec83b49b8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Larionov",
+      "sort-name": "Larionov",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "DJ & producer based in Voronezh, Russia",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Larionov, Dmitry",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Dmitry Larionov",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c6d7a9e4-6044-4da3-9718-e5e28fa1e576",
+      "score": 55,
+      "name": "Mikhail Larionov",
+      "sort-name": "Larionov, Mikhail",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "41b818a1-526e-44be-87d9-1b4498e14dfb",
+      "score": 55,
+      "name": "Dmitry Larionov",
+      "sort-name": "Larionov, Dmitry",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "213cf7ae-0210-49f0-ac94-fb2b88d5c3b1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 55,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oleg Larionov",
+      "sort-name": "Larionov, Oleg",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6640d654-4b8f-48ed-883c-e064a0a48861",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ivan Graziani",
+      "sort-name": "Graziani, Ivan",
+      "gender": "male",
+      "country": "IT",
+      "area": {
+        "id": "c6500277-9a3d-349b-bf30-41afdbf42add",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Italy",
+        "sort-name": "Italy",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3f9075cc-8324-4ee5-aedf-8d65db6e07a0",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Teramo",
+        "sort-name": "Teramo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00064149382"
+      ],
+      "isnis": [
+        "0000000366004429"
+      ],
+      "life-span": {
+        "begin": "1945-10-06",
+        "end": "1997-01-01",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "2f31098d-1258-4f8f-af5f-95815b02f2d2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ivan Lins",
+      "sort-name": "Lins, Ivan",
+      "gender": "male",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9443d4f5-668c-4f30-96bd-6caf831de30f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rio de Janeiro",
+        "sort-name": "Rio de Janeiro",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00067483253",
+        "00067483351",
+        "00085713852"
+      ],
+      "isnis": [
+        "0000000108048322"
+      ],
+      "life-span": {
+        "begin": "1945-06-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Lins",
+          "name": "Lins",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Evan Lins",
+          "name": "Evan Lins",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lins, Ivan Guimarães",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ivan Guimarães Lins",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "mpb"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        },
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 0,
+          "name": "jazz"
+        }
+      ]
+    },
+    {
+      "id": "8237b887-317b-4aca-8318-edb698d01ff2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ivan Rebroff",
+      "sort-name": "Rebroff, Ivan",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "16560d3e-358b-4869-8a6d-727db2ee7b69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Frankfurt am Main",
+        "sort-name": "Frankfurt am Main",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000115718232"
+      ],
+      "life-span": {
+        "begin": "1931-07-31",
+        "end": "2008-02-27",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ребров, Иван",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иван Ребров",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rebroff, Ivan",
+          "name": "Rebroff, Ivan",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rippert, Hans Rolf",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Hans Rolf Rippert",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "5e6bc8ee-5192-448b-ae78-0ba691818159",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Unfancy D",
+      "sort-name": "Unfancy D",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Dmitrii Larionov",
+      "life-span": {
+        "begin": "1986-07-31",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Larionov, Dmitrii",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Dmitrii Larionov",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "2cabb4a0-7587-49f5-afce-75602d5db294",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "name": "Ivan Anthony Bertolla",
+      "sort-name": "Bertolla, Ivan Anthony",
+      "ipis": [
+        "00494070839"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bertolla Ivan",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Bertolla Ivan",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivan Bertolla",
+          "name": "Ivan Bertolla",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "epic music"
+        }
+      ]
+    }
+  ]
+}

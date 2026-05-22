@@ -1,0 +1,317 @@
+{
+  "created": "2026-05-22T17:20:48.062Z",
+  "count": 11,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "fbb412e9-099c-42ea-a555-b779afe65b14",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "יפה ירקוני",
+      "sort-name": "Yarkoni, Yafa",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "23a5d590-f8ca-4e1e-b6e2-41242ffa6c14",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Tel-Aviv",
+        "sort-name": "Tel-Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000003176977"
+      ],
+      "life-span": {
+        "begin": "1925-12-24",
+        "end": "2012-01-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Yarkoni, Yafa",
+          "name": "Yafa Yarkoni",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yarqoni, Yaffa",
+          "name": "Yaffa Yarqoni",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Yaffa Yarkoni",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Yaffa Yarkoni",
+          "locale": "en_US",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "5baa519d-d47c-4273-b108-af24252d06fe",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "יפה לוי",
+      "sort-name": "Levi, Yafa",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "זמרת",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e37905f1-e3e2-4018-8a49-fcc3616f74ec",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "רותי ירקוני",
+      "sort-name": "Yarkoni, Ruthy",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1956-03-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "d896d266-c4b7-4a02-a944-bdadbd67c059",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "שחר ירקוני",
+      "sort-name": "Yarkoni, Shahar",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "44e3daa3-df97-4853-bc7c-00348f3d40e3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "רועי ירקוני",
+      "sort-name": "Yarkoni, Roy",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00427832154"
+      ],
+      "isnis": [
+        "0000000069682186"
+      ],
+      "life-span": {
+        "begin": "1972-10-26",
+        "ended": null
+      }
+    },
+    {
+      "id": "cee82650-97b7-406f-8657-a02b2a9b07cd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "name": "רונן ירקוני",
+      "sort-name": "Yarkoni, Ronen",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00274412475"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e0c9c567-0735-4550-b823-37f1c72425b0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "עופר ירקוני",
+      "sort-name": "Yarkoni, Ofer",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9b93e04b-7ef6-455b-9972-a53a6d6ccea1",
+      "score": 28,
+      "name": "Yafar",
+      "sort-name": "Yafar",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e8847afb-9ca7-4828-b64e-217276974ab9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 28,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "AnyaFay",
+      "sort-name": "AnyaFay",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Fay, Anya",
+          "name": "Anya Fay",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "d434bb37-6d25-4065-b25c-9d0e3a90e566",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 28,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Iyafari",
+      "sort-name": "Iyafari",
+      "gender": "male",
+      "country": "ZW",
+      "area": {
+        "id": "691e8ad6-2cc8-3678-8495-1ac96bbede55",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Zimbabwe",
+        "sort-name": "Zimbabwe",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "691e8ad6-2cc8-3678-8495-1ac96bbede55",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Zimbabwe",
+        "sort-name": "Zimbabwe",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Zimbabwean MC, formerly of Dubwize",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

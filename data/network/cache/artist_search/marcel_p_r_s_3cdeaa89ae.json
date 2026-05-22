@@ -1,0 +1,661 @@
+{
+  "created": "2026-05-22T17:35:55.997Z",
+  "count": 2478,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "3bc2ad4d-e6cc-453a-84bb-7818edd3fa04",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marcel Pérès",
+      "sort-name": "Pérès, Marcel",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "792b1496-3f80-4ad0-92c2-2c2154a9b642",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oran",
+        "sort-name": "Oran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000117736485"
+      ],
+      "life-span": {
+        "begin": "1956-07-15",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "medieval"
+        }
+      ]
+    },
+    {
+      "id": "c4e62b90-88bf-46c6-903d-37836d6a9529",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 70,
+      "name": "Ensemble Organum",
+      "sort-name": "Ensemble Organum",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "02af3d55-ba65-48b2-b34a-28fcb0cd138f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gordes",
+        "sort-name": "Gordes",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000109442516"
+      ],
+      "life-span": {
+        "begin": "1982",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ensemble Organum - Marcel Pérès",
+          "name": "Ensemble Organum - Marcel Pérès",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ensemble Organum - Marcel Peres",
+          "name": "Ensemble Organum - Marcel Peres",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "90c1a0cf-6822-46c7-8bc6-5a158e8a0d13",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marcel Proust",
+      "sort-name": "Proust, Marcel",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121003911"
+      ],
+      "life-span": {
+        "begin": "1871-07-10",
+        "end": "1922-11-18",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "5e1ef22b-310a-46ad-885b-4897b8c9c85a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Francis Poulenc",
+      "sort-name": "Poulenc, Francis",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French composer and pianist",
+      "ipis": [
+        "00024793378"
+      ],
+      "isnis": [
+        "0000000122817124"
+      ],
+      "life-span": {
+        "begin": "1899-01-07",
+        "end": "1963-01-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Poulenc, Francis Jean Marcel",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Francis Jean Marcel Poulenc",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Poulenc",
+          "name": "Poulenc",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 5,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "french"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "french composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "7d3722ef-6773-4d00-a873-814602b59159",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Peres",
+      "sort-name": "Peres",
+      "gender": "female",
+      "area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Piotr Ciebiera",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b5d8303f-849a-4a14-8e69-30264767aae2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mouloudji",
+      "sort-name": "Mouloudji",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f5f1d03e-cc93-4429-8578-39e68266e277",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Neuilly-sur-Seine",
+        "sort-name": "Neuilly-sur-Seine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00021651910"
+      ],
+      "isnis": [
+        "0000000110845670"
+      ],
+      "life-span": {
+        "begin": "1922-09-16",
+        "end": "1994-06-14",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Mouloudji, Marcel",
+          "name": "Marcel Mouloudji",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mouloudji, Marcel André",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Marcel André Mouloudji",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e2d6f247-5fbe-401f-a56e-a3734d03d134",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marcel",
+      "sort-name": "Marcel",
+      "gender": "male",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "electronic artist Marcell Dudás",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c19ad0d9-4e21-4579-8940-ca61cbca1d8c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "مرسيل خليفة",
+      "sort-name": "Khalifé, Marcel",
+      "gender": "male",
+      "country": "LB",
+      "area": {
+        "id": "8138206e-5786-3f86-a53b-19a7303e7419",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Lebanon",
+        "sort-name": "Lebanon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "401b51d1-3520-450d-ad8f-5cbd27444b0a",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Mont-Liban",
+        "sort-name": "Mont-Liban",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000107990703"
+      ],
+      "life-span": {
+        "begin": "1950-06-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "مارسيل خليفة",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "مارسيل خليفة",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Khalifé, Marcel",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Marcel Khalifé",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Khalife, Marcel",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Marcel Khalife",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "script-arab"
+        }
+      ]
+    },
+    {
+      "id": "2a86d7eb-daea-4e79-87c5-413948089dc3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marcel Amont",
+      "sort-name": "Amont, Marcel",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03a6d664-6d79-42e3-bb8a-c48aef1dcc2b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bordeaux",
+        "sort-name": "Bordeaux",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f1674314-499b-4fd0-85ac-d1f2853b3a67",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Saint-Cloud",
+        "sort-name": "Saint-Cloud",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078335741"
+      ],
+      "life-span": {
+        "begin": "1929-04-01",
+        "end": "2023-03-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Marcel Aumont",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Marcel Aumont",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Miramon, Marcel Jean-Pierre Balthazar",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Marcel Jean-Pierre Balthazar Miramon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marcel Hamon",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Marcel Hamon",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Marcel Amon",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Marcel Amon",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "chanson française"
+        },
+        {
+          "count": 1,
+          "name": "french singer"
+        }
+      ]
+    },
+    {
+      "id": "e7f566af-3a66-48e3-9825-07e72812e475",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marcel Dupré",
+      "sort-name": "Dupré, Marcel",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "10173e97-7f16-4d06-9534-8c85a994dae7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rouen",
+        "sort-name": "Rouen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "154f8663-6f49-4e86-971a-a518c64bfa73",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Meudon",
+        "sort-name": "Meudon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French organist and composer",
+      "ipis": [
+        "00008853477"
+      ],
+      "isnis": [
+        "0000000109078195"
+      ],
+      "life-span": {
+        "begin": "1886-05-03",
+        "end": "1971-05-30",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Dupre, Marcel",
+          "name": "Marcel Dupre",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dupré, Marcel Jean Jules",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Marcel Jean Jules Dupré",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "organist"
+        },
+        {
+          "count": 1,
+          "name": "french composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        },
+        {
+          "count": 1,
+          "name": "french organist"
+        }
+      ]
+    }
+  ]
+}

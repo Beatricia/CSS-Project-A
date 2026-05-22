@@ -1,0 +1,118 @@
+{
+  "created": "2026-05-22T17:27:19.421Z",
+  "count": 2,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "05bafd96-ada9-43b0-a328-50d96fcbea22",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ירדנה ארזי",
+      "sort-name": "Arazi, Yardena",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7bac8044-f785-4073-a8ef-717462ee0918",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "HaẔafon",
+        "sort-name": "HaẔafon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000374852655"
+      ],
+      "life-span": {
+        "begin": "1951-09-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Yardena Arazi",
+          "name": "Yardena Arazi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ארזי, ירדנה שולמית",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "ירדנה שולמית ארזי",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Arazi, Yardena Shulamet",
+          "name": "Yardena Shulamet Arazi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "פינבאום, ירדנה",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "ירדנה פינבאום",
+          "locale": "he",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Finebaum, Yardena",
+          "name": "Yardena Finebaum",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0bfaa062-43ae-4367-b0f1-d53985e2dddd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 90,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ירדנה חלו",
+      "sort-name": "Hilu, Yardena",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

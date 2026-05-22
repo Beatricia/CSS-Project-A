@@ -1,0 +1,101 @@
+{
+  "created": "2026-05-22T17:05:26.042Z",
+  "count": 2,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "ae97ba5f-e7ed-4ed5-9a53-eba415fc49d4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "MORGENSHTERN",
+      "sort-name": "MORGENSHTERN",
+      "gender": "male",
+      "area": {
+        "id": "46f3c1de-24b7-4ced-bea5-c0e2b84d0598",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ufa",
+        "sort-name": "Ufa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "46f3c1de-24b7-4ced-bea5-c0e2b84d0598",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ufa",
+        "sort-name": "Ufa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian youtuber, rapper",
+      "ipis": [
+        "01036355870"
+      ],
+      "isnis": [
+        "0000000476109942"
+      ],
+      "life-span": {
+        "begin": "1998-02-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Моргенштерн, Алишер Тагирович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Алишер Тагирович Моргенштерн",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Morgenshtern, Alisher Tagirovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alisher Tagirovich Morgenshtern",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "rap"
+        },
+        {
+          "count": 4,
+          "name": "hip hop"
+        },
+        {
+          "count": 2,
+          "name": "russian rap"
+        },
+        {
+          "count": 2,
+          "name": "trap"
+        }
+      ]
+    },
+    {
+      "id": "ddcd6475-076b-4887-a2a9-a0b4b8abc498",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 80,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Guy Morgenshtern",
+      "sort-name": "Morgenshtern, Guy",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

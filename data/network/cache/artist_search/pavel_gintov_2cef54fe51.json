@@ -1,0 +1,300 @@
+{
+  "created": "2026-05-22T17:00:35.368Z",
+  "count": 805,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "165a6e59-d217-4cda-a9fd-9b6d8ca14aff",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "name": "Павел Гинтов",
+      "sort-name": "Gintov, Pavel",
+      "life-span": {
+        "begin": "1984",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Pavel Gintov",
+          "name": "Pavel Gintov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "7483798e-a9d0-4e4a-bcd2-d0a4317ea8c0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pavel Bobek",
+      "sort-name": "Bobek, Pavel",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000056268656"
+      ],
+      "life-span": {
+        "begin": "1937-09-16",
+        "end": "2013-11-20",
+        "ended": true
+      }
+    },
+    {
+      "id": "d3808dca-f5a4-4c77-b4c0-1c8440f9a32a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 41,
+      "name": "Pavel",
+      "sort-name": "Pavel",
+      "country": "HR",
+      "area": {
+        "id": "7d30afff-e425-356a-873e-17ae9745b31d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Croatia",
+        "sort-name": "Croatia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Croatian band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3d2b7faf-43da-4f1b-b449-2893cc455150",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "name": "Pavel",
+      "sort-name": "Pavel",
+      "disambiguation": "Swiss producer & DJ",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6af0f9b5-3e35-4613-aa05-d1811ffea5a8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pavel Dobeš",
+      "sort-name": "Dobeš, Pavel",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "46321fc9-47aa-4357-9a76-0318aada5579",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Frýdek-Místek",
+        "sort-name": "Frýdek-Místek",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Czech singer/songwriter",
+      "life-span": {
+        "begin": "1949-03-22",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "czech"
+        }
+      ]
+    },
+    {
+      "id": "f2ab75d6-58d5-485a-b850-bdf4d64ef075",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Pavel Růžička",
+      "sort-name": "Růžička, Pavel",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00045137201",
+        "00045137103"
+      ],
+      "isnis": [
+        "000000005828123X"
+      ],
+      "life-span": {
+        "begin": "1950-01-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Pavel ORM",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Pavel ORM",
+          "locale": "cs",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orm, Paul",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Paul Orm",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "4ebe75e3-0baa-454c-b2b7-594e7aac141f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marcel Pavel",
+      "sort-name": "Pavel, Marcel",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f8bf7fc5-0da3-4ccf-8db8-9e93c2ef5e1d",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Galați",
+        "sort-name": "Galați",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Romanian folk music singer",
+      "life-span": {
+        "begin": "1959-12-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Pavel Marcel",
+          "name": "Pavel Marcel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "romanian"
+        },
+        {
+          "count": 1,
+          "name": "romanian singer"
+        }
+      ]
+    },
+    {
+      "id": "9a8debd0-c812-455c-a3bf-2dd386203acd",
+      "score": 39,
+      "name": "Pavel",
+      "sort-name": "Pavel",
+      "disambiguation": "Pauli Lappalainen",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3e00bd76-5050-4846-9181-d6b1ad7574ad",
+      "score": 39,
+      "name": "pavel",
+      "sort-name": "pavel",
+      "disambiguation": "chiptune/demoscene",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "667b97b0-8f90-49f8-a0a4-6167e707fb3c",
+      "score": 39,
+      "name": "Pavel",
+      "sort-name": "Pavel",
+      "disambiguation": "German Rapper known from Fuat",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "created": "2026-05-22T18:12:15.079Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "5960622c-8db2-4c76-93c9-a7314e5c36e5",
+      "score": 100,
+      "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+      "title": "Восточный Мордор",
+      "length": 169000,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Oxxxymiron",
+          "artist": {
+            "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+            "name": "Oxxxymiron",
+            "sort-name": "Oxxxymiron",
+            "disambiguation": "Russian rapper",
+            "aliases": [
+              {
+                "sort-name": "Оксимирон",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Оксимирон",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Фёдоров, Мирон Янович",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Мирон Янович Фёдоров",
+                "locale": "ru",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Окси",
+                "name": "Окси",
+                "locale": "ru",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2011-09-03",
+      "releases": [
+        {
+          "id": "373ad88b-3eb7-42dc-ae11-77dd3b6dcb54",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+          "count": 1,
+          "title": "Вечный жид",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Oxxxymiron",
+              "artist": {
+                "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+                "name": "Oxxxymiron",
+                "sort-name": "Oxxxymiron",
+                "disambiguation": "Russian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "c620908b-4159-4835-ba5e-eb7800ef01a3",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Вечный жид",
+            "primary-type": "Album"
+          },
+          "date": "2011-09-03",
+          "country": "RU",
+          "release-events": [
+            {
+              "date": "2011-09-03",
+              "area": {
+                "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+                "name": "Russia",
+                "sort-name": "Russia",
+                "iso-3166-1-codes": [
+                  "RU"
+                ]
+              }
+            }
+          ],
+          "track-count": 14,
+          "media": [
+            {
+              "id": "86b5ef2c-8acb-3de8-90ec-4eaa75d40357",
+              "position": 1,
+              "format": "CD",
+              "track": [
+                {
+                  "id": "28c177c1-2e71-32c9-b364-7325b252ac78",
+                  "number": "1",
+                  "title": "Восточный Мордор",
+                  "length": 169000
+                }
+              ],
+              "track-count": 14,
+              "track-offset": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "query": "artist:\"Oxxxymiron\" AND recording:\"Восточный Мордор\""
+}

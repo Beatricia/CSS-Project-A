@@ -1,0 +1,643 @@
+{
+  "created": "2026-05-22T17:10:17.184Z",
+  "count": 1715,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "981e0034-de98-4680-9822-9fc3eda40f04",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Denis Matsuev",
+      "sort-name": "Matsuev, Denis",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "aa7e0699-d3fd-44a1-9e54-8088abfd5ed1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Irkutsk",
+        "sort-name": "Irkutsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000083708346"
+      ],
+      "life-span": {
+        "begin": "1975-06-11",
+        "ended": null
+      }
+    },
+    {
+      "id": "3ceea412-01e9-4ed0-9f25-d8f23e74a1a4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Maxim Matsuev",
+      "sort-name": "Matsuev, Maxim",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ded640b3-6c60-42c9-9588-7e59bbbf51a5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dennis McCarthy",
+      "sort-name": "McCarthy, Dennis",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US composer film scores",
+      "ipis": [
+        "00054839162",
+        "00347701364"
+      ],
+      "isnis": [
+        "0000000110516551"
+      ],
+      "life-span": {
+        "begin": "1945",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Denis McCarthy",
+          "name": "Denis McCarthy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "5487f62a-69dd-43ef-b587-68267bb9b29d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Александр Мацуев",
+      "sort-name": "Matsuev, Alexandr",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9b62a8a3-fcd5-4b51-a970-0f08a440ed6d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Gramatik",
+      "sort-name": "Gramatik",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a4431049-8910-4f9f-a0b0-43e9198fbacc",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Piran/Pirano",
+        "sort-name": "Piran/Pirano",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Slovenian electronic/electro hip‐hop artist",
+      "ipis": [
+        "00466169036"
+      ],
+      "life-span": {
+        "begin": "1984-10-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Jasarevic, Denis",
+          "name": "Denis Jasarevic",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gr4m4tik",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Gr4m4tik",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jašarević, Denis",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Denis Jašarević",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 0,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 0,
+          "name": "funk"
+        },
+        {
+          "count": 1,
+          "name": "electronica"
+        },
+        {
+          "count": 0,
+          "name": "soul"
+        },
+        {
+          "count": 0,
+          "name": "electronic music"
+        },
+        {
+          "count": 1,
+          "name": "chill-out"
+        },
+        {
+          "count": 1,
+          "name": "trip hop"
+        },
+        {
+          "count": 1,
+          "name": "glitch hop"
+        },
+        {
+          "count": 1,
+          "name": "boom bap"
+        },
+        {
+          "count": 2,
+          "name": "instrumental hip hop"
+        },
+        {
+          "count": 0,
+          "name": "boozoo bajou"
+        }
+      ]
+    },
+    {
+      "id": "d2ae89f7-9913-483f-87a1-39194f1cec4c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 37,
+      "name": "Denis & Denis",
+      "sort-name": "Denis & Denis",
+      "country": "YU",
+      "area": {
+        "id": "885dce63-c211-3033-8cf7-46cb82d440c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Yugoslavia",
+        "sort-name": "Yugoslavia",
+        "life-span": {
+          "begin": "1918",
+          "end": "1992",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "66e105c1-5f1e-4126-b1d0-dc50856e68cd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Rijeka",
+        "sort-name": "Rijeka",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1982",
+        "end": "1988",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Denis & Denis",
+          "name": "Denis and Denis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "new wave"
+        },
+        {
+          "count": 1,
+          "name": "synth-pop"
+        }
+      ]
+    },
+    {
+      "id": "b9e7c97e-751f-4633-9abc-ed8bddc265bf",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Denis Podalydès",
+      "sort-name": "Podalydès, Denis",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "2322e571-1d9b-4023-a31c-7222509407ab",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Versailles",
+        "sort-name": "Versailles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055184143"
+      ],
+      "life-span": {
+        "begin": "1963-04-22",
+        "ended": null
+      }
+    },
+    {
+      "id": "f1111cd1-e000-454a-8900-74e238bae36a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Denis Dufour",
+      "sort-name": "Dufour, Denis",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "26d7f775-1bae-4551-9412-1ab9c61c4314",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lyon",
+        "sort-name": "Lyon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French composer",
+      "isnis": [
+        "0000000081591594"
+      ],
+      "life-span": {
+        "begin": "1953-10-09",
+        "ended": null
+      }
+    },
+    {
+      "id": "337196ad-16e2-4ec4-b5ca-2eb972e18bc2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Denis Quinn",
+      "sort-name": "Quinn, Denis",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0285c74b-b8a0-4e50-871a-82059a977d48",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Camberwell",
+        "sort-name": "Camberwell",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00161885941"
+      ],
+      "isnis": [
+        "0000000000998094",
+        "0000000064923534"
+      ],
+      "life-span": {
+        "begin": "1952-09-22",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Hale, Denis Lloyd Bruce",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Denis Lloyd Bruce Hale",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Quinn, Asher",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Asher Quinn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dennis Quinn",
+          "name": "Dennis Quinn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A.S.H.A.",
+          "name": "A.S.H.A.",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Quinn, Asher",
+          "name": "Asher Quinn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Quinn, Denis",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Denis Quinn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Asha",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Asha",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Quinn, Asher",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Asher Quinn",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Asha Elijah",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Asha Elijah",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "600be5aa-acee-494c-8ebb-ca7c4cdabd4d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sergio Denis",
+      "sort-name": "Denis, Sergio",
+      "gender": "male",
+      "country": "AR",
+      "area": {
+        "id": "0df04709-c7d8-3b55-a6ea-f3e5069a947b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Argentina",
+        "sort-name": "Argentina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a6e0a033-8f5d-438b-a99c-2d956f7a9661",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Buenos Aires",
+        "sort-name": "Buenos Aires",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "2bd8607d-56fe-4fa1-96e3-3badd6a98588",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Buenos Aires",
+        "sort-name": "Buenos Aires",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Argentine singer and songwriter",
+      "ipis": [
+        "00065479055"
+      ],
+      "isnis": [
+        "0000000046363676"
+      ],
+      "life-span": {
+        "begin": "1949-03-16",
+        "end": "2020-05-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Dennis, Sergio",
+          "name": "Sergio Dennis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hoffmann, Héctor Omar",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Héctor Omar Hoffmann",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 1,
+          "name": "latin"
+        },
+        {
+          "count": 1,
+          "name": "latin pop"
+        },
+        {
+          "count": 1,
+          "name": "traditional pop"
+        },
+        {
+          "count": 2,
+          "name": "latin ballad"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "argentine singer"
+        },
+        {
+          "count": 1,
+          "name": "argentine songwriter"
+        },
+        {
+          "count": 1,
+          "name": "singer"
+        },
+        {
+          "count": 0,
+          "name": "sonngwriter"
+        }
+      ]
+    }
+  ]
+}

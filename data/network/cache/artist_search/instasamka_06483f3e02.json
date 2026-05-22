@@ -1,0 +1,68 @@
+{
+  "created": "2026-05-22T17:14:15.001Z",
+  "count": 1,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7f742d76-39fa-4939-8e41-e5a2e07ce0a0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Instasamka",
+      "sort-name": "Instasamka",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "84acdca7-051a-4198-ab62-52bfdc6a5eec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tobolsk",
+        "sort-name": "Tobolsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian rapper",
+      "isnis": [
+        "0000000506155756"
+      ],
+      "life-span": {
+        "begin": "2000-05-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Зоте́ева, Да́рья Евге́ньевна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Да́рья Евге́ньевна Зоте́ева",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Инстасамка",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Инстасамка",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

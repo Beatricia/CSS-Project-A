@@ -1,0 +1,89 @@
+{
+  "created": "2026-05-22T17:17:45.157Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "669fcbfe-6b2c-42c0-a675-35f0d58de30a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Дильба́р Гулямовна Абдурахма́нова",
+      "sort-name": "Abdurahmonova, Dilbar Gʻulomovna",
+      "gender": "female",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f47b98e5-71bc-4ca0-aa4b-f62d37fa96e1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toshkent",
+        "sort-name": "Toshkent",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1936-05-01",
+        "end": "2018-03-20",
+        "ended": true
+      }
+    },
+    {
+      "id": "f44e9e49-d2d0-42a2-9797-9c8b673361aa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 81,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Dilbar Ahmedova",
+      "sort-name": "Ahmedova Dilbar Amanqulovna",
+      "gender": "female",
+      "country": "UZ",
+      "area": {
+        "id": "95c0c3ee-ed52-31c4-83e6-19ced497e6d0",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Uzbekistan",
+        "sort-name": "Uzbekistan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "The best journalist in Uzbekistan",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1af1da29-e6bc-42fd-8dfb-89c343529138",
+      "score": 50,
+      "name": "Dilbarjan Bekturdyeva",
+      "sort-name": "Bekturdyeva, Dilbarjan",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

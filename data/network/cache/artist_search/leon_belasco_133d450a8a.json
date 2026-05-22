@@ -1,0 +1,589 @@
+{
+  "created": "2026-05-22T16:54:35.312Z",
+  "count": 5226,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8e0c4138-81cc-47ac-8c23-d62283a2b844",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leon Belasco",
+      "sort-name": "Belasco, Leon",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "bf51dede-2c6c-4908-abaa-3d6b491d0cf5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Orange",
+        "sort-name": "Orange",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian-American musician and actor",
+      "isnis": [
+        "0000000038722595"
+      ],
+      "life-span": {
+        "begin": "1902-10-11",
+        "end": "1988-06-01",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Berladsky, Leonid Simeonovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Leonid Simeonovich Berladsky",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c721007a-5a9a-41d1-9cad-c12c835b37cf",
+      "type": "Orchestra",
+      "type-id": "a0b36c92-3eb1-3839-a4f9-4799823f54a5",
+      "score": 69,
+      "name": "Leon Belasco and His Orchestra",
+      "sort-name": "Belasco, Leon, and His Orchestra",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a76972d9-db5c-4d67-834c-60b49475d034",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 51,
+      "name": "Belasco",
+      "sort-name": "Belasco",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2f4ac21a-95e4-4c30-ab89-e95ac02cbd7d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 45,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Donna Leon",
+      "sort-name": "Leon, Donna",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a5bf60f4-f5a5-44c7-9a75-e343615d8a99",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Montclair",
+        "sort-name": "Montclair",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000121253363"
+      ],
+      "life-span": {
+        "begin": "1942-09-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Donna Leon (Sprecher: Philipp Schepmann)",
+          "name": "Donna Leon (Sprecher: Philipp Schepmann)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "d4cc0ed5-0f76-4188-9e14-2a23ca12188a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Leon Russell",
+      "sort-name": "Russell, Leon",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "15ee9075-af86-4013-8cc3-ecb05fad763b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lawton",
+        "sort-name": "Lawton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nashville",
+        "sort-name": "Nashville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00027067395",
+        "00125760777"
+      ],
+      "isnis": [
+        "0000000116386508",
+        "0000000365976891"
+      ],
+      "life-span": {
+        "begin": "1942-04-02",
+        "end": "2016-11-13",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Hank Wilson",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Hank Wilson",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Leon Russel",
+          "name": "Leon Russel",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bridges, Claude Russell",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Claude Russell Bridges",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bridges, Russell",
+          "name": "Russell Bridges",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Russell, C. J.",
+          "name": "C. J. Russell",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "country rock"
+        },
+        {
+          "count": 2,
+          "name": "blues rock"
+        },
+        {
+          "count": 1,
+          "name": "piano rock"
+        },
+        {
+          "count": 2,
+          "name": "country"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 1,
+          "name": "rhythm and blues"
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "e1526685-1711-47ee-82bb-9d0b2ea26214",
+      "score": 44,
+      "name": "Pete Belasco",
+      "sort-name": "Belasco, Pete",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "19c9defa-1c16-495f-8b4b-694a88c32ec5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Lionel Belasco",
+      "sort-name": "Belasco, Lionel",
+      "gender": "male",
+      "country": "TT",
+      "area": {
+        "id": "6c290168-f3b9-3adb-9889-b856feb2c26c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Trinidad and Tobago",
+        "sort-name": "Trinidad and Tobago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e9eb068c-48a3-4d25-94cf-290908638f50",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Maracaibo",
+        "sort-name": "Maracaibo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Trinidadian-Venezuelan calypso pianist, composer and bandleader",
+      "ipis": [
+        "00002542434"
+      ],
+      "isnis": [
+        "0000000059608185"
+      ],
+      "life-span": {
+        "begin": "1881",
+        "end": "1967-06-24",
+        "ended": true
+      }
+    },
+    {
+      "id": "d98071dc-464c-4b1a-bc5f-70f0e28cef12",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "name": "Jack Belasco",
+      "sort-name": "Belasco, Jack",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "8a2f71c8-ccbe-42de-a2fa-2490fc015374",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Лев Толстой",
+      "sort-name": "Tolstoy, Leo",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3c964554-785b-452b-a74c-3789715a95ca",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Tul'skaya oblast'",
+        "sort-name": "Tul'skaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d23f4f31-81f0-4418-bb1b-a30c7fd7537f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Lipetskaya oblast'",
+        "sort-name": "Lipetskaya oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian writer Leo Tolstoy",
+      "isnis": [
+        "0000000122424494"
+      ],
+      "life-span": {
+        "begin": "1828-09-09",
+        "end": "1910-11-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Lev Nikolaevič Tolstoj",
+          "name": "Lev Nikolaevič Tolstoj",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lew Nikolajewitsch Graf Tolstoi",
+          "name": "Lew Nikolajewitsch Graf Tolstoi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Count Lev Nikolayevich Tolstoy",
+          "name": "Count Lev Nikolayevich Tolstoy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstói, León",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "León Tolstói",
+          "locale": "es",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstoï, Léon",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Léon Tolstoï",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Толстой, Лев Николаевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Лев Николаевич Толстой",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Толстой, Лев",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Лев Толстой",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstoi, Leo",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leo Tolstoi",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstoy, Lev Nikolayevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lev Nikolayevich Tolstoy",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstoy, Leo",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Leo Tolstoy",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tolstoi, Lew Nikolajewitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Lew Nikolajewitsch Tolstoi",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "has german audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "03a81c6f-93fb-4422-b1fe-b2722fc3b6f8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nate Belasco",
+      "sort-name": "Belasco, Nate",
+      "gender": "male",
+      "area": {
+        "id": "af59135f-38b5-4ea4-b4e2-dd28c5f0bad7",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Washington, D.C.",
+        "sort-name": "Washington, D.C.",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Mashup artist, producer",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "created": "2026-05-22T17:29:00.041Z",
+  "count": 165,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "feeb07b4-4cfd-4c47-b985-dc864805f84d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "דודו טסה",
+      "sort-name": "Tassa, Dudu",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli rock musician",
+      "ipis": [
+        "00292331081"
+      ],
+      "isnis": [
+        "0000000119380793"
+      ],
+      "life-span": {
+        "begin": "1977-02-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Dudu Tasa",
+          "name": "Dudu Tasa",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tassa, David",
+          "name": "David Tassa",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "دودو تاسا",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "دودو تاسا",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "דודו טסה",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "דודו טסה",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Tassa, Dudu",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dudu Tassa",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3fcbc617-9032-499c-a0be-4f85cdca0342",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 90,
+      "name": "Dudu Tassa & the Kuwaitis",
+      "sort-name": "Tassa, Dudu & the Kuwaitis",
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tassa, Dudu & the Kuwaitis",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dudu Tassa & the Kuwaitis",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "دودو تاسا والكويتيّون",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "دودو تاسا والكويتيّون",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "4c257dfc-aea8-470c-843b-6ccdb2d03703",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dudu Fisher",
+      "sort-name": "Fisher, Dudu",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9c9a6426-3cb1-4811-87d1-effd38e43d78",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Petah Tikva",
+        "sort-name": "Petah Tikva",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Israeli cantor",
+      "isnis": [
+        "000000005280639X"
+      ],
+      "life-span": {
+        "begin": "1951-11-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "דודו פישר",
+          "name": "דודו פישר",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ac8b1363-bc9e-4453-b128-825ab90add72",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dudu",
+      "sort-name": "Dudu",
+      "gender": "male",
+      "disambiguation": "Brazilian Rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "640b8731-a797-4956-88df-df5d308d6938",
+      "score": 51,
+      "name": "Dudu",
+      "sort-name": "Dudu",
+      "disambiguation": "not sure which one",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "696bb8f2-5740-430c-8d8b-650899d9668c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dudu",
+      "sort-name": "Dudu",
+      "gender": "male",
+      "disambiguation": "Eduardo Díaz Gurruchaga",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gurruchaga, Eduardo Díaz",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Eduardo Díaz Gurruchaga",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "53e5b798-9bca-44d8-af7b-70282d768b0b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dudu",
+      "sort-name": "Dudu",
+      "gender": "male",
+      "area": {
+        "id": "9ddf829c-48ee-4457-a80d-f7370f24f2ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Madrid",
+        "sort-name": "Madrid",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9ddf829c-48ee-4457-a80d-f7370f24f2ec",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Madrid",
+        "sort-name": "Madrid",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish rapper",
+      "life-span": {
+        "begin": "1992-04-30",
+        "ended": null
+      }
+    },
+    {
+      "id": "5f27e470-b97c-4815-8c71-c7501babf80a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dudu Nobre",
+      "sort-name": "Nobre, Dudu",
+      "gender": "male",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1974-11-06",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "samba pagode"
+        }
+      ]
+    },
+    {
+      "id": "07be9e45-0488-4c0a-925e-1659bf14d3ca",
+      "score": 51,
+      "name": "Tassa Riddim",
+      "sort-name": "Tassa Riddim",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2fc7e362-25fa-4188-a4da-3eb89d0929d2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sirje Tassa",
+      "sort-name": "Tassa, Sirje",
+      "gender": "female",
+      "country": "EE",
+      "area": {
+        "id": "e1c1215f-dcc0-35b4-b840-d2ca2151593b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Estonia",
+        "sort-name": "Estonia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1950",
+        "ended": null
+      }
+    }
+  ]
+}

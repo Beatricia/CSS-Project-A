@@ -1,0 +1,950 @@
+{
+  "created": "2026-05-22T16:56:30.311Z",
+  "count": 1441,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "f9fb846e-8506-4454-ae5a-94abd340add0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nikolai Dahl",
+      "sort-name": "Dahl, Nikolai",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e4821a19-9f12-44ef-9b4c-87e6488b77b7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kherson",
+        "sort-name": "Kherson",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1d9b2b8d-824b-406f-b6c0-02a9ccd312b8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beirut",
+        "sort-name": "Beirut",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1860-07-17",
+        "end": "1939",
+        "ended": true
+      }
+    },
+    {
+      "id": "b0500d9e-bd80-48f2-bd5c-523961e6cbfc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jan Arnald",
+      "sort-name": "Arnald, Jan",
+      "gender": "male",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4d260b3c-c42d-4a2d-b765-3de57ad414ca",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Sollentuna municipality",
+        "sort-name": "Sollentuna municipality",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swedish writer",
+      "isnis": [
+        "0000000115788388"
+      ],
+      "life-span": {
+        "begin": "1963-01-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Dahl, Arne",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Arne Dahl",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "cb802a9c-efc9-4a1d-9dd2-b6fd080f6298",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 51,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roald Dahl",
+      "sort-name": "Dahl, Roald",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f0b226db-8e22-40e6-9a53-d839cfec6228",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cardiff",
+        "sort-name": "Cardiff",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "33587495-c775-4483-b819-931c4cf438cd",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oxford",
+        "sort-name": "Oxford",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00138472169",
+        "00564324943"
+      ],
+      "isnis": [
+        "0000000121468188"
+      ],
+      "life-span": {
+        "begin": "1916-09-13",
+        "end": "1990-11-23",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Roald Dal",
+          "name": "Roald Dal",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        },
+        {
+          "count": 1,
+          "name": "has german audiobooks"
+        },
+        {
+          "count": 2,
+          "name": "author"
+        },
+        {
+          "count": 1,
+          "name": "audiobook"
+        },
+        {
+          "count": 1,
+          "name": "_consistency"
+        },
+        {
+          "count": 1,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "audio drama"
+        },
+        {
+          "count": 2,
+          "name": "children"
+        }
+      ]
+    },
+    {
+      "id": "9fe4e32c-f2fa-4c06-877e-b827e95c587b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 47,
+      "name": "Ian Van Dahl",
+      "sort-name": "Ian Van Dahl",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2000",
+        "end": "2008-01-16",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ian Vah Dahl",
+          "name": "Ian Vah Dahl",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ian van dahl",
+          "name": "Ian van dahl",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jan Van Dahl",
+          "name": "Jan Van Dahl",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ian Von Dahl",
+          "name": "Ian Von Dahl",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivan Van Dahl",
+          "name": "Ivan Van Dahl",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ian vanDahl",
+          "name": "Ian vanDahl",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ian Val Dahl",
+          "name": "Ian Val Dahl",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "trance"
+        },
+        {
+          "count": 2,
+          "name": "dance"
+        },
+        {
+          "count": 1,
+          "name": "trance pop"
+        },
+        {
+          "count": 2,
+          "name": "vocal trance"
+        },
+        {
+          "count": 1,
+          "name": "euro trance"
+        },
+        {
+          "count": 1,
+          "name": "eurotrance"
+        },
+        {
+          "count": 1,
+          "name": "dance trance"
+        },
+        {
+          "count": 1,
+          "name": "female vocal trance"
+        },
+        {
+          "count": 1,
+          "name": "euro-trance"
+        },
+        {
+          "count": 1,
+          "name": "vocal dance"
+        },
+        {
+          "count": 1,
+          "name": "female vocal dance"
+        }
+      ]
+    },
+    {
+      "id": "0974b7b6-835b-412c-bce4-731ab0c0c301",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nikolai",
+      "sort-name": "Nikolai",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Nikolai Kaeßmann, trance",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "trance"
+        }
+      ]
+    },
+    {
+      "id": "a30272ba-1887-4332-9931-bc69871897d7",
+      "score": 44,
+      "name": "Nikolai",
+      "sort-name": "Nikolai",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK Techno artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b844c748-3e13-48b3-b35d-aeb453f0ca01",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nikolai",
+      "sort-name": "Nikolai",
+      "gender": "male",
+      "disambiguation": "rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4cbe6844-05d2-46d2-8415-ba88af3c1620",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Nikolai",
+      "sort-name": "Nikolai",
+      "gender": "male",
+      "disambiguation": "video game arrangement",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "4cfe7051-f649-4d07-83b3-7a732abe7249",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Николай Андреевич Римский‐Корсаков",
+      "sort-name": "Rimsky‐Korsakov, Nikolai Andreyevich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fc780671-0f09-409c-9bbb-dd898dc12ce2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tikhvin",
+        "sort-name": "Tikhvin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "4e62f2ac-3e1d-4100-a6bd-47981b1a7f4d",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Plyussky District",
+        "sort-name": "Plyussky District",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00086323960"
+      ],
+      "isnis": [
+        "000000012139342X"
+      ],
+      "life-span": {
+        "begin": "1844-03-18",
+        "end": "1908-06-21",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Nikolai Rimsky-Korsakov",
+          "name": "Nikolai Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolaj Rimski Korsakov",
+          "name": "Nikolaj Rimski Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nicolai A. Rimsky-Korsakov",
+          "name": "Nicolai A. Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakov, Nikolaï Andreïevitch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nikolaï Andreïevitch Rimski-Korsakov",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikoli Rimsky-Korsakov",
+          "name": "Nikoli Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakow, Nikolai Andrejewitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nikolai Andrejewitsch Rimski-Korsakow",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Римский‐Корсаков, Николай Андреевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Николай Андреевич Римский‐Корсаков",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolai Rimsky-Korsakow",
+          "name": "Nikolai Rimsky-Korsakow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "N. R. Korsakov",
+          "name": "N. R. Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolaj Rimskij-Korsakov",
+          "name": "Nikolaj Rimskij-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakoff",
+          "name": "Rimsky-Korsakoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "N. Rimskij-Korssakow",
+          "name": "N. Rimskij-Korssakow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Korssakoff",
+          "name": "Korssakoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakov, Nikolai Andreyevich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nikolai Andreyevich Rimsky-Korsakov",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky - Korsakov",
+          "name": "Rimsky - Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rymsky-Korsakov",
+          "name": "Rymsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolaj Rimski-Korsakov",
+          "name": "Nikolaj Rimski-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakof",
+          "name": "Rimsky-Korsakof",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky Korsakov",
+          "name": "Rimsky Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky- Korsakov",
+          "name": "Rimsky- Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakov Nicolai Andreyevich",
+          "name": "Rimsky-Korsakov Nicolai Andreyevich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nicolai Rimski-Korsakof",
+          "name": "Nicolai Rimski-Korsakof",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimskij-Korsakov, Nikolaj Andreevič",
+          "name": "Rimskij-Korsakov, Nikolaj Andreevič",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakov Nikolai",
+          "name": "Rimsky-Korsakov Nikolai",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Kosrakoff",
+          "name": "Rimsky-Kosrakoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakov",
+          "name": "Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "N. Rimsky-Korsakov",
+          "name": "N. Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "N. Rimski-Korsakow",
+          "name": "N. Rimski-Korsakow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimskij-Korsakov, Nikolaj Andrejevitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Nikolaj Andrejevitj Rimskij-Korsakov",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mikołaj Rimski-Korsakow",
+          "name": "Mikołaj Rimski-Korsakow",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky-Korsakov, Nikolai",
+          "name": "Rimsky-Korsakov, Nikolai",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimskij-Korsakov",
+          "name": "Rimskij-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nicholai Rimsky-Korsakov",
+          "name": "Nicholai Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolay Andreyevich Rimsky-Korsakov",
+          "name": "Nikolay Andreyevich Rimsky-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimsky‐Korsakov, Nikolai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolai Rimsky‐Korsakov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimskij-Korsakov, Nikolaj",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolaj Rimskij-Korsakov",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakov, Nikolaï",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolaï Rimski-Korsakov",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakow, Nikolai",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolai Rimski-Korsakow",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Римский‐Корсаков, Николай",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Николай Римский‐Корсаков",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "リムスキー=コルサコフ",
+          "name": "リムスキー=コルサコフ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakov, Nikolaj",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Nikolaj Rimski-Korsakov",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolai Rimski-Korsakov",
+          "name": "Nikolai Rimski-Korsakov",
+          "locale": "et",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimskij Korsakov",
+          "name": "Rimskij Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "R. Korsakov",
+          "name": "R. Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolaj Andreevič Rimskij-Korsakov",
+          "name": "Nikolaj Andreevič Rimskij-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rimski-Korsakov",
+          "name": "Rimski-Korsakov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nikolai Rimsky-Korsakoff",
+          "name": "Nikolai Rimsky-Korsakoff",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "score"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "2e1404a6-7984-488c-9c76-6756d782eec7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "nikolai",
+      "sort-name": "nikolai",
+      "gender": "male",
+      "disambiguation": "German rapper",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,987 @@
+{
+  "created": "2026-05-22T17:00:24.263Z",
+  "count": 627,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "d2487c95-4c0c-4136-998b-52aff6a212d4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ludwig Rottenberg",
+      "sort-name": "Rottenberg, Ludwig",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6a4bae17-16cc-4bde-ae79-064eddd42d6d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chernivtsi",
+        "sort-name": "Chernivtsi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "16560d3e-358b-4869-8a6d-727db2ee7b69",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Frankfurt am Main",
+        "sort-name": "Frankfurt am Main",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1865-10-11",
+        "end": "1932-05-06",
+        "ended": true
+      }
+    },
+    {
+      "id": "1f9df192-a621-4f54-8850-2c5373b7eac9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ludwig van Beethoven",
+      "sort-name": "Beethoven, Ludwig van",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b86b7e97-c4e2-4ec2-942b-5a6cd8eea1da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bonn",
+        "sort-name": "Bonn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German composer",
+      "ipis": [
+        "00002507239"
+      ],
+      "isnis": [
+        "0000000121268987"
+      ],
+      "life-span": {
+        "begin": "1770-12-17",
+        "end": "1827-03-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bethovenas, Liudvigas van",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Liudvigas van Bethovenas",
+          "locale": "lt",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Beethoven",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бетховен, Людвиг ван",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Людвиг ван Бетховен",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven",
+          "name": "Бетховен",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бетховен, Л.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Л. Бетховен",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bēthovens, Ludvigs van",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ludvigs van Bēthovens",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, L.Van",
+          "name": "L.Van Beethoven",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "bèi duō fēn",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "貝多芬",
+          "locale": "zh_Hant",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bēthovens, L. Van",
+          "name": "L. Van Bēthovens",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludvig Von",
+          "name": "Ludvig Von Beethoven",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludwid van",
+          "name": "Ludwid van Beethoven",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludwig",
+          "name": "Ludwig Beethoven",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ベートーヴェン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ベートーヴェン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bethoveen",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Bethoveen",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, L. van",
+          "name": "L. van Beethoven",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludwig Von",
+          "name": "Ludwig Von Beethoven",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludwig Van (1770-1827)",
+          "name": "Ludwig Van Beethoven (1770-1827)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludwig van (1770-1827)",
+          "name": "Beethoven, Ludwig van (1770-1827)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludwig Van (1770 - 1827)",
+          "name": "Beethoven, Ludwig Van (1770 - 1827)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludwig Van",
+          "name": "Beethoven, Ludwig Van",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "L v Beethoven",
+          "name": "L v Beethoven",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "bheetoven",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "bheetoven",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludwig",
+          "name": "Beethoven, Ludwig",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven",
+          "name": "베토벤",
+          "locale": "ko",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, L. Von",
+          "name": "L. Von Beethoven",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "LvB",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "LvB",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludwig Von",
+          "name": "Beethoven, Ludwig Von",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludvig van",
+          "name": "Ludvig van Beethoven",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven _ Ludwig Van",
+          "name": "Beethoven _ Ludwig Van",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludwig van, 1770-1827",
+          "name": "Beethoven, Ludwig van, 1770-1827",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Beethoven, Ludwig van",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ludwig van Beethoven",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ベートーヴェン ルートヴィヒヴァン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ルートヴィヒ・ヴァン・ベートーヴェン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 25,
+          "name": "classical"
+        },
+        {
+          "count": 14,
+          "name": "german"
+        },
+        {
+          "count": 4,
+          "name": "german composer"
+        },
+        {
+          "count": 1,
+          "name": "orchestral"
+        },
+        {
+          "count": -3,
+          "name": "production music"
+        },
+        {
+          "count": 3,
+          "name": "opera"
+        },
+        {
+          "count": 5,
+          "name": "piano"
+        },
+        {
+          "count": 6,
+          "name": "pianist"
+        },
+        {
+          "count": 15,
+          "name": "composer"
+        },
+        {
+          "count": 4,
+          "name": "romantic"
+        },
+        {
+          "count": 4,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "organ"
+        },
+        {
+          "count": 1,
+          "name": "symphony"
+        },
+        {
+          "count": 0,
+          "name": "art song"
+        },
+        {
+          "count": 1,
+          "name": "mass"
+        },
+        {
+          "count": 2,
+          "name": "concerto"
+        },
+        {
+          "count": 0,
+          "name": "lo spirito"
+        },
+        {
+          "count": 1,
+          "name": "complete"
+        },
+        {
+          "count": 0,
+          "name": "reader s"
+        },
+        {
+          "count": 3,
+          "name": "classical period"
+        },
+        {
+          "count": 3,
+          "name": "sonata"
+        },
+        {
+          "count": 1,
+          "name": "32 sonatas"
+        },
+        {
+          "count": 0,
+          "name": "opus 57"
+        },
+        {
+          "count": 1,
+          "name": "masterworks"
+        },
+        {
+          "count": 1,
+          "name": "klavierwerke"
+        },
+        {
+          "count": 0,
+          "name": "piano concerto no. 5"
+        },
+        {
+          "count": 0,
+          "name": "alicia de larrocha"
+        },
+        {
+          "count": 7,
+          "name": "romantic classical"
+        },
+        {
+          "count": 1,
+          "name": "beethoven gardiner"
+        },
+        {
+          "count": 2,
+          "name": "stephen kovacevich* - beethovestephen kovacevich plays beethoven"
+        }
+      ]
+    },
+    {
+      "id": "e3177a43-a5df-44c6-a96d-45e325eb7824",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Hershy Rottenberg",
+      "sort-name": "Rottenberg, Hershy",
+      "gender": "male",
+      "area": {
+        "id": "ae8abafa-65cf-432c-86f7-70cb4c3a49b6",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Antwerpen",
+        "sort-name": "Antwerpen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Hasidic songwriter and vocalist",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "רוטנבערג, הערשי",
+          "name": "הערשי רוטנבערג",
+          "locale": "he",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "הרשל רוטנברג",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "הרשל רוטנברג",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "9713047d-ccf8-456e-b572-b9de795e7fd9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stephan Ludwig",
+      "sort-name": "Ludwig, Stephan",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German writer",
+      "life-span": {
+        "begin": "1965",
+        "ended": null
+      }
+    },
+    {
+      "id": "bfcf00f6-65bb-4338-9211-5047e778b35a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Rex Gildo",
+      "sort-name": "Gildo, Rex",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "06f59e1d-ac91-4732-b10b-996663300a0c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Straubing",
+        "sort-name": "Straubing",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "89bbbab6-72de-43eb-81ba-e620ab207008",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "München",
+        "sort-name": "München",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German actor and schlager singer",
+      "isnis": [
+        "0000000121285306"
+      ],
+      "life-span": {
+        "begin": "1936-07-02",
+        "end": "1999-10-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Hirtreiter, Ludwig Alexander",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ludwig Alexander Hirtreiter",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "schlager"
+        }
+      ]
+    },
+    {
+      "id": "ddec143c-2351-4db6-ad96-dce450475f06",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Axel Ludwig",
+      "sort-name": "Ludwig, Axel",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7237e72b-14a1-460a-96e4-26209568e3b7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mettmann",
+        "sort-name": "Mettmann",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German voice actor",
+      "life-span": {
+        "begin": "1955-12-25",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "audio drama"
+        },
+        {
+          "count": 1,
+          "name": "german audiobook reader"
+        }
+      ]
+    },
+    {
+      "id": "83e98d65-54e4-42fd-bc90-d01ac7a82f22",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "name": "Ludwig!",
+      "sort-name": "Ludwig!",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German synthwave artist",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "synthwave"
+        }
+      ]
+    },
+    {
+      "id": "a3ca7670-cd35-4feb-b062-fc3dd7e06792",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ludwig Hirsch",
+      "sort-name": "Hirsch, Ludwig",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7500e764-604e-4576-b51c-5504f0db66a8",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Steiermark",
+        "sort-name": "Steiermark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00043941190"
+      ],
+      "isnis": [
+        "0000000116359307"
+      ],
+      "life-span": {
+        "begin": "1946-02-28",
+        "end": "2011-11-24",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "austrian"
+        }
+      ]
+    },
+    {
+      "id": "78471616-3cb4-4139-a148-aeac3c7d0f79",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ludwig Göransson",
+      "sort-name": "Göransson, Ludwig",
+      "gender": "male",
+      "country": "SE",
+      "area": {
+        "id": "23d10872-f5ae-3f0c-bf55-332788a16ecb",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Sweden",
+        "sort-name": "Sweden",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fb3459e9-3ebe-448a-8395-f3abfc0306df",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Linköping",
+        "sort-name": "Linköping",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swedish score composer",
+      "ipis": [
+        "00434271966",
+        "00434272277",
+        "00588237015"
+      ],
+      "isnis": [
+        "0000000400114729"
+      ],
+      "life-span": {
+        "begin": "1984-09-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Göransson, Ludwig Emil Tomas",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ludwig Emil Tomas Göransson",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1984-09-01",
+          "end-date": null
+        },
+        {
+          "sort-name": "Göransson",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Göransson",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Goransson",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Goransson",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ludvig Goranson",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ludvig Goranson",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ludovin",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ludovin",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ludwig Goranson",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ludwig Goranson",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ludvig Goransson",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ludvig Goransson",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ludwig Goransson",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Ludwig Goransson",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Göransson, Ludwig",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ludwig Göransson",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 1,
+          "name": "classic music"
+        }
+      ]
+    },
+    {
+      "id": "6217e9fd-3029-499b-b574-0c4aaaf17ee8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Ludwig Güttler",
+      "sort-name": "Güttler, Ludwig",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "trumpet player",
+      "isnis": [
+        "0000000109387334"
+      ],
+      "life-span": {
+        "begin": "1943-03-16",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "trompet"
+        },
+        {
+          "count": 1,
+          "name": "trompetist"
+        }
+      ]
+    }
+  ]
+}

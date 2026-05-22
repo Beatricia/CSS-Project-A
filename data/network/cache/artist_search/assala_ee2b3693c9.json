@@ -1,0 +1,226 @@
+{
+  "created": "2026-05-22T17:34:28.710Z",
+  "count": 23,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "94bf8ccf-61ea-4aa7-a273-b22184aa718a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "أصالة",
+      "sort-name": "Nasri, Assalah",
+      "gender": "female",
+      "country": "SY",
+      "area": {
+        "id": "18086faa-7f75-3ca3-a5bb-a77a83d4b200",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Syria",
+        "sort-name": "Syria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "725210c4-3f89-4f49-a508-794e92f700ef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Damascus",
+        "sort-name": "Damascus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "female arabic vocalist",
+      "isnis": [
+        "0000000077786735"
+      ],
+      "life-span": {
+        "begin": "1969-05-15",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Nasri, Assala",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Assala Nasri",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "آصاله نصري",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "آصاله نصري",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "fd2d6bae-5011-4811-87a9-48358cc02797",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tony Passalacqua",
+      "sort-name": "Passalacqua, Tony",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0bff079b-89c8-4bbc-80b3-c703ee3a8600",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 60,
+      "name": "Kassala",
+      "sort-name": "Kassala",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "aaf625f2-62ed-4c41-8871-67124fad6b97",
+      "score": 60,
+      "name": "Massala",
+      "sort-name": "Massala",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c47ebcb4-b7f5-4dad-8d1a-7529c3e01b14",
+      "score": 59,
+      "name": "Parassala Ponnammal",
+      "sort-name": "Parassala Ponnammal",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0e5cae76-cdaa-4858-bf3a-d22ead119eee",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 59,
+      "name": "Tshisungu Kalomba & Kassala Mokumba",
+      "sort-name": "Tshisungu Kalomba & Kassala Mokumba",
+      "disambiguation": "Zaire",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tshisungu Kalomba & Kassala",
+          "name": "Tshisungu Kalomba & Kassala",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1edd01dc-c856-4bd5-8f0d-3ff61e8ad1ee",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 59,
+      "name": "Bab Assalam",
+      "sort-name": "Bab Assalam",
+      "disambiguation": "Syrian-French band",
+      "life-span": {
+        "begin": "2005",
+        "ended": null
+      }
+    },
+    {
+      "id": "db6db566-9654-4d1e-97e6-0b96c99ba113",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 59,
+      "name": "Assalant",
+      "sort-name": "Assalant",
+      "area": {
+        "id": "58d2816b-daf9-4fc5-962c-06967f14a5e5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Austin",
+        "sort-name": "Austin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "80s metal from TX",
+      "life-span": {
+        "begin": "1986",
+        "end": "1988",
+        "ended": true
+      }
+    },
+    {
+      "id": "ec197d47-2b0b-499a-8eb2-768ecf64d6b1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bill Passalacqua",
+      "sort-name": "Passalacqua, Bill",
+      "gender": "male",
+      "area": {
+        "id": "6268a372-6632-446e-abad-b17e3990fc71",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Effingham",
+        "sort-name": "Effingham",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Blues, Folk, Country, World",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fa78f9b1-be0c-4a67-8cc5-7f4b8c0dbb6a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 59,
+      "name": "Passalacqua",
+      "sort-name": "Passalacqua",
+      "area": {
+        "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Detroit",
+        "sort-name": "Detroit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

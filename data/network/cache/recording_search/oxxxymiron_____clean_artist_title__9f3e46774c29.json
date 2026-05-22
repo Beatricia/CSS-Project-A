@@ -1,0 +1,182 @@
+{
+  "created": "2026-05-22T18:31:06.890Z",
+  "count": 1,
+  "offset": 0,
+  "recordings": [
+    {
+      "id": "40126607-e067-490c-ac64-3d5acd60db43",
+      "score": 100,
+      "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+      "title": "Грязь",
+      "length": 212242,
+      "video": null,
+      "artist-credit": [
+        {
+          "name": "Oxxxymiron",
+          "artist": {
+            "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+            "name": "Oxxxymiron",
+            "sort-name": "Oxxxymiron",
+            "disambiguation": "Russian rapper",
+            "aliases": [
+              {
+                "sort-name": "Оксимирон",
+                "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                "name": "Оксимирон",
+                "locale": "ru",
+                "type": "Artist name",
+                "primary": true,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Фёдоров, Мирон Янович",
+                "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                "name": "Мирон Янович Фёдоров",
+                "locale": "ru",
+                "type": "Legal name",
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              },
+              {
+                "sort-name": "Окси",
+                "name": "Окси",
+                "locale": "ru",
+                "type": null,
+                "primary": null,
+                "begin-date": null,
+                "end-date": null
+              }
+            ]
+          }
+        }
+      ],
+      "first-release-date": "2021-12-01",
+      "releases": [
+        {
+          "id": "daabe74d-8d51-43d7-9f45-4723e9aea986",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+          "count": 1,
+          "title": "Красота и Уродство",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Oxxxymiron",
+              "artist": {
+                "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+                "name": "Oxxxymiron",
+                "sort-name": "Oxxxymiron",
+                "disambiguation": "Russian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8d31ebac-dad2-4076-9380-275d8d0431ab",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Красота и Уродство",
+            "primary-type": "Album"
+          },
+          "date": "2021-12-01",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-12-01",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "aadffec8-e0d8-3f01-8552-0b77060eee99",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "63862987-f950-43ba-ad64-10b00b540598",
+                  "number": "16",
+                  "title": "Грязь",
+                  "length": 212243
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 15
+            }
+          ]
+        },
+        {
+          "id": "163c8a22-344b-46e8-a52b-4ee132b470b0",
+          "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+          "artist-credit-id": "81730f30-aa34-3bb0-a3f7-c81e34e71e6a",
+          "count": 1,
+          "title": "Красота и Уродство",
+          "status": "Official",
+          "artist-credit": [
+            {
+              "name": "Oxxxymiron",
+              "artist": {
+                "id": "fb2a8279-79cf-4849-b692-1ce674709159",
+                "name": "Oxxxymiron",
+                "sort-name": "Oxxxymiron",
+                "disambiguation": "Russian rapper"
+              }
+            }
+          ],
+          "release-group": {
+            "id": "8d31ebac-dad2-4076-9380-275d8d0431ab",
+            "type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+            "title": "Красота и Уродство",
+            "primary-type": "Album"
+          },
+          "date": "2021-12-01",
+          "country": "XW",
+          "release-events": [
+            {
+              "date": "2021-12-01",
+              "area": {
+                "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                "name": "[Worldwide]",
+                "sort-name": "[Worldwide]",
+                "iso-3166-1-codes": [
+                  "XW"
+                ]
+              }
+            }
+          ],
+          "track-count": 22,
+          "media": [
+            {
+              "id": "db851d18-9c35-3787-b169-c0889bbdb624",
+              "position": 1,
+              "format": "Digital Media",
+              "track": [
+                {
+                  "id": "add35b2c-650b-445d-9951-4fa1c484ab56",
+                  "number": "16",
+                  "title": "Грязь",
+                  "length": 212242
+                }
+              ],
+              "track-count": 22,
+              "track-offset": 15
+            }
+          ]
+        }
+      ],
+      "isrcs": [
+        "QMDA72177296"
+      ]
+    }
+  ],
+  "query": "artist:\"Oxxxymiron\" AND recording:\"Грязь\""
+}

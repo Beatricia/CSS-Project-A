@@ -1,0 +1,57 @@
+{
+  "created": "2026-05-22T16:55:44.604Z",
+  "count": 2,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "eb44637a-8997-44ce-a60e-316a6900e110",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Кармелла Цепколенко",
+      "sort-name": "Tsepkolenko, Karmella",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4e29322e-bb08-45d2-98bc-7d2ce1286b59",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Odessa",
+        "sort-name": "Odessa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000382801807"
+      ],
+      "life-span": {
+        "begin": "1955-02-20",
+        "ended": null
+      }
+    },
+    {
+      "id": "c973b68a-7a45-409f-856b-a0a87c367f6b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 74,
+      "name": "Karmella's Game",
+      "sort-name": "Karmella's Game",
+      "life-span": {
+        "begin": "2002",
+        "ended": null
+      }
+    }
+  ]
+}

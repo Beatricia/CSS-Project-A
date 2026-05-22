@@ -1,0 +1,744 @@
+{
+  "created": "2026-05-22T17:13:40.292Z",
+  "count": 8057,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "e99a1f5d-725c-4b4b-999a-298d4e6d2096",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Элла Адаевская",
+      "sort-name": "Adayevskaya, Ella",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b86b7e97-c4e2-4ec2-942b-5a6cd8eea1da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bonn",
+        "sort-name": "Bonn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000116360287"
+      ],
+      "life-span": {
+        "begin": "1846-02-22",
+        "end": "1926-07-26",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Adaïewsky, Ella",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ella Adaïewsky",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Adajevskaja, Ella",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ella Adajevskaja",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Adayevskaya, Ella",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ella Adayevskaya",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Адаевская, Элла",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Элла Адаевская",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Адаевская, Элла Георгиевна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Элла Георгиевна Адаевская",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ella Fitzgerald",
+      "sort-name": "Fitzgerald, Ella",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3b1f4237-f431-4236-9ccb-8adb1745256c",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Newport News",
+        "sort-name": "Newport News",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "73d8cbdd-3149-4cb6-a36d-1ef2036a8b88",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Beverly Hills",
+        "sort-name": "Beverly Hills",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American jazz singer",
+      "ipis": [
+        "00010318443"
+      ],
+      "isnis": [
+        "0000000108548546"
+      ],
+      "life-span": {
+        "begin": "1917-04-25",
+        "end": "1996-06-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Fitzgerald",
+          "name": "Fitzgerald",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "エラ・フィッツジェラルド",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "エラ・フィッツジェラルド",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ella Fiztgerald",
+          "name": "Ella Fiztgerald",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ella Fiztgerarld",
+          "name": "Ella Fiztgerarld",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ella Fitzgerard",
+          "name": "Ella Fitzgerard",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ella Jane Fitzgerald",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ella Jane Fitzgerald",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "First Lady of Song",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "First Lady of Song",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Queen of Jazz",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Queen of Jazz",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lady Ella",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Lady Ella",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 12,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 0,
+          "name": "ballads"
+        },
+        {
+          "count": 4,
+          "name": "swing"
+        },
+        {
+          "count": 2,
+          "name": "big band"
+        },
+        {
+          "count": 5,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 1,
+          "name": "live"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "traditional pop"
+        },
+        {
+          "count": 1,
+          "name": "sunshine"
+        },
+        {
+          "count": -1,
+          "name": "death by diabetes"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        },
+        {
+          "count": 1,
+          "name": "aln-sh"
+        }
+      ]
+    },
+    {
+      "id": "5d430f8d-d2ce-4b16-92fe-4822602b7130",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ella",
+      "sort-name": "Ella",
+      "gender": "female",
+      "country": "MY",
+      "area": {
+        "id": "305d19c7-c040-349c-8d5f-6ac75d2d2a09",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Malaysia",
+        "sort-name": "Malaysia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "313c4876-4004-44f0-a5f1-7dd83276de85",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "George Town",
+        "sort-name": "George Town",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Malaysian singer",
+      "isnis": [
+        "0000000407865058"
+      ],
+      "life-span": {
+        "begin": "1966-07-31",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "singer"
+        },
+        {
+          "count": 1,
+          "name": "malaysia"
+        }
+      ]
+    },
+    {
+      "id": "3a60a284-256b-4481-9c33-84d12ea481cd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ella Henderson",
+      "sort-name": "Henderson, Ella",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "1bede359-1a1e-40d3-a03e-28d928182caf",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Lincolnshire",
+        "sort-name": "Lincolnshire",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00698207600",
+        "00698207799"
+      ],
+      "isnis": [
+        "0000000446470542"
+      ],
+      "life-span": {
+        "begin": "1996-01-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Henderson, Gabriella Michelle",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Gabriella Michelle Henderson",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "electronic"
+        },
+        {
+          "count": 3,
+          "name": "pop"
+        },
+        {
+          "count": 2,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "club"
+        },
+        {
+          "count": 1,
+          "name": "pop soul"
+        },
+        {
+          "count": 1,
+          "name": "alternative/indie rock"
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "adult alternative pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "contemporary r&b"
+        },
+        {
+          "count": 1,
+          "name": "pop idol"
+        }
+      ]
+    },
+    {
+      "id": "27431fe7-ed97-4e78-abe7-16ccc2348dd5",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ella Jenkins",
+      "sort-name": "Jenkins, Ella",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "759f9567-9107-40ef-a825-e57824a62e70",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "St. Louis",
+        "sort-name": "St. Louis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chicago",
+        "sort-name": "Chicago",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "folk singer/actress",
+      "ipis": [
+        "00015255019"
+      ],
+      "isnis": [
+        "0000000082605185"
+      ],
+      "life-span": {
+        "begin": "1924-08-06",
+        "end": "2024-11-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Jenkins, Ella Louise",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ella Louise Jenkins",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "children's music"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        }
+      ]
+    },
+    {
+      "id": "52e15a03-bdfd-4922-8cd4-33cd9895c3d4",
+      "score": 50,
+      "name": "Ella Ella",
+      "sort-name": "Ella Ella",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c7a6f0b8-450b-4e29-88a5-8834995e6bcc",
+      "type": "Other",
+      "type-id": "ac897045-5043-3294-969b-187360e45d86",
+      "score": 50,
+      "gender-id": "081c0bf5-da60-37b0-95f8-2207a3f7f9d6",
+      "name": "Ella Ella",
+      "sort-name": "Ella Ella",
+      "gender": "other",
+      "disambiguation": "tecnopop",
+      "life-span": {
+        "begin": "2018-05-20",
+        "ended": null
+      }
+    },
+    {
+      "id": "65fed6d3-315b-4e2e-b5af-6ff6b666d859",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "ella ella",
+      "sort-name": "ella ella",
+      "gender": "female",
+      "disambiguation": "Austin-based DJ",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a54cb19d-5fef-4108-a563-2349f5620e71",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ella",
+      "sort-name": "Ella",
+      "gender": "female",
+      "disambiguation": "house vocalist Ella Bickerton",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Bickerton, Ella",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ella Bickerton",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "drum and bass"
+        },
+        {
+          "count": 1,
+          "name": "hardcore"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "deep house"
+        },
+        {
+          "count": 1,
+          "name": "techno"
+        },
+        {
+          "count": 1,
+          "name": "electronica"
+        },
+        {
+          "count": 1,
+          "name": "disco"
+        },
+        {
+          "count": 1,
+          "name": "psytrance"
+        },
+        {
+          "count": 1,
+          "name": "funky house"
+        },
+        {
+          "count": 1,
+          "name": "indie dance"
+        },
+        {
+          "count": 1,
+          "name": "progressive house"
+        },
+        {
+          "count": 1,
+          "name": "edm"
+        },
+        {
+          "count": 1,
+          "name": "afro house"
+        },
+        {
+          "count": 1,
+          "name": "melodic techno"
+        },
+        {
+          "count": 1,
+          "name": "melodic house"
+        },
+        {
+          "count": 1,
+          "name": "dj tools"
+        },
+        {
+          "count": 1,
+          "name": "jackin house"
+        }
+      ]
+    },
+    {
+      "id": "f7602b15-66cc-4b31-b3b6-ed3c0a29eea3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ella Eyre",
+      "sort-name": "Eyre, Ella",
+      "gender": "female",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00681920235"
+      ],
+      "isnis": [
+        "0000000430719024",
+        "0000000462555992"
+      ],
+      "life-span": {
+        "begin": "1994-04-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "McMahon, Ella Mary",
+          "name": "Ella Mary McMahon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "alternative r&b"
+        },
+        {
+          "count": 1,
+          "name": "neo soul"
+        }
+      ]
+    }
+  ]
+}

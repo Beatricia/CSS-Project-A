@@ -1,0 +1,107 @@
+{
+  "created": "2026-05-22T17:07:27.592Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "758c187b-a4c9-4c46-add2-a3852598be66",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Maimuna",
+      "sort-name": "Maimuna",
+      "gender": "female",
+      "disambiguation": "Swiss? singer, Team Bassment",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "76f4d926-94fc-4588-8312-90100974bd05",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 99,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Maimuna",
+      "sort-name": "Maimuna",
+      "gender": "female",
+      "country": "BY",
+      "area": {
+        "id": "660e3c48-b301-3c8c-9708-0f71d5d094d6",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belarus",
+        "sort-name": "Belarus",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1980-05-28",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Murashka, Majmuna Amadu",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Маймуна Амаду Мурашка",
+          "locale": "be_BY",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Diko, Maimuna Amadu",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Маймуна Амаду Дико",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dzika, Majmuna Amadu",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Маймуна Амаду Дзіка",
+          "locale": "be",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Murashko, Maimuna Amadu",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Маймуна Амаду Мурашко",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "51f8435c-cee3-4971-8e16-9a6affa7c15e",
+      "score": 53,
+      "name": "Ibu Maimunah Mochtar & Group",
+      "sort-name": "Ibu Maimunah Mochtar & Group",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

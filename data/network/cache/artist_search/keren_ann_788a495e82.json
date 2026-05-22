@@ -1,0 +1,1375 @@
+{
+  "created": "2026-05-22T17:19:47.349Z",
+  "count": 46779,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8bb436cd-8fbf-48c6-9fc8-a172c27e24ba",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Keren Ann",
+      "sort-name": "Keren Ann",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "be637e94-c80c-4285-9ba2-698ed52ec357",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Caesarea",
+        "sort-name": "Caesarea",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "singer-songwriter",
+      "ipis": [
+        "00150797557",
+        "00503684560"
+      ],
+      "isnis": [
+        "0000000120229636"
+      ],
+      "life-span": {
+        "begin": "1974-03-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Zeidel, K.",
+          "name": "K. Zeidel",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "קרן אן",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "קרן אן",
+          "locale": "he",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Zeidel, Keren Ann",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Keren Ann Zeidel",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "dutch"
+        },
+        {
+          "count": 1,
+          "name": "francophone"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "netherlands"
+        },
+        {
+          "count": 1,
+          "name": "néerlandais"
+        },
+        {
+          "count": 1,
+          "name": "pays-bas"
+        }
+      ]
+    },
+    {
+      "id": "24f1766e-9635-4d58-a4d4-9413f9f98a4c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Johann Sebastian Bach",
+      "sort-name": "Bach, Johann Sebastian",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8331b712-99b9-41ef-bf58-0f033f8d926a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Eisenach",
+        "sort-name": "Eisenach",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "20619e36-fca8-4499-bcc8-be01a3ea3e41",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Leipzig",
+        "sort-name": "Leipzig",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German Baroque period composer & musician",
+      "ipis": [
+        "00001749311"
+      ],
+      "isnis": [
+        "0000000122764157"
+      ],
+      "life-span": {
+        "begin": "1685-03-21",
+        "end": "1750-07-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Bach, Jan Sebastian",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jan Sebastian Bach",
+          "locale": "pl_PL",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach",
+          "name": "Bach",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johnann Sebastian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johnann Sebastian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, Jean-Sébastien",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jean-Sébastien Bach",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, Johann Sebastian",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Sebastian Bach",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, Johann Sebastian",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Sebastian Bach",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "バッハ",
+          "name": "バッハ",
+          "locale": "ja",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "바흐",
+          "name": "바흐",
+          "locale": "ko",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, J. S.",
+          "name": "J. S. Bach",
+          "locale": "cs",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, Johann Sebastian",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Йоганн Себастьян Бах",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann S. Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann S. Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Sebstian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Sebstian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Sebasitan Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Sebasitan Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Себастьян Бах",
+          "name": "Себастьян Бах",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.S.Bash",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J.S.Bash",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Bach",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bahs, J.S.",
+          "name": "J.S. Bahs",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Savastian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Savastian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jan Sebastian Bach",
+          "name": "Jan Sebastian Bach",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бах, Иоганн Севастьян",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иоганн Севастьян Бах",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J. S. Bacj",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J. S. Bacj",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J S Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J S Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Sebastuan Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Sebastuan Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.S Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J.S Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann-sebastian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann-sebastian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.S.Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J.S.Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J.S. Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J.S. Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "JS Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "JS Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johan Sebastian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johan Sebastian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Sebastion Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Sebastion Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johann Sabastian Bach",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johann Sabastian Bach",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "バッハ ヨハンゼバスティアン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ヨハン・ゼバスティアン・バッハ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Μπαχ, Γιόχαν Σεμπάστιαν",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Γιόχαν Σεμπάστιαν Μπαχ",
+          "locale": "el",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Бах, Иоганн Себастьян",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иоганн Себастьян Бах",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach, Johann Sebastian",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johann Sebastian Bach",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bach (1685-1750)",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Bach (1685-1750)",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "يوهان سباستيان باخ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "يوهان سباستيان باخ",
+          "locale": "ar",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bahs, J. S.",
+          "name": "J. S. Bahs",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "バッハ ヨハンゼバスティアン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "J.S.バッハ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bahs, J.S.",
+          "name": "J.S.Bahs",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 19,
+          "name": "classical"
+        },
+        {
+          "count": 8,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "german composer"
+        },
+        {
+          "count": 1,
+          "name": "orchestral"
+        },
+        {
+          "count": 11,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "organist"
+        },
+        {
+          "count": 13,
+          "name": "baroque"
+        },
+        {
+          "count": 0,
+          "name": "latin"
+        },
+        {
+          "count": 5,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "bach"
+        },
+        {
+          "count": 1,
+          "name": "mass"
+        },
+        {
+          "count": 1,
+          "name": "wagner"
+        },
+        {
+          "count": 1,
+          "name": "six"
+        },
+        {
+          "count": 0,
+          "name": "134a"
+        },
+        {
+          "count": 1,
+          "name": "motet"
+        },
+        {
+          "count": 1,
+          "name": "mathäuspassion"
+        },
+        {
+          "count": 1,
+          "name": "messe h-moll"
+        },
+        {
+          "count": 1,
+          "name": "vox"
+        },
+        {
+          "count": 1,
+          "name": "cantata"
+        },
+        {
+          "count": 1,
+          "name": "cantata 147"
+        },
+        {
+          "count": 0,
+          "name": "bach double violin concerto"
+        },
+        {
+          "count": 1,
+          "name": "helmut walcha"
+        },
+        {
+          "count": 0,
+          "name": "1036"
+        },
+        {
+          "count": 1,
+          "name": "bertalan hock"
+        },
+        {
+          "count": 3,
+          "name": "gramophone selection"
+        }
+      ]
+    },
+    {
+      "id": "9e88042d-3fb0-47c0-b6e1-513d90bd1fca",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Keren",
+      "sort-name": "Keren",
+      "gender": "female",
+      "disambiguation": "vocalist featured on “Forevermore” & “Ignition Sequence Start”",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "2b3f3630-4e43-4d84-b1b8-f2497e2a861e",
+      "score": 46,
+      "name": "Keren",
+      "sort-name": "Keren",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "81dd7461-0297-4c1d-b5e4-fd135e0413b0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Rose",
+      "sort-name": "Rose",
+      "gender": "female",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "49856c85-1b7c-4f46-a078-b01261a058ad",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Nice",
+        "sort-name": "Nice",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Keren Meloul, French singer",
+      "ipis": [
+        "00488597673",
+        "00506000809"
+      ],
+      "isnis": [
+        "0000000081065105"
+      ],
+      "life-span": {
+        "begin": "1978-05-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Meloul, Keren",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Keren Meloul",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Rose, Keren",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Keren Rose",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "automod ng"
+        }
+      ]
+    },
+    {
+      "id": "be30d7c4-5ef6-4a20-9b3b-ab4d37953ed0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "name": "Keren DeBerg",
+      "sort-name": "DeBerg, Keren",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c70d12a2-24fe-4f83-a6e6-57d84f8efb51",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Johannes Brahms",
+      "sort-name": "Brahms, Johannes",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "afff1a94-a98b-4322-8874-3148139ab6da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Wien",
+        "sort-name": "Wien",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German composer",
+      "ipis": [
+        "00004028731"
+      ],
+      "isnis": [
+        "0000000121195925"
+      ],
+      "life-span": {
+        "begin": "1833-05-07",
+        "end": "1897-04-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Brahms, Johannes",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Иоганнес Брамс",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brahms, J.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "J. Brahms",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brahms",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Brahms",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ヨハネス・ブラームス",
+          "name": "ヨハネス・ブラームス",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brahms Johannes",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Brahms Johannes",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "約翰尼斯·布拉姆斯",
+          "name": "約翰尼斯·布拉姆斯",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "브람스",
+          "name": "브람스",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "約翰內斯·布拉姆斯",
+          "name": "約翰內斯·布拉姆斯",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "布拉姆斯",
+          "name": "布拉姆斯",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brahms, Johannes (1833 - 1897)",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Brahms, Johannes (1833 - 1897)",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "约翰内斯·布拉姆斯",
+          "name": "约翰内斯·布拉姆斯",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "约翰内斯·勃拉姆斯",
+          "name": "约翰内斯·勃拉姆斯",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johanness Brāmss",
+          "name": "Johanness Brāmss",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J Brahm",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J Brahm",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brahams",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Brahams",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Johannes Brahm",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Johannes Brahm",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Brahms, Johannes",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johannes Brahms",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 5,
+          "name": "classical"
+        },
+        {
+          "count": 4,
+          "name": "german"
+        },
+        {
+          "count": 1,
+          "name": "german composer"
+        },
+        {
+          "count": -1,
+          "name": "production music"
+        },
+        {
+          "count": 4,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "romantic"
+        },
+        {
+          "count": 2,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "symphony"
+        },
+        {
+          "count": 1,
+          "name": "art song"
+        },
+        {
+          "count": 1,
+          "name": "concerto"
+        },
+        {
+          "count": 0,
+          "name": "brahms solti requiem"
+        },
+        {
+          "count": 1,
+          "name": "piano sonata"
+        },
+        {
+          "count": 4,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "3cd3882c-00f8-4362-a0c2-ad89ed248533",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Robert Schumann",
+      "sort-name": "Schumann, Robert",
+      "gender": "male",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "23cc5e77-9e75-485f-9d9f-5208b514aa15",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Zwickau",
+        "sort-name": "Zwickau",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b86b7e97-c4e2-4ec2-942b-5a6cd8eea1da",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bonn",
+        "sort-name": "Bonn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German classical composer",
+      "isnis": [
+        "0000000120955419"
+      ],
+      "life-span": {
+        "begin": "1810-06-08",
+        "end": "1856-07-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Robert Schmann",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Robert Schmann",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scumann",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Scumann",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "R. Schumann",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "R. Schumann",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schumann",
+          "name": "Schumann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "슈만",
+          "name": "슈만",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schuman",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Schuman",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Scuman",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Scuman",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shcumann",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Shcumann",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "R.Schumann",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "R.Schumann",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schuhmann",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Schuhmann",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "シューマン",
+          "name": "シューマン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Robert Shumann",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Robert Shumann",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shcuman",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Shcuman",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "R Schumann",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "R Schumann",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schuhmann, Robert",
+          "name": "Robert Schuhmann",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schumann, Robert",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Robert Schumann",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 6,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "german"
+        },
+        {
+          "count": 0,
+          "name": "german composer"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "romantic"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        },
+        {
+          "count": 2,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "a7e05e3f-7459-4ba6-9041-8b5cacf6338c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ann Peebles",
+      "sort-name": "Peebles, Ann",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "759f9567-9107-40ef-a825-e57824a62e70",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "St. Louis",
+        "sort-name": "St. Louis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00066129280"
+      ],
+      "isnis": [
+        "000000008009019X"
+      ],
+      "life-span": {
+        "begin": "1947-04-27",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Anne Peebles",
+          "name": "Anne Peebles",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "soul"
+        },
+        {
+          "count": 1,
+          "name": "rock and indie"
+        }
+      ]
+    },
+    {
+      "id": "47f04b05-61d9-4115-b86f-2435a0d14e80",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Keren Motseri",
+      "sort-name": "Motseri, Keren",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1976-10-14",
+        "ended": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "created": "2026-05-22T17:22:05.690Z",
+  "count": 736,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "9091ade7-02a8-42b8-9fe5-78022a91398b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sharon Bezaly",
+      "sort-name": "Bezaly, Sharon",
+      "gender": "female",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "flutist",
+      "isnis": [
+        "0000000114929062"
+      ],
+      "life-span": {
+        "begin": "1972",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "flutist"
+        }
+      ]
+    },
+    {
+      "id": "103c4f39-bc41-49ce-a86b-3d5c3ff0eeb8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sharon Cuneta",
+      "sort-name": "Cuneta, Sharon",
+      "gender": "female",
+      "country": "PH",
+      "area": {
+        "id": "786532a5-2e36-315a-bdf2-221dc1b64b72",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Philippines",
+        "sort-name": "Philippines",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dcdf2469-1d20-4378-a2a2-f5f462fcc873",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Manila",
+        "sort-name": "Manila",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000119530819"
+      ],
+      "life-span": {
+        "begin": "1966-01-06",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Cuneta-Pangilinan, Sharon Gamboa",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sharon Gamboa Cuneta-Pangilinan",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "ballad"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "manila sound"
+        },
+        {
+          "count": 1,
+          "name": "opm"
+        },
+        {
+          "count": 1,
+          "name": "p-pop"
+        }
+      ]
+    },
+    {
+      "id": "cccbf794-f48c-4a9c-bf5b-0114a11ef247",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 36,
+      "name": "Sharon, Lois & Bram",
+      "sort-name": "Sharon, Lois & Bram",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000084841712"
+      ],
+      "life-span": {
+        "begin": "1978",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sharon & Randi",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sharon & Randi",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sharon, Bram & Friends",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sharon, Bram & Friends",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sharon & Bram",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Sharon & Bram",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "107bbb89-98a3-406d-bf03-ba7d09c6a6f0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sharon Shannon",
+      "sort-name": "Shannon, Sharon",
+      "gender": "female",
+      "country": "IE",
+      "area": {
+        "id": "390b05d4-11ec-3bce-a343-703a366b34a5",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ireland",
+        "sort-name": "Ireland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "28b8e183-2235-46e7-8fcd-b38feab80e31",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ruan",
+        "sort-name": "Ruan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00162220217"
+      ],
+      "isnis": [
+        "0000000063097963"
+      ],
+      "life-span": {
+        "begin": "1968-06-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Shannon, Sharon Teresa",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sharon Teresa Shannon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shannon, Sharon",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Shannon, Sharon",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shannon, Sharon, Band",
+          "name": "Sharon Shannon Band",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Shannon, Sharon & Friends",
+          "name": "Sharon Shannon & Friends",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sharron Shanon",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Sharron Shanon",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "folk"
+        },
+        {
+          "count": 2,
+          "name": "irish folk"
+        }
+      ]
+    },
+    {
+      "id": "642489a8-a6b2-4bc9-8b41-6bf9613812ae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sharon Redd",
+      "sort-name": "Redd, Sharon",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "520b4d15-da9b-40ce-8ba5-d797d0eae8a2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Norfolk",
+        "sort-name": "Norfolk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c62d55f6-05a7-4002-969b-1f85a97d4558",
+        "type": "County",
+        "type-id": "bcecec27-8bdb-3e00-8254-d948dda502fa",
+        "name": "Westchester County",
+        "sort-name": "Westchester County",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000055481885"
+      ],
+      "life-span": {
+        "begin": "1945-10-19",
+        "end": "1992-05-01",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "electro-disco"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "disco"
+        },
+        {
+          "count": 1,
+          "name": "soul"
+        }
+      ]
+    },
+    {
+      "id": "0f9b6a48-9a0d-4f74-b457-835db7987929",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "SharOn",
+      "sort-name": "SharOn",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian rapper",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "aa2db4b5-3721-43fa-8cbc-3587a6688d6a",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 35,
+      "name": "Sharon",
+      "sort-name": "Sharon",
+      "area": {
+        "id": "4b8c47dd-0fe2-450e-8a21-d4d739ee0e0c",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Baden-Württemberg",
+        "sort-name": "Baden-Württemberg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "German melodic heavy metal band",
+      "life-span": {
+        "begin": "1992",
+        "ended": null
+      }
+    },
+    {
+      "id": "134ef18b-da25-460f-b03c-0e120d75efd0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sharon Isbin",
+      "sort-name": "Isbin, Sharon",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "classical guitarist",
+      "isnis": [
+        "0000000114499656"
+      ],
+      "life-span": {
+        "begin": "1956-08-07",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "guitarist"
+        }
+      ]
+    },
+    {
+      "id": "fc07fcd0-da8a-490f-bb83-a3e8ac69069e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sharon Bolton",
+      "sort-name": "Bolton, Sharon",
+      "gender": "female",
+      "begin-area": {
+        "id": "5c6f4550-e4ae-4570-99c9-dc133582d1aa",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Lancashire",
+        "sort-name": "Lancashire",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000110697620"
+      ],
+      "life-span": {
+        "begin": "1960-05-27",
+        "ended": null
+      }
+    },
+    {
+      "id": "5a2e9cd3-010a-4aae-9f83-629253284202",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sharon Van Etten",
+      "sort-name": "Van Etten, Sharon",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7f20dc10-de63-454c-a9b5-d4628458126a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Clinton",
+        "sort-name": "Clinton",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US singer‐songwriter",
+      "isnis": [
+        "0000000401825127"
+      ],
+      "life-span": {
+        "begin": "1981-02-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "SVE",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "SVE",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Van Etten, Sharon Katharine",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Sharon Katharine Van Etten",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 1,
+          "name": "indie rock"
+        },
+        {
+          "count": 1,
+          "name": "country folk"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 2,
+          "name": "indie folk"
+        },
+        {
+          "count": 2,
+          "name": "singer-songwriter"
+        }
+      ]
+    }
+  ]
+}

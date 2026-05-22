@@ -1,0 +1,549 @@
+{
+  "created": "2026-05-22T17:02:20.388Z",
+  "count": 189,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "0d1e04f4-ddb6-4b66-8b0b-7f3b66f34d6e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Валерий Леонтьев",
+      "sort-name": "Leontiev, Valery",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7fc7ef7e-ee42-40d3-bdd7-e993171cba13",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Respublika Komi",
+        "sort-name": "Respublika Komi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "000000005711945X"
+      ],
+      "life-span": {
+        "begin": "1949-03-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Valery Leontiev",
+          "name": "Valery Leontiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Valeriy Leontiev",
+          "name": "Valeriy Leontiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Valeri Leontiev",
+          "name": "Valeri Leontiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Леонтьев, Валерий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Валерий Леонтьев",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Âàëåðèé Ëåîíòüåâ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Âàëåðèé Ëåîíòüåâ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "estrada"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "90239381-27de-4d35-b08a-90964294f103",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yuriy Leontiev",
+      "sort-name": "Leontiev, Yuriy",
+      "gender": "male",
+      "disambiguation": "YULION",
+      "life-span": {
+        "begin": "1995-05-21",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Леонтьев, Юрий",
+          "name": "Юрий Леонтьев",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "3b25a5b8-2773-46ad-8692-c8915227eba9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "name": "A. Leontiev",
+      "sort-name": "Leontiev, A.",
+      "disambiguation": "tenor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "425f79a9-704b-4e34-9dcd-cd70a29af76e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Yuily Leontiev",
+      "sort-name": "Leontiev, Yuily",
+      "gender": "male",
+      "area": {
+        "id": "04380476-2b3d-47eb-b9f4-bd5795d6e7be",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Greenville",
+        "sort-name": "Greenville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "aaa9511b-3355-4d6c-b6b9-365616fce90d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tyumen",
+        "sort-name": "Tyumen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Greenville, NC area trombonist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "82bb8d07-b5fc-427e-8e39-33264afe37f5",
+      "score": 50,
+      "name": "Valery",
+      "sort-name": "Valery",
+      "disambiguation": "appears on DJ Piebert's track",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9f099364-144e-4540-8655-bc0c33b61522",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 50,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Valery",
+      "sort-name": "Valery",
+      "gender": "female",
+      "disambiguation": "Valery",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "87b4252d-314b-4252-9cd3-44c08f3087b6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Валерий Гергиев",
+      "sort-name": "Gergiev, Valery",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000114710052"
+      ],
+      "life-span": {
+        "begin": "1953-05-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gergijev, Valerij Abisalovitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Valerij Abisalovitj Gergijev",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gergijev, Valerij",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Valerij Gergijev",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gergiev, Valeri Abisalovitsj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Valeri Abisalovitsj Gergiev",
+          "locale": "nl",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Guerguiev, Valeri Abissalovitch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Valeri Abissalovitch Guerguiev",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gergijew, Waleri Abissalowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Waleri Abissalowitsch Gergijew",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gergijew, Waleri",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Waleri Gergijew",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gergiev, Valery Abisalovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Valery Abisalovich Gergiev",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Гергиев, Валерий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Валерий Гергиев",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Гергиев, Валерий Абисалович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Валерий Абисалович Гергиев",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gergiev, Valery",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Valery Gergiev",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gergiev, Valeri",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Valeri Gergiev",
+          "locale": "nl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "V. Gergiev",
+          "name": "V. Gergiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Valeri Gergiev",
+          "name": "Valeri Gergiev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gergijev, Valeri",
+          "name": "Valeri Gergijev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gergiev, Valery",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Valery Gergiev",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "russian conductor"
+        }
+      ]
+    },
+    {
+      "id": "d862f632-4cac-4eb8-9cfb-8d6bd8ebb3dc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "François Valéry",
+      "sort-name": "Valéry, François",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "792b1496-3f80-4ad0-92c2-2c2154a9b642",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Oran",
+        "sort-name": "Oran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00046089471",
+        "00079618825"
+      ],
+      "isnis": [
+        "0000000077165824"
+      ],
+      "life-span": {
+        "begin": "1954-08-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Mougeot, Jean-Louis",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jean-Louis Mougeot",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "François Valery",
+          "name": "François Valery",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Francois Valéry",
+          "name": "Francois Valéry",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "89d1ec75-4eda-4238-9446-418062d26a94",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Valéry",
+      "sort-name": "Valéry",
+      "gender": "female",
+      "country": "BE",
+      "area": {
+        "id": "5b8a5ee5-0bb3-34cf-9a75-c27c44e341fc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Belgium",
+        "sort-name": "Belgium",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Belgian chanson singer",
+      "life-span": {
+        "begin": "1943",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "chanson"
+        }
+      ]
+    },
+    {
+      "id": "b224605d-fd5b-4fae-9e69-8f56e9df7593",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Valery Tscheplanowa",
+      "sort-name": "Tscheplanowa, Valery",
+      "gender": "female",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "05cd175a-0e3a-4bd6-a27e-86fad1a654f4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kazan",
+        "sort-name": "Kazan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1980-03-07",
+        "ended": null
+      }
+    }
+  ]
+}

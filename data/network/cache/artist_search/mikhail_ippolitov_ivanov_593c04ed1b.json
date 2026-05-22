@@ -1,0 +1,601 @@
+{
+  "created": "2026-05-22T17:04:58.684Z",
+  "count": 920,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "da8a2e8d-e63c-4852-8fc5-d5760e0102bd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Ипполитов‐Иванов",
+      "sort-name": "Ippolitov‐Ivanov, Mikhail",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c2e1b74d-d22f-4488-8718-a28eb06bb0a6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gatchina",
+        "sort-name": "Gatchina",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer, conductor, teacher",
+      "isnis": [
+        "0000000108617361"
+      ],
+      "life-span": {
+        "begin": "1859-11-19",
+        "end": "1935-01-28",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Ippolitov-Ivanov, Mikhail Mikhaylovich",
+          "name": "Mikhail Mikhaylovich Ippolitov-Ivanov",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ипполитов‐Иванов, Михаил",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Михаил Ипполитов‐Иванов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ippolitow‐Iwanow, Michail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Michail Ippolitow‐Iwanow",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ippolitow‐Iwanow, Michail Michailowitsch",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Michail Michailowitsch Ippolitow‐Iwanow",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ippolitov-Ivanov, Mikhail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mikhail Ippolitov-Ivanov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ippolitov-Ivanov",
+          "name": "Ippolitov-Ivanov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ипполитов-Иванов, Михаил",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Михаил Ипполитов-Иванов",
+          "locale": "ru_RU",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ipolitov-Ivanov",
+          "name": "Ipolitov-Ivanov",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "c036e928-e031-491e-a194-23bdd05cb765",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 53,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Иванов",
+      "sort-name": "Ivanov, Mikhail",
+      "gender": "male",
+      "disambiguation": "Russian guitarist & video game arranger",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ivanov, Misha",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Misha Ivanov",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Иванов, Михаил",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Михаил Иванов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivanov, Mikhail",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mikhail Ivanov",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ivanov, Misha",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Миша Иванов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c5cb18c3-eb79-48bb-aa46-91a5d5c50345",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Иванов",
+      "sort-name": "Ivanov, Mikhail",
+      "gender": "male",
+      "disambiguation": "solo-guitarist of the Штар",
+      "life-span": {
+        "begin": "1942-03-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Иванов, Михаил Иванович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Михаил Иванович Иванов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "ad52c4e2-3664-4f40-bc7a-d0e8735b43e8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Иванов",
+      "sort-name": "Ivanov, Mikhail",
+      "gender": "male",
+      "disambiguation": "arranger",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e539699a-5cb3-4f73-b60f-691b1499d0af",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Иванович Глинка",
+      "sort-name": "Glinka, Mikhail Ivanovich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a5a09d38-eca0-466e-950b-c3730414d8bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Smolensk",
+        "sort-name": "Smolensk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00012055831"
+      ],
+      "isnis": [
+        "0000000122804438"
+      ],
+      "life-span": {
+        "begin": "1804-06-01",
+        "end": "1857-02-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Glinka, Michail Ivanovitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Michail Ivanovitj Glinka",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Michail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Michail Glinka",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Глинка, Михаил",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Михаил Глинка",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Глинка, Михаил Иванович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Михаил Иванович Глинка",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gļinka, M.",
+          "name": "M. Gļinka",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Mikhail Ivanovich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Mikhail Ivanovich Glinka",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, M. I.",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "M. I. Glinka",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glink",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Glink",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michael Glinka",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Michael Glinka",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Glinka",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Michail",
+          "name": "Michail Glinka",
+          "locale": "nl",
+          "type": null,
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Glinka, Mikhail",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mikhail Glinka",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michail Glinka",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Michail Glinka",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Gļinka, Mihails",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Mihails Gļinka",
+          "locale": "lv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 2,
+          "name": "russian composer"
+        }
+      ]
+    },
+    {
+      "id": "eeca7aeb-c0ec-4b50-a2a9-ebfab97a6f57",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 48,
+      "name": "Ivanov",
+      "sort-name": "Ivanov",
+      "area": {
+        "id": "4835c797-3b71-4a6c-b911-58a200e2b048",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Pontarlier",
+        "sort-name": "Pontarlier",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4835c797-3b71-4a6c-b911-58a200e2b048",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Pontarlier",
+        "sort-name": "Pontarlier",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "80s French band from Pontarlier",
+      "life-span": {
+        "begin": "1985",
+        "ended": null
+      }
+    },
+    {
+      "id": "5ba840b3-5668-4a66-894b-9809fb2de482",
+      "score": 47,
+      "name": "Ivanov",
+      "sort-name": "Ivanov",
+      "disambiguation": "techno",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fe3f2592-8c0e-4b0f-9d6e-e241781db524",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "IVANOV",
+      "sort-name": "IVANOV",
+      "gender": "male",
+      "disambiguation": "singer",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ac20a500-f96d-432e-9eec-8dea517c8fdb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Михаил Михайлович Иванов",
+      "sort-name": "Ivanov, Mikhail Mikhailovich",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dccd77b2-bd3d-49eb-a98f-fd58e87f481e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Roma",
+        "sort-name": "Roma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer, 1849-1927",
+      "isnis": [
+        "0000000038006644"
+      ],
+      "life-span": {
+        "begin": "1849-09-23",
+        "end": "1927-10-20",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Иванов, Михаил",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Михаил Иванов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Иванов, Михаил Михайлович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Михаил Михайлович Иванов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "0fcb4ff5-6384-4497-b796-9d545583c8bd",
+      "score": 46,
+      "name": "Mikhail",
+      "sort-name": "Mikhail",
+      "disambiguation": "Mikhail Karikis",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

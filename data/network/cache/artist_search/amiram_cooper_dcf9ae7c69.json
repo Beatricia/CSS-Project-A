@@ -1,0 +1,978 @@
+{
+  "created": "2026-05-22T17:34:09.058Z",
+  "count": 1273,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "5e0efe4a-da7c-4a7c-a317-8215a74302de",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "עמירם קופר",
+      "sort-name": "Cooper, Amiram",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "4da37f20-218d-4406-8d29-7d30a32978bf",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Haifa",
+        "sort-name": "Haifa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1938",
+        "end": "2024",
+        "ended": true
+      }
+    },
+    {
+      "id": "ee58c59f-8e7f-4430-b8ca-236c4d3745ae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 93,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alice Cooper",
+      "sort-name": "Cooper, Alice",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b03ff310-d8e2-45cf-9455-769f76641eb2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Detroit",
+        "sort-name": "Detroit",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "the musician born Vincent Damon Furnier, changed his name legally to Alice Cooper in 1974",
+      "ipis": [
+        "00063816178",
+        "00078127071"
+      ],
+      "isnis": [
+        "0000000114742994",
+        "0000000368591874"
+      ],
+      "life-span": {
+        "begin": "1948-02-04",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "アリス・クーパー",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "アリス・クーパー",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Furnier",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Furnier",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Damon Furnier",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Damon Furnier",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vincent Damon",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Vincent Damon",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alis Cooper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alis Cooper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alica Cooper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alica Cooper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alic Cooper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alic Cooper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cooper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Cooper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A. Cooper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "A. Cooper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alice Copper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alice Copper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alice Coper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alice Coper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Vincent Furnier",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Vincent Furnier",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Furnier, Vincent Damon",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Vincent Damon Furnier",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1948-02-04",
+          "end-date": "1974"
+        },
+        {
+          "sort-name": "Cooper, Alice",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alice Cooper",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1974",
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 3,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "new wave"
+        },
+        {
+          "count": 16,
+          "name": "hard rock"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 8,
+          "name": "glam rock"
+        },
+        {
+          "count": 1,
+          "name": "classic rock"
+        },
+        {
+          "count": 0,
+          "name": "1980s"
+        },
+        {
+          "count": 0,
+          "name": "1990s"
+        },
+        {
+          "count": 0,
+          "name": "1970s"
+        },
+        {
+          "count": 0,
+          "name": "2000s"
+        },
+        {
+          "count": 1,
+          "name": "garage rock"
+        },
+        {
+          "count": 1,
+          "name": "glam metal"
+        },
+        {
+          "count": 1,
+          "name": "shock rock"
+        },
+        {
+          "count": 0,
+          "name": "estados unidos"
+        }
+      ]
+    },
+    {
+      "id": "4d7928cd-7ed2-4282-8c29-c0c9f966f1bd",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 86,
+      "name": "Alice Cooper",
+      "sort-name": "Alice Cooper",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "7f1c8f3f-69a9-454a-8633-c3d3a628858b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Phoenix",
+        "sort-name": "Phoenix",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "1964–1975 American rock band",
+      "isnis": [
+        "0000000122592447"
+      ],
+      "life-span": {
+        "begin": "1964",
+        "end": "1975",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Earwigs, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Earwigs",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1964",
+          "end-date": "1965"
+        },
+        {
+          "sort-name": "The Earwig",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "The Earwig",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Earwigs",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Earwigs",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Nazz",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Nazz",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Naz",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "The Naz",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "The Spider",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "The Spider",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Spiders",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Spiders",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alice Cooper",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alice Cooper",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1968-03-16",
+          "end-date": null
+        },
+        {
+          "sort-name": "Nazz, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Nazz",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1967",
+          "end-date": "1968-03-16"
+        },
+        {
+          "sort-name": "Spiders, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Spiders",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1965",
+          "end-date": "1967"
+        },
+        {
+          "sort-name": "アリス・クーパー",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "アリス・クーパー",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alice Cooper Group",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alice Cooper Group",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alice Cooper Band",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alice Cooper Band",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alis Cooper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alis Cooper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alice Copper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alice Copper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alic Cooper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alic Cooper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cooper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Cooper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alice Coper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alice Coper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alica Cooper",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alica Cooper",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 5,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "heavy metal"
+        },
+        {
+          "count": 0,
+          "name": "metal"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "new wave"
+        },
+        {
+          "count": 16,
+          "name": "hard rock"
+        },
+        {
+          "count": -1,
+          "name": "usa"
+        },
+        {
+          "count": 4,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 9,
+          "name": "glam rock"
+        },
+        {
+          "count": 1,
+          "name": "classic rock"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 5,
+          "name": "garage rock"
+        },
+        {
+          "count": 1,
+          "name": "glam metal"
+        },
+        {
+          "count": 1,
+          "name": "shock rock"
+        },
+        {
+          "count": 0,
+          "name": "acid rock"
+        },
+        {
+          "count": 0,
+          "name": "arizona"
+        },
+        {
+          "count": -2,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": -1,
+          "name": "united states"
+        },
+        {
+          "count": -1,
+          "name": "amos lee"
+        },
+        {
+          "count": -2,
+          "name": "love's a loaded gun"
+        },
+        {
+          "count": -1,
+          "name": "rebellious"
+        },
+        {
+          "count": 0,
+          "name": "estados unidos"
+        }
+      ]
+    },
+    {
+      "id": "5ed6e194-a46d-4fbf-9ae9-dbc111549877",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Amiram Ganz",
+      "sort-name": "Ganz, Amiram",
+      "gender": "male",
+      "country": "UY",
+      "area": {
+        "id": "ea88d395-87c9-3c47-b49a-114cad41fd39",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Uruguay",
+        "sort-name": "Uruguay",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bdf7509d-e81a-4286-a55b-c159be4267d7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Montevideo",
+        "sort-name": "Montevideo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "isnis": [
+        "0000000132232605"
+      ],
+      "life-span": {
+        "begin": "1952-07-29",
+        "ended": null
+      }
+    },
+    {
+      "id": "dfe0030b-fce6-4652-8243-0925b4aa2084",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Amiram Rigai",
+      "sort-name": "Rigai, Amiram",
+      "gender": "male",
+      "area": {
+        "id": "d73a52b2-af77-41f6-a89e-e270b6af181e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Riverdale",
+        "sort-name": "Riverdale",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b37e9d2b-c1c8-431b-a260-3a3ca21fcb1b",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tel Aviv",
+        "sort-name": "Tel Aviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist, southern US",
+      "life-span": {
+        "begin": "1931",
+        "ended": null
+      }
+    },
+    {
+      "id": "c0f47c57-c898-41cf-b497-648c61f2d793",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 84,
+      "name": "Amiram Inc.",
+      "sort-name": "Amiram Inc.",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2005",
+        "end": "2012",
+        "ended": true
+      }
+    },
+    {
+      "id": "266c072f-5ed9-45d1-b4f4-1bf792f5d17a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Amiram Eini",
+      "sort-name": "Eini, Amiram",
+      "gender": "male",
+      "country": "NO",
+      "area": {
+        "id": "6743d351-6f37-3049-9724-5041161fff4d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Norway",
+        "sort-name": "Norway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "3db5dfb1-1b91-4038-8268-ae04d15b6a3e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 79,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Doris Day",
+      "sort-name": "Day, Doris",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b2cf490f-a8a7-4875-a1b7-addede3b327f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cincinnati",
+        "sort-name": "Cincinnati",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "043887c0-b166-48a2-a6cf-39bdc6dbc0a4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Carmel-by-the-Sea",
+        "sort-name": "Carmel-by-the-Sea",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114712242"
+      ],
+      "life-span": {
+        "begin": "1922-04-03",
+        "end": "2019-05-13",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "ドリス・デイ",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ドリス・デイ",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kappelhoff, Doris Mary Ann von",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Doris Mary Ann von Kappelhoff",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Cooper, Jeri",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jeri Cooper",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 0,
+          "name": "big band"
+        },
+        {
+          "count": 0,
+          "name": "film soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "easy listening soundtracks and musicals"
+        },
+        {
+          "count": 1,
+          "name": "singers"
+        },
+        {
+          "count": 0,
+          "name": "standards"
+        },
+        {
+          "count": 1,
+          "name": "traditional pop"
+        },
+        {
+          "count": 1,
+          "name": "acting"
+        },
+        {
+          "count": 1,
+          "name": "singing"
+        },
+        {
+          "count": 0,
+          "name": "christmas music"
+        },
+        {
+          "count": 1,
+          "name": "actors"
+        },
+        {
+          "count": 1,
+          "name": "show tunes"
+        },
+        {
+          "count": 1,
+          "name": "motion picture actors and actresses"
+        },
+        {
+          "count": 1,
+          "name": "television actors and actresses"
+        }
+      ]
+    },
+    {
+      "id": "8ec5c8c2-adde-4fd8-98d8-7495beaea621",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 79,
+      "name": "Cooper",
+      "sort-name": "Cooper",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish pop band",
+      "isnis": [
+        "0000000470047656"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "ba4a8208-cb9e-48e3-a662-ec447fb65cad",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 78,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mike Cooper",
+      "sort-name": "Cooper, Mike",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "9f11c5cc-b4b5-4589-8476-bc863930caa7",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Reading",
+        "sort-name": "Reading",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK folk blues vocalist and guitarist",
+      "life-span": {
+        "begin": "1942-08-24",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "ambient"
+        },
+        {
+          "count": 1,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "folk rock"
+        },
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "free improvisation"
+        }
+      ]
+    }
+  ]
+}

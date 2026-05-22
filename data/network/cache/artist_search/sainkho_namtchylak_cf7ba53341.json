@@ -1,0 +1,134 @@
+{
+  "created": "2026-05-22T17:12:27.429Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "b2b97779-e09d-4e76-a0c9-a4c80cf043fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Sainkho Namtchylak",
+      "sort-name": "Namtchylak, Sainkho",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d741d3d9-2a4d-41a1-bbed-193702d6f1a2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyzyl",
+        "sort-name": "Kyzyl",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Tuvan throat singer",
+      "isnis": [
+        "0000000080029874"
+      ],
+      "life-span": {
+        "begin": "1957-03-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Сайнхо Намчылак",
+          "name": "Сайнхо Намчылак",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sainkho",
+          "name": "Sainkho",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sainkho Nahchylak",
+          "name": "Sainkho Nahchylak",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sainkho Namchylak",
+          "name": "Sainkho Namchylak",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Саинхо Намчылак",
+          "name": "Саинхо Намчылак",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "experimental"
+        },
+        {
+          "count": 1,
+          "name": "free improvisation"
+        },
+        {
+          "count": 2,
+          "name": "khöömei"
+        },
+        {
+          "count": 1,
+          "name": "central asian throat singing"
+        }
+      ]
+    },
+    {
+      "id": "a66db594-a084-4ff0-8f00-8eef5dc2282d",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 81,
+      "name": "Sainkho Namtchylak Ensemble",
+      "sort-name": "Sainkho Namtchylak Ensemble",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "58d21011-608d-4676-a991-0fe09dfc6627",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "name": "A-Lex",
+      "sort-name": "A-Lex",
+      "disambiguation": "mixer, worked with Sainkho Namtchylak",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

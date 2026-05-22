@@ -1,0 +1,874 @@
+{
+  "created": "2026-05-22T16:47:09.710Z",
+  "count": 2321,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "7d9be72b-ab36-4ce1-8a2c-05bf0f7eb0b4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Isaac Stern",
+      "sort-name": "Stern, Isaac",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b875a439-cc00-4b72-bba9-511f873dec9f",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Ternopil's'ka Oblast'",
+        "sort-name": "Ternopil's'ka Oblast'",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist",
+      "isnis": [
+        "0000000081769698"
+      ],
+      "life-span": {
+        "begin": "1920-07-21",
+        "end": "2001-09-22",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Stern",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Stern",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "アイザック・スターン",
+          "name": "アイザック・スターン",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "violin"
+        },
+        {
+          "count": 1,
+          "name": "beethoven"
+        },
+        {
+          "count": 1,
+          "name": "server name"
+        }
+      ]
+    },
+    {
+      "id": "c85b5dc1-902e-415d-9286-63e76ad4d4aa",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 51,
+      "name": "The Istomin/Stern/Rose Trio",
+      "sort-name": "Istomin/Stern/Rose Trio, The",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Eugene Istomin, Isaac Stern, Leonard Rose",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "0a46cf2a-61bd-447d-b8fd-a2b32eb20282",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Isaac Albéniz",
+      "sort-name": "Albéniz, Isaac",
+      "gender": "male",
+      "country": "ES",
+      "area": {
+        "id": "471c46a7-afc5-31c4-923c-d0444f5053a4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Spain",
+        "sort-name": "Spain",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3ae682c3-da59-4b78-b8e5-ee0fd32d350e",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Camprodon",
+        "sort-name": "Camprodon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c3caa859-3964-4109-9919-1a1a0969b898",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Cambo-les-Bains",
+        "sort-name": "Cambo-les-Bains",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Spanish composer",
+      "ipis": [
+        "00000401176"
+      ],
+      "isnis": [
+        "0000000122801560"
+      ],
+      "life-span": {
+        "begin": "1860-05-29",
+        "end": "1909-05-18",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Albéniz y Pascual, Isaac Manuel Francisco",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Isaac Manuel Francisco Albéniz y Pascual",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Issac Albéniz",
+          "name": "Issac Albéniz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Albeniz",
+          "name": "Albeniz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Manuel Francisco Albéniz i Pascual",
+          "name": "Isaac Manuel Francisco Albéniz i Pascual",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Albeniez",
+          "name": "Isaac Albeniez",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "I. Albeniz",
+          "name": "I. Albeniz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Albeniz",
+          "name": "Isaac Albeniz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "알베니즈",
+          "name": "알베니즈",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Albeniz (1860-1909)",
+          "name": "Isaac Albeniz (1860-1909)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Manuel Francisco Albéniz",
+          "name": "Isaac Manuel Francisco Albéniz",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Albéniz, Isaac",
+          "name": "Albéniz, Isaac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Albinez",
+          "name": "Isaac Albinez",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 2,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "spanish composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        },
+        {
+          "count": 1,
+          "name": "romantic classical"
+        }
+      ]
+    },
+    {
+      "id": "a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Isaac Hayes",
+      "sort-name": "Hayes, Isaac",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "cf659eec-f689-448f-aca1-16960f9430df",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Covington",
+        "sort-name": "Covington",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Memphis",
+        "sort-name": "Memphis",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00013640030",
+        "00013640128",
+        "00040153333"
+      ],
+      "isnis": [
+        "0000000063017935"
+      ],
+      "life-span": {
+        "begin": "1942-08-20",
+        "end": "2008-08-10",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Hayes",
+          "name": "Hayes",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hayes",
+          "name": "Hayes",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hayes, Isaac Lee, Jr.",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Isaac Lee Hayes Jr.",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Issac Hayes",
+          "name": "Issac Hayes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isac Heyes",
+          "name": "Isac Heyes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Lee Hayes",
+          "name": "Isaac Lee Hayes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Hayes aka Chef",
+          "name": "Isaac Hayes aka Chef",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Hays",
+          "name": "Isaac Hays",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isac Hayes",
+          "name": "Isac Hayes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac Hayes as 'Chef'",
+          "name": "Isaac Hayes as 'Chef'",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaak Hayes",
+          "name": "Isaak Hayes",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 5,
+          "name": "funk"
+        },
+        {
+          "count": 5,
+          "name": "soul"
+        },
+        {
+          "count": 3,
+          "name": "disco"
+        },
+        {
+          "count": 0,
+          "name": "rnb"
+        },
+        {
+          "count": 2,
+          "name": "film score"
+        },
+        {
+          "count": 1,
+          "name": "scientology"
+        },
+        {
+          "count": 3,
+          "name": "film soundtrack"
+        },
+        {
+          "count": 0,
+          "name": "rock and indie"
+        },
+        {
+          "count": 3,
+          "name": "smooth soul"
+        },
+        {
+          "count": -1,
+          "name": "death by stroke"
+        }
+      ]
+    },
+    {
+      "id": "921108ff-319f-443e-83eb-3a21a767f7ef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Isaac Asimov",
+      "sort-name": "Asimov, Isaac",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "97b4c99d-e5ae-49d1-b2ec-e08ea658f6df",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Petrovichi",
+        "sort-name": "Petrovichi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "a71b0d32-7752-49e9-8594-2247ad6ac12c",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Brooklyn",
+        "sort-name": "Brooklyn",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000122590564"
+      ],
+      "life-span": {
+        "begin": "1920-02-01",
+        "end": "1992-04-06",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "has german audio plays"
+        }
+      ]
+    },
+    {
+      "id": "0a92c550-20c7-43bc-98ed-777e13c54dff",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Jennifer Rush",
+      "sort-name": "Rush, Jennifer",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "431a085b-9f4c-4fbb-82de-2ca7ce735da8",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Queens",
+        "sort-name": "Queens",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00131821113",
+        "00141207126"
+      ],
+      "isnis": [
+        "0000000078401163"
+      ],
+      "life-span": {
+        "begin": "1960-09-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Stern, Heidi",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Heidi Stern",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "rock"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "classic pop and rock"
+        }
+      ]
+    },
+    {
+      "id": "a238640c-1803-492d-b30a-50edfd3cafea",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 45,
+      "name": "Stern-Combo Meißen",
+      "sort-name": "Stern-Combo Meißen",
+      "country": "XG",
+      "area": {
+        "id": "d907b0ac-2956-386f-a246-62d55779aae1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "East Germany",
+        "sort-name": "East Germany",
+        "life-span": {
+          "begin": "1949",
+          "end": "1990",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "0a6568a1-07c0-4ec4-b3c5-1dc7e14ab42f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Meissen",
+        "sort-name": "Meissen",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1964",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Stern Meißen",
+          "name": "Stern Meißen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stern Combo Meißen",
+          "name": "Stern Combo Meißen",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "progressive rock"
+        },
+        {
+          "count": 1,
+          "name": "art rock"
+        },
+        {
+          "count": 1,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "ostrock"
+        }
+      ]
+    },
+    {
+      "id": "38e82a3d-4e11-4e0b-92d5-6b3a3f93f276",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Mike Stern",
+      "sort-name": "Stern, Mike",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e331bfdf-b908-429c-a79b-710cf9c06abb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Boston",
+        "sort-name": "Boston",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00127691559",
+        "00335256373"
+      ],
+      "isnis": [
+        "0000000121351377"
+      ],
+      "life-span": {
+        "begin": "1953-01-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Stern, Michael",
+          "name": "Michael Stern",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stern, Michael",
+          "name": "Michael Stern",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "jazz"
+        },
+        {
+          "count": 2,
+          "name": "jazz fusion"
+        },
+        {
+          "count": 2,
+          "name": "post-bop"
+        },
+        {
+          "count": 1,
+          "name": "contemporary jazz"
+        }
+      ]
+    },
+    {
+      "id": "c46d3fa5-83a7-4a07-b2c4-428946bf84d9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "DJ Isaac",
+      "sort-name": "Isaac, DJ",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "hardcore/hardstyle DJ & producer",
+      "life-span": {
+        "begin": "1974-06-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "DJ Issac",
+          "name": "DJ Issac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Isaac",
+          "name": "Isaac",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "gabber"
+        },
+        {
+          "count": 1,
+          "name": "happy hardcore"
+        },
+        {
+          "count": 1,
+          "name": "hardcore techno"
+        },
+        {
+          "count": 1,
+          "name": "hardstyle"
+        },
+        {
+          "count": 1,
+          "name": "on the edge"
+        }
+      ]
+    },
+    {
+      "id": "196158e6-7ff2-4633-ac27-87c789f2859e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Anne Stern",
+      "sort-name": "Stern, Anne",
+      "gender": "female",
+      "isnis": [
+        "0000000503973710"
+      ],
+      "life-span": {
+        "begin": "1982",
+        "ended": null
+      }
+    }
+  ]
+}

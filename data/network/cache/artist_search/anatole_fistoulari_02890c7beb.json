@@ -1,0 +1,330 @@
+{
+  "created": "2026-05-22T17:01:55.235Z",
+  "count": 49,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8967f5da-ab20-4eb8-a00d-1855f9110f58",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Anatole Fistoulari",
+      "sort-name": "Fistoulari, Anatole",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000108710224"
+      ],
+      "life-span": {
+        "begin": "1907-08-20",
+        "end": "1995-08-21",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        }
+      ]
+    },
+    {
+      "id": "ea5f7ade-6b53-45c2-a896-977a045f299b",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 37,
+      "name": "Anatole",
+      "sort-name": "Anatole",
+      "disambiguation": "Quebec rock band",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "245db22d-b48c-4e40-bac8-d9db7d8a3db4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Anatole",
+      "sort-name": "Anatole",
+      "gender": "male",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Australian artist",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Baker, Jonathan",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jonathan Baker",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a4aa6f04-1c97-4b1b-baf8-b3e4586a2007",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Anatole",
+      "sort-name": "Anatole",
+      "gender": "male",
+      "country": "JP",
+      "area": {
+        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Japan",
+        "sort-name": "Japan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "photographer",
+      "life-span": {
+        "begin": "1974-09-17",
+        "ended": null
+      }
+    },
+    {
+      "id": "a7e3c393-1399-48af-b0d0-8d66f1986526",
+      "score": 36,
+      "name": "Inge Borkh, Ljuba Welitsch, London Symphony Orchestra, Anatole Fistoulari, Wiener Philharmoniker, Rudolf Moralt, Josef Krips & Orchester der Wiener Staatsoper",
+      "sort-name": "Inge Borkh, Ljuba Welitsch, London Symphony Orchestra, Anatole Fistoulari, Wiener Philharmoniker, Rudolf Moralt, Josef Krips & Orchester der Wiener Staatsoper",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1951-01-01",
+        "ended": true
+      }
+    },
+    {
+      "id": "dbccc613-2748-4bfa-ae4d-6cd6d77e62cb",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Anatole Muster",
+      "sort-name": "Muster, Anatole",
+      "gender": "male",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swiss producer and accordionist",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "instrumental"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi"
+        },
+        {
+          "count": 1,
+          "name": "instrumental hip hop"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi hip hop"
+        },
+        {
+          "count": 1,
+          "name": "boom bap"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "chillwave"
+        },
+        {
+          "count": 1,
+          "name": "downtempo"
+        }
+      ]
+    },
+    {
+      "id": "0da56b08-e6bd-4ca7-a24e-4798ef6bd69d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Anatole Khruistov",
+      "sort-name": "Khruistov, Anatole",
+      "gender": "male",
+      "disambiguation": "cellist",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Krustev, Anatoli",
+          "name": "Anatoli Krustev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Krastev, Anatole",
+          "name": "Anatole Krastev",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f7bcb066-d452-4902-a655-1074820c12c1",
+      "score": 32,
+      "name": "Anatole Credure",
+      "sort-name": "Anatole Credure",
+      "disambiguation": "Cajun vocalist and accordionist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "559759a0-8a82-44b1-924a-87c0f8ae947c",
+      "score": 32,
+      "name": "Kaseba Anatole",
+      "sort-name": "Anatole, Kaseba",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "39d0289a-656c-427e-b862-62ed7ba43973",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 32,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Anatole Houndeffo",
+      "sort-name": "Houndeffo, Anatole",
+      "gender": "male",
+      "country": "GH",
+      "area": {
+        "id": "cf48f4b4-28f0-39ab-9104-650324a1d1c8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ghana",
+        "sort-name": "Ghana",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "aka Allokpon",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

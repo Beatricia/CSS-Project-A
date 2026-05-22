@@ -1,0 +1,649 @@
+{
+  "created": "2026-05-22T17:02:17.656Z",
+  "count": 1564,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "c278de2c-9696-4fdf-a919-0781cd945e2c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Игорь Фёдорович Стравинский",
+      "sort-name": "Stravinsky, Igor Fyodorovitch",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New York",
+        "sort-name": "New York",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer",
+      "ipis": [
+        "00029755848"
+      ],
+      "isnis": [
+        "0000000121224298"
+      ],
+      "life-span": {
+        "begin": "1882-06-17",
+        "end": "1971-04-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Stravinskij, Igor Fjodorovitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Igor Fjodorovitj Stravinskij",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinskij, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Stravinskij",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strawinski, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Strawinski",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Strawinski, Igor Fjodorowitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Igor Fjodorowitsch Strawinski",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Стравинский, Игорь Фёдорович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Игорь Фёдорович Стравинский",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Стравинский, Игорь",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Игорь Стравинский",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinksy",
+          "name": "Stravinksy",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Igor Strawinsky",
+          "name": "Igor Strawinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Igor Strawinski",
+          "name": "Igor Strawinski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Стравинский, Игорь",
+          "name": "Стравинский, Игорь",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinksi",
+          "name": "Stravinksi",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Igor Feodorovic Stravinsky",
+          "name": "Igor Feodorovic Stravinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinsky, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Stravinsky",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinski, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Stravinski",
+          "locale": "et",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinsky, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Stravinsky",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "イーゴリ・ストラヴィンスキー",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "イーゴリ・ストラヴィンスキー",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "stravinski",
+          "name": "stravinski",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinsky",
+          "name": "Stravinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinsky, Igor Fyodorovitch",
+          "name": "Stravinsky, Igor Fyodorovitch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Igor Fyodorovitch Stravinsky",
+          "name": "Igor Fyodorovitch Stravinsky",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Stravinskij, Igor",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Igor Stravinskij",
+          "locale": "da",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "classical"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "orchestral"
+        },
+        {
+          "count": 1,
+          "name": "russian"
+        },
+        {
+          "count": 3,
+          "name": "opera"
+        },
+        {
+          "count": 1,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 4,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "orchestral music"
+        },
+        {
+          "count": 2,
+          "name": "modern classical"
+        },
+        {
+          "count": 2,
+          "name": "neoclassicism"
+        },
+        {
+          "count": 1,
+          "name": "ballet"
+        },
+        {
+          "count": 1,
+          "name": "serialism"
+        },
+        {
+          "count": 0,
+          "name": "russian composer"
+        },
+        {
+          "count": 1,
+          "name": "modernism"
+        }
+      ]
+    },
+    {
+      "id": "89084697-50d3-450e-8805-9163532dcaf1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 56,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Igor Dvorkin",
+      "sort-name": "Dvorkin, Igor",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Ivor Dvorkin",
+          "name": "Ivor Dvorkin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "media composer"
+        }
+      ]
+    },
+    {
+      "id": "6aad16bd-826d-49bf-8b65-a7c69b7dee17",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Povilas Stravinsky",
+      "sort-name": "Stravinsky, Povilas",
+      "gender": "male",
+      "country": "LT",
+      "area": {
+        "id": "0785dc14-96af-3dc4-bde4-dcdfc2e2d0d6",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Lithuania",
+        "sort-name": "Lithuania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "21017f9c-7c21-455c-9abc-e4f193f266d2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Soulima Stravinsky",
+      "sort-name": "Stravinsky, Soulima",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "33f49521-f754-43cf-8d7a-d9e336fe56e6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lausanne",
+        "sort-name": "Lausanne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "8e438f38-b9af-4a6d-aa29-8b57770afbd2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sarasota",
+        "sort-name": "Sarasota",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081824853"
+      ],
+      "life-span": {
+        "begin": "1910-09-23",
+        "end": "1994-11-28",
+        "ended": true
+      }
+    },
+    {
+      "id": "853dadd9-aa58-4c91-b1ed-166788d6e123",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Marius Stravinsky",
+      "sort-name": "Stravinsky, Marius",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8ca93644-c3a4-41f4-aba4-39bd13736393",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Almaty",
+        "sort-name": "Almaty",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "violinist/conductor",
+      "life-span": {
+        "begin": "1979-03-13",
+        "ended": null
+      }
+    },
+    {
+      "id": "783a41a3-ddb0-4d5c-ba76-38fb932302b9",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 52,
+      "name": "Stravinsky’s Shoe",
+      "sort-name": "Stravinsky’s Shoe",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1984cae9-7e07-409a-b813-ae5c44676950",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 52,
+      "name": "Stravinsky Wellington",
+      "sort-name": "Wellington, Stravinsky",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "92131d53-a4a7-4513-a879-c067643f0747",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Igor Markevitch",
+      "sort-name": "Markevitch, Igor",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "d8c8f702-8e5f-4744-8b2c-c4e662ec4ec4",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Antibes",
+        "sort-name": "Antibes",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000110379569"
+      ],
+      "life-span": {
+        "begin": "1912-07-27",
+        "end": "1983-03-07",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Markevich, Igor",
+          "name": "Igor Markevich",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Igor Markevitch",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "イーゴル・マルケヴィチ",
+          "locale": "ja_JP",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ігор Маркевич",
+          "name": "Ігор Маркевич",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "23b4a86b-7be7-439e-99b2-836f289d3a92",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "I:gor",
+      "sort-name": "I:gor",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Igor",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Igor",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "a6b1dd64-20f7-4799-b542-74debc22136d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "name": "IGOR",
+      "sort-name": "IGOR",
+      "country": "AU",
+      "area": {
+        "id": "106e0bec-b638-3b37-b731-f53d507dc00e",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Australia",
+        "sort-name": "Australia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Australian saxophonist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

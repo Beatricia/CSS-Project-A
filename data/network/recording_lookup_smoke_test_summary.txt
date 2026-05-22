@@ -1,0 +1,40 @@
+MusicBrainz recording lookup smoke test summary
+
+Usable artist seed file: C:\Users\lozag\DTU\CSS\CSS-Project-A\data\network\usable_artist_matches.csv
+Song source: C:\Users\lozag\DTU\CSS\CSS-Project-A\data\lyrics_data\lyrics_with_sentiment_translated.csv
+Cache dir: C:\Users\lozag\DTU\CSS\CSS-Project-A\data\network\cache\recording_search
+Output file: C:\Users\lozag\DTU\CSS\CSS-Project-A\data\network\recording_lookup_smoke_test.csv
+
+Sampled artists: 10
+Artist-song queries: 30
+Successful recording matches: 8
+Matches with 2+ credited artists: 2
+Matches with usable date/year: 8
+
+Sample collaborators:
+- Saint Levant / I Guess -> Saint Levant | Playyard
+- Bashar Murad / Stone -> Bashar Murad | Sabreen
+
+Sample no-match or ambiguous rows:
+- Alyona Alyona / Відчиняй (Open Up) -> no_match
+- Alyona Alyona / Голови (Heads) -> no_match
+- Alyona Alyona / Залишаю свiй дiм (Leaving my home) -> no_match
+- George Wassouf / El Hawa Sultan - الهوى سلطان -> no_match
+- George Wassouf / Helaf El Amar - حلف القمر -> no_match
+- George Wassouf / Sayad Al Touyour - صياد الطيور -> no_match
+- Jerry Heil / #ОХРАНА_ОТМЄНА (#SECURITY_CANCELLATION) -> no_match
+- Jerry Heil / #НЕБЕЙБІ (#NOTBABY) -> no_match
+- Jerry Heil / ТУК ТУК ТУК (KNOCK KNOCK KNOCK) -> no_match
+- Noize MC / Выдыхай (Exhale) -> no_match
+- Noize MC / Моё море (My Sea) -> no_match
+- Noize MC / Из окна (From the window) -> no_match
+- Oxxxymiron / Тентакли (Tentacles) -> no_match
+- Oxxxymiron / Восточный Мордор (East Mordor) -> no_match
+- Oxxxymiron / Неваляшка (Tumbler Toy) -> no_match
+- Subliminal / Banu Hoshech Legaresh - באנו חושך לגרש -> no_match
+- Subliminal / Beit Hasefer Hayashan - בית הספר הישן -> no_match
+- Subliminal / Ha’adrichalim - האדריכלים -> no_match
+- Lena Chamamyan / Bali Ma’ak - بالي معاك -> no_match
+- Lena Chamamyan / Hal Asmar El-Lon - هالأسمر اللون -> no_match
+- Lena Chamamyan / Lama Bada Yatathana - لما بدا يتثنى -> no_match
+- Bashar Murad / Maskhara (مسخرة) -> no_match

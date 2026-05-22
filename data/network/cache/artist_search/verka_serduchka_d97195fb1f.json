@@ -1,0 +1,445 @@
+{
+  "created": "2026-05-22T17:41:18.515Z",
+  "count": 46,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "10f87b54-0e95-4268-9857-e2660367c305",
+      "type": "Character",
+      "type-id": "5c1375b0-f18d-3db7-a164-a49d7a63773f",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Верка Сердючка",
+      "sort-name": "Serduchka, Verka",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000114908544"
+      ],
+      "life-span": {
+        "begin": "1993-04-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Данилко, Андрей Михайлович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Андрей Михайлович Данилко",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вєрка Сердючка",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Вєрка Сердючка",
+          "locale": "uk",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serduchka, Verka",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Verka Serduchka",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serďučka, Verka",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Verka Serďučka",
+          "locale": "cs",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Danylko, Andrij Mychajlovyč",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Andrij Mychajlovyč Danylko",
+          "locale": "cs",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Verka Serdyuchka",
+          "name": "Verka Serdyuchka",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Verka Seducha",
+          "name": "Verka Seducha",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Данилко, Андрій Михайлович",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Андрій Михайлович Данилко",
+          "locale": "uk",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Danylko, Andriy Mykhailovych",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Andriy Mykhailovych Danylko",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Serďučka, Věrka",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Věrka Serďučka",
+          "locale": "cs",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Seduchka, Verka",
+          "name": "Verka Seduchka",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "dance-pop"
+        },
+        {
+          "count": 1,
+          "name": "ukrainian"
+        },
+        {
+          "count": 1,
+          "name": "ukraine"
+        },
+        {
+          "count": 1,
+          "name": "ukrainan pop"
+        }
+      ]
+    },
+    {
+      "id": "ea9cc304-fff6-4c9c-9e61-63400eaf5776",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 43,
+      "name": "Верка",
+      "sort-name": "Верка",
+      "area": {
+        "id": "ca81a111-ddae-47a6-a3bb-491b74f9ef23",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Delčevo",
+        "sort-name": "Delčevo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ca81a111-ddae-47a6-a3bb-491b74f9ef23",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Delčevo",
+        "sort-name": "Delčevo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1999",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Verka",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Verka",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Werk.A",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Werk.A",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "81edce4b-0ee2-42af-943c-2294ba1c4d34",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Verka Tsoneva Dimitrova",
+      "sort-name": "Dimitrova, Verka Tsoneva",
+      "gender": "female",
+      "country": "BG",
+      "area": {
+        "id": "114c14ad-9776-34e9-81b0-6299507f3771",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Bulgaria",
+        "sort-name": "Bulgaria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "5d9fbf7d-cd82-4cfd-a12f-671d9969d49a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Karl Verkade",
+      "sort-name": "Verkade, Karl",
+      "gender": "male",
+      "area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "28c5d828-1b4e-4a22-9d0d-7a84c4498d63",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 29,
+      "name": "Unverkalt",
+      "sort-name": "Unverkalt",
+      "area": {
+        "id": "c9ac1239-e832-41bc-9930-e252a1fd1105",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Berlin",
+        "sort-name": "Berlin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "metal"
+        },
+        {
+          "count": 1,
+          "name": "doom metal"
+        },
+        {
+          "count": 1,
+          "name": "post-metal"
+        },
+        {
+          "count": 1,
+          "name": "blackgaze"
+        }
+      ]
+    },
+    {
+      "id": "094e3d1e-1cd0-41eb-b996-1f76ed8352a9",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 28,
+      "name": "OverKast",
+      "sort-name": "OverKast",
+      "area": {
+        "id": "10adc6b5-63bf-4b4e-993e-ed83b05c22fc",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Seattle",
+        "sort-name": "Seattle",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2006",
+        "ended": null
+      }
+    },
+    {
+      "id": "24cd1988-60cf-4c4f-8d68-c0bc0cb27577",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 28,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Willemijn Verkaik",
+      "sort-name": "Verkaik, Willemijn",
+      "gender": "female",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6259fbf2-6f5e-4619-901c-89356ddea488",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Son en Breugel",
+        "sort-name": "Son en Breugel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000132311784"
+      ],
+      "life-span": {
+        "begin": "1975-06-16",
+        "ended": null
+      }
+    },
+    {
+      "id": "e56c66cc-3960-47c2-a9e6-5da949b6d718",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 28,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Sjaak Verkade",
+      "sort-name": "Verkade, Sjaak",
+      "gender": "male",
+      "country": "NL",
+      "area": {
+        "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Netherlands",
+        "sort-name": "Netherlands",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "574341b5-076c-48e4-88fa-44ce91446318",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 28,
+      "name": "Lúðrasveit verkalýðsins",
+      "sort-name": "Lúðrasveit verkalýðsins",
+      "country": "IS",
+      "area": {
+        "id": "48802a32-075a-3805-a183-277c66047693",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Iceland",
+        "sort-name": "Iceland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "48802a32-075a-3805-a183-277c66047693",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Iceland",
+        "sort-name": "Iceland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1953-03-18",
+        "ended": null
+      }
+    },
+    {
+      "id": "50bc7fdd-e5b0-44f3-981a-6a2399cf401c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 28,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vilém Veverka",
+      "sort-name": "Veverka, Vilém",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "disambiguation": "oboist",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

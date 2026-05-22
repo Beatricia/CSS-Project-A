@@ -1,0 +1,1021 @@
+{
+  "created": "2026-05-22T17:37:13.013Z",
+  "count": 4823,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "e1e12165-2f0b-4e2b-b2af-3a7014856a48",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Louis Bertignac",
+      "sort-name": "Bertignac, Louis",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d9b8719f-d0d2-4e61-bfb1-e3660ad11af9",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Oran",
+        "sort-name": "Oran",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00088008858"
+      ],
+      "isnis": [
+        "0000000055158121"
+      ],
+      "life-span": {
+        "begin": "1954-02-23",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "e9fc245d-6d68-4b53-9f14-65ce18f30aaa",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 67,
+      "name": "Louis Bertignac et les Visiteurs",
+      "sort-name": "Bertignac, Louis et Visiteurs, les",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 48,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Louis Armstrong",
+      "sort-name": "Armstrong, Louis",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New Orleans",
+        "sort-name": "New Orleans",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "fb3ad447-5b4a-4b47-b7a8-fbd73e9689e5",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Corona",
+        "sort-name": "Corona",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00001334546"
+      ],
+      "isnis": [
+        "0000000110198071"
+      ],
+      "life-span": {
+        "begin": "1901-08-04",
+        "end": "1971-07-06",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Armstrong",
+          "name": "Armstrong",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong, Louis and His Friends",
+          "name": "Louis Armstrong and His Friends",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong, Louis Daniel",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Louis Daniel Armstrong",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Loius Armstrong",
+          "name": "Loius Armstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Armstrong with The Commanders",
+          "name": "Louis Armstrong with The Commanders",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louise Armstrong",
+          "name": "Louise Armstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Loouis Aemstrong",
+          "name": "Loouis Aemstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Arnstrong",
+          "name": "Louis Arnstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Armostrong",
+          "name": "Louis Armostrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Luis Armstrong",
+          "name": "Luis Armstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Amstrong",
+          "name": "Louis Amstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong Louis",
+          "name": "Armstrong Louis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louie Armstrong",
+          "name": "Louie Armstrong",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong, Louis",
+          "name": "Armstrong, Louis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong, Louis (Satchmo)",
+          "name": "Armstrong, Louis (Satchmo)",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Armstrong: Satchmo",
+          "name": "Louis Armstrong: Satchmo",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Armstrong, Louis & The Commanders",
+          "name": "Louis Armstrong & The Commanders",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ルイ・アームストロング",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ルイ・アームストロング",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 11,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "american"
+        },
+        {
+          "count": 1,
+          "name": "easy listening"
+        },
+        {
+          "count": 4,
+          "name": "swing"
+        },
+        {
+          "count": 2,
+          "name": "gospel"
+        },
+        {
+          "count": 3,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 5,
+          "name": "dixieland"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 2,
+          "name": "traditional pop"
+        },
+        {
+          "count": 0,
+          "name": "sm"
+        },
+        {
+          "count": -1,
+          "name": "death by heart attack"
+        },
+        {
+          "count": 0,
+          "name": "aa0003000"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "d63e0a2c-ceb7-4e0e-99bd-028653e9391e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "name": "Sébastien Bertignac",
+      "sort-name": "Bertignac, Sébastien",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Louis Prima",
+      "sort-name": "Prima, Louis",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New Orleans",
+        "sort-name": "New Orleans",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New Orleans",
+        "sort-name": "New Orleans",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00024927482"
+      ],
+      "isnis": [
+        "0000000080969313"
+      ],
+      "life-span": {
+        "begin": "1910-12-07",
+        "end": "1978-08-24",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Luis Prima",
+          "name": "Luis Prima",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Proma, Louis",
+          "name": "Louis Proma",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prima, Louis",
+          "name": "Prima, Louis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Prima",
+          "name": "Prima",
+          "locale": "en",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Leo Prima",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Louis Leo Prima",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "jazz"
+        },
+        {
+          "count": 3,
+          "name": "swing"
+        },
+        {
+          "count": 3,
+          "name": "big band"
+        },
+        {
+          "count": 3,
+          "name": "vocal jazz"
+        },
+        {
+          "count": 1,
+          "name": "jump blues"
+        },
+        {
+          "count": 1,
+          "name": "standards"
+        },
+        {
+          "count": 2,
+          "name": "traditional pop"
+        },
+        {
+          "count": 0,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "b8b30699-7814-4fd1-ab75-6f22f5da0fac",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Louis Jordan",
+      "sort-name": "Jordan, Louis",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0fb31fea-5775-4019-803c-369b70068e06",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Brinkley",
+        "sort-name": "Brinkley",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Los Angeles",
+        "sort-name": "Los Angeles",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "US jazz, blues and r&b musician and songwriter",
+      "ipis": [
+        "00077343267",
+        "00141750889",
+        "00144313700"
+      ],
+      "isnis": [
+        "0000000119317946"
+      ],
+      "life-span": {
+        "begin": "1908-07-08",
+        "end": "1975-02-04",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Jordan, Louis Thomas",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Louis Thomas Jordan",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis and the Boys",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Louis and the Boys",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jordan, Louis",
+          "name": "Jordan, Louis",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Louis Jordon",
+          "name": "Louis Jordon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "jazz"
+        },
+        {
+          "count": 0,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "swing"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "count": 1,
+          "name": "new orleans r&b"
+        },
+        {
+          "count": 1,
+          "name": "rhythm & blues"
+        },
+        {
+          "count": 2,
+          "name": "jump-blues"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "e05bafd6-db48-4eeb-99b2-8cc5d680fb5b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Jean‐Louis Murat",
+      "sort-name": "Murat, Jean‐Louis",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "be5afac4-ef59-4c9f-af43-d2d21452d732",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chamalières",
+        "sort-name": "Chamalières",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f7f4c8a0-b5fd-4e53-9a83-33eb7170ef8d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Orcival",
+        "sort-name": "Orcival",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00131202148",
+        "00131202050"
+      ],
+      "isnis": [
+        "0000000000687069",
+        "0000000045404851"
+      ],
+      "life-span": {
+        "begin": "1952-01-28",
+        "end": "2023-05-25",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "BERGHEAUD, JLM",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "JLM BERGHEAUD",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Bergheaud, Jean-Louis",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Jean-Louis Bergheaud",
+          "locale": "fr",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "JL Murat",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "JL Murat",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jean Louis Murat",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jean Louis Murat",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jean Louis Marat",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jean Louis Marat",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Murat",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Murat",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Murat, Jean-Louis",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Jean-Louis Murat",
+          "locale": "fr",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "JLM Bergheaud",
+          "name": "JLM Bergheaud",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jean-Louus Murat",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jean-Louus Murat",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "pop rock"
+        },
+        {
+          "count": 0,
+          "name": "todo-works"
+        },
+        {
+          "count": 1,
+          "name": "jour d'hiver"
+        }
+      ]
+    },
+    {
+      "id": "2efbc4db-a5fc-41e2-a46d-398654c3e55e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Louis Couperin",
+      "sort-name": "Couperin, Louis",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "80826b73-19b4-439a-8e0f-ed4d152c02ed",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chaumes-en-Brie",
+        "sort-name": "Chaumes-en-Brie",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "composer",
+      "isnis": [
+        "0000000081849575"
+      ],
+      "life-span": {
+        "begin": "1626",
+        "end": "1661-08-29",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "L. Couperin",
+          "name": "L. Couperin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "french composer"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "24ca9b35-f389-4472-bb62-37743dbd5d1c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Luiz Caldas",
+      "sort-name": "Caldas, Luiz",
+      "gender": "male",
+      "country": "BR",
+      "area": {
+        "id": "f45b47f8-5796-386e-b172-6c31b009a5d8",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Brazil",
+        "sort-name": "Brazil",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bc6478e8-3c5a-4c23-b633-740a201ee27e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Feira de Santana",
+        "sort-name": "Feira de Santana",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1963-01-19",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Louis Caldas",
+          "name": "Louis Caldas",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "193eab57-df36-43ce-8bad-e47e047ff7dd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 37,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Louis Chédid",
+      "sort-name": "Chédid, Louis",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bae14db3-9332-4c08-9201-f88e8432395e",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Al Ismā‘īlīyah",
+        "sort-name": "Al Ismā‘īlīyah",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00061169490"
+      ],
+      "isnis": [
+        "0000000114935278"
+      ],
+      "life-span": {
+        "begin": "1948-01-01",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Louis Chedid",
+          "name": "Louis Chedid",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Chédid, Louis Gabriel",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Louis Gabriel Chédid",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "ingénieur du son"
+        },
+        {
+          "count": 1,
+          "name": "sound engineer"
+        },
+        {
+          "count": 1,
+          "name": "parolier"
+        },
+        {
+          "count": 1,
+          "name": "lyricist"
+        },
+        {
+          "count": 1,
+          "name": "compositeur"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "created": "2026-05-22T16:58:49.297Z",
+  "count": 90,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "cb4557c0-8583-4171-b78e-6df480bbdc62",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tadeusz Szeligowski",
+      "sort-name": "Szeligowski, Tadeusz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "3501ffa5-f3dd-4a11-97d8-cd47a1b6bfb8",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lviv",
+        "sort-name": "Lviv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "92e7329e-374e-4b71-a175-f61fffc30213",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Poznań",
+        "sort-name": "Poznań",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000109136885"
+      ],
+      "life-span": {
+        "begin": "1896-09-13",
+        "end": "1963-01-10",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "polish composer"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "teacher"
+        }
+      ]
+    },
+    {
+      "id": "1f8ef6a0-6d01-4ea2-92d4-693bc565fb61",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Caster",
+      "sort-name": "Caster",
+      "gender": "male",
+      "area": {
+        "id": "fc1aee9a-f1a8-45dc-8820-af6b5d7f7450",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Denver",
+        "sort-name": "Denver",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish electronic music producer and DJ",
+      "ipis": [
+        "01075537154"
+      ],
+      "life-span": {
+        "begin": "1999-10-26",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Szeligowski, Pawel",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Pawel Szeligowski",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Szeligowski, Paul",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Paul Szeligowski",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "e84bb80a-bfc2-4e38-9ae7-adffe7bcbd01",
+      "score": 39,
+      "name": "Igor Szeligowski",
+      "sort-name": "Szeligowski, Igor",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "1c437797-0bd2-414e-ab7c-6f25d17ab233",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tadeusz",
+      "sort-name": "Tadeusz",
+      "gender": "male",
+      "disambiguation": "UK producer/vocalist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "79ee6af9-1bf1-447c-a9ce-27dbd8328434",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tadeusz Nalepa",
+      "sort-name": "Nalepa, Tadeusz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000116683123"
+      ],
+      "life-span": {
+        "begin": "1943-08-26",
+        "end": "2007-03-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Nalepa",
+          "name": "Nalepa",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "blues rock"
+        },
+        {
+          "count": 2,
+          "name": "rock"
+        }
+      ]
+    },
+    {
+      "id": "0ff29afe-493c-4f40-b45a-82dab9be29a2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tadeusz Woźniak",
+      "sort-name": "Woźniak, Tadeusz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00066823067"
+      ],
+      "isnis": [
+        "000000011246277X"
+      ],
+      "life-span": {
+        "begin": "1947-03-06",
+        "end": "2024-07-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Вожьняк, Т.",
+          "name": "Т. Вожьняк",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Вожьняк, Тадеуш",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Тадеуш Вожьняк",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "contemporary folk"
+        },
+        {
+          "count": 1,
+          "name": "singer-songwriter"
+        }
+      ]
+    },
+    {
+      "id": "4597217e-6182-4490-beae-50c2fe7ac11c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 36,
+      "name": "Tadeusz Bajewski",
+      "sort-name": "Bajewski, Tadeusz",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "fdcf91ff-f84f-4319-8c54-1c3112e2075d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tadeusz Strugała",
+      "sort-name": "Strugała, Tadeusz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c0ed7976-d04c-475a-b2eb-759e6759ea4f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Katowice",
+        "sort-name": "Katowice",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1935-02-10",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tadeusz Strugala",
+          "name": "Tadeusz Strugala",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "591d2c62-04e4-4c93-b1a3-6852bd61b88f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 35,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Małolat",
+      "sort-name": "Małolat",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1984-02-07",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kapliński, Michał Tadeusz",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Michał Tadeusz Kapliński",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "polish hip-hop"
+        }
+      ]
+    },
+    {
+      "id": "e23191d0-5995-44e6-804f-d8f953581e8a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 34,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tadeusz Karolak",
+      "sort-name": "Karolak, Tadeusz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "conductor",
+      "isnis": [
+        "0000000050625253"
+      ],
+      "life-span": {
+        "begin": "1954",
+        "end": "2022-12-02",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "conductor"
+        }
+      ]
+    }
+  ]
+}

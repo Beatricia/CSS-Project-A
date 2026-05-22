@@ -1,0 +1,782 @@
+{
+  "created": "2026-05-22T17:03:31.307Z",
+  "count": 1809,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "2382cbc9-dd4e-4fc8-a92e-5391f70bd3b2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Альфред Гарриевич Шнитке",
+      "sort-name": "Schnittke, Alfred Garyevich",
+      "gender": "male",
+      "country": "SU",
+      "area": {
+        "id": "32f90933-b4b4-3248-b98c-e573d5329f57",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Soviet Union",
+        "sort-name": "Soviet Union",
+        "life-span": {
+          "begin": "1922",
+          "end": "1991",
+          "ended": true
+        }
+      },
+      "begin-area": {
+        "id": "2b96b108-c32b-46fc-b825-755d1557e859",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Engels",
+        "sort-name": "Engels",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "11a44e18-a2e5-43a9-bee9-aa4f7c83f967",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hamburg",
+        "sort-name": "Hamburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian composer and pianist",
+      "isnis": [
+        "0000000108867993"
+      ],
+      "life-span": {
+        "begin": "1934-11-24",
+        "end": "1998-08-03",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Schnittke, Alfred",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alfred Schnittke",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schnitke, Alfred Garrijewitsch",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alfred Garrijewitsch Schnitke",
+          "locale": "de",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schnittke, Alfred Garrievich",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alfred Garrievich Schnittke",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schnittke, Alfred Garrijevitj",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Alfred Garrijevitj Schnittke",
+          "locale": "sv",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schnittke, Alfred",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alfred Schnittke",
+          "locale": "sv",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шнитке, Альфред Гарриевич",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Альфред Гарриевич Шнитке",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schnittke, Alfred Garrievich",
+          "name": "Альфре́д Га́рриевич Шни́тке",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A. Schnittke",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "A. Schnittke",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schnittke",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Schnittke",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шнитке, Альфред",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Альфред Шнитке",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Альфред Гаррьевич Шнитке",
+          "name": "Альфред Гаррьевич Шнитке",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alfred Shnitke",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alfred Shnitke",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schnittke, Alfred",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Alfred Schnittke",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "russian composer"
+        }
+      ]
+    },
+    {
+      "id": "ca767d5e-d2d8-4586-9958-5da9f76b74b4",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Glenn Schnittke",
+      "sort-name": "Schnittke, Glenn",
+      "gender": "male",
+      "begin-area": {
+        "id": "8fa3b261-67ac-4252-aff3-be9c01accb2d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Dover",
+        "sort-name": "Dover",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "7d91cb03-a830-4e47-abe1-f1bba622cad2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mesa",
+        "sort-name": "Mesa",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "tenor",
+      "life-span": {
+        "end": "1986-09-01",
+        "ended": true
+      }
+    },
+    {
+      "id": "68d74a90-502b-4c8f-84b8-a47cba070373",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Andrej Schnittke",
+      "sort-name": "Schnittke, Andrej",
+      "gender": "male",
+      "life-span": {
+        "end": "2020-05-23",
+        "ended": true
+      }
+    },
+    {
+      "id": "dbe22c4f-6a21-4b7c-ad09-e4048d1065bc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 49,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alfred Newman",
+      "sort-name": "Newman, Alfred",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "29754947-4414-4aa1-aeb1-b8bafb8b0e18",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "New Haven",
+        "sort-name": "New Haven",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "96bbe327-f9cd-42e0-a689-eb9febe1693f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Hollywood",
+        "sort-name": "Hollywood",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00022278503"
+      ],
+      "isnis": [
+        "0000000121396700"
+      ],
+      "life-span": {
+        "begin": "1901-03-17",
+        "end": "1970-02-17",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "score"
+        },
+        {
+          "count": 2,
+          "name": "film composer"
+        }
+      ]
+    },
+    {
+      "id": "4a37c64f-4151-4c4b-ab69-a58450f9967e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alfred Brendel",
+      "sort-name": "Brendel, Alfred",
+      "gender": "male",
+      "country": "AT",
+      "area": {
+        "id": "caac77d1-a5c8-3e6e-8e27-90b44dcc1446",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Austria",
+        "sort-name": "Austria",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "ab7c3714-666c-4a6c-8273-de58f769b256",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Šumperk",
+        "sort-name": "Šumperk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "b0b860b3-35d3-414b-b734-7e5b1c41ea70",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Hampstead",
+        "sort-name": "Hampstead",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Austrian pianist",
+      "ipis": [
+        "00004144436"
+      ],
+      "isnis": [
+        "0000000108823448"
+      ],
+      "life-span": {
+        "begin": "1931-01-05",
+        "end": "2025-06-17",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "アルフレート・ブレンデル",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "アルフレート・ブレンデル",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "austrian pianist"
+        }
+      ]
+    },
+    {
+      "id": "113a1384-1d7d-4e70-86e6-a5fc0da0c1b0",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alfred Deller",
+      "sort-name": "Deller, Alfred",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "fbb9920c-73ea-49e6-9e55-6cba40502aa5",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Margate",
+        "sort-name": "Margate",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "f3045d73-6a82-43cd-934d-42e75a5f73f6",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Bologna",
+        "sort-name": "Bologna",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "countertenor",
+      "isnis": [
+        "0000000115863296"
+      ],
+      "life-span": {
+        "begin": "1912-05-31",
+        "end": "1979-07-16",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 2,
+          "name": "british countertenor"
+        },
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "countertenor"
+        }
+      ]
+    },
+    {
+      "id": "12701390-aa76-4f6d-8617-061eae8be822",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alfred Scholz",
+      "sort-name": "Scholz, Alfred",
+      "gender": "male",
+      "begin-area": {
+        "id": "a25f6136-1cac-433b-89c8-d3713d8d1062",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Broumov",
+        "sort-name": "Broumov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000109209108"
+      ],
+      "life-span": {
+        "begin": "1920-02-11",
+        "end": "1999-08-11",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Alfred Schultz",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alfred Schultz",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alfred Scholtz",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alfred Scholtz",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Michalski, Carl",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Carl Michalski",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Falk, Peter",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Peter Falk",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kantschieder, Paul",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Paul Kantschieder",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Mayer, Otto",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Otto Mayer",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "A. Scholz",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "A. Scholz",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alfred Schulz",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alfred Schulz",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alfred Sholz",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Alfred Sholz",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 4,
+          "name": "alfred scholz"
+        },
+        {
+          "count": 1,
+          "name": "many names"
+        }
+      ]
+    },
+    {
+      "id": "c063351f-8877-415f-b4bd-c65f60cedb66",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alfred Cortot",
+      "sort-name": "Cortot, Alfred",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "070fc0ca-fec0-4eb2-918b-23be8d6e2828",
+        "type": "Municipality",
+        "type-id": "17246454-5ac4-36a1-b81a-4753eb2dab20",
+        "name": "Nyon",
+        "sort-name": "Nyon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "33f49521-f754-43cf-8d7a-d9e336fe56e6",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lausanne",
+        "sort-name": "Lausanne",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French pianist",
+      "isnis": [
+        "0000000110261456"
+      ],
+      "life-span": {
+        "begin": "1877-09-26",
+        "end": "1962-06-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Cortot",
+          "name": "Cortot",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "european"
+        },
+        {
+          "count": 1,
+          "name": "swiss"
+        },
+        {
+          "count": 2,
+          "name": "pianist"
+        },
+        {
+          "count": 1,
+          "name": "french pianist"
+        },
+        {
+          "count": 1,
+          "name": "classical"
+        }
+      ]
+    },
+    {
+      "id": "7e09c2dd-b222-4f24-b363-3a05a577dfc1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "081c0bf5-da60-37b0-95f8-2207a3f7f9d6",
+      "name": "Alfred.",
+      "sort-name": "Alfred.",
+      "gender": "other",
+      "area": {
+        "id": "e6f61207-8423-40bf-87dd-f0805bf545d2",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Woodbridge",
+        "sort-name": "Woodbridge",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "318f6599-48b6-4dfe-9e9a-23adcdc18a1a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Ирина Шнитке",
+      "sort-name": "Schnittke, Irina",
+      "gender": "female",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "808e1ef8-5390-4300-a615-c4df977cc349",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sankt-Peterburg",
+        "sort-name": "Sankt-Peterburg",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Russian/German pianist",
+      "isnis": [
+        "0000000055156644"
+      ],
+      "life-span": {
+        "begin": "1940-11-14",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Шнитке, Ирина",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ирина Шнитке",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Шнитке, Ирина Фёдоровна",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Ирина Фёдоровна Шнитке",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schnittke, Irina",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Irina Schnittke",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Schnittke, Irina Fiodorovna",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Irina Fiodorovna Schnittke",
+          "locale": "en",
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    }
+  ]
+}

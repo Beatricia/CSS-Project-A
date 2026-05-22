@@ -1,0 +1,350 @@
+{
+  "created": "2026-05-22T17:24:15.840Z",
+  "count": 1561,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8abbbcc2-bc04-4720-8bb2-806ac8025962",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Asher Fisch",
+      "sort-name": "Fisch, Asher",
+      "gender": "male",
+      "country": "IL",
+      "area": {
+        "id": "03691455-bb46-37e3-91d2-cb064a35ffcc",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Israel",
+        "sort-name": "Israel",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "08a08584-b3a5-473a-b52e-00f5fd9b0649",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Jerusalem",
+        "sort-name": "Jerusalem",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1958-05-19",
+        "ended": null
+      }
+    },
+    {
+      "id": "8bee3098-9d1c-42b6-a13e-b9100c86c03c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "James Asher",
+      "sort-name": "Asher, James",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00046935948"
+      ],
+      "isnis": [
+        "0000000055142330"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "production music"
+        }
+      ]
+    },
+    {
+      "id": "1c261a9b-b225-47ba-b91b-d5787c6b16c1",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Fisch",
+      "sort-name": "Fisch",
+      "gender": "male",
+      "area": {
+        "id": "373183af-56db-44d7-b06a-5877c02c5f01",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Colorado",
+        "sort-name": "Colorado",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "visual artist, aka “derFisch”",
+      "life-span": {
+        "begin": "1995-09-11",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Fisch",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Fisch",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Fisch",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Fisch",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "derFisch",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "derFisch",
+          "locale": "de",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "74636900-2ba6-41e3-8ef8-a7b73112ac3b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 43,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Asher",
+      "sort-name": "Asher",
+      "gender": "male",
+      "area": {
+        "id": "06d8140e-9b63-45e0-b4a6-5aa563386f86",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Somerville",
+        "sort-name": "Somerville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "electronic artist Asher Thal-Nir",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tuil, Asher",
+          "name": "Asher Tuil",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Thal-Nir, Asher",
+          "name": "Asher Thal-Nir",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "77586a64-e1cf-4d23-a81c-b26680cd92b3",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 42,
+      "name": "ONKeL fISCH",
+      "sort-name": "ONKeL fISCH",
+      "country": "DE",
+      "area": {
+        "id": "85752fda-13c4-31a3-bee5-0e5cb1f51dad",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Germany",
+        "sort-name": "Germany",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "534ce93a-7d4c-4f6c-89b3-6701ca0415ae",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Martin Fischer",
+      "sort-name": "Fischer, Martin",
+      "gender": "male",
+      "country": "CH",
+      "area": {
+        "id": "1333ff06-8e3d-3c8e-9f3a-13a2a38b41df",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Switzerland",
+        "sort-name": "Switzerland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Swiss drummer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Fisch",
+          "name": "Fisch",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "03a2b174-5c13-4cfb-abe0-c207de93368c",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 39,
+      "name": "Asher",
+      "sort-name": "Asher",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Melodic Heavy Metal Band from Canada",
+      "life-span": {
+        "begin": "2005",
+        "end": "2009",
+        "ended": true
+      }
+    },
+    {
+      "id": "fe1ae0b3-cefe-4253-a154-2eebb17ca9bd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "name": "Asher",
+      "sort-name": "Asher",
+      "disambiguation": "Bassline artist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "43a54d83-3b35-4767-ab49-a7424b88d414",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 39,
+      "name": "Toter Fisch",
+      "sort-name": "Toter Fisch",
+      "area": {
+        "id": "dea069af-67b5-422c-a19a-a6915b9fe592",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tours",
+        "sort-name": "Tours",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "dea069af-67b5-422c-a19a-a6915b9fe592",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Tours",
+        "sort-name": "Tours",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French Pirate/Folk Metal Band",
+      "life-span": {
+        "begin": "2014-07-14",
+        "ended": null
+      }
+    },
+    {
+      "id": "ac6455d0-89c3-48a1-ac04-2f66f8e1a217",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roland Fisch",
+      "sort-name": "Fisch, Roland",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

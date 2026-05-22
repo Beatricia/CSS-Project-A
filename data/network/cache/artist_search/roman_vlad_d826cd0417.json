@@ -1,0 +1,385 @@
+{
+  "created": "2026-05-22T16:49:04.027Z",
+  "count": 4751,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "076682b0-e1bf-43eb-9bad-79f831712e5e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Roman Vlad",
+      "sort-name": "Vlad, Roman",
+      "gender": "male",
+      "country": "RO",
+      "area": {
+        "id": "61ed84b8-5a10-30a7-8376-ccd51801d6d1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Romania",
+        "sort-name": "Romania",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6a4bae17-16cc-4bde-ae79-064eddd42d6d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Chernivtsi",
+        "sort-name": "Chernivtsi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dccd77b2-bd3d-49eb-a98f-fd58e87f481e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Roma",
+        "sort-name": "Roma",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000110331995"
+      ],
+      "life-span": {
+        "begin": "1919-12-29",
+        "end": "2013-09-21",
+        "ended": true
+      }
+    },
+    {
+      "id": "c21db200-1f7c-4c23-b518-cf7fac6b8e85",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 49,
+      "name": "Blut aus Nord",
+      "sort-name": "Blut aus Nord",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a72f82e8-bd2f-4b2b-9b9d-05d178fc19a1",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Mondeville",
+        "sort-name": "Mondeville",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French black metal",
+      "isnis": [
+        "0000000470312659"
+      ],
+      "life-span": {
+        "begin": "1994",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Vlad",
+          "name": "Vlad",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "dark ambient"
+        },
+        {
+          "count": 1,
+          "name": "ambient black metal"
+        },
+        {
+          "count": 3,
+          "name": "atmospheric black metal"
+        },
+        {
+          "count": 8,
+          "name": "black metal"
+        },
+        {
+          "count": 3,
+          "name": "industrial metal"
+        },
+        {
+          "count": 1,
+          "name": "dissonant black metal"
+        },
+        {
+          "count": 1,
+          "name": "avant-garde metal"
+        },
+        {
+          "count": 1,
+          "name": "industrial/black-metal / avantgarde"
+        }
+      ]
+    },
+    {
+      "id": "9f01400c-aa78-437d-9af4-a1a66705e59c",
+      "score": 48,
+      "name": "V.L.A.D.",
+      "sort-name": "V.L.A.D.",
+      "disambiguation": "IDM producer",
+      "life-span": {
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "warp"
+        },
+        {
+          "count": 1,
+          "name": "french"
+        },
+        {
+          "count": 1,
+          "name": "european"
+        }
+      ]
+    },
+    {
+      "id": "fa7d21c3-14e0-446f-9dd5-c1e30dd0f670",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 47,
+      "name": "Vlad Tepes",
+      "sort-name": "Vlad Tepes",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "55f61093-4e56-4951-97d2-c6ded8710a06",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Brest",
+        "sort-name": "Brest",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French black metal band",
+      "life-span": {
+        "begin": "1992",
+        "end": "1998",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 4,
+          "name": "black metal"
+        },
+        {
+          "count": 1,
+          "name": "raw black metal"
+        },
+        {
+          "count": 2,
+          "name": "les légions noires"
+        }
+      ]
+    },
+    {
+      "id": "4770d24d-ce42-47de-9703-6a62845f7fef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 47,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vlad Necromaniac",
+      "sort-name": "Vlad Necromaniac",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "6420e330-d359-4ec3-9a9a-1892a6141192",
+        "type": "Subdivision",
+        "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+        "name": "Chomutov",
+        "sort-name": "Chomutov",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Vladimír Dědek",
+      "life-span": {
+        "begin": "1996-11-16",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Dědek, Vladimír",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Vladimír Dědek",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "14ba422e-1b51-4086-b1ed-e560af2aecb1",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Vlad",
+      "sort-name": "Vlad",
+      "disambiguation": "Argentinian metal",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "f6fa3e25-6611-46bd-aee1-690df5d0eb8f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Vlad",
+      "sort-name": "Vlad",
+      "gender": "male",
+      "country": "XE",
+      "area": {
+        "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+        "name": "Europe",
+        "sort-name": "Europe",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "89a675c2-3e37-3518-b83c-418bad59a85a",
+        "name": "Europe",
+        "sort-name": "Europe",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "French Rapper",
+      "life-span": {
+        "begin": "1996-01-01",
+        "ended": null
+      }
+    },
+    {
+      "id": "2dd65265-4a56-4e88-bc1e-5aeaa46ae941",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 46,
+      "name": "Vlad",
+      "sort-name": "Vlad",
+      "country": "PE",
+      "area": {
+        "id": "719f6082-95c7-3dd5-9503-e143010a6cc1",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Peru",
+        "sort-name": "Peru",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "927c394e-4c75-46d7-980f-cd7a6af2ca33",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Lima",
+        "sort-name": "Lima",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Peruvian Black/Death Metal",
+      "life-span": {
+        "begin": "2004",
+        "ended": null
+      }
+    },
+    {
+      "id": "d3debc9e-e3d8-448f-9614-7eac09b5bece",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "name": "Vlad",
+      "sort-name": "Vlad",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "UK breakbeat artist",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Sokolov, Vladimir",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Vladimir Sokolov",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "29c86d67-0025-4807-be18-3773131c157e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 46,
+      "name": "Vlad",
+      "sort-name": "Vlad",
+      "disambiguation": "battle rapper on Soundcloud",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

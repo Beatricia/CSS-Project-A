@@ -1,0 +1,80 @@
+{
+  "created": "2026-05-22T16:58:01.667Z",
+  "count": 3,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "e9b5dde9-6750-4f22-a543-681255475f88",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Liudmyla Monastyrska",
+      "sort-name": "Monastyrska, Liudmyla",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "soprano",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "779822df-37f5-4ba5-b508-09c264be96c9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Людмила Артеменко",
+      "sort-name": "Artemenko, Liudmyla",
+      "gender": "female",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1949-12-24",
+        "ended": null
+      }
+    },
+    {
+      "id": "d3c73d3a-2041-4fff-b353-39290ac1f91f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 29,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Людмила Александрова",
+      "sort-name": "Aleksandrova, Liudmyla",
+      "gender": "female",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

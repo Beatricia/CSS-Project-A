@@ -1,0 +1,509 @@
+{
+  "created": "2026-05-22T17:12:04.051Z",
+  "count": 535,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "bcf7d704-9468-43b4-a157-7603665bb4bc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Дмитрий Маликов",
+      "sort-name": "Malikov, Dmitry",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000045331867"
+      ],
+      "life-span": {
+        "begin": "1970-01-29",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Маликов, Дмитрий",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Дмитрий Маликов",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Дмитрий Юрьевич Маликов",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Дмитрий Юрьевич Маликов",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "singer"
+        },
+        {
+          "count": 1,
+          "name": "piano"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "europop"
+        },
+        {
+          "count": 1,
+          "name": "record producer"
+        }
+      ]
+    },
+    {
+      "id": "7cd95d94-cfe6-49ba-ba25-bdba98de272a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arif Malikov",
+      "sort-name": "Malikov, Arif",
+      "gender": "male",
+      "country": "AZ",
+      "area": {
+        "id": "b211ad01-2f7d-32e9-80ed-cfd6c9eb6845",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Azerbaijan",
+        "sort-name": "Azerbaijan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "aa1bf92c-0274-4a39-91d4-a450f2f5a54a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bakı",
+        "sort-name": "Bakı",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "aa1bf92c-0274-4a39-91d4-a450f2f5a54a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bakı",
+        "sort-name": "Bakı",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Azerbaijani composer, 1933-2019",
+      "isnis": [
+        "0000000081834138"
+      ],
+      "life-span": {
+        "begin": "1933-09-13",
+        "end": "2019-05-09",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Arif Cahangir oğlu Məlikov",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Arif Cahangir oğlu Məlikov",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Меликов, Ариф",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ариф Меликов",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Melikov, Arif",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Arif Melikov",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "c4821d19-e8d9-444d-b518-b51c89daca09",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 76,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Oleg Malikov",
+      "sort-name": "Malikov, Oleg",
+      "gender": "male",
+      "country": "RU",
+      "area": {
+        "id": "1f1fc3a4-9500-39b8-9f10-f0a465557eef",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Russia",
+        "sort-name": "Russia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "15c5b88a-e1eb-46ca-9bdd-981a9568d373",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kemerovo",
+        "sort-name": "Kemerovo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "baritone",
+      "life-span": {
+        "begin": "1961",
+        "ended": null
+      }
+    },
+    {
+      "id": "d1da7e23-38cb-4c40-b334-15bf3eabba3f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 71,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Arif Məlikov",
+      "sort-name": "Məlikov, Arif",
+      "gender": "male",
+      "country": "AZ",
+      "area": {
+        "id": "b211ad01-2f7d-32e9-80ed-cfd6c9eb6845",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Azerbaijan",
+        "sort-name": "Azerbaijan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "aa1bf92c-0274-4a39-91d4-a450f2f5a54a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bakı",
+        "sort-name": "Bakı",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "aa1bf92c-0274-4a39-91d4-a450f2f5a54a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Bakı",
+        "sort-name": "Bakı",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000081834138"
+      ],
+      "life-span": {
+        "begin": "1933-09-13",
+        "end": "2019-05-09",
+        "ended": true
+      }
+    },
+    {
+      "id": "e67d0b3a-d01f-4525-a951-85b00a2996e2",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 68,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kubanychbek Imanalievich Malikov",
+      "sort-name": "Malikov, Kubanychbek Imanalievich",
+      "gender": "male",
+      "country": "KG",
+      "area": {
+        "id": "188b4a6b-a4d8-3864-ba46-8446c7b658b4",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Kyrgyzstan",
+        "sort-name": "Kyrgyzstan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1911-09-16",
+        "end": "1978",
+        "ended": true
+      }
+    },
+    {
+      "id": "18c0e7f9-673a-41ea-8de2-a9ae560a54e7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 67,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dmitry Zhdanov",
+      "sort-name": "Zhdanov, Dmitry",
+      "gender": "male",
+      "disambiguation": "production music",
+      "ipis": [
+        "00369378113"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Жданов, Дмитрий",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Дмитрий Жданов",
+          "locale": "ru",
+          "type": "Legal name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Movediz",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Movediz",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "f8392f0a-99c9-4045-ac18-dfa4ca3927fc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Howtodie",
+      "sort-name": "Howtodie",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2001-09-23",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Voloshin, Dmitry",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Dmitry Voloshin",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Voloshyn, Dmitry",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Dmitry Voloshyn",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 0,
+          "name": "downtempo"
+        },
+        {
+          "count": 2,
+          "name": "instrumental"
+        },
+        {
+          "count": 0,
+          "name": "hip hop"
+        },
+        {
+          "count": 1,
+          "name": "lo-fi"
+        },
+        {
+          "count": 2,
+          "name": "boom bap"
+        },
+        {
+          "count": 0,
+          "name": "chillwave"
+        },
+        {
+          "count": 1,
+          "name": "instrumental hip hop"
+        },
+        {
+          "count": 1,
+          "name": "jazzhop"
+        },
+        {
+          "count": 2,
+          "name": "lo-fi hip hop"
+        }
+      ]
+    },
+    {
+      "id": "cd4000c2-b0f1-4c4f-9633-c623f429099d",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 66,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dmitry Evgrafov",
+      "sort-name": "Evgrafov, Dmitry",
+      "gender": "male",
+      "area": {
+        "id": "f310740c-ad62-48c0-839b-e86581b9f464",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Moscow",
+        "sort-name": "Moscow",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00844240844"
+      ],
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "72b250bb-d274-4ed9-945a-fcbf0ac2e1ef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Dmitry Paperno",
+      "sort-name": "Paperno, Dmitry",
+      "gender": "male",
+      "country": "UA",
+      "area": {
+        "id": "904768d0-61ca-3c40-93ac-93adc36fef4b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Ukraine",
+        "sort-name": "Ukraine",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "51c526a4-ed34-4eaf-94cf-0b96cd019d47",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kyïv",
+        "sort-name": "Kyïv",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "ab0eff04-325d-4afb-87dc-03e4c9e79280",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Northbrook",
+        "sort-name": "Northbrook",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "pianist",
+      "isnis": [
+        "0000000081475171"
+      ],
+      "life-span": {
+        "begin": "1929-02-18",
+        "end": "2020-10-12",
+        "ended": true
+      }
+    },
+    {
+      "id": "cbdffa35-043a-40e6-bff0-d14c15dbcb58",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 65,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Анжело Маликов",
+      "sort-name": "Malikov, Angelo",
+      "gender": "male",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

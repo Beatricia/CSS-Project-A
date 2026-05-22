@@ -1,0 +1,1443 @@
+{
+  "created": "2026-05-22T17:08:32.644Z",
+  "count": 31928,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "0d833cff-1f5c-4684-8a4b-200bd96f814a",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "John Kay",
+      "sort-name": "Kay, John",
+      "gender": "male",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "949f0279-b9e0-4b38-8b07-4f9b28b7eccb",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Sovetsk",
+        "sort-name": "Sovetsk",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "lead singer of Steppenwolf",
+      "ipis": [
+        "00126775458"
+      ],
+      "isnis": [
+        "0000000073570849"
+      ],
+      "life-span": {
+        "begin": "1944-04-12",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Krauledat, Joachim Fritz",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Joachim Fritz Krauledat",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 3,
+          "name": "rock"
+        },
+        {
+          "count": 1,
+          "name": "heavy metal"
+        },
+        {
+          "count": 1,
+          "name": "folk"
+        },
+        {
+          "count": 2,
+          "name": "blues"
+        },
+        {
+          "count": 1,
+          "name": "psychedelic rock"
+        }
+      ]
+    },
+    {
+      "id": "1a75598e-2d92-48ea-accc-57a40a9ff53b",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 92,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "John Kay",
+      "sort-name": "Kay, John",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "bassist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "c6b86e5b-fc0a-4ac9-9b6e-962fc27b3516",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Peter Kay",
+      "sort-name": "Kay, Peter",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0f8fead9-1d10-4f44-889a-52897f99ad0a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Farnworth",
+        "sort-name": "Farnworth",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000092471766"
+      ],
+      "life-span": {
+        "begin": "1973-07-02",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Kay, Peter John",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Peter John Kay",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "british"
+        },
+        {
+          "count": 2,
+          "name": "uk"
+        },
+        {
+          "count": 2,
+          "name": "english"
+        },
+        {
+          "count": 2,
+          "name": "fat northerner"
+        }
+      ]
+    },
+    {
+      "id": "12ff8858-bfcb-4812-a8dd-7e9debf0cbee",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 84,
+      "name": "Steppenwolf",
+      "sort-name": "Steppenwolf",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000123590208"
+      ],
+      "life-span": {
+        "begin": "1961",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "John Kay & Steppenwolf",
+          "name": "John Kay & Steppenwolf",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Steppenvolf",
+          "name": "Steppenvolf",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 7,
+          "name": "rock"
+        },
+        {
+          "count": 9,
+          "name": "hard rock"
+        },
+        {
+          "count": 5,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 5,
+          "name": "blues rock"
+        },
+        {
+          "count": 3,
+          "name": "classic rock"
+        },
+        {
+          "count": 1,
+          "name": "garage rock"
+        },
+        {
+          "count": 1,
+          "name": "acid rock"
+        },
+        {
+          "count": 0,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        },
+        {
+          "count": 1,
+          "name": "estados unidos"
+        }
+      ]
+    },
+    {
+      "id": "44dcc713-545b-4f1e-ae93-45b2342d84a7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 80,
+      "name": "Sidney John Kay",
+      "sort-name": "Kay, Sidney John",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e9376e91-b79c-421f-9903-f274b553a6d9",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 71,
+      "name": "The Sparrow",
+      "sort-name": "Sparrow, The",
+      "country": "CA",
+      "area": {
+        "id": "71bbafaa-e825-3e15-8ca9-017dcad1748b",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Canada",
+        "sort-name": "Canada",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "573f35c7-34e8-40bd-94f8-87f99b9aee1e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Waterloo",
+        "sort-name": "Waterloo",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "74b24e62-d2fe-42d2-9d96-31f2da756c77",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Toronto",
+        "sort-name": "Toronto",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "60s Canadian 'blues-rock' band, evolved into Steppenwolf",
+      "life-span": {
+        "begin": "1964",
+        "end": "1967",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "The Sparrows",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "The Sparrows",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": "1966"
+        },
+        {
+          "sort-name": "Kay, John & Sparrow, The",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "John Kay & The Sparrow",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "John Kay and The Sparrow",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "John Kay and The Sparrow",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "psychedelic rock"
+        },
+        {
+          "count": 1,
+          "name": "garage rock"
+        },
+        {
+          "count": 1,
+          "name": "blues rock"
+        }
+      ]
+    },
+    {
+      "id": "53b106e7-0cc6-42cc-ac95-ed8d30a3a98e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 61,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "John Williams",
+      "sort-name": "Williams, John",
+      "gender": "male",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e0975da0-78e8-441a-b737-e2104773cb7a",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Flushing",
+        "sort-name": "Flushing",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "American score composer",
+      "ipis": [
+        "00032981579"
+      ],
+      "isnis": [
+        "0000000123479198"
+      ],
+      "life-span": {
+        "begin": "1932-02-08",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Towner",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Towner",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Williams, John",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "John Williams",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "John Towner",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "John Towner",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Williams",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Williams",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "John Willams",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "John Willams",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Williams, Johnny",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Johnny Williams",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "John T. Williams",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "John T. Williams",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "John William",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "John William",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ジョン ウィリアムズ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "ジョン ウィリアムズ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ジョン・ウィリアムズ",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "ジョン・ウィリアムズ",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J. Williams",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "J. Williams",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Jhon Williams",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Jhon Williams",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "John Wiliams",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "John Wiliams",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Towner Williams, John",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "John Towner Williams",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1932-02-08",
+          "end-date": null
+        },
+        {
+          "sort-name": "Towner Williams",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Towner Williams",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "John Williems",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "John Williems",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 12,
+          "name": "soundtrack"
+        },
+        {
+          "count": 8,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "jazz"
+        },
+        {
+          "count": 1,
+          "name": "american"
+        },
+        {
+          "count": 4,
+          "name": "orchestral"
+        },
+        {
+          "count": 1,
+          "name": "game"
+        },
+        {
+          "count": 3,
+          "name": "conductor"
+        },
+        {
+          "count": 1,
+          "name": "video game"
+        },
+        {
+          "count": 3,
+          "name": "score"
+        },
+        {
+          "count": 1,
+          "name": "pianist"
+        },
+        {
+          "count": 5,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "film score"
+        },
+        {
+          "count": 2,
+          "name": "contemporary classical"
+        },
+        {
+          "count": 1,
+          "name": "film"
+        },
+        {
+          "count": 1,
+          "name": "vgm"
+        },
+        {
+          "count": 1,
+          "name": "american composer"
+        },
+        {
+          "count": 1,
+          "name": "film soundtrack"
+        },
+        {
+          "count": 1,
+          "name": "easy listening soundtracks and musicals"
+        },
+        {
+          "count": 4,
+          "name": "film composer"
+        },
+        {
+          "count": 1,
+          "name": "soundtracks"
+        },
+        {
+          "count": 2,
+          "name": "modern classical"
+        },
+        {
+          "count": 1,
+          "name": "star wars"
+        },
+        {
+          "count": 1,
+          "name": "grammy winner"
+        },
+        {
+          "count": 1,
+          "name": "saga"
+        },
+        {
+          "count": 1,
+          "name": "suboptimal credits"
+        },
+        {
+          "count": 1,
+          "name": "academy award winner"
+        },
+        {
+          "count": 1,
+          "name": "western classical"
+        },
+        {
+          "count": 1,
+          "name": "server name"
+        },
+        {
+          "count": 1,
+          "name": "cinematic classical"
+        },
+        {
+          "count": 1,
+          "name": "2008 universal fire victim"
+        }
+      ]
+    },
+    {
+      "id": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 60,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Elton John",
+      "sort-name": "John, Elton",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "a4ae8fa8-2332-49b6-b374-41a2dbfa9224",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Pinner",
+        "sort-name": "Pinner",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English singer, songwriter, pianist, and composer",
+      "ipis": [
+        "00042308022"
+      ],
+      "isnis": [
+        "0000000109201181",
+        "0000000368558134"
+      ],
+      "life-span": {
+        "begin": "1947-03-25",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Reg Dwight",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Reg Dwight",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "John, Elton",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "John, Elton",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "E. John",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "E. John",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elthon John",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Elthon John",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "John, Elton Hercules",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Elton Hercules John",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1972-01-07",
+          "end-date": null
+        },
+        {
+          "sort-name": "Džonas, Eltonas",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Eltonas Džonas",
+          "locale": "lt",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Džonas, Seras Eltonas",
+          "name": "Seras Eltonas Džonas",
+          "locale": "lt",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dwight, Reginald Kenneth",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Reginald Kenneth Dwight",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1947-03-25",
+          "end-date": "1972-01-07"
+        },
+        {
+          "sort-name": "エルトン・ジョン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "エルトン・ジョン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dwight, Reginald",
+          "name": "Reginald Dwight",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Orson, Ann",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Ann Orson",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sir Elton John",
+          "name": "Sir Elton John",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Elton Jphn",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "Elton Jphn",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Sir Elton Hercules John",
+          "name": "Sir Elton Hercules John",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "John Elton",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "John Elton",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 7,
+          "name": "rock"
+        },
+        {
+          "count": 14,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "dance"
+        },
+        {
+          "count": 1,
+          "name": "house"
+        },
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 3,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 1,
+          "name": "hip hop"
+        },
+        {
+          "count": 0,
+          "name": "uk"
+        },
+        {
+          "count": 1,
+          "name": "country"
+        },
+        {
+          "count": 0,
+          "name": "glam rock"
+        },
+        {
+          "count": 2,
+          "name": "classic rock"
+        },
+        {
+          "count": 1,
+          "name": "album rock"
+        },
+        {
+          "count": 4,
+          "name": "soft rock"
+        },
+        {
+          "count": 4,
+          "name": "adult contemporary"
+        },
+        {
+          "count": 10,
+          "name": "pop rock"
+        },
+        {
+          "count": 4,
+          "name": "rock and roll"
+        },
+        {
+          "count": 9,
+          "name": "piano rock"
+        },
+        {
+          "count": 1,
+          "name": "film score"
+        },
+        {
+          "count": 0,
+          "name": "english"
+        },
+        {
+          "count": -1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": -1,
+          "name": "elton-john"
+        },
+        {
+          "count": 1,
+          "name": "am pop"
+        },
+        {
+          "count": 1,
+          "name": "r&b"
+        },
+        {
+          "count": 2,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 0,
+          "name": "pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "contemporary pop/rock"
+        },
+        {
+          "count": 1,
+          "name": "show/musical"
+        },
+        {
+          "count": -1,
+          "name": "barcode:0602507159085"
+        },
+        {
+          "count": 0,
+          "name": "2008 universal fire victim"
+        },
+        {
+          "count": 1,
+          "name": "greatest hits 1970–2002"
+        }
+      ]
+    },
+    {
+      "id": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 59,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "John Lennon",
+      "sort-name": "Lennon, John",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "c249c30e-88ab-4b2f-a745-96a25bd7afee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Liverpool",
+        "sort-name": "Liverpool",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "aaef6ccc-52fb-4add-ae99-aded66a0b170",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Upper West Side",
+        "sort-name": "Upper West Side",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "The Beatles",
+      "ipis": [
+        "00017798450",
+        "00273545259"
+      ],
+      "isnis": [
+        "0000000121174585"
+      ],
+      "life-span": {
+        "begin": "1940-10-09",
+        "end": "1980-12-08",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Leg-Thigh, Winston",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Winston Leg-Thigh",
+          "locale": null,
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": "1968-12-11",
+          "end-date": "1968-12-11"
+        },
+        {
+          "sort-name": "Lennon, John Winston",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "John Winston Lennon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1940-09-09",
+          "end-date": "1969-04-22"
+        },
+        {
+          "sort-name": "Леннон, Джон",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Джон Леннон",
+          "locale": "ru",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lenons, Dž.",
+          "name": "Dž.Lenons",
+          "locale": "lv",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Booker Table and The Maitre D's",
+          "name": "Booker Table and The Maitre D's",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lennon",
+          "name": "Lennon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Джон",
+          "name": "Джон",
+          "locale": "ru",
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Torment, Mel",
+          "name": "Mel Torment",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dwarf McDougal",
+          "name": "Dwarf McDougal",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "J. Lennon",
+          "name": "J. Lennon",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dad",
+          "name": "Dad",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ono Lennon, John Winston",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "John Winston Ono Lennon",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1969-04-22",
+          "end-date": null
+        },
+        {
+          "sort-name": "Dr. Dream",
+          "name": "Dr. Dream",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "John O'Cean",
+          "name": "John O'Cean",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Hon. John St. John Johnson",
+          "name": "Hon. John St. John Johnson",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Dr. Winston O'Boogie",
+          "name": "Dr. Winston O'Boogie",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lhennj Ono",
+          "name": "Lhennj Ono",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Joel Nohnn",
+          "name": "Joel Nohnn",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Kaptain Kundalini",
+          "name": "Kaptain Kundalini",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Ghurkin, Rev. Fred",
+          "name": "Rev. Fred Ghurkin",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Musketeer Gripweed & The Third Troop",
+          "name": "Musketeer Gripweed & The Third Troop",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "ジョン・レノン",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "ジョン・レノン",
+          "locale": "ja",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Lennon, John",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "John Lennon",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 10,
+          "name": "rock"
+        },
+        {
+          "count": 7,
+          "name": "pop"
+        },
+        {
+          "count": 0,
+          "name": "folk"
+        },
+        {
+          "count": 6,
+          "name": "experimental"
+        },
+        {
+          "count": 4,
+          "name": "british"
+        },
+        {
+          "count": 4,
+          "name": "singer-songwriter"
+        },
+        {
+          "count": 2,
+          "name": "uk"
+        },
+        {
+          "count": -1,
+          "name": "britannique"
+        },
+        {
+          "count": 2,
+          "name": "classic rock"
+        },
+        {
+          "count": 2,
+          "name": "pop rock"
+        },
+        {
+          "count": 1,
+          "name": "rock and roll"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 0,
+          "name": "united kingdom"
+        },
+        {
+          "count": -1,
+          "name": "classic pop and rock"
+        },
+        {
+          "count": 2,
+          "name": "peace"
+        },
+        {
+          "count": 1,
+          "name": "death by murder"
+        },
+        {
+          "count": 0,
+          "name": "death by gun"
+        },
+        {
+          "count": 0,
+          "name": "singer/songwriter"
+        },
+        {
+          "count": 1,
+          "name": "rock & roll"
+        },
+        {
+          "count": -2,
+          "name": "wifebeater"
+        },
+        {
+          "count": 0,
+          "name": "murdered"
+        },
+        {
+          "count": 0,
+          "name": "aln-sh"
+        }
+      ]
+    },
+    {
+      "id": "fad46635-5d90-484e-bcf9-5a8e3c1f8830",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 58,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Stephen Fry",
+      "sort-name": "Fry, Stephen",
+      "gender": "male",
+      "country": "GB",
+      "area": {
+        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United Kingdom",
+        "sort-name": "United Kingdom",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "b0b860b3-35d3-414b-b734-7e5b1c41ea70",
+        "type": "District",
+        "type-id": "84039871-5e47-38ca-a66a-45e512c8290f",
+        "name": "Hampstead",
+        "sort-name": "Hampstead",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "English comedian, actor, writer, presenter & activist",
+      "isnis": [
+        "000000012129064X"
+      ],
+      "life-span": {
+        "begin": "1957-08-24",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Fry, Stephen John",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Stephen John Fry",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "british"
+        },
+        {
+          "count": 1,
+          "name": "english"
+        },
+        {
+          "count": 1,
+          "name": "non-musician"
+        },
+        {
+          "count": 2,
+          "name": "uk"
+        }
+      ]
+    }
+  ]
+}

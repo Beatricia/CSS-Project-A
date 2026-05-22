@@ -1,0 +1,380 @@
+{
+  "created": "2026-05-22T17:24:42.619Z",
+  "count": 13430,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "976a4de9-7fa6-44d0-b620-2c0a81937700",
+      "score": 100,
+      "name": "Bat Watcher",
+      "sort-name": "Bat Watcher",
+      "disambiguation": "wall noise",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "9219e71c-f4de-4063-9437-f5cf6e144efc",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 87,
+      "name": "BAT",
+      "sort-name": "BAT",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "afaa40c1-2e11-4a9b-9a33-ff0603e3e312",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Richmond",
+        "sort-name": "Richmond",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Heavy/Speed Metal",
+      "life-span": {
+        "begin": "2013",
+        "ended": null
+      }
+    },
+    {
+      "id": "661bc239-2345-46f0-85dc-c204e84d0aec",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "name": "Bat Bat",
+      "sort-name": "Bat Bat",
+      "disambiguation": "French guitarist and singer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Gomes, Baptiste",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Baptiste Gomes",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "1c8b16ba-4ebe-49be-ad23-f702945c0802",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 87,
+      "name": "Karl Casey",
+      "sort-name": "Casey, Karl",
+      "area": {
+        "id": "6ccc62d1-bdd8-4f08-8fae-bfaa5310e5ef",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Vancouver",
+        "sort-name": "Vancouver",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "royalty free music cyberpunk/industrial/dark synthwave",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "White bat",
+          "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+          "name": "White bat",
+          "locale": null,
+          "type": "Search hint",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "_add series"
+        },
+        {
+          "count": 1,
+          "name": "royalty free"
+        },
+        {
+          "count": 1,
+          "name": "cyberpunk"
+        },
+        {
+          "count": 1,
+          "name": "dark synthwave"
+        },
+        {
+          "count": 1,
+          "name": "synthwave"
+        },
+        {
+          "count": 1,
+          "name": "industrial"
+        }
+      ]
+    },
+    {
+      "id": "f7867df2-e78b-46e2-8dda-8ee977b6ad82",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 86,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michal Tučný",
+      "sort-name": "Tucny, Michal",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Czech country",
+      "life-span": {
+        "begin": "1947-01-11",
+        "end": "1995-03-10",
+        "ended": true
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "country"
+        }
+      ]
+    },
+    {
+      "id": "ccabc070-98e2-45ec-b5a2-57d177995cdd",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 84,
+      "name": "Bat!",
+      "sort-name": "Bat!",
+      "disambiguation": "Psychobilly supergroup",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "b87cf07c-d1bb-4348-b205-221edfe015fc",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "蝙蝠",
+      "sort-name": "Bat",
+      "gender": "male",
+      "country": "TW",
+      "area": {
+        "id": "41637cec-9a4f-389c-86d2-fc6abf3357b5",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Taiwan",
+        "sort-name": "Taiwan",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Beyond Cure",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "BAT",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "BAT",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "林庭楷",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "林庭楷",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "844fc2e9-cfb7-424c-a83b-5cf83efcf194",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 84,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Michal",
+      "sort-name": "Michal",
+      "gender": "female",
+      "country": "US",
+      "area": {
+        "id": "489ce91b-6658-3307-9877-795b68554c98",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "United States",
+        "sort-name": "United States",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "339ed589-3664-4741-99ab-b4d479b0a2b9",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ashkelon",
+        "sort-name": "Ashkelon",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Towber",
+      "life-span": {
+        "begin": "1980-08-30",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Towber, Michal",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Michal Towber",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": "1980-08-30",
+          "end-date": null
+        }
+      ]
+    },
+    {
+      "id": "b186aaf4-f3b9-4879-891c-297272bada9e",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michal",
+      "sort-name": "Michal",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "8440d5f3-6ff6-47cb-894e-9f9345c2dd74",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Gorzów Wielkopolski",
+        "sort-name": "Gorzów Wielkopolski",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Michał Kwiatkowski, Star Academy, France",
+      "life-span": {
+        "begin": "1983-11-12",
+        "ended": null
+      }
+    },
+    {
+      "id": "47cf828b-aa2a-4b22-91cd-8107053f72fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 83,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Michal David",
+      "sort-name": "David, Michal",
+      "gender": "male",
+      "country": "CZ",
+      "area": {
+        "id": "51d34c28-61bf-3d21-849f-7492672a9d44",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Czechia",
+        "sort-name": "Czechia",
+        "life-span": {
+          "begin": "1993-01-01",
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "0a65a727-7465-4e6c-8b15-ed4d09e021ee",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Praha",
+        "sort-name": "Praha",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00139218767"
+      ],
+      "isnis": [
+        "000000005736093X"
+      ],
+      "life-span": {
+        "begin": "1960-07-14",
+        "ended": null
+      },
+      "tags": [
+        {
+          "count": 1,
+          "name": "jazz"
+        }
+      ]
+    }
+  ]
+}

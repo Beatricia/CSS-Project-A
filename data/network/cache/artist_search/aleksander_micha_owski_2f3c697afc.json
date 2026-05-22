@@ -1,0 +1,409 @@
+{
+  "created": "2026-05-22T16:51:42.995Z",
+  "count": 258,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "8af15dfb-2d72-4578-9165-464bc1479874",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Aleksander Michałowski",
+      "sort-name": "Michałowski, Aleksander",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "e6d89e03-08e6-43dd-a796-dd3a5aaa1f41",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Kamianets-Podilskyi",
+        "sort-name": "Kamianets-Podilskyi",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "93c6bcf5-5336-48b5-a16b-39454458eb66",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Warsaw",
+        "sort-name": "Warsaw",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000109631683"
+      ],
+      "life-span": {
+        "begin": "1851-05-05",
+        "end": "1938-11-17",
+        "ended": true
+      }
+    },
+    {
+      "id": "d62e4bfd-825b-4e9e-bc14-74a38cb6d6ef",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 41,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Aleksandar Dimitrijevic",
+      "sort-name": "Dimitrijevic, Aleksandar",
+      "gender": "male",
+      "country": "NO",
+      "area": {
+        "id": "6743d351-6f37-3049-9724-5041161fff4d",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Norway",
+        "sort-name": "Norway",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "production music",
+      "ipis": [
+        "00555410465",
+        "00619910338"
+      ],
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Aleksander Dimitrijevic",
+          "name": "Aleksander Dimitrijevic",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "production music"
+        }
+      ]
+    },
+    {
+      "id": "de3be6af-7887-41db-b708-b3b1c0354ef6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Alexandre Tansman",
+      "sort-name": "Tansman, Alexandre",
+      "gender": "male",
+      "country": "FR",
+      "area": {
+        "id": "08310658-51eb-3801-80de-5a0739207115",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "France",
+        "sort-name": "France",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "71ce186a-285d-4c01-b863-6e46bf10e249",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Łódź",
+        "sort-name": "Łódź",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "end-area": {
+        "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Paris",
+        "sort-name": "Paris",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish-French composer",
+      "isnis": [
+        "0000000109145060"
+      ],
+      "life-span": {
+        "begin": "1897-06-12",
+        "end": "1986-11-15",
+        "ended": true
+      },
+      "aliases": [
+        {
+          "sort-name": "Tansman, Aleksander",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksander Tansman",
+          "locale": "pl",
+          "type": "Artist name",
+          "primary": true,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Tansman",
+          "name": "Alexander Tansman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Aleksandre Tansman",
+          "name": "Aleksandre Tansman",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "classical"
+        },
+        {
+          "count": 1,
+          "name": "composer"
+        },
+        {
+          "count": 1,
+          "name": "french composer"
+        },
+        {
+          "count": 1,
+          "name": "to clean up"
+        }
+      ]
+    },
+    {
+      "id": "59604057-0212-443f-9356-a99f994172a3",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 40,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Bartosz Michałowski",
+      "sort-name": "Michałowski, Bartosz",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Polish choir director",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e3643677-4c6e-43e3-97e8-6194371b1d2d",
+      "score": 40,
+      "name": "Piotr Michałowski",
+      "sort-name": "Piotr Michałowski",
+      "disambiguation": "ambient",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "197a1ffc-c8ed-49c4-99a3-d436681415fa",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Łukasz Michałowski",
+      "sort-name": "Michałowski, Łukasz",
+      "gender": "male",
+      "area": {
+        "id": "82c30c4b-2fff-4e51-94c6-5024cfb1528d",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Szczecin",
+        "sort-name": "Szczecin",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Vocalist",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "72522f57-3ad1-4a5e-81b3-fdcf3cb8e592",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Kornel Michałowski",
+      "sort-name": "Michałowski, Kornel",
+      "gender": "male",
+      "country": "PL",
+      "area": {
+        "id": "dd7f80c8-f017-3d01-8608-2a8c9c32b954",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Poland",
+        "sort-name": "Poland",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "a85bbe3a-07c7-41fb-a52c-0f531ad4dbe7",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Aleksander Mežek",
+      "sort-name": "Mežek, Aleksander",
+      "gender": "male",
+      "country": "SI",
+      "area": {
+        "id": "5b0b6225-584c-3942-b69d-5efceb9989af",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Slovenia",
+        "sort-name": "Slovenia",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d384ec5f-9831-4890-ac40-648a71aec054",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Ljubljana",
+        "sort-name": "Ljubljana",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00070166201",
+        "00122068313"
+      ],
+      "isnis": [
+        "0000000057536384"
+      ],
+      "life-span": {
+        "begin": "1948-11-18",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "John, Aleksander",
+          "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+          "name": "Aleksander John",
+          "locale": "en",
+          "type": "Artist name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        },
+        {
+          "sort-name": "Alexander Mezek",
+          "name": "Alexander Mezek",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "composer"
+        }
+      ]
+    },
+    {
+      "id": "0d067cca-e377-477a-9f3d-166babe1c6f6",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 39,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Aleksander",
+      "sort-name": "Aleksander",
+      "gender": "male",
+      "country": "DK",
+      "area": {
+        "id": "4757b525-2a60-324a-b060-578765d2c993",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Denmark",
+        "sort-name": "Denmark",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Aleksander Demsitz, Danish R&B singer",
+      "life-span": {
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Demsitz, Aleksander",
+          "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+          "name": "Aleksander Demsitz",
+          "locale": null,
+          "type": "Legal name",
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 1,
+          "name": "lgbtqia+"
+        }
+      ]
+    },
+    {
+      "id": "44d607bc-331c-4870-9d9d-3730a8f4046c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 38,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Aleksander",
+      "sort-name": "Aleksander",
+      "gender": "male",
+      "disambiguation": "techno",
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}
